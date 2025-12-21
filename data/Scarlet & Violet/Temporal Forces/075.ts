@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [742],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Cutiefly",
 		it: "Cutiefly",
 		pt: "Cutiefly",
-		de: "Wommel"
+		de: "Wommel",
 	},
 
 	rarity: "Common",
@@ -20,42 +20,48 @@ const card: Card = {
 	types: ["Psychic"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Colorless"],
+	attacks: [
+		{
+			cost: ["Colorless"],
 
-		name: {
-			en: "Mini Drain",
-			fr: "Mini-Assèchement",
-			es: "Minidrenaje",
-			it: "Miniassorbimento",
-			pt: "Minidreno",
-			de: "Minisauger"
+			name: {
+				en: "Mini Drain",
+				fr: "Mini-Assèchement",
+				es: "Minidrenaje",
+				it: "Miniassorbimento",
+				pt: "Minidreno",
+				de: "Minisauger",
+			},
+
+			effect: {
+				en: "Heal 10 damage from this Pokémon.",
+				fr: "Soignez 10 dégâts de ce Pokémon.",
+				es: "Cura 10 puntos de daño a este Pokémon.",
+				it: "Cura questo Pokémon da 10 danni.",
+				pt: "Cure 10 pontos de dano deste Pokémon.",
+				de: "Heile 10 Schadenspunkte bei diesem Pokémon.",
+			},
+
+			damage: 10,
 		},
-
-		effect: {
-			en: "Heal 10 damage from this Pokémon.",
-			fr: "Soignez 10 dégâts de ce Pokémon.",
-			es: "Cura 10 puntos de daño a este Pokémon.",
-			it: "Cura questo Pokémon da 10 danni.",
-			pt: "Cure 10 pontos de dano deste Pokémon.",
-			de: "Heile 10 Schadenspunkte bei diesem Pokémon."
-		},
-
-		damage: 10
-	}],
+	],
 
 	retreat: 1,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
-
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 	illustrator: "Sekio",
 
 	thirdParty: {
-		cardmarket: 760705
-	}
-}
+		cardmarket: 760705,
+	},
+};
 
-export default card
+export default card;

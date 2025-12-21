@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	set: Set,
@@ -10,7 +10,7 @@ const card: Card = {
 		es: "Selva Peligrosa",
 		it: "Giungla Pericolosa",
 		pt: "Selva Perigosa",
-		de: "Gefährlicher Dschungel"
+		de: "Gefährlicher Dschungel",
 	},
 
 	rarity: "Uncommon",
@@ -22,21 +22,31 @@ const card: Card = {
 		es: "Durante el Chequeo Pokémon, pon 2 contadores de daño más en cada uno de los Pokémon no {D} Envenenados (tanto tuyos como de tu rival).",
 		it: "Durante il controllo Pokémon, metti altri due segnalini danno su tutti i Pokémon avvelenati non di tipo {D}, sia tuoi che del tuo avversario.",
 		pt: "Durante o Checape Pokémon, coloque 2 contadores de dano a mais em cada Pokémon Envenenado que não seja de tipo {D} (seus e do seu oponente).",
-		de: "Lege beim Pokémon-Check 2 Schadensmarken mehr auf jedes vergiftete Pokémon (deine und die deines Gegners), das kein {D}-Pokémon ist."
+		de: "Lege beim Pokémon-Check 2 Schadensmarken mehr auf jedes vergiftete Pokémon (deine und die deines Gegners), das kein {D}-Pokémon ist.",
 	},
 
 	trainerType: "Stadium",
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+		{
+			type: "holo",
+			stamp: ["player-reward-program"],
+			foil: "cosmos",
+		},
+	],
 
 	illustrator: "AYUMI ODASHIMA",
 
 	thirdParty: {
-		cardmarket: 760786
-	}
-}
+		cardmarket: 760786,
+	},
+};
 
-export default card
+export default card;

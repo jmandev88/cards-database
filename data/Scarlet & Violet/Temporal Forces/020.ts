@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [946],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Bramblin",
 		it: "Bramblin",
 		pt: "Bramblin",
-		de: "Weherba"
+		de: "Weherba",
 	},
 
 	rarity: "Common",
@@ -20,33 +20,40 @@ const card: Card = {
 	types: ["Grass"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Colorless", "Colorless"],
+	attacks: [
+		{
+			cost: ["Colorless", "Colorless"],
 
-		name: {
-			en: "Spike Sting",
-			fr: "Pic Piquant",
-			es: "Picotazo Púas",
-			it: "Aculeopuntura",
-			pt: "Ferroada de Espinhos",
-			de: "Stachelstich"
+			name: {
+				en: "Spike Sting",
+				fr: "Pic Piquant",
+				es: "Picotazo Púas",
+				it: "Aculeopuntura",
+				pt: "Ferroada de Espinhos",
+				de: "Stachelstich",
+			},
+
+			damage: 30,
 		},
-
-		damage: 30
-	}],
+	],
 
 	retreat: 1,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "Tetsu Kayama",
 
 	thirdParty: {
-		cardmarket: 760650
-	}
-}
+		cardmarket: 760650,
+	},
+};
 
-export default card
+export default card;

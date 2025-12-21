@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	set: Set,
@@ -10,7 +10,7 @@ const card: Card = {
 		es: "Tanque de Energía Potenciadora del Pasado",
 		it: "Capsula energetica Tempo Passato",
 		pt: "Cápsula Energética de Melhoria Ancestral",
-		de: "Energiekapsel aus der Vergangenheit"
+		de: "Energiekapsel aus der Vergangenheit",
 	},
 
 	rarity: "Uncommon",
@@ -22,21 +22,26 @@ const card: Card = {
 		es: "El Pokémon del pasado al que esté unida esta carta obtiene 60 PS más, se recupera de todas las Condiciones Especiales y no puede verse afectado por ninguna Condición Especial.",
 		it: "Il Pokémon Tempo Passato a cui è assegnata questa carta ha 60 PS in più, guarisce da tutte le condizioni speciali e non può esserne influenzato.",
 		pt: "O Pokémon Ancestral ao qual esta carta está ligada recebe 60 PS a mais, recupera-se de todas as Condições Especiais e não pode ser afetado por quaisquer Condições Especiais.",
-		de: "Das Pokémon aus der Vergangenheit, an das diese Karte angelegt ist, erhält +60 KP, erholt sich von allen Speziellen Zuständen und kann von keinen Speziellen Zuständen betroffen werden."
+		de: "Das Pokémon aus der Vergangenheit, an das diese Karte angelegt ist, erhält +60 KP, erholt sich von allen Speziellen Zuständen und kann von keinen Speziellen Zuständen betroffen werden.",
 	},
 
 	trainerType: "Tool",
 	regulationMark: "G",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "5ban Graphics",
 
 	thirdParty: {
-		cardmarket: 760770
-	}
-}
+		cardmarket: 760770,
+	},
+};
 
-export default card
+export default card;

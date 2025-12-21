@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	set: Set,
@@ -10,7 +10,7 @@ const card: Card = {
 		es: "Tambores del Despertar",
 		it: "Tamburosveglia",
 		pt: "Tambor do Despertar",
-		de: "Erweckende Trommel"
+		de: "Erweckende Trommel",
 	},
 
 	rarity: "ACE SPEC Rare",
@@ -22,22 +22,27 @@ const card: Card = {
 		es: "Roba 1 carta por cada uno de tus Pokémon del pasado en juego.",
 		it: "Pesca una carta per ciascuno dei tuoi Pokémon Tempo Passato in gioco.",
 		pt: "Compre uma carta para cada um dos seus Pokémon Ancestrais em jogo.",
-		de: "Ziehe 1 Karte für jedes deiner Pokémon aus der Vergangenheit im Spiel."
+		de: "Ziehe 1 Karte für jedes deiner Pokémon aus der Vergangenheit im Spiel.",
 	},
 
 	trainerType: "Item",
 	regulationMark: "H",
 
-	variants: {
-		reverse: false,
-		normal: false
-	},
+	variants: [
+		{
+			type: "holo",
+		},
+		{
+			type: "holo",
+			stamp: ["player-reward-program"],
+		},
+	],
 
 	illustrator: "Toyste Beach",
 
 	thirdParty: {
-		cardmarket: 760771
-	}
-}
+		cardmarket: 760771,
+	},
+};
 
-export default card
+export default card;

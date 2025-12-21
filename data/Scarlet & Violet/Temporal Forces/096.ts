@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [984],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Colmilargo",
 		it: "Grandizanne",
 		pt: "Presa Grande",
-		de: "Riesenzahn"
+		de: "Riesenzahn",
 	},
 
 	rarity: "Uncommon",
@@ -20,55 +20,67 @@ const card: Card = {
 	types: ["Fighting"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Fighting", "Colorless"],
+	attacks: [
+		{
+			cost: ["Fighting", "Colorless"],
 
-		name: {
-			en: "Lunge Out",
-			fr: "Allonger",
-			es: "Arremeter",
-			it: "Affondo Lungo",
-			pt: "Bote",
-			de: "Sprungangriff"
+			name: {
+				en: "Lunge Out",
+				fr: "Allonger",
+				es: "Arremeter",
+				it: "Affondo Lungo",
+				pt: "Bote",
+				de: "Sprungangriff",
+			},
+
+			damage: 30,
 		},
+		{
+			cost: ["Fighting", "Colorless", "Colorless"],
 
-		damage: 30
-	}, {
-		cost: ["Fighting", "Colorless", "Colorless"],
+			name: {
+				en: "Wrathful Charge",
+				fr: "Charge Furieuse",
+				es: "Carga Iracunda",
+				it: "Carica Furibonda",
+				pt: "Colisão Enfurecida",
+				de: "Zorniger Ansturm",
+			},
 
-		name: {
-			en: "Wrathful Charge",
-			fr: "Charge Furieuse",
-			es: "Carga Iracunda",
-			it: "Carica Furibonda",
-			pt: "Colisão Enfurecida",
-			de: "Zorniger Ansturm"
+			effect: {
+				en: "If your Benched Pokémon have any damage counters on them, this attack does 80 more damage.",
+				fr: "Si au moins un marqueur de dégâts est placé sur vos Pokémon de Banc, cette attaque inflige 80 dégâts supplémentaires.",
+				es: "Si tus Pokémon en Banca tienen algún contador de daño sobre ellos, este ataque hace 80 puntos de daño más.",
+				it: "Se i tuoi Pokémon in panchina hanno dei segnalini danno, questo attacco infligge 80 danni in più.",
+				pt: "Se os seus Pokémon no Banco tiverem algum contador de dano neles, este ataque causará 80 pontos de dano a mais.",
+				de: "Wenn auf den Pokémon auf deiner Bank mindestens 1 Schadensmarke liegt, fügt diese Attacke 80 Schadenspunkte mehr zu.",
+			},
+
+			damage: "80+",
 		},
-
-		effect: {
-			en: "If your Benched Pokémon have any damage counters on them, this attack does 80 more damage.",
-			fr: "Si au moins un marqueur de dégâts est placé sur vos Pokémon de Banc, cette attaque inflige 80 dégâts supplémentaires.",
-			es: "Si tus Pokémon en Banca tienen algún contador de daño sobre ellos, este ataque hace 80 puntos de daño más.",
-			it: "Se i tuoi Pokémon in panchina hanno dei segnalini danno, questo attacco infligge 80 danni in più.",
-			pt: "Se os seus Pokémon no Banco tiverem algum contador de dano neles, este ataque causará 80 pontos de dano a mais.",
-			de: "Wenn auf den Pokémon auf deiner Bank mindestens 1 Schadensmarke liegt, fügt diese Attacke 80 Schadenspunkte mehr zu."
-		},
-
-		damage: "80+"
-	}],
+	],
 
 	retreat: 4,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+		{
+			type: "normal",
+			stamp: ["set-logo"],
+		},
+	],
 
 	illustrator: "Mitsuhiro Arita",
 
 	thirdParty: {
-		cardmarket: 760726
-	}
-}
+		cardmarket: 760726,
+	},
+};
 
-export default card
+export default card;

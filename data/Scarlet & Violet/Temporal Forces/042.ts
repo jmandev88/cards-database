@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [318],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Carvanha",
 		it: "Carvanha",
 		pt: "Carvanha",
-		de: "Kanivanha"
+		de: "Kanivanha",
 	},
 
 	rarity: "Common",
@@ -20,33 +20,40 @@ const card: Card = {
 	types: ["Water"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Colorless", "Colorless"],
+	attacks: [
+		{
+			cost: ["Colorless", "Colorless"],
 
-		name: {
-			en: "Wave Splash",
-			fr: "Grosse Vague",
-			es: "Chapoteo Ondulante",
-			it: "Schizzi d'Onda",
-			pt: "Onda Borrifante",
-			de: "Wellenplatscher"
+			name: {
+				en: "Wave Splash",
+				fr: "Grosse Vague",
+				es: "Chapoteo Ondulante",
+				it: "Schizzi d'Onda",
+				pt: "Onda Borrifante",
+				de: "Wellenplatscher",
+			},
+
+			damage: 30,
 		},
-
-		damage: 30
-	}],
+	],
 
 	retreat: 1,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "Souichirou Gunjima",
 
 	thirdParty: {
-		cardmarket: 760672
-	}
-}
+		cardmarket: 760672,
+	},
+};
 
-export default card
+export default card;

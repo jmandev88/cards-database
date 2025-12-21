@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [749],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Mudbray",
 		it: "Mudbray",
 		pt: "Mudbray",
-		de: "Pampuli"
+		de: "Pampuli",
 	},
 
 	rarity: "Common",
@@ -20,46 +20,53 @@ const card: Card = {
 	types: ["Fighting"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Fighting"],
+	attacks: [
+		{
+			cost: ["Fighting"],
 
-		name: {
-			en: "Smash Kick",
-			fr: "Coud'Pattes",
-			es: "Patada Destrucción",
-			it: "Calcio Esplosivo",
-			pt: "Chute Poderoso",
-			de: "Schmetterkick"
+			name: {
+				en: "Smash Kick",
+				fr: "Coud'Pattes",
+				es: "Patada Destrucción",
+				it: "Calcio Esplosivo",
+				pt: "Chute Poderoso",
+				de: "Schmetterkick",
+			},
+
+			damage: 10,
 		},
+		{
+			cost: ["Fighting", "Colorless", "Colorless"],
 
-		damage: 10
-	}, {
-		cost: ["Fighting", "Colorless", "Colorless"],
+			name: {
+				en: "Mud-Slap",
+				fr: "Coud'Boue",
+				es: "Bofetón Lodo",
+				it: "Fangosberla",
+				pt: "Tapa de Lama",
+				de: "Lehmschelle",
+			},
 
-		name: {
-			en: "Mud-Slap",
-			fr: "Coud'Boue",
-			es: "Bofetón Lodo",
-			it: "Fangosberla",
-			pt: "Tapa de Lama",
-			de: "Lehmschelle"
+			damage: 50,
 		},
-
-		damage: 50
-	}],
+	],
 
 	retreat: 2,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
-
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 	illustrator: "Narumi Sato",
 
 	thirdParty: {
-		cardmarket: 760721
-	}
-}
+		cardmarket: 760721,
+	},
+};
 
-export default card
+export default card;

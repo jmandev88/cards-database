@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [308],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Medicham",
 		it: "Medicham",
 		pt: "Medicham",
-		de: "Meditalis"
+		de: "Meditalis",
 	},
 
 	rarity: "Common",
@@ -24,50 +24,58 @@ const card: Card = {
 		es: "Meditite",
 		it: "Meditite",
 		pt: "Meditite",
-		de: "Meditie"
+		de: "Meditie",
 	},
 	stage: "Stage1",
 
-	attacks: [{
-		cost: ["Fighting"],
+	attacks: [
+		{
+			cost: ["Fighting"],
 
-		name: {
-			en: "Low Sweep",
-			fr: "Balayette",
-			es: "Puntapié",
-			it: "Calciobasso",
-			pt: "Movimento Baixo",
-			de: "Fußtritt"
+			name: {
+				en: "Low Sweep",
+				fr: "Balayette",
+				es: "Puntapié",
+				it: "Calciobasso",
+				pt: "Movimento Baixo",
+				de: "Fußtritt",
+			},
+
+			damage: 40,
 		},
+		{
+			cost: ["Colorless", "Colorless", "Colorless"],
 
-		damage: 40
-	}, {
-		cost: ["Colorless", "Colorless", "Colorless"],
+			name: {
+				en: "High Jump Kick",
+				fr: "Pied Voltige",
+				es: "Patada Salto Alta",
+				it: "Calcinvolo",
+				pt: "Chute de Pulo Alto",
+				de: "Turmkick",
+			},
 
-		name: {
-			en: "High Jump Kick",
-			fr: "Pied Voltige",
-			es: "Patada Salto Alta",
-			it: "Calcinvolo",
-			pt: "Chute de Pulo Alto",
-			de: "Turmkick"
+			damage: 110,
 		},
-
-		damage: 110
-	}],
+	],
 
 	retreat: 1,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "Masako Tomii",
 
 	thirdParty: {
-		cardmarket: 760713
-	}
-}
+		cardmarket: 760713,
+	},
+};
 
-export default card
+export default card;

@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [837],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Rolycoly",
 		it: "Rolycoly",
 		pt: "Rolycoly",
-		de: "Klonkett"
+		de: "Klonkett",
 	},
 
 	rarity: "Common",
@@ -20,46 +20,54 @@ const card: Card = {
 	types: ["Fighting"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Fighting"],
+	attacks: [
+		{
+			cost: ["Fighting"],
 
-		name: {
-			en: "Rolling Tackle",
-			fr: "Roulé-Boulé",
-			es: "Placaje Giro",
-			it: "Rollazione",
-			pt: "Golpe de Colisão Rolante",
-			de: "Rolltackle"
+			name: {
+				en: "Rolling Tackle",
+				fr: "Roulé-Boulé",
+				es: "Placaje Giro",
+				it: "Rollazione",
+				pt: "Golpe de Colisão Rolante",
+				de: "Rolltackle",
+			},
+
+			damage: 10,
 		},
+		{
+			cost: ["Fighting", "Colorless"],
 
-		damage: 10
-	}, {
-		cost: ["Fighting", "Colorless"],
+			name: {
+				en: "Power Gem",
+				fr: "Rayon Gemme",
+				es: "Joya de Luz",
+				it: "Gemmoforza",
+				pt: "Gema Poderosa",
+				de: "Juwelenkraft",
+			},
 
-		name: {
-			en: "Power Gem",
-			fr: "Rayon Gemme",
-			es: "Joya de Luz",
-			it: "Gemmoforza",
-			pt: "Gema Poderosa",
-			de: "Juwelenkraft"
+			damage: 30,
 		},
-
-		damage: 30
-	}],
+	],
 
 	retreat: 3,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "Aya Kusube",
 
 	thirdParty: {
-		cardmarket: 760723
-	}
-}
+		cardmarket: 760723,
+	},
+};
 
-export default card
+export default card;

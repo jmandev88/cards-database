@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [159],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Croconaw",
 		it: "Croconaw",
 		pt: "Croconaw",
-		de: "Tyracroc"
+		de: "Tyracroc",
 	},
 
 	rarity: "Common",
@@ -24,46 +24,53 @@ const card: Card = {
 		es: "Totodile",
 		it: "Totodile",
 		pt: "Totodile",
-		de: "Karnimani"
+		de: "Karnimani",
 	},
 	stage: "Stage1",
 
-	attacks: [{
-		cost: ["Water"],
+	attacks: [
+		{
+			cost: ["Water"],
 
-		name: {
-			en: "Reverse Thrust",
-			fr: "Poussée Inverse",
-			es: "Invertir Impulso",
-			it: "Tornaindietro",
-			pt: "Impulso Reverso",
-			de: "Umkehrschub"
+			name: {
+				en: "Reverse Thrust",
+				fr: "Poussée Inverse",
+				es: "Invertir Impulso",
+				it: "Tornaindietro",
+				pt: "Impulso Reverso",
+				de: "Umkehrschub",
+			},
+
+			effect: {
+				en: "Switch this Pokémon with 1 of your Benched Pokémon.",
+				fr: "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
+				es: "Cambia este Pokémon por uno de tus Pokémon en Banca.",
+				it: "Scambia questo Pokémon con uno della tua panchina.",
+				pt: "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
+				de: "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus.",
+			},
+
+			damage: 30,
 		},
-
-		effect: {
-			en: "Switch this Pokémon with 1 of your Benched Pokémon.",
-			fr: "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
-			es: "Cambia este Pokémon por uno de tus Pokémon en Banca.",
-			it: "Scambia questo Pokémon con uno della tua panchina.",
-			pt: "Troque este Pokémon por 1 dos seus Pokémon no Banco.",
-			de: "Tausche dieses Pokémon gegen 1 Pokémon auf deiner Bank aus."
-		},
-
-		damage: 30
-	}],
+	],
 
 	retreat: 2,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "Jerky",
 
 	thirdParty: {
-		cardmarket: 760670
-	}
-}
+		cardmarket: 760670,
+	},
+};
 
-export default card
+export default card;

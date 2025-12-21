@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [204],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Pineco",
 		it: "Pineco",
 		pt: "Pineco",
-		de: "Tannza"
+		de: "Tannza",
 	},
 
 	rarity: "Common",
@@ -20,33 +20,40 @@ const card: Card = {
 	types: ["Grass"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Colorless", "Colorless", "Colorless"],
+	attacks: [
+		{
+			cost: ["Colorless", "Colorless", "Colorless"],
 
-		name: {
-			en: "Ram",
-			fr: "Collision",
-			es: "Apisonar",
-			it: "Carica",
-			pt: "Aríete",
-			de: "Ramme"
+			name: {
+				en: "Ram",
+				fr: "Collision",
+				es: "Apisonar",
+				it: "Carica",
+				pt: "Aríete",
+				de: "Ramme",
+			},
+
+			damage: 50,
 		},
-
-		damage: 50
-	}],
+	],
 
 	retreat: 2,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "Midori Harada",
 
 	thirdParty: {
-		cardmarket: 760632
-	}
-}
+		cardmarket: 760632,
+	},
+};
 
-export default card
+export default card;

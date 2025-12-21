@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [578],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Duosion",
 		it: "Duosion",
 		pt: "Duosion",
-		de: "Mitodos"
+		de: "Mitodos",
 	},
 
 	rarity: "Common",
@@ -24,46 +24,52 @@ const card: Card = {
 		es: "Solosis",
 		it: "Solosis",
 		pt: "Solosis",
-		de: "Monozyto"
+		de: "Monozyto",
 	},
 	stage: "Stage1",
 
-	attacks: [{
-		cost: ["Colorless"],
+	attacks: [
+		{
+			cost: ["Colorless"],
 
-		name: {
-			en: "Double Trick",
-			fr: "Double Ruse",
-			es: "Doble Truco",
-			it: "Doppio Trucco",
-			pt: "Travessura Dupla",
-			de: "Doppeltrick"
+			name: {
+				en: "Double Trick",
+				fr: "Double Ruse",
+				es: "Doble Truco",
+				it: "Doppio Trucco",
+				pt: "Travessura Dupla",
+				de: "Doppeltrick",
+			},
+
+			effect: {
+				en: "Flip 2 coins. This attack does 30 damage for each heads.",
+				fr: "Lancez 2 pièces. Cette attaque inflige 30 dégâts pour chaque côté face.",
+				es: "Lanza 2 monedas. Este ataque hace 30 puntos de daño por cada cara.",
+				it: "Lancia due volte una moneta. Questo attacco infligge 30 danni ogni volta che esce testa.",
+				pt: "Jogue 2 moedas. Este ataque causa 30 pontos de dano para cada cara.",
+				de: "Wirf 2 Münzen. Diese Attacke fügt 30 Schadenspunkte pro Kopf zu.",
+			},
+
+			damage: "30×",
 		},
-
-		effect: {
-			en: "Flip 2 coins. This attack does 30 damage for each heads.",
-			fr: "Lancez 2 pièces. Cette attaque inflige 30 dégâts pour chaque côté face.",
-			es: "Lanza 2 monedas. Este ataque hace 30 puntos de daño por cada cara.",
-			it: "Lancia due volte una moneta. Questo attacco infligge 30 danni ogni volta che esce testa.",
-			pt: "Jogue 2 moedas. Este ataque causa 30 pontos de dano para cada cara.",
-			de: "Wirf 2 Münzen. Diese Attacke fügt 30 Schadenspunkte pro Kopf zu."
-		},
-
-		damage: "30×"
-	}],
+	],
 
 	retreat: 2,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
-
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 	illustrator: "mele",
 
 	thirdParty: {
-		cardmarket: 760701
-	}
-}
+		cardmarket: 760701,
+	},
+};
 
-export default card
+export default card;

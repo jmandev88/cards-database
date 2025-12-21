@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [286],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Breloom",
 		it: "Breloom",
 		pt: "Breloom",
-		de: "Kapilz"
+		de: "Kapilz",
 	},
 
 	rarity: "Common",
@@ -24,59 +24,66 @@ const card: Card = {
 		es: "Shroomish",
 		it: "Shroomish",
 		pt: "Shroomish",
-		de: "Knilz"
+		de: "Knilz",
 	},
 	stage: "Stage1",
 
-	attacks: [{
-		cost: ["Colorless"],
+	attacks: [
+		{
+			cost: ["Colorless"],
 
-		name: {
-			en: "Punch",
-			fr: "Koud'Poing",
-			es: "Puño",
-			it: "Pugno",
-			pt: "Soco",
-			de: "Boxhieb"
+			name: {
+				en: "Punch",
+				fr: "Koud'Poing",
+				es: "Puño",
+				it: "Pugno",
+				pt: "Soco",
+				de: "Boxhieb",
+			},
+
+			damage: 30,
 		},
+		{
+			cost: ["Grass", "Colorless"],
 
-		damage: 30
-	}, {
-		cost: ["Grass", "Colorless"],
+			name: {
+				en: "Knuckle Impact",
+				fr: "Coup d'Articulations",
+				es: "Impacto Nudillo",
+				it: "Impatto Nocche",
+				pt: "Impacto Ossudo",
+				de: "Knöchelprall",
+			},
 
-		name: {
-			en: "Knuckle Impact",
-			fr: "Coup d'Articulations",
-			es: "Impacto Nudillo",
-			it: "Impatto Nocche",
-			pt: "Impacto Ossudo",
-			de: "Knöchelprall"
+			effect: {
+				en: "During your next turn, this Pokémon can't attack.",
+				fr: "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
+				es: "Durante tu próximo turno, este Pokémon no puede atacar.",
+				it: "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
+				pt: "Durante o seu próximo turno, este Pokémon não poderá atacar.",
+				de: "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
+			},
+
+			damage: 120,
 		},
-
-		effect: {
-			en: "During your next turn, this Pokémon can't attack.",
-			fr: "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
-			es: "Durante tu próximo turno, este Pokémon no puede atacar.",
-			it: "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
-			pt: "Durante o seu próximo turno, este Pokémon não poderá atacar.",
-			de: "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen."
-		},
-
-		damage: 120
-	}],
+	],
 
 	retreat: 1,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
-
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 	illustrator: "Taiga Kasai",
 
 	thirdParty: {
-		cardmarket: 760637
-	}
-}
+		cardmarket: 760637,
+	},
+};
 
-export default card
+export default card;

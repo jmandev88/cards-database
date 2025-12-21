@@ -1,19 +1,35 @@
 export type SupportedLanguages =
-// inter languages
-	'en' | 'fr' | 'es' | 'es-mx' | 'it' | 'pt' | 'pt-br' | 'pt-pt' | 'de' | 'nl' | 'pl' | 'ru' |
+	// inter languages
+	| "en"
+	| "fr"
+	| "es"
+	| "es-mx"
+	| "it"
+	| "pt"
+	| "pt-br"
+	| "pt-pt"
+	| "de"
+	| "nl"
+	| "pl"
+	| "ru"
 	// Asian languages
-	'ja' | 'ko' | 'zh-tw' | 'id' | 'th' | 'zh-cn'
+	| "ja"
+	| "ko"
+	| "zh-tw"
+	| "id"
+	| "th"
+	| "zh-cn";
 
-export type Languages<T = string> = Partial<Record<SupportedLanguages, T>>
+export type Languages<T = string> = Partial<Record<SupportedLanguages, T>>;
 
 export interface Serie {
-	id: string
-	name: Languages
+	id: string;
+	name: Languages;
 
 	/**
 	 * Serie Energy cards
 	 */
-	energies?: Array<Types>
+	energies?: Array<Types>;
 }
 
 interface variant_detailed {
@@ -23,24 +39,39 @@ interface variant_detailed {
 	 * - holo: the illustration has a foil
 	 * - reverse: everything but the illustration is foiled
 	 */
-	type: 'normal' | 'holo' | 'reverse' | 'metal' | 'lenticular'
+	type: "normal" | "holo" | "reverse" | "metal" | "lenticular";
 
 	/**
 	 * Some older sets had specific subtypes for the cards
 	 * i.e Base Set had shadowless with and without a 1st-edition stamp.
 	 * and the Unlimited version of the set had no shadow.
 	 */
-	subtype?: 'shadowless' | 'unlimited' | '1999-2000-copyright' | 'missing-expansion-symbol' | 'gold-border'
-		| 'missing-hp' | 'aoki-error' | '1999-copyright' | 'evolution-box-error' | 'no-holo-error' | 'd-ink-dot-error'
-		| 'energy-symbol-error' | 'text-error' | 'shifted-energy-cost' | 'japanese-back' | 'no-e-reader' | 'rarity-error'
-		| 'cosmos'
+	subtype?:
+		| "shadowless"
+		| "unlimited"
+		| "1999-2000-copyright"
+		| "missing-expansion-symbol"
+		| "gold-border"
+		| "missing-hp"
+		| "aoki-error"
+		| "1999-copyright"
+		| "evolution-box-error"
+		| "no-holo-error"
+		| "d-ink-dot-error"
+		| "energy-symbol-error"
+		| "text-error"
+		| "shifted-energy-cost"
+		| "japanese-back"
+		| "no-e-reader"
+		| "rarity-error"
+		| "cosmos";
 
 	/**
 	 * define the size of the card
 	 * - standard: the classic size of a card
 	 * - jumbo: also said oversized, big card.
 	 */
-	size?: 'standard' | 'jumbo'
+	size?: "standard" | "jumbo";
 	/**
 	 * indicate that this variant has a stamp
 	 * a card may have multiple stamps, example "Ethan's Typhlosion pre-release staff"
@@ -56,121 +87,226 @@ interface variant_detailed {
 	 * - snowflake: a card that is stamped with a snowflake, available in the yearly advent calendar
 	 * - trick-or-trade: a card that is stamped with a pikachu-pumpkin, available in the yearly halloween/trick-or-trade boosters
 	 */
-	stamp?: Array<'1st-edition' | 'w-promo' | 'pre-release' | 'pokemon-center' | 'set-logo' | 'staff' | 'pikachu-tail'
-		| 'wotc' | 'd-edition-error' | '1st-edition-scratch-error' | "1st-edition-error" | '1st-movie' | '1st-movie-inverted'
-		| 'pokemon-4-ever' | 'pokemon-center-ny' | "winner" | '25th-celebration' | 'chris-fulop' | 'tsuguyoshi-yamato'
-		| 'reed-weichler' | 'kevin-nguyen' | 'professor-program' | 'takashi-yoneda' | 'michael-gonzalez' | 'curran-hill'
-		| 'jeremy-maron' | 'jimmy-ballard' | 'miska-saari' | 'hiroki-yano' | 'jason-klaczynski' | 'state-championships'
-		| 'national-championships' | 'gym-challenge' | 'city-championships' | 'jeremy-scharff-kim' | 'destiny-deoxys'
-		| 'pokemon-day' | 'regional-championships' | 'stadium-challenge' | '10th-anniversary' | 'wizard-world-philadelphia'
-		| 'wizard-world-chicago' | 'comic-con' | 'nintendo-world' | 'gen-con' | 'akira-miyazaki' | 'tom-roos'
-		| 'pokemon-rocks-america' | 'jun-hasebe' | 'origins' | 'games-expo' | 'kraze-club' | 'dylan-lefavour'
-		| 'tristan-robinson' | 'paul-atanassov' | 'david-cohen' | 'tsubasa-nakamura' | 'worlds-2007' | 'finalist'
-		| 'quarter-finalist' | 'semi-finalist' | 'top-sixteen' | 'top-thirty-two' | 'worlds-2008' | 'worlds-2009'
-		| 'countdown-calendar' | 'michael-pramawat' | 'distributor-meeting' | 'mychael-bryan' | "stephen-silvestro"
-		| 'yuka-furusawa' | 'jason-martinez' | 'yuta-komatsuda' | 'origins-2008' | 'platinum' | 'worlds-2010'
-		| 'ross-cawthorn' | 'gustavo-wada' | 'christopher-kan' | 'player-rewards-program' | 'igor-costa'
-		| 'zachary-bokhari' | 'shuto-itagaki' | 'snowflake' | 'trick-or-trade' | 'horizons' | 'gamestop' | 'eb-games'
-		| 'illustration-contest-2024' | 'worlds-2025' | 'top-eight'
-	>
+	stamp?: Array<
+		| "1st-edition"
+		| "w-promo"
+		| "pre-release"
+		| "pokemon-center"
+		| "set-logo"
+		| "staff"
+		| "judge"
+		| "pikachu-tail"
+		| "wotc"
+		| "d-edition-error"
+		| "1st-edition-scratch-error"
+		| "1st-edition-error"
+		| "1st-movie"
+		| "1st-movie-inverted"
+		| "pokemon-4-ever"
+		| "pokemon-center-ny"
+		| "winner"
+		| "25th-celebration"
+		| "chris-fulop"
+		| "tsuguyoshi-yamato"
+		| "reed-weichler"
+		| "kevin-nguyen"
+		| "professor-program"
+		| "takashi-yoneda"
+		| "michael-gonzalez"
+		| "curran-hill"
+		| "jeremy-maron"
+		| "jimmy-ballard"
+		| "miska-saari"
+		| "hiroki-yano"
+		| "jason-klaczynski"
+		| "state-championships"
+		| "national-championships"
+		| "gym-challenge"
+		| "city-championships"
+		| "jeremy-scharff-kim"
+		| "destiny-deoxys"
+		| "pokemon-day"
+		| "regional-championships"
+		| "stadium-challenge"
+		| "10th-anniversary"
+		| "wizard-world-philadelphia"
+		| "wizard-world-chicago"
+		| "comic-con"
+		| "nintendo-world"
+		| "gen-con"
+		| "akira-miyazaki"
+		| "tom-roos"
+		| "pokemon-rocks-america"
+		| "jun-hasebe"
+		| "origins"
+		| "games-expo"
+		| "kraze-club"
+		| "dylan-lefavour"
+		| "tristan-robinson"
+		| "paul-atanassov"
+		| "david-cohen"
+		| "tsubasa-nakamura"
+		| "worlds-2007"
+		| "finalist"
+		| "quarter-finalist"
+		| "semi-finalist"
+		| "top-sixteen"
+		| "top-thirty-two"
+		| "worlds-2008"
+		| "worlds-2009"
+		| "countdown-calendar"
+		| "michael-pramawat"
+		| "distributor-meeting"
+		| "mychael-bryan"
+		| "stephen-silvestro"
+		| "yuka-furusawa"
+		| "jason-martinez"
+		| "yuta-komatsuda"
+		| "origins-2008"
+		| "platinum"
+		| "worlds-2010"
+		| "ross-cawthorn"
+		| "gustavo-wada"
+		| "christopher-kan"
+		| "player-rewards-program"
+		| "igor-costa"
+		| "zachary-bokhari"
+		| "shuto-itagaki"
+		| "snowflake"
+		| "trick-or-trade"
+		| "horizons"
+		| "gamestop"
+		| "eb-games"
+		| "illustration-contest-2024"
+		| "worlds-2025"
+		| "top-eight"
+		| "champion"
+		| "championship-europe"
+		| "championship-latin-america"
+		| "championship-north-america"
+		| "master-ball-league"
+	>;
 	/**
 	 * for the holo & reverse, **optional** indicate which foil is used on the card
 	 */
-	foil?: 'pokeball' | 'ultraball' | 'masterball' | 'gold' | 'cosmos' | 'galaxy' | 'starlight' | 'energy' | 'cracked-ice'
-	| 'mirror' | 'league' | 'player-reward' | 'professor-program'
+	foil?:
+		| "pokeball"
+		| "ultraball"
+		| "masterball"
+		| "gold"
+		| "cosmos"
+		| "galaxy"
+		| "starlight"
+		| "energy"
+		| "cracked-ice"
+		| "mirror"
+		| "league"
+		| "player-reward"
+		| "professor-program";
 
 	/**
 	 * list of languages for which this variant is available
 	 * if not set, the variant is available in all languages
 	 */
-	languages?: SupportedLanguages[]
+	languages?: SupportedLanguages[];
 }
 
 interface variants {
 	/**
 	 * Card base version
 	 */
-	normal?: boolean
+	normal?: boolean;
 	/**
 	 * Holo Reverse
 	 * (colored Background holographic)
 	 */
-	reverse?: boolean
+	reverse?: boolean;
 	/**
 	 * Holo Card
 	 * (illustration holographic)
 	 */
-	holo?: boolean
+	holo?: boolean;
 
 	/**
 	 * can have a first Edition stamp
 	 */
-	firstEdition?: boolean
+	firstEdition?: boolean;
 
 	/**
 	 * Can be found in Jumob Format
 	 */
-	jumbo?: boolean
+	jumbo?: boolean;
 
 	/**
 	 * Card has a pre-release stamp
 	 */
-	preRelease?: boolean
+	preRelease?: boolean;
 
 	/**
 	 * Card has a W stamp
 	 */
-	wPromo?: true
+	wPromo?: true;
 }
 
-export type Types = 'Colorless' | 'Darkness' | 'Dragon' |
-	'Fairy' | 'Fighting' | 'Fire' |
-	'Grass' | 'Lightning' | 'Metal' |
-	'Psychic' | 'Water'
+export type Types =
+	| "Colorless"
+	| "Darkness"
+	| "Dragon"
+	| "Fairy"
+	| "Fighting"
+	| "Fire"
+	| "Grass"
+	| "Lightning"
+	| "Metal"
+	| "Psychic"
+	| "Water";
 
-type ISODate = `${number}-${number}-${number}`
+type ISODate = `${number}-${number}-${number}`;
 
 export interface Set {
-	id: string
-	name: Languages
+	id: string;
+	name: Languages;
 	/**
 	 * Partial list of abbreviations, this is currently a Work in Progress feature
 	 */
-	abbreviations?: Partial<Omit<Languages, 'en'> & { official?: string }>
-	serie: Serie
-	tcgOnline?: string
+	abbreviations?: Partial<Omit<Languages, "en"> & { official?: string }>;
+	serie: Serie;
+	tcgOnline?: string;
 
 	cardCount: {
-		official: number
-	}
+		official: number;
+	};
 
-	boosters?: Record<string, {
-		name: Languages<string>
-	}>
+	boosters?: Record<
+		string,
+		{
+			name: Languages<string>;
+		}
+	>;
 
-	releaseDate: ISODate | Languages<ISODate>
+	releaseDate: ISODate | Languages<ISODate>;
 
 	thirdParty?: {
-		cardmarket?: number
-		tcgplayer?: number
-	}
+		cardmarket?: number;
+		tcgplayer?: number;
+	};
 }
 
 export interface Card {
 	/**
 	 * Card Name (Including the suffix if next to card name)
 	 */
-	name: Languages
+	name: Languages;
 
 	/**
 	 * Card illustrator
 	 */
-	illustrator?: string
+	illustrator?: string;
 
 	/**
 	 * indicate in which boosters the card is available
 	 */
-	boosters?: Array<string>
+	boosters?: Array<string>;
 
 	/**
 	 * Card Rarity
@@ -209,17 +345,48 @@ export interface Card {
 	 * - Ultra Rare: https://www.tcgdex.net/database/Sword-&-Shield/Shining-Fates/18-Cinderace-V
 	 * - Uncommon: https://www.tcgdex.net/database/Sword-&-Shield/Darkness-Ablaze/136-Furret
 	 */
-	rarity: 'ACE SPEC Rare' | 'Amazing Rare' | 'Classic Collection' | 'Common' |
-			'Double rare' | 'Full Art Trainer' | 'Holo Rare' | 'Holo Rare V' |
-			'Holo Rare VMAX' | 'Holo Rare VSTAR' | 'Hyper rare' | 'Illustration rare' |
-			'LEGEND' | 'None' | 'Radiant Rare' | 'Rare' | 'Rare Holo' | 'Rare Holo LV.X' |
-			'Rare PRIME' | 'Secret Rare' | 'Shiny Ultra Rare' | 'Shiny rare' | 'Shiny rare V' |
-			'Shiny rare VMAX' | 'Special illustration rare' | 'Ultra Rare' | 'Uncommon'
-			// Black White rare
-			| 'Black White Rare'
-			| 'Mega Hyper Rare'
-			// Pokémon TCG Pocket Rarities
-			| 'One Diamond' | 'Two Diamond' | 'Three Diamond' | 'Four Diamond' | 'One Star' | 'Two Star' | 'Three Star' | 'Crown' | 'One Shiny' | 'Two Shiny'
+	rarity:
+		| "ACE SPEC Rare"
+		| "Amazing Rare"
+		| "Classic Collection"
+		| "Common"
+		| "Double rare"
+		| "Full Art Trainer"
+		| "Holo Rare"
+		| "Holo Rare V"
+		| "Holo Rare VMAX"
+		| "Holo Rare VSTAR"
+		| "Hyper rare"
+		| "Illustration rare"
+		| "LEGEND"
+		| "None"
+		| "Radiant Rare"
+		| "Rare"
+		| "Rare Holo"
+		| "Rare Holo LV.X"
+		| "Rare PRIME"
+		| "Secret Rare"
+		| "Shiny Ultra Rare"
+		| "Shiny rare"
+		| "Shiny rare V"
+		| "Shiny rare VMAX"
+		| "Special illustration rare"
+		| "Ultra Rare"
+		| "Uncommon"
+		// Black White rare
+		| "Black White Rare"
+		| "Mega Hyper Rare"
+		// Pokémon TCG Pocket Rarities
+		| "One Diamond"
+		| "Two Diamond"
+		| "Three Diamond"
+		| "Four Diamond"
+		| "One Star"
+		| "Two Star"
+		| "Three Star"
+		| "Crown"
+		| "One Shiny"
+		| "Two Shiny";
 
 	/**
 	 * Card Category
@@ -228,24 +395,24 @@ export interface Card {
 	 * - Trainer
 	 * - Energy
 	 */
-	category: 'Pokemon' | 'Trainer' | 'Energy'
+	category: "Pokemon" | "Trainer" | "Energy";
 
 	/**
 	 * Card Variants (Override Set Variants)
 	 */
-	variants?: variants | Array<variant_detailed>
+	variants?: variants | Array<variant_detailed>;
 
 	/**
 	 * Card Set
 	 */
-	set: Set
+	set: Set;
 
 	/**
 	 * Card regulation Mark
 	 *
 	 * note: added from Sword & Shield
 	 */
-	regulationMark?: string
+	regulationMark?: string;
 
 	/**
 	 * Pokemon only elements
@@ -254,39 +421,39 @@ export interface Card {
 	/**
 	 * Pokemon Pokedex ID
 	 */
-	dexId?: Array<number>
+	dexId?: Array<number>;
 
 	/**
 	 * Pokemon HP
 	 */
-	hp?: number
+	hp?: number;
 
 	/**
 	 * Pokemon Types
 	 */
-	types?: Array<Types> // ex for multiple https://www.tcgdex.net/database/ex/ex13/17
+	types?: Array<Types>; // ex for multiple https://www.tcgdex.net/database/ex/ex13/17
 
 	/**
 	 * Pokemon Sub Evolution
 	 */
-	evolveFrom?: Languages
+	evolveFrom?: Languages;
 
 	/**
 	 * Pokemon Weight
 	 */
-	weight?: string
+	weight?: string;
 
 	/**
 	 * Pokemon Description
 	 */
-	description?: Languages
+	description?: Languages;
 
 	/**
 	 * Level of the Pokemon
 	 *
 	 * NOTE: can be equal to 'X' when the pokemon is a LEVEL-UP one
 	 */
-	level?: number | string
+	level?: number | string;
 
 	/**
 	 * Pokemon Stage
@@ -302,7 +469,18 @@ export interface Card {
 	 * - Baby https://www.tcgdex.net/database/swsh/cel25/20A
 	 * - VSTAR https://www.tcgdex.net/database/swsh/swsh9/14
 	 */
-	stage?: 'Basic' | 'BREAK' | 'LEVEL-UP' | 'MEGA' | 'RESTORED' | 'Stage1' | 'Stage2' | 'VMAX' | 'V-UNION' | 'Baby' | 'VSTAR'
+	stage?:
+		| "Basic"
+		| "BREAK"
+		| "LEVEL-UP"
+		| "MEGA"
+		| "RESTORED"
+		| "Stage1"
+		| "Stage2"
+		| "VMAX"
+		| "V-UNION"
+		| "Baby"
+		| "VSTAR";
 
 	/**
 	 * Card Suffix
@@ -315,7 +493,7 @@ export interface Card {
 	 * - SP https://www.tcgdex.net/database/pl/pl1/7
 	 * - TAG TEAM-GX https://www.tcgdex.net/database/sm/sm12/226
 	 */
-	suffix?: 'EX' | 'GX' | 'V' | 'Legend' | 'Prime' | 'SP' | 'TAG TEAM-GX'
+	suffix?: "EX" | "GX" | "V" | "Legend" | "Prime" | "SP" | "TAG TEAM-GX";
 
 	/**
 	 * Pokemon Held Item
@@ -323,9 +501,9 @@ export interface Card {
 	 * ex https://www.tcgdex.net/database/dp/dp2/75
 	 */
 	item?: {
-		name: Languages
-		effect: Languages
-	}
+		name: Languages;
+		effect: Languages;
+	};
 
 	/**
 	 * Pokemon Abilities
@@ -333,57 +511,64 @@ export interface Card {
 	 * multi abilities ex https://www.tcgdex.net/database/ex/ex15/10
 	 */
 	abilities?: Array<{
-		type: 'Pokemon Power' | 'Poke-BODY' | 'Poke-POWER' | 'Ability' | 'Ancient Trait'
-		name: Languages
-		effect: Languages
-	}>
+		type:
+			| "Pokemon Power"
+			| "Poke-BODY"
+			| "Poke-POWER"
+			| "Ability"
+			| "Ancient Trait";
+		name: Languages;
+		effect: Languages;
+	}>;
 
 	/**
 	 * Pokemon Attacks
 	 */
 	attacks?: Array<{
-		cost?: Array<Types>
-		name: Languages
-		effect?: Languages
-		damage?: string | number
-	}>
+		cost?: Array<Types>;
+		name: Languages;
+		effect?: Languages;
+		damage?: string | number;
+	}>;
 
 	/**
 	 * Pokemon Weaknesses
 	 */
 	weaknesses?: Array<{
-		type: Types
-		value?: string
-	}>
+		type: Types;
+		value?: string;
+	}>;
 
 	resistances?: Array<{
-		type: Types
-		value?: string
-	}>
+		type: Types;
+		value?: string;
+	}>;
 
-	retreat?: number
+	retreat?: number;
 
 	//Trainer/Energy
-	effect?: Languages
+	effect?: Languages;
 
 	// Trainer Only
-	trainerType?: 'Supporter' | // https://www.tcgdex.net/database/ex/ex7/83
-		'Item' | // https://www.tcgdex.net/database/ex/ex7/89
-		'Stadium' | // https://www.tcgdex.net/database/ex/ex7/87
-		'Tool' | // https://www.tcgdex.net/database/neo/neo1/93
-		'Ace Spec' | // https://www.tcgdex.net/database/bw/bw7/139
-		'Technical Machine' | // https://www.tcgdex.net/database/ecard/ecard1/144
-		'Goldenrod Game Corner' | // https://www.tcgdex.net/database/neo/neo1/83
-		'Rocket\'s Secret Machine' // https://www.tcgdex.net/database/ex/ex7/84
+	trainerType?:
+		| "Supporter" // https://www.tcgdex.net/database/ex/ex7/83
+		| "Item" // https://www.tcgdex.net/database/ex/ex7/89
+		| "Stadium" // https://www.tcgdex.net/database/ex/ex7/87
+		| "Tool" // https://www.tcgdex.net/database/neo/neo1/93
+		| "Ace Spec" // https://www.tcgdex.net/database/bw/bw7/139
+		| "Technical Machine" // https://www.tcgdex.net/database/ecard/ecard1/144
+		| "Goldenrod Game Corner" // https://www.tcgdex.net/database/neo/neo1/83
+		| "Rocket's Secret Machine"; // https://www.tcgdex.net/database/ex/ex7/84
 
 	// Energy Only
-	energyType?: 'Normal' | // https://www.tcgdex.net/database/ecard/ecard1/160
-		'Special' // https://www.tcgdex.net/database/ecard/ecard1/158
+	energyType?:
+		| "Normal" // https://www.tcgdex.net/database/ecard/ecard1/160
+		| "Special"; // https://www.tcgdex.net/database/ecard/ecard1/158
 
 	thirdParty?: {
-		tcgplayer?: number
-		cardmarket?: number
-	}
+		tcgplayer?: number;
+		cardmarket?: number;
+	};
 }
 
 /**
@@ -394,27 +579,27 @@ export interface Filter {
 		/**
 		 * series to be included
 		 */
-		series: Array<string>
+		series: Array<string>;
 		/**
 		 * Set to be included in the filter
 		 * ex: swsh1
 		 */
-		sets: Array<string>
+		sets: Array<string>;
 		/**
 		 * Filter by regulation Marks on the cards
 		 * ex: 'D'
 		 */
-		regulationMark: Array<string>
-	}
+		regulationMark: Array<string>;
+	};
 	excludes: {
 		/**
 		 * sets to be excluded
 		 */
-		sets: Array<string>
+		sets: Array<string>;
 		/**
 		 * Global Ids of banned cards
 		 * ex: swsh1-1
 		 */
-		cards: Array<string>
-	}
+		cards: Array<string>;
+	};
 }

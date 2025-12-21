@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	set: Set,
@@ -10,7 +10,7 @@ const card: Card = {
 		es: "Energía Neblina",
 		it: "Energia Nebbia",
 		pt: "Energia Nebulosa",
-		de: "Nebelschleier-Energie"
+		de: "Nebelschleier-Energie",
 	},
 
 	rarity: "Uncommon",
@@ -22,19 +22,33 @@ const card: Card = {
 		es: "Mientras esta carta esté unida a un Pokémon, proporciona 1 Energía {C}.\n\nSe evitan todos los efectos de los ataques usados por los Pokémon de tu rival e infligidos al Pokémon al que esté unida esta carta. (No se eliminan los efectos ya existentes. El daño no es un efecto).",
 		it: "Fintanto che questa carta è assegnata a un Pokémon, fornisce Energia {C}.\n\nPrevieni tutti gli effetti degli attacchi usati dai Pokémon del tuo avversario inflitti al Pokémon a cui è assegnata questa carta. Gli effetti esistenti non vengono rimossi. I danni non sono un effetto.",
 		pt: "Enquanto esta carta estiver ligada a um Pokémon, ela fornecerá Energia {C}.\n\nPrevina todos os efeitos de ataques usados pelos Pokémon do seu oponente causados ao Pokémon ao qual esta carta está ligada. (Efeitos existentes não são removidos e dano não é um efeito.)",
-		de: "Solange diese Karte an ein Pokémon angelegt ist, liefert sie {C}-Energie.\nVerhindere alle Effekte der von den Pokémon deines Gegners eingesetzten Attacken, die dem Pokémon zugefügt werden, an das diese Karte angelegt ist.\n(Bestehende Effekte werden nicht entfernt. Schaden ist kein Effekt.)"
+		de: "Solange diese Karte an ein Pokémon angelegt ist, liefert sie {C}-Energie.\nVerhindere alle Effekte der von den Pokémon deines Gegners eingesetzten Attacken, die dem Pokémon zugefügt werden, an das diese Karte angelegt ist.\n(Bestehende Effekte werden nicht entfernt. Schaden ist kein Effekt.)",
 	},
 
 	energyType: "Special",
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+		{
+			type: "reverse",
+			stamp: ["player-reward-program"],
+			foil: "cosmos",
+		},
+		{
+			type: "normal",
+			stamp: ["player-reward-program"],
+		},
+	],
 
 	thirdParty: {
-		cardmarket: 760791
-	}
-}
+		cardmarket: 760791,
+	},
+};
 
-export default card
+export default card;

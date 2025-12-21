@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [963],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Finizen",
 		it: "Finizen",
 		pt: "Finizen",
-		de: "Normifin"
+		de: "Normifin",
 	},
 
 	rarity: "Common",
@@ -20,46 +20,54 @@ const card: Card = {
 	types: ["Water"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Water"],
+	attacks: [
+		{
+			cost: ["Water"],
 
-		name: {
-			en: "Rain Splash",
-			fr: "Pluie Éclaboussante",
-			es: "Golpe de Lluvia",
-			it: "Spruzzapioggia",
-			pt: "Chuva Borrifante",
-			de: "Regenplatscher"
+			name: {
+				en: "Rain Splash",
+				fr: "Pluie Éclaboussante",
+				es: "Golpe de Lluvia",
+				it: "Spruzzapioggia",
+				pt: "Chuva Borrifante",
+				de: "Regenplatscher",
+			},
+
+			damage: 10,
 		},
+		{
+			cost: ["Water", "Colorless", "Colorless"],
 
-		damage: 10
-	}, {
-		cost: ["Water", "Colorless", "Colorless"],
+			name: {
+				en: "Sharp Fin",
+				fr: "Aileron Aiguisé",
+				es: "Cortaleta",
+				it: "Pinnaffilata",
+				pt: "Barbatana Afiada",
+				de: "Schneidige Flosse",
+			},
 
-		name: {
-			en: "Sharp Fin",
-			fr: "Aileron Aiguisé",
-			es: "Cortaleta",
-			it: "Pinnaffilata",
-			pt: "Barbatana Afiada",
-			de: "Schneidige Flosse"
+			damage: 50,
 		},
-
-		damage: 50
-	}],
+	],
 
 	retreat: 2,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "HYOGONOSUKE",
 
 	thirdParty: {
-		cardmarket: 760678
-	}
-}
+		cardmarket: 760678,
+	},
+};
 
-export default card
+export default card;

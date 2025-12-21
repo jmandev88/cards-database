@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	set: Set,
@@ -10,7 +10,7 @@ const card: Card = {
 		es: "Monopatín de Rescate",
 		it: "Skateboard di Salvataggio",
 		pt: "Skate de Resgate",
-		de: "Rettungsboard"
+		de: "Rettungsboard",
 	},
 
 	rarity: "Uncommon",
@@ -22,21 +22,39 @@ const card: Card = {
 		es: "El Coste de Retirada del Pokémon al que esté unida esta carta es de {C} menos. Si a ese Pokémon le quedan 30 PS o menos, no tiene ningún Coste de Retirada.",
 		it: "Il costo di ritirata del Pokémon a cui è assegnata questa carta è ridotto di {C}. Se i PS rimanenti di quel Pokémon sono 30 o meno, non ha costo di ritirata.",
 		pt: "O custo de Recuo do Pokémon ao qual esta carta está ligada é {C} a menos. Se o PS restante daquele Pokémon for 30 ou menos, ele não terá custo de Recuo.",
-		de: "Die Rückzugskosten des Pokémon, an das diese Karte angelegt ist, verringern sich um {C}. Wenn jenes Pokémon 30 oder weniger verbleibende KP hat, hat es keine Rückzugskosten."
+		de: "Die Rückzugskosten des Pokémon, an das diese Karte angelegt ist, verringern sich um {C}. Wenn jenes Pokémon 30 oder weniger verbleibende KP hat, hat es keine Rückzugskosten.",
 	},
 
 	trainerType: "Tool",
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+		{
+			type: "reverse",
+			foil: "player-reward",
+		},
+		{
+			type: "normal",
+			stamp: ["player-reward-program"],
+		},
+		{
+			type: "holo",
+			stamp: ["player-reward-program"],
+			foil: "cosmos",
+		},
+	],
 
 	illustrator: "Toyste Beach",
 
 	thirdParty: {
-		cardmarket: 760789
-	}
-}
+		cardmarket: 760789,
+	},
+};
 
-export default card
+export default card;

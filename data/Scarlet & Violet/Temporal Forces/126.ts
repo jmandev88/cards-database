@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [163],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Hoothoot",
 		it: "Hoothoot",
 		pt: "Hoothoot",
-		de: "Hoothoot"
+		de: "Hoothoot",
 	},
 
 	rarity: "Common",
@@ -20,42 +20,53 @@ const card: Card = {
 	types: ["Colorless"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Colorless", "Colorless"],
+	attacks: [
+		{
+			cost: ["Colorless", "Colorless"],
 
-		name: {
-			en: "Silent Wing",
-			fr: "Aile Silencieuse",
-			es: "Ala Silenciosa",
-			it: "Ala Silenziosa",
-			pt: "Asa Silenciosa",
-			de: "Lautlose Flügel"
+			name: {
+				en: "Silent Wing",
+				fr: "Aile Silencieuse",
+				es: "Ala Silenciosa",
+				it: "Ala Silenziosa",
+				pt: "Asa Silenciosa",
+				de: "Lautlose Flügel",
+			},
+
+			effect: {
+				en: "Your opponent reveals their hand.",
+				fr: "Votre adversaire montre sa main.",
+				es: "Tu rival enseña las cartas de su mano.",
+				it: "Il tuo avversario mostra le carte che ha in mano.",
+				pt: "Seu oponente revela a mão dele.",
+				de: "Dein Gegner zeigt dir seine Handkarten.",
+			},
+
+			damage: 20,
 		},
-
-		effect: {
-			en: "Your opponent reveals their hand.",
-			fr: "Votre adversaire montre sa main.",
-			es: "Tu rival enseña las cartas de su mano.",
-			it: "Il tuo avversario mostra le carte che ha in mano.",
-			pt: "Seu oponente revela a mão dele.",
-			de: "Dein Gegner zeigt dir seine Handkarten."
-		},
-
-		damage: 20
-	}],
+	],
 
 	retreat: 1,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+		{
+			type: "holo",
+			foil: "cosmos",
+		},
+	],
 
 	illustrator: "ryoma uratsuka",
 
 	thirdParty: {
-		cardmarket: 760756
-	}
-}
+		cardmarket: 760756,
+	},
+};
 
-export default card
+export default card;

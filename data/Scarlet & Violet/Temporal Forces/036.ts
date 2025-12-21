@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [850],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Sizzlipede",
 		it: "Sizzlipede",
 		pt: "Sizzlipede",
-		de: "Thermopod"
+		de: "Thermopod",
 	},
 
 	rarity: "Common",
@@ -20,42 +20,49 @@ const card: Card = {
 	types: ["Fire"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Fire"],
+	attacks: [
+		{
+			cost: ["Fire"],
 
-		name: {
-			en: "Heat Dive",
-			fr: "Piqué Échauffant",
-			es: "Picado Ardiente",
-			it: "Picchiata Rovente",
-			pt: "Mergulho Aquecido",
-			de: "Hitziger Sturzflug"
+			name: {
+				en: "Heat Dive",
+				fr: "Piqué Échauffant",
+				es: "Picado Ardiente",
+				it: "Picchiata Rovente",
+				pt: "Mergulho Aquecido",
+				de: "Hitziger Sturzflug",
+			},
+
+			effect: {
+				en: "This Pokémon also does 10 damage to itself.",
+				fr: "Ce Pokémon s'inflige aussi 10 dégâts.",
+				es: "Este Pokémon también se hace 10 puntos de daño a sí mismo.",
+				it: "Questo Pokémon infligge anche 10 danni a se stesso.",
+				pt: "Este Pokémon também causa 10 pontos de dano a si mesmo.",
+				de: "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu.",
+			},
+
+			damage: 30,
 		},
-
-		effect: {
-			en: "This Pokémon also does 10 damage to itself.",
-			fr: "Ce Pokémon s'inflige aussi 10 dégâts.",
-			es: "Este Pokémon también se hace 10 puntos de daño a sí mismo.",
-			it: "Questo Pokémon infligge anche 10 danni a se stesso.",
-			pt: "Este Pokémon também causa 10 pontos de dano a si mesmo.",
-			de: "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu."
-		},
-
-		damage: 30
-	}],
+	],
 
 	retreat: 2,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "Yukiko Baba",
 
 	thirdParty: {
-		cardmarket: 760666
-	}
-}
+		cardmarket: 760666,
+	},
+};
 
-export default card
+export default card;

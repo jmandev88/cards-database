@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [520],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Tranquill",
 		it: "Tranquill",
 		pt: "Tranquill",
-		de: "Navitaub"
+		de: "Navitaub",
 	},
 
 	rarity: "Common",
@@ -24,59 +24,67 @@ const card: Card = {
 		es: "Pidove",
 		it: "Pidove",
 		pt: "Pidove",
-		de: "Dusselgurr"
+		de: "Dusselgurr",
 	},
 	stage: "Stage1",
 
-	attacks: [{
-		cost: ["Colorless"],
+	attacks: [
+		{
+			cost: ["Colorless"],
 
-		name: {
-			en: "Speed Dive",
-			fr: "Plongée Rapide",
-			es: "Picado Rápido",
-			it: "Immersione Rapida",
-			pt: "Mergulho Veloz",
-			de: "Tempohechtsprung"
+			name: {
+				en: "Speed Dive",
+				fr: "Plongée Rapide",
+				es: "Picado Rápido",
+				it: "Immersione Rapida",
+				pt: "Mergulho Veloz",
+				de: "Tempohechtsprung",
+			},
+
+			damage: 20,
 		},
+		{
+			cost: ["Colorless", "Colorless"],
 
-		damage: 20
-	}, {
-		cost: ["Colorless", "Colorless"],
+			name: {
+				en: "Jet Wing",
+				fr: "Aile Jet",
+				es: "Ala Propulsión",
+				it: "Ala Jet",
+				pt: "Asa a Jato",
+				de: "Jet-Flügel",
+			},
 
-		name: {
-			en: "Jet Wing",
-			fr: "Aile Jet",
-			es: "Ala Propulsión",
-			it: "Ala Jet",
-			pt: "Asa a Jato",
-			de: "Jet-Flügel"
+			effect: {
+				en: "During your next turn, this Pokémon can't attack.",
+				fr: "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
+				es: "Durante tu próximo turno, este Pokémon no puede atacar.",
+				it: "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
+				pt: "Durante o seu próximo turno, este Pokémon não poderá atacar.",
+				de: "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
+			},
+
+			damage: 70,
 		},
-
-		effect: {
-			en: "During your next turn, this Pokémon can't attack.",
-			fr: "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
-			es: "Durante tu próximo turno, este Pokémon no puede atacar.",
-			it: "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
-			pt: "Durante o seu próximo turno, este Pokémon não poderá atacar.",
-			de: "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen."
-		},
-
-		damage: 70
-	}],
+	],
 
 	retreat: 0,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "Pani Kobayashi",
 
 	thirdParty: {
-		cardmarket: 760764
-	}
-}
+		cardmarket: 760764,
+	},
+};
 
-export default card
+export default card;

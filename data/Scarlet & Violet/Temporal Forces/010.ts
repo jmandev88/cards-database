@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [387],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Turtwig",
 		it: "Turtwig",
 		pt: "Turtwig",
-		de: "Chelast"
+		de: "Chelast",
 	},
 
 	rarity: "Common",
@@ -20,55 +20,64 @@ const card: Card = {
 	types: ["Grass"],
 	stage: "Basic",
 
-	abilities: [{
-		type: "Ability",
+	abilities: [
+		{
+			type: "Ability",
 
-		name: {
-			en: "Solid Shell",
-			fr: "Coquille Dure",
-			es: "Caparazón Sólido",
-			it: "Guscio Solido",
-			pt: "Carapaça Sólida",
-			de: "Solider Panzer"
+			name: {
+				en: "Solid Shell",
+				fr: "Coquille Dure",
+				es: "Caparazón Sólido",
+				it: "Guscio Solido",
+				pt: "Carapaça Sólida",
+				de: "Solider Panzer",
+			},
+
+			effect: {
+				en: "This Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance).",
+				fr: "Ce Pokémon subit 20 dégâts de moins provenant des attaques (après application de la Faiblesse et de la Résistance).",
+				es: "Los ataques hacen 20 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia).",
+				it: "Questo Pokémon subisce 20 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
+				pt: "Este Pokémon recebe 20 pontos de dano a menos de ataques (depois de aplicar Fraqueza e Resistência).",
+				de: "Diesem Pokémon werden durch Attacken 20 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+			},
 		},
+	],
 
-		effect: {
-			en: "This Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance).",
-			fr: "Ce Pokémon subit 20 dégâts de moins provenant des attaques (après application de la Faiblesse et de la Résistance).",
-			es: "Los ataques hacen 20 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia).",
-			it: "Questo Pokémon subisce 20 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
-			pt: "Este Pokémon recebe 20 pontos de dano a menos de ataques (depois de aplicar Fraqueza e Resistência).",
-			de: "Diesem Pokémon werden durch Attacken 20 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden)."
-		}
-	}],
+	attacks: [
+		{
+			cost: ["Grass", "Colorless", "Colorless"],
 
-	attacks: [{
-		cost: ["Grass", "Colorless", "Colorless"],
+			name: {
+				en: "Leafage",
+				fr: "Feuillage",
+				es: "Follaje",
+				it: "Fogliame",
+				pt: "Folhagem",
+				de: "Blattwerk",
+			},
 
-		name: {
-			en: "Leafage",
-			fr: "Feuillage",
-			es: "Follaje",
-			it: "Fogliame",
-			pt: "Folhagem",
-			de: "Blattwerk"
+			damage: 30,
 		},
-
-		damage: 30
-	}],
+	],
 
 	retreat: 3,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "OKACHEKE",
 
 	thirdParty: {
-		cardmarket: 760640
-	}
-}
+		cardmarket: 760640,
+	},
+};
 
-export default card
+export default card;

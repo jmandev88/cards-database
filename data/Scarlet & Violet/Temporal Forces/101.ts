@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [24],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Arbok",
 		it: "Arbok",
 		pt: "Arbok",
-		de: "Arbok"
+		de: "Arbok",
 	},
 
 	rarity: "Common",
@@ -24,57 +24,65 @@ const card: Card = {
 		es: "Ekans",
 		it: "Ekans",
 		pt: "Ekans",
-		de: "Rettan"
+		de: "Rettan",
 	},
 	stage: "Stage1",
 
-	attacks: [{
-		cost: ["Darkness"],
+	attacks: [
+		{
+			cost: ["Darkness"],
 
-		name: {
-			en: "Panic Poison",
-			fr: "Poison Panique",
-			es: "Pánico Venenoso",
-			it: "Velenostress",
-			pt: "Veneno do Pânico",
-			de: "Panikgift"
+			name: {
+				en: "Panic Poison",
+				fr: "Poison Panique",
+				es: "Pánico Venenoso",
+				it: "Velenostress",
+				pt: "Veneno do Pânico",
+				de: "Panikgift",
+			},
+
+			effect: {
+				en: "Your opponent's Active Pokémon is now Burned, Confused, and Poisoned.",
+				fr: "Le Pokémon Actif de votre adversaire est maintenant Brûlé, Confus et Empoisonné.",
+				es: "El Pokémon Activo de tu rival pasa a estar Confundido, Envenenado y Quemado.",
+				it: "Il Pokémon attivo del tuo avversario viene bruciato, confuso e avvelenato.",
+				pt: "O Pokémon Ativo do seu oponente agora está Confuso, Envenenado e Queimado.",
+				de: "Das Aktive Pokémon deines Gegners ist jetzt verbrannt, verwirrt und vergiftet.",
+			},
 		},
+		{
+			cost: ["Darkness", "Darkness"],
 
-		effect: {
-			en: "Your opponent's Active Pokémon is now Burned, Confused, and Poisoned.",
-			fr: "Le Pokémon Actif de votre adversaire est maintenant Brûlé, Confus et Empoisonné.",
-			es: "El Pokémon Activo de tu rival pasa a estar Confundido, Envenenado y Quemado.",
-			it: "Il Pokémon attivo del tuo avversario viene bruciato, confuso e avvelenato.",
-			pt: "O Pokémon Ativo do seu oponente agora está Confuso, Envenenado e Queimado.",
-			de: "Das Aktive Pokémon deines Gegners ist jetzt verbrannt, verwirrt und vergiftet."
-		}
-	}, {
-		cost: ["Darkness", "Darkness"],
+			name: {
+				en: "Darkness Fang",
+				fr: "Croc Obscur",
+				es: "Colmillo de Oscuridad",
+				it: "Oscurizanna",
+				pt: "Presa Sombria",
+				de: "Fänge der Dunkelheit",
+			},
 
-		name: {
-			en: "Darkness Fang",
-			fr: "Croc Obscur",
-			es: "Colmillo de Oscuridad",
-			it: "Oscurizanna",
-			pt: "Presa Sombria",
-			de: "Fänge der Dunkelheit"
+			damage: 70,
 		},
-
-		damage: 70
-	}],
+	],
 
 	retreat: 2,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "Minato",
 
 	thirdParty: {
-		cardmarket: 760731
-	}
-}
+		cardmarket: 760731,
+	},
+};
 
-export default card
+export default card;

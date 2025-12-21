@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	set: Set,
@@ -10,7 +10,7 @@ const card: Card = {
 		es: "Capa de Héroes",
 		it: "Mantello dell'Eroe",
 		pt: "Capa de Herói",
-		de: "Heldenumhang"
+		de: "Heldenumhang",
 	},
 
 	rarity: "ACE SPEC Rare",
@@ -22,22 +22,27 @@ const card: Card = {
 		es: "El Pokémon al que esté unida esta carta obtiene 100 PS más.",
 		it: "Il Pokémon a cui è assegnata questa carta ha 100 PS in più.",
 		pt: "O Pokémon ao qual esta carta está ligada recebe 100 PS a mais.",
-		de: "Das Pokémon, an das diese Karte angelegt ist, erhält +100 KP."
+		de: "Das Pokémon, an das diese Karte angelegt ist, erhält +100 KP.",
 	},
 
 	trainerType: "Tool",
 	regulationMark: "H",
 
-	variants: {
-		reverse: false,
-		normal: false
-	},
+	variants: [
+		{
+			type: "holo",
+		},
+		{
+			type: "holo",
+			stamp: ["player-reward-program"],
+		},
+	],
 
 	illustrator: "Toyste Beach",
 
 	thirdParty: {
-		cardmarket: 760782
-	}
-}
+		cardmarket: 760782,
+	},
+};
 
-export default card
+export default card;

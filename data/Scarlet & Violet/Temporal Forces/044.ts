@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [647],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Keldeo",
 		it: "Keldeo",
 		pt: "Keldeo",
-		de: "Keldeo"
+		de: "Keldeo",
 	},
 
 	rarity: "Uncommon",
@@ -20,55 +20,63 @@ const card: Card = {
 	types: ["Water"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Water"],
+	attacks: [
+		{
+			cost: ["Water"],
 
-		name: {
-			en: "Rapid Draw",
-			fr: "Pioche Rapide",
-			es: "Robo Rápido",
-			it: "Pescalesto",
-			pt: "Retirada Rápida",
-			de: "Schnellzieher"
+			name: {
+				en: "Rapid Draw",
+				fr: "Pioche Rapide",
+				es: "Robo Rápido",
+				it: "Pescalesto",
+				pt: "Retirada Rápida",
+				de: "Schnellzieher",
+			},
+
+			effect: {
+				en: "Draw 2 cards.",
+				fr: "Piochez 2 cartes.",
+				es: "Roba 2 cartas.",
+				it: "Pesca due carte.",
+				pt: "Compre 2 cartas.",
+				de: "Ziehe 2 Karten.",
+			},
+
+			damage: 20,
 		},
+		{
+			cost: ["Water", "Water", "Colorless"],
 
-		effect: {
-			en: "Draw 2 cards.",
-			fr: "Piochez 2 cartes.",
-			es: "Roba 2 cartas.",
-			it: "Pesca due carte.",
-			pt: "Compre 2 cartas.",
-			de: "Ziehe 2 Karten."
+			name: {
+				en: "Aqua Blade",
+				fr: "Hydrolame",
+				es: "Hoja Agua",
+				it: "Idrolama",
+				pt: "Lâmina de Água",
+				de: "Aquaklinge",
+			},
+
+			damage: 110,
 		},
-
-		damage: 20
-	}, {
-		cost: ["Water", "Water", "Colorless"],
-
-		name: {
-			en: "Aqua Blade",
-			fr: "Hydrolame",
-			es: "Hoja Agua",
-			it: "Idrolama",
-			pt: "Lâmina de Água",
-			de: "Aquaklinge"
-		},
-
-		damage: 110
-	}],
+	],
 
 	retreat: 1,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "satoma",
 
 	thirdParty: {
-		cardmarket: 760674
-	}
-}
+		cardmarket: 760674,
+	},
+};
 
-export default card
+export default card;

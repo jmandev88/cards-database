@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [809],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Melmetal",
 		it: "Melmetal",
 		pt: "Melmetal",
-		de: "Melmetal"
+		de: "Melmetal",
 	},
 
 	rarity: "Rare",
@@ -24,50 +24,58 @@ const card: Card = {
 		es: "Meltan",
 		it: "Meltan",
 		pt: "Meltan",
-		de: "Meltan"
+		de: "Meltan",
 	},
 	stage: "Stage1",
 
-	attacks: [{
-		cost: ["Metal", "Metal", "Colorless"],
+	attacks: [
+		{
+			cost: ["Metal", "Metal", "Colorless"],
 
-		name: {
-			en: "Hammer In",
-			fr: "Enfoncement",
-			es: "Martillear",
-			it: "Martello",
-			pt: "Martelada",
-			de: "Einhämmern"
+			name: {
+				en: "Hammer In",
+				fr: "Enfoncement",
+				es: "Martillear",
+				it: "Martello",
+				pt: "Martelada",
+				de: "Einhämmern",
+			},
+
+			damage: 120,
 		},
+		{
+			cost: ["Metal", "Metal", "Metal", "Metal", "Colorless"],
 
-		damage: 120
-	}, {
-		cost: ["Metal", "Metal", "Metal", "Metal", "Colorless"],
+			name: {
+				en: "Iron Bash",
+				fr: "Coup de Fer",
+				es: "Ferropuño",
+				it: "Pugni Ferrei",
+				pt: "Pancada de Ferro",
+				de: "Eisenwumme",
+			},
 
-		name: {
-			en: "Iron Bash",
-			fr: "Coup de Fer",
-			es: "Ferropuño",
-			it: "Pugni Ferrei",
-			pt: "Pancada de Ferro",
-			de: "Eisenwumme"
+			damage: 230,
 		},
-
-		damage: 230
-	}],
+	],
 
 	retreat: 4,
 	regulationMark: "H",
 
-	variants: {
-		normal: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "Oswaldo KATO",
 
 	thirdParty: {
-		cardmarket: 760747
-	}
-}
+		cardmarket: 760747,
+	},
+};
 
-export default card
+export default card;

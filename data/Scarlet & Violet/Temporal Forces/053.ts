@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [125],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Electabuzz",
 		it: "Electabuzz",
 		pt: "Electabuzz",
-		de: "Elektek"
+		de: "Elektek",
 	},
 
 	rarity: "Common",
@@ -20,46 +20,54 @@ const card: Card = {
 	types: ["Lightning"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Lightning"],
+	attacks: [
+		{
+			cost: ["Lightning"],
 
-		name: {
-			en: "Chop",
-			fr: "Coup Tranchant",
-			es: "Cortar",
-			it: "Ceffone",
-			pt: "Trincar",
-			de: "Hacker"
+			name: {
+				en: "Chop",
+				fr: "Coup Tranchant",
+				es: "Cortar",
+				it: "Ceffone",
+				pt: "Trincar",
+				de: "Hacker",
+			},
+
+			damage: 20,
 		},
+		{
+			cost: ["Lightning", "Colorless", "Colorless"],
 
-		damage: 20
-	}, {
-		cost: ["Lightning", "Colorless", "Colorless"],
+			name: {
+				en: "Electric Punch",
+				fr: "Poing Électrique",
+				es: "Puño Eléctrico",
+				it: "Pugno Elettrico",
+				pt: "Murro Elétrico",
+				de: "Elektroschlag",
+			},
 
-		name: {
-			en: "Electric Punch",
-			fr: "Poing Électrique",
-			es: "Puño Eléctrico",
-			it: "Pugno Elettrico",
-			pt: "Murro Elétrico",
-			de: "Elektroschlag"
+			damage: 50,
 		},
-
-		damage: 50
-	}],
+	],
 
 	retreat: 2,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "Uta",
 
 	thirdParty: {
-		cardmarket: 760683
-	}
-}
+		cardmarket: 760683,
+	},
+};
 
-export default card
+export default card;

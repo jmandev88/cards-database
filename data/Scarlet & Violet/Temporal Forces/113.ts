@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [374],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Beldum",
 		it: "Beldum",
 		pt: "Beldum",
-		de: "Tanhel"
+		de: "Tanhel",
 	},
 
 	rarity: "Common",
@@ -20,55 +20,63 @@ const card: Card = {
 	types: ["Metal"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Metal"],
+	attacks: [
+		{
+			cost: ["Metal"],
 
-		name: {
-			en: "Dig Claws",
-			fr: "Creusogriffes",
-			es: "Hundir Garras",
-			it: "Scavazanne",
-			pt: "Fincar Garras",
-			de: "Schaufelkrallen"
+			name: {
+				en: "Dig Claws",
+				fr: "Creusogriffes",
+				es: "Hundir Garras",
+				it: "Scavazanne",
+				pt: "Fincar Garras",
+				de: "Schaufelkrallen",
+			},
+
+			damage: 10,
 		},
+		{
+			cost: ["Metal", "Colorless", "Colorless"],
 
-		damage: 10
-	}, {
-		cost: ["Metal", "Colorless", "Colorless"],
+			name: {
+				en: "Iron Tackle",
+				fr: "Charge de Fer",
+				es: "Bloqueo de Hierro",
+				it: "Azione Ferrea",
+				pt: "Golpe de Colisão Férreo",
+				de: "Eisentackle",
+			},
 
-		name: {
-			en: "Iron Tackle",
-			fr: "Charge de Fer",
-			es: "Bloqueo de Hierro",
-			it: "Azione Ferrea",
-			pt: "Golpe de Colisão Férreo",
-			de: "Eisentackle"
+			effect: {
+				en: "This Pokémon also does 10 damage to itself.",
+				fr: "Ce Pokémon s'inflige aussi 10 dégâts.",
+				es: "Este Pokémon también se hace 10 puntos de daño a sí mismo.",
+				it: "Questo Pokémon infligge anche 10 danni a se stesso.",
+				pt: "Este Pokémon também causa 10 pontos de dano a si mesmo.",
+				de: "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu.",
+			},
+
+			damage: 50,
 		},
-
-		effect: {
-			en: "This Pokémon also does 10 damage to itself.",
-			fr: "Ce Pokémon s'inflige aussi 10 dégâts.",
-			es: "Este Pokémon también se hace 10 puntos de daño a sí mismo.",
-			it: "Questo Pokémon infligge anche 10 danni a se stesso.",
-			pt: "Este Pokémon também causa 10 pontos de dano a si mesmo.",
-			de: "Dieses Pokémon fügt auch sich selbst 10 Schadenspunkte zu."
-		},
-
-		damage: 50
-	}],
+	],
 
 	retreat: 1,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "hatachu",
 
 	thirdParty: {
-		cardmarket: 760743
-	}
-}
+		cardmarket: 760743,
+	},
+};
 
-export default card
+export default card;

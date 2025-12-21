@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [982],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Dudunsparce",
 		it: "Dudunsparce",
 		pt: "Dudunsparce",
-		de: "Dummimisel"
+		de: "Dummimisel",
 	},
 
 	rarity: "Rare",
@@ -24,59 +24,73 @@ const card: Card = {
 		es: "Dunsparce",
 		it: "Dunsparce",
 		pt: "Dunsparce",
-		de: "Dummisel"
+		de: "Dummisel",
 	},
 	stage: "Stage1",
 
-	abilities: [{
-		type: "Ability",
+	abilities: [
+		{
+			type: "Ability",
 
-		name: {
-			en: "Run Away Draw",
-			fr: "Pioche Fuyante",
-			es: "Robo a la Fuga",
-			it: "Pesca Fugafacile",
-			pt: "Comprar e Dar no Pé",
-			de: "Angsthasenabzug"
+			name: {
+				en: "Run Away Draw",
+				fr: "Pioche Fuyante",
+				es: "Robo a la Fuga",
+				it: "Pesca Fugafacile",
+				pt: "Comprar e Dar no Pé",
+				de: "Angsthasenabzug",
+			},
+
+			effect: {
+				en: "Once during your turn, you may draw 3 cards. If you drew any cards in this way, shuffle this Pokémon and all attached cards into your deck.",
+				fr: "Une fois pendant votre tour, vous pouvez piocher 3 cartes. Si vous piochez au moins une carte de cette façon, mélangez avec votre deck ce Pokémon et toutes les cartes qui lui sont attachées.",
+				es: "Una vez durante tu turno, puedes robar 3 cartas. Si has robado alguna carta de esta manera, pon este Pokémon y todas las cartas unidas a él en tu baraja, y baraja todas las cartas.",
+				it: "Una sola volta durante il tuo turno, puoi pescare tre carte. Se hai pescato delle carte in questo modo, rimischia questo Pokémon e tutte le carte a esso assegnate nel tuo mazzo.",
+				pt: "Uma vez durante o seu turno, você poderá comprar 3 cartas. Se você comprou qualquer carta desta forma, embaralhe este Pokémon e todas as cartas ligadas a ele no seu baralho.",
+				de: "Einmal während deines Zuges kannst du 3 Karten ziehen. Wenn du auf diese Weise mindestens 1 Karte gezogen hast, mische dieses Pokémon und alle angelegten Karten in dein Deck.",
+			},
 		},
+	],
 
-		effect: {
-			en: "Once during your turn, you may draw 3 cards. If you drew any cards in this way, shuffle this Pokémon and all attached cards into your deck.",
-			fr: "Une fois pendant votre tour, vous pouvez piocher 3 cartes. Si vous piochez au moins une carte de cette façon, mélangez avec votre deck ce Pokémon et toutes les cartes qui lui sont attachées.",
-			es: "Una vez durante tu turno, puedes robar 3 cartas. Si has robado alguna carta de esta manera, pon este Pokémon y todas las cartas unidas a él en tu baraja, y baraja todas las cartas.",
-			it: "Una sola volta durante il tuo turno, puoi pescare tre carte. Se hai pescato delle carte in questo modo, rimischia questo Pokémon e tutte le carte a esso assegnate nel tuo mazzo.",
-			pt: "Uma vez durante o seu turno, você poderá comprar 3 cartas. Se você comprou qualquer carta desta forma, embaralhe este Pokémon e todas as cartas ligadas a ele no seu baralho.",
-			de: "Einmal während deines Zuges kannst du 3 Karten ziehen. Wenn du auf diese Weise mindestens 1 Karte gezogen hast, mische dieses Pokémon und alle angelegten Karten in dein Deck."
-		}
-	}],
+	attacks: [
+		{
+			cost: ["Colorless", "Colorless", "Colorless"],
 
-	attacks: [{
-		cost: ["Colorless", "Colorless", "Colorless"],
+			name: {
+				en: "Land Crush",
+				fr: "Écras'Terre",
+				es: "Aterrizaje",
+				it: "Schiacciaterra",
+				pt: "Aperto de Terra",
+				de: "Schollenbrecher",
+			},
 
-		name: {
-			en: "Land Crush",
-			fr: "Écras'Terre",
-			es: "Aterrizaje",
-			it: "Schiacciaterra",
-			pt: "Aperto de Terra",
-			de: "Schollenbrecher"
+			damage: 90,
 		},
-
-		damage: 90
-	}],
+	],
 
 	retreat: 3,
 	regulationMark: "H",
 
-	variants: {
-		normal: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+		{
+			type: "holo",
+			stamp: ["player-reward-program"],
+			foil: "cosmos",
+		},
+	],
 
 	illustrator: "Teeziro",
 
 	thirdParty: {
-		cardmarket: 760759
-	}
-}
+		cardmarket: 760759,
+	},
+};
 
-export default card
+export default card;

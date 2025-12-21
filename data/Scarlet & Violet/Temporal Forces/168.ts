@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [872],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Snom",
 		it: "Snom",
 		pt: "Snom",
-		de: "Snomnom"
+		de: "Snomnom",
 	},
 
 	rarity: "Illustration rare",
@@ -20,43 +20,46 @@ const card: Card = {
 	types: ["Water"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Water"],
+	attacks: [
+		{
+			cost: ["Water"],
 
-		name: {
-			en: "Powder Snow",
-			fr: "Poudreuse",
-			es: "Nieve Polvo",
-			it: "Polneve",
-			pt: "Neve em Pó",
-			de: "Pulverschnee"
+			name: {
+				en: "Powder Snow",
+				fr: "Poudreuse",
+				es: "Nieve Polvo",
+				it: "Polneve",
+				pt: "Neve em Pó",
+				de: "Pulverschnee",
+			},
+
+			effect: {
+				en: "Your opponent's Active Pokémon is now Asleep.",
+				fr: "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+				es: "El Pokémon Activo de tu rival pasa a estar Dormido.",
+				it: "Il Pokémon attivo del tuo avversario viene addormentato.",
+				pt: "O Pokémon Ativo do seu oponente agora está Adormecido.",
+				de: "Das Aktive Pokémon deines Gegners schläft jetzt.",
+			},
+
+			damage: 10,
 		},
-
-		effect: {
-			en: "Your opponent's Active Pokémon is now Asleep.",
-			fr: "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
-			es: "El Pokémon Activo de tu rival pasa a estar Dormido.",
-			it: "Il Pokémon attivo del tuo avversario viene addormentato.",
-			pt: "O Pokémon Ativo do seu oponente agora está Adormecido.",
-			de: "Das Aktive Pokémon deines Gegners schläft jetzt."
-		},
-
-		damage: 10
-	}],
+	],
 
 	retreat: 2,
 	regulationMark: "H",
 
-	variants: {
-		normal: false,
-		reverse: false
-	},
+	variants: [
+		{
+			type: "holo",
+		},
+	],
 
 	illustrator: "N-DESIGN Inc.",
 
 	thirdParty: {
-		cardmarket: 760798
-	}
-}
+		cardmarket: 760798,
+	},
+};
 
-export default card
+export default card;

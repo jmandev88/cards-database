@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [808],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Meltan",
 		it: "Meltan",
 		pt: "Meltan",
-		de: "Meltan"
+		de: "Meltan",
 	},
 
 	rarity: "Illustration rare",
@@ -20,34 +20,37 @@ const card: Card = {
 	types: ["Metal"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Metal", "Metal"],
+	attacks: [
+		{
+			cost: ["Metal", "Metal"],
 
-		name: {
-			en: "Headbutt",
-			fr: "Coup d'Boule",
-			es: "Golpe Cabeza",
-			it: "Bottintesta",
-			pt: "Cabeçada",
-			de: "Kopfnuss"
+			name: {
+				en: "Headbutt",
+				fr: "Coup d'Boule",
+				es: "Golpe Cabeza",
+				it: "Bottintesta",
+				pt: "Cabeçada",
+				de: "Kopfnuss",
+			},
+
+			damage: 50,
 		},
-
-		damage: 50
-	}],
+	],
 
 	retreat: 3,
 	regulationMark: "H",
 
-	variants: {
-		normal: false,
-		reverse: false
-	},
+	variants: [
+		{
+			type: "holo",
+		},
+	],
 
 	illustrator: "Masa",
 
 	thirdParty: {
-		cardmarket: 760809
-	}
-}
+		cardmarket: 760809,
+	},
+};
 
-export default card
+export default card;

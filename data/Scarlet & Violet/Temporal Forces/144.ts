@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	set: Set,
@@ -10,7 +10,7 @@ const card: Card = {
 		es: "Pokochos Gemelos",
 		it: "Poffin del Cuore",
 		pt: "Poffin de Colega",
-		de: "Dicke-Freunde-Knursp"
+		de: "Dicke-Freunde-Knursp",
 	},
 
 	rarity: "Uncommon",
@@ -22,21 +22,98 @@ const card: Card = {
 		es: "Busca en tu baraja hasta 2 Pokémon Básicos con 70 PS o menos y ponlos en tu Banca. Después, baraja las cartas de tu baraja.",
 		it: "Cerca nel tuo mazzo fino a due Pokémon Base con 70 PS o meno e mettili nella tua panchina. Poi rimischia le carte del tuo mazzo.",
 		pt: "Procure por até 2 Pokémon Básicos com 70 PS ou menos no seu baralho e coloque-os no seu Banco. Em seguida, embaralhe o seu baralho.",
-		de: "Durchsuche dein Deck nach bis zu 2 Basis-Pokémon mit 70 oder weniger KP und lege sie auf deine Bank. Mische anschließend dein Deck."
+		de: "Durchsuche dein Deck nach bis zu 2 Basis-Pokémon mit 70 oder weniger KP und lege sie auf deine Bank. Mische anschließend dein Deck.",
 	},
 
 	trainerType: "Item",
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
-
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+		{
+			type: "normal",
+			stamp: ["championship-europe"],
+		},
+		{
+			type: "normal",
+			stamp: ["championship-europe", "champion"],
+		},
+		{
+			type: "normal",
+			stamp: ["championship-europe", "staff"],
+		},
+		{
+			type: "normal",
+			stamp: ["championship-europe", "top-eight"],
+		},
+		{
+			type: "normal",
+			stamp: ["championship-latin-america"],
+		},
+		{
+			type: "normal",
+			stamp: ["championship-latin-america", "champion"],
+		},
+		{
+			type: "normal",
+			stamp: ["championship-latin-america", "staff"],
+		},
+		{
+			type: "normal",
+			stamp: ["championship-latin-america", "top-eight"],
+		},
+		{
+			type: "normal",
+			stamp: ["championship-north-america"],
+		},
+		{
+			type: "normal",
+			stamp: ["championship-north-america", "champion"],
+		},
+		{
+			type: "normal",
+			stamp: ["championship-north-america", "staff"],
+		},
+		{
+			type: "normal",
+			stamp: ["championship-north-america", "top-eight"],
+		},
+		{
+			type: "normal",
+			stamp: ["gym-challenge"],
+		},
+		{
+			type: "normal",
+			stamp: ["master-ball-league"],
+		},
+		{
+			type: "normal",
+			stamp: ["master-ball-league", "judge"],
+		},
+		{
+			type: "reverse",
+			stamp: ["player-rewards-program"],
+		},
+		{
+			type: "holo",
+			stamp: ["player-rewards-program"],
+			foil: "cosmos",
+		},
+		{
+			type: "normal",
+			stamp: ["player-rewards-program"],
+		},
+	],
 	illustrator: "AYUMI ODASHIMA",
 
 	thirdParty: {
-		cardmarket: 760774
-	}
-}
+		cardmarket: 760774,
+	},
+};
 
-export default card
+export default card;

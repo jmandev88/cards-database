@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	set: Set,
@@ -10,7 +10,7 @@ const card: Card = {
 		es: "Capturador Supremo",
 		it: "Acchiappa-Pokémon Eccellente",
 		pt: "Pegador Superior",
-		de: "Erstklassiger Fänger"
+		de: "Erstklassiger Fänger",
 	},
 
 	rarity: "ACE SPEC Rare",
@@ -22,22 +22,26 @@ const card: Card = {
 		es: "Cambia 1 de los Pokémon en Banca de tu rival por el Pokémon que esté en el Puesto Activo. Si lo haces, cambia tu Pokémon Activo por uno de tus Pokémon en Banca.",
 		it: "Sostituisci uno dei Pokémon nella panchina del tuo avversario con il suo Pokémon in posizione attiva. Se lo fai, scambia il tuo Pokémon attivo con uno della tua panchina.",
 		pt: "Mande 1 dos Pokémon no Banco do seu oponente para o Campo Ativo. Se fizer isto, troque o seu Pokémon Ativo por 1 dos seus Pokémon no Banco.",
-		de: "Wechsle 1 Pokémon von der Bank deines Gegners in die Aktive Position ein. Wenn du das machst, tausche dein Aktives Pokémon gegen 1 Pokémon auf deiner Bank aus."
+		de: "Wechsle 1 Pokémon von der Bank deines Gegners in die Aktive Position ein. Wenn du das machst, tausche dein Aktives Pokémon gegen 1 Pokémon auf deiner Bank aus.",
 	},
 
 	trainerType: "Item",
 	regulationMark: "H",
 
-	variants: {
-		reverse: false,
-		normal: false
-	},
-
+	variants: [
+		{
+			type: "holo",
+		},
+		{
+			type: "holo",
+			stamp: ["player-reward-program"],
+		},
+	],
 	illustrator: "Toyste Beach",
 
 	thirdParty: {
-		cardmarket: 760787
-	}
-}
+		cardmarket: 760787,
+	},
+};
 
-export default card
+export default card;

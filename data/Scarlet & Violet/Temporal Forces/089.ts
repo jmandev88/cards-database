@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [744],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Rockruff",
 		it: "Rockruff",
 		pt: "Rockruff",
-		de: "Wuffels"
+		de: "Wuffels",
 	},
 
 	rarity: "Common",
@@ -20,33 +20,40 @@ const card: Card = {
 	types: ["Fighting"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Colorless"],
+	attacks: [
+		{
+			cost: ["Colorless"],
 
-		name: {
-			en: "Paw Shake Punch",
-			fr: "Coup de Patte",
-			es: "Sacudir y Dar la Patita",
-			it: "Pugno Qua la Zampa",
-			pt: "Dá Soquinho",
-			de: "Pfötchenhieb"
+			name: {
+				en: "Paw Shake Punch",
+				fr: "Coup de Patte",
+				es: "Sacudir y Dar la Patita",
+				it: "Pugno Qua la Zampa",
+				pt: "Dá Soquinho",
+				de: "Pfötchenhieb",
+			},
+
+			damage: 10,
 		},
-
-		damage: 10
-	}],
+	],
 
 	retreat: 1,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "sui",
 
 	thirdParty: {
-		cardmarket: 760719
-	}
-}
+		cardmarket: 760719,
+	},
+};
 
-export default card
+export default card;

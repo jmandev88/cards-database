@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	set: Set,
@@ -10,7 +10,7 @@ const card: Card = {
 		es: "Energía Neosuperior",
 		it: "Neoenergia Vantaggio",
 		pt: "Energia Neossuperior",
-		de: "Neo-Aufputsch-Energie"
+		de: "Neo-Aufputsch-Energie",
 	},
 
 	rarity: "ACE SPEC Rare",
@@ -22,20 +22,25 @@ const card: Card = {
 		es: "Mientras esta carta esté unida a un Pokémon, proporciona 1 Energía {C}.\nSi esta carta está unida a un Pokémon de Fase 2, esta carta proporciona cualquier tipo de Energía, pero proporciona solo 2 Energías a la vez.",
 		it: "Fintanto che questa carta è assegnata a un Pokémon, fornisce Energia {C}.\nSe questa carta è assegnata a un Pokémon di Fase 2, fornisce Energie di qualsiasi tipo, ma solo due alla volta.",
 		pt: "Enquanto esta carta estiver ligada a um Pokémon, ela fornecerá Energia {C}.\nSe esta carta estiver ligada a um Pokémon Estágio 2, esta carta fornecerá todo tipo de Energia, mas fornecerá 2 Energias por vez.",
-		de: "Solange diese Karte an ein Pokémon angelegt ist, liefert sie {C}-Energie.\nWenn diese Karte an ein Phase-2-Pokémon angelegt ist, liefert diese Karte jeden Energietyp, aber immer nur 2 Energien."
+		de: "Solange diese Karte an ein Pokémon angelegt ist, liefert sie {C}-Energie.\nWenn diese Karte an ein Phase-2-Pokémon angelegt ist, liefert diese Karte jeden Energietyp, aber immer nur 2 Energien.",
 	},
 
 	energyType: "Special",
 	regulationMark: "H",
 
-	variants: {
-		normal: false,
-		reverse: false
-	},
+	variants: [
+		{
+			type: "holo",
+		},
+		{
+			type: "holo",
+			stamp: ["player-reward-program"],
+		},
+	],
 
 	thirdParty: {
-		cardmarket: 760792
-	}
-}
+		cardmarket: 760792,
+	},
+};
 
-export default card
+export default card;

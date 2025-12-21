@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	set: Set,
@@ -10,7 +10,7 @@ const card: Card = {
 		es: "Cápsula Reinicio",
 		it: "Navicella di Riavvio",
 		pt: "Cápsula do Reinício",
-		de: "Reboot-Modul"
+		de: "Reboot-Modul",
 	},
 
 	rarity: "ACE SPEC Rare",
@@ -22,22 +22,27 @@ const card: Card = {
 		es: "Une 1 carta de Energía Básica de tu pila de descartes a cada uno de tus Pokémon del futuro.",
 		it: "Assegna a ciascuno dei tuoi Pokémon Tempo Futuro una carta Energia base dalla tua pila degli scarti.",
 		pt: "Ligue uma carta de Energia Básica da sua pilha de descarte a cada um dos seus Pokémon Futuristas.",
-		de: "Lege 1 Basis-Energiekarte aus deinem Ablagestapel an jedes deiner Pokémon aus der Zukunft an."
+		de: "Lege 1 Basis-Energiekarte aus deinem Ablagestapel an jedes deiner Pokémon aus der Zukunft an.",
 	},
 
 	trainerType: "Item",
 	regulationMark: "H",
 
-	variants: {
-		reverse: false,
-		normal: false
-	},
+	variants: [
+		{
+			type: "holo",
+		},
+		{
+			type: "holo",
+			stamp: ["player-reward-program"],
+		},
+	],
 
 	illustrator: "inose yukie",
 
 	thirdParty: {
-		cardmarket: 760788
-	}
-}
+		cardmarket: 760788,
+	},
+};
 
-export default card
+export default card;

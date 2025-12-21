@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [838],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Carkol",
 		it: "Carkol",
 		pt: "Carkol",
-		de: "Wagong"
+		de: "Wagong",
 	},
 
 	rarity: "Common",
@@ -24,59 +24,67 @@ const card: Card = {
 		es: "Rolycoly",
 		it: "Rolycoly",
 		pt: "Rolycoly",
-		de: "Klonkett"
+		de: "Klonkett",
 	},
 	stage: "Stage1",
 
-	attacks: [{
-		cost: ["Fighting"],
+	attacks: [
+		{
+			cost: ["Fighting"],
 
-		name: {
-			en: "Knock Away",
-			fr: "Asticotage",
-			es: "Derribar",
-			it: "Scaraventa",
-			pt: "Jogar Longe",
-			de: "Zurückschlagen"
+			name: {
+				en: "Knock Away",
+				fr: "Asticotage",
+				es: "Derribar",
+				it: "Scaraventa",
+				pt: "Jogar Longe",
+				de: "Zurückschlagen",
+			},
+
+			effect: {
+				en: "Flip a coin. If heads, this attack does 40 more damage.",
+				fr: "Lancez une pièce. Si c'est face, cette attaque inflige 40 dégâts supplémentaires.",
+				es: "Lanza 1 moneda. Si sale cara, este ataque hace 40 puntos de daño más.",
+				it: "Lancia una moneta. Se esce testa, questo attacco infligge 40 danni in più.",
+				pt: "Jogue uma moeda. Se sair cara, este ataque causará 40 pontos de dano a mais.",
+				de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 40 Schadenspunkte mehr zu.",
+			},
+
+			damage: "20+",
 		},
+		{
+			cost: ["Fighting", "Colorless", "Colorless", "Colorless"],
 
-		effect: {
-			en: "Flip a coin. If heads, this attack does 40 more damage.",
-			fr: "Lancez une pièce. Si c'est face, cette attaque inflige 40 dégâts supplémentaires.",
-			es: "Lanza 1 moneda. Si sale cara, este ataque hace 40 puntos de daño más.",
-			it: "Lancia una moneta. Se esce testa, questo attacco infligge 40 danni in più.",
-			pt: "Jogue uma moeda. Se sair cara, este ataque causará 40 pontos de dano a mais.",
-			de: "Wirf 1 Münze. Bei Kopf fügt diese Attacke 40 Schadenspunkte mehr zu."
+			name: {
+				en: "Boulder Crush",
+				fr: "Rocher Écrasant",
+				es: "Alud de Rocas",
+				it: "Macignata",
+				pt: "Rocha Esmagadora",
+				de: "Felsenquetscher",
+			},
+
+			damage: 80,
 		},
-
-		damage: "20+"
-	}, {
-		cost: ["Fighting", "Colorless", "Colorless", "Colorless"],
-
-		name: {
-			en: "Boulder Crush",
-			fr: "Rocher Écrasant",
-			es: "Alud de Rocas",
-			it: "Macignata",
-			pt: "Rocha Esmagadora",
-			de: "Felsenquetscher"
-		},
-
-		damage: 80
-	}],
+	],
 
 	retreat: 4,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "Anesaki Dynamic",
 
 	thirdParty: {
-		cardmarket: 760724
-	}
-}
+		cardmarket: 760724,
+	},
+};
 
-export default card
+export default card;

@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [737],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Charjabug",
 		it: "Charjabug",
 		pt: "Charjabug",
-		de: "Akkup"
+		de: "Akkup",
 	},
 
 	rarity: "Illustration rare",
@@ -24,38 +24,41 @@ const card: Card = {
 		es: "Grubbin",
 		it: "Grubbin",
 		pt: "Grubbin",
-		de: "Mabula"
+		de: "Mabula",
 	},
 	stage: "Stage1",
 
-	attacks: [{
-		cost: ["Lightning", "Lightning"],
+	attacks: [
+		{
+			cost: ["Lightning", "Lightning"],
 
-		name: {
-			en: "Static Shock",
-			fr: "Choc Statique",
-			es: "Impacto Estático",
-			it: "Shock Statico",
-			pt: "Choque de Estática",
-			de: "Statischer Schock"
+			name: {
+				en: "Static Shock",
+				fr: "Choc Statique",
+				es: "Impacto Estático",
+				it: "Shock Statico",
+				pt: "Choque de Estática",
+				de: "Statischer Schock",
+			},
+
+			damage: 60,
 		},
-
-		damage: 60
-	}],
+	],
 
 	retreat: 2,
 	regulationMark: "H",
 
-	variants: {
-		normal: false,
-		reverse: false
-	},
+	variants: [
+		{
+			type: "holo",
+		},
+	],
 
 	illustrator: "Mina Nakai",
 
 	thirdParty: {
-		cardmarket: 760799
-	}
-}
+		cardmarket: 760799,
+	},
+};
 
-export default card
+export default card;

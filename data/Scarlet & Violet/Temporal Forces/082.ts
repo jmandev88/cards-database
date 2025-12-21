@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	dexId: [307],
@@ -11,7 +11,7 @@ const card: Card = {
 		es: "Meditite",
 		it: "Meditite",
 		pt: "Meditite",
-		de: "Meditie"
+		de: "Meditie",
 	},
 
 	rarity: "Common",
@@ -20,46 +20,54 @@ const card: Card = {
 	types: ["Fighting"],
 	stage: "Basic",
 
-	attacks: [{
-		cost: ["Fighting"],
+	attacks: [
+		{
+			cost: ["Fighting"],
 
-		name: {
-			en: "Slap",
-			fr: "Gifle",
-			es: "Bofetón",
-			it: "Sberla",
-			pt: "Tapa",
-			de: "Hieb"
+			name: {
+				en: "Slap",
+				fr: "Gifle",
+				es: "Bofetón",
+				it: "Sberla",
+				pt: "Tapa",
+				de: "Hieb",
+			},
+
+			damage: 10,
 		},
+		{
+			cost: ["Colorless", "Colorless"],
 
-		damage: 10
-	}, {
-		cost: ["Colorless", "Colorless"],
+			name: {
+				en: "Kick",
+				fr: "Koud'Pied",
+				es: "Patada",
+				it: "Calcio",
+				pt: "Chute",
+				de: "Tritt",
+			},
 
-		name: {
-			en: "Kick",
-			fr: "Koud'Pied",
-			es: "Patada",
-			it: "Calcio",
-			pt: "Chute",
-			de: "Tritt"
+			damage: 30,
 		},
-
-		damage: 30
-	}],
+	],
 
 	retreat: 1,
 	regulationMark: "H",
 
-	variants: {
-		holo: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "reverse",
+		},
+	],
 
 	illustrator: "Natsumi Miyanose",
 
 	thirdParty: {
-		cardmarket: 760712
-	}
-}
+		cardmarket: 760712,
+	},
+};
 
-export default card
+export default card;

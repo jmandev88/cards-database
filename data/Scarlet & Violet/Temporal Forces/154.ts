@@ -1,5 +1,5 @@
-import { Card } from "../../../interfaces"
-import Set from "../Temporal Forces"
+import { Card } from "../../../interfaces";
+import Set from "../Temporal Forces";
 
 const card: Card = {
 	set: Set,
@@ -10,7 +10,7 @@ const card: Card = {
 		es: "Cinturón Colosal",
 		it: "Maxicintura",
 		pt: "Cinturão Máximo",
-		de: "Maximalgürtel"
+		de: "Maximalgürtel",
 	},
 
 	rarity: "ACE SPEC Rare",
@@ -22,22 +22,27 @@ const card: Card = {
 		es: "Los ataques usados por el Pokémon al que esté unida esta carta hacen 50 puntos de daño más al Pokémon ex Activo de tu rival (antes de aplicar Debilidad y Resistencia).",
 		it: "Gli attacchi usati dal Pokémon a cui è assegnata questa carta infliggono 50 danni in più al Pokémon-ex attivo del tuo avversario, prima di aver applicato debolezza e resistenza.",
 		pt: "Os ataques usados pelo Pokémon ao qual esta carta está ligada causam 50 pontos de dano a mais ao Pokémon ex Ativo do seu oponente (antes de aplicar Fraqueza e Resistência).",
-		de: "Die eingesetzten Attacken von dem Pokémon, an das diese Karte angelegt ist, fügen dem Aktiven Pokémon-ex deines Gegners 50 Schadenspunkte mehr zu (bevor Schwäche und Resistenz verrechnet werden)."
+		de: "Die eingesetzten Attacken von dem Pokémon, an das diese Karte angelegt ist, fügen dem Aktiven Pokémon-ex deines Gegners 50 Schadenspunkte mehr zu (bevor Schwäche und Resistenz verrechnet werden).",
 	},
 
 	trainerType: "Tool",
 	regulationMark: "H",
 
-	variants: {
-		normal: false,
-		reverse: false
-	},
+	variants: [
+		{
+			type: "normal",
+		},
+		{
+			type: "holo",
+			stamp: ["player-reward-program"],
+		},
+	],
 
 	illustrator: "inose yukie",
 
 	thirdParty: {
-		cardmarket: 760784
-	}
-}
+		cardmarket: 760784,
+	},
+};
 
-export default card
+export default card;
