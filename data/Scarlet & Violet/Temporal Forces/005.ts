@@ -70,7 +70,7 @@ const card: Card = {
 		},
 
 		damage: 140
-		}],
+	}],
 
 	retreat: 2,
 	regulationMark: "H",
