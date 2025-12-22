@@ -20,22 +20,20 @@ const card: Card = {
 	types: ["Grass"],
 	stage: "Basic",
 
-	attacks: [
-		{
-			cost: ["Colorless", "Colorless", "Colorless"],
+	attacks: [{
+		cost: ["Colorless", "Colorless", "Colorless"],
 
-			name: {
-				en: "Ram",
-				fr: "Collision",
-				es: "Apisonar",
-				it: "Carica",
-				pt: "Aríete",
-				de: "Ramme"
-			},
+		name: {
+			en: "Ram",
+			fr: "Collision",
+			es: "Apisonar",
+			it: "Carica",
+			pt: "Aríete",
+			de: "Ramme"
+		},
 
-			damage: 50
-		}
-	],
+		damage: 50
+	}],
 
 	retreat: 2,
 	regulationMark: "H",
