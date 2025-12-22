@@ -1,50 +1,50 @@
-import { Card } from '../../../interfaces'
-import Set from '../Temporal Forces'
+import { Card } from "../../../interfaces"
+import Set from "../Temporal Forces"
 
 const card: Card = {
 	dexId: [749],
 	set: Set,
 
 	name: {
-		en: 'Mudbray',
-		fr: 'Tiboudet',
-		es: 'Mudbray',
-		it: 'Mudbray',
-		pt: 'Mudbray',
-		de: 'Pampuli'
+		en: "Mudbray",
+		fr: "Tiboudet",
+		es: "Mudbray",
+		it: "Mudbray",
+		pt: "Mudbray",
+		de: "Pampuli"
 	},
 
-	rarity: 'Common',
-	category: 'Pokemon',
+	rarity: "Common",
+	category: "Pokemon",
 	hp: 80,
-	types: ['Fighting'],
-	stage: 'Basic',
+	types: ["Fighting"],
+	stage: "Basic",
 
 	attacks: [
 		{
-			cost: ['Fighting'],
+			cost: ["Fighting"],
 
 			name: {
-				en: 'Smash Kick',
+				en: "Smash Kick",
 				fr: "Coud'Pattes",
-				es: 'Patada Destrucción',
-				it: 'Calcio Esplosivo',
-				pt: 'Chute Poderoso',
-				de: 'Schmetterkick'
+				es: "Patada Destrucción",
+				it: "Calcio Esplosivo",
+				pt: "Chute Poderoso",
+				de: "Schmetterkick"
 			},
 
 			damage: 10
 		},
 		{
-			cost: ['Fighting', 'Colorless', 'Colorless'],
+			cost: ["Fighting", "Colorless", "Colorless"],
 
 			name: {
-				en: 'Mud-Slap',
+				en: "Mud-Slap",
 				fr: "Coud'Boue",
-				es: 'Bofetón Lodo',
-				it: 'Fangosberla',
-				pt: 'Tapa de Lama',
-				de: 'Lehmschelle'
+				es: "Bofetón Lodo",
+				it: "Fangosberla",
+				pt: "Tapa de Lama",
+				de: "Lehmschelle"
 			},
 
 			damage: 50
@@ -52,17 +52,17 @@ const card: Card = {
 	],
 
 	retreat: 2,
-	regulationMark: 'H',
+	regulationMark: "H",
 
 	variants: [
 		{
-			type: 'normal'
+			type: "normal"
 		},
 		{
-			type: 'reverse'
+			type: "reverse"
 		}
 	],
-	illustrator: 'Narumi Sato',
+	illustrator: "Narumi Sato",
 
 	thirdParty: {
 		cardmarket: 760721

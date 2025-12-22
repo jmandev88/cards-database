@@ -1,53 +1,53 @@
-import { Card } from '../../../interfaces'
-import Set from '../Temporal Forces'
+import { Card } from "../../../interfaces"
+import Set from "../Temporal Forces"
 
 const card: Card = {
 	dexId: [873],
 	set: Set,
 
 	name: {
-		en: 'Frosmoth',
-		fr: 'Beldeneige',
-		es: 'Frosmoth',
-		it: 'Frosmoth',
-		pt: 'Frosmoth',
-		de: 'Mottineva'
+		en: "Frosmoth",
+		fr: "Beldeneige",
+		es: "Frosmoth",
+		it: "Frosmoth",
+		pt: "Frosmoth",
+		de: "Mottineva"
 	},
 
-	rarity: 'Common',
-	category: 'Pokemon',
+	rarity: "Common",
+	category: "Pokemon",
 	hp: 110,
-	types: ['Water'],
+	types: ["Water"],
 	evolveFrom: {
-		en: 'Snom',
-		fr: 'Frissonille',
-		es: 'Snom',
-		it: 'Snom',
-		pt: 'Snom',
-		de: 'Snomnom'
+		en: "Snom",
+		fr: "Frissonille",
+		es: "Snom",
+		it: "Snom",
+		pt: "Snom",
+		de: "Snomnom"
 	},
-	stage: 'Stage1',
+	stage: "Stage1",
 
 	attacks: [
 		{
-			cost: ['Water', 'Water'],
+			cost: ["Water", "Water"],
 
 			name: {
-				en: 'Freezing Chill',
-				fr: 'Frisson Glaçant',
-				es: 'Frío Helador',
-				it: 'Freddo Glaciale',
-				pt: 'Frio de Arrepiar',
-				de: 'Gefrierschock'
+				en: "Freezing Chill",
+				fr: "Frisson Glaçant",
+				es: "Frío Helador",
+				it: "Freddo Glaciale",
+				pt: "Frio de Arrepiar",
+				de: "Gefrierschock"
 			},
 
 			effect: {
 				en: "During your opponent's next turn, the Defending Pokémon can't attack.",
-				fr: 'Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas attaquer.',
-				es: 'Durante el próximo turno de tu rival, el Pokémon Defensor no puede atacar.',
-				it: 'Durante il prossimo turno del tuo avversario, il Pokémon difensore non può attaccare.',
-				pt: 'Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá atacar.',
-				de: 'Während des nächsten Zuges deines Gegners kann das Verteidigende Pokémon nicht angreifen.'
+				fr: "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas attaquer.",
+				es: "Durante el próximo turno de tu rival, el Pokémon Defensor no puede atacar.",
+				it: "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può attaccare.",
+				pt: "Durante o próximo turno do seu oponente, o Pokémon Defensor não poderá atacar.",
+				de: "Während des nächsten Zuges deines Gegners kann das Verteidigende Pokémon nicht angreifen."
 			},
 
 			damage: 100
@@ -55,18 +55,18 @@ const card: Card = {
 	],
 
 	retreat: 2,
-	regulationMark: 'H',
+	regulationMark: "H",
 
 	variants: [
 		{
-			type: 'normal'
+			type: "normal"
 		},
 		{
-			type: 'reverse'
+			type: "reverse"
 		}
 	],
 
-	illustrator: 'rika',
+	illustrator: "rika",
 
 	thirdParty: {
 		cardmarket: 760676

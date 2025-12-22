@@ -1,50 +1,50 @@
-import { Card } from '../../../interfaces'
-import Set from '../Temporal Forces'
+import { Card } from "../../../interfaces"
+import Set from "../Temporal Forces"
 
 const card: Card = {
 	dexId: [307],
 	set: Set,
 
 	name: {
-		en: 'Meditite',
-		fr: 'Méditikka',
-		es: 'Meditite',
-		it: 'Meditite',
-		pt: 'Meditite',
-		de: 'Meditie'
+		en: "Meditite",
+		fr: "Méditikka",
+		es: "Meditite",
+		it: "Meditite",
+		pt: "Meditite",
+		de: "Meditie"
 	},
 
-	rarity: 'Common',
-	category: 'Pokemon',
+	rarity: "Common",
+	category: "Pokemon",
 	hp: 70,
-	types: ['Fighting'],
-	stage: 'Basic',
+	types: ["Fighting"],
+	stage: "Basic",
 
 	attacks: [
 		{
-			cost: ['Fighting'],
+			cost: ["Fighting"],
 
 			name: {
-				en: 'Slap',
-				fr: 'Gifle',
-				es: 'Bofetón',
-				it: 'Sberla',
-				pt: 'Tapa',
-				de: 'Hieb'
+				en: "Slap",
+				fr: "Gifle",
+				es: "Bofetón",
+				it: "Sberla",
+				pt: "Tapa",
+				de: "Hieb"
 			},
 
 			damage: 10
 		},
 		{
-			cost: ['Colorless', 'Colorless'],
+			cost: ["Colorless", "Colorless"],
 
 			name: {
-				en: 'Kick',
+				en: "Kick",
 				fr: "Koud'Pied",
-				es: 'Patada',
-				it: 'Calcio',
-				pt: 'Chute',
-				de: 'Tritt'
+				es: "Patada",
+				it: "Calcio",
+				pt: "Chute",
+				de: "Tritt"
 			},
 
 			damage: 30
@@ -52,18 +52,18 @@ const card: Card = {
 	],
 
 	retreat: 1,
-	regulationMark: 'H',
+	regulationMark: "H",
 
 	variants: [
 		{
-			type: 'normal'
+			type: "normal"
 		},
 		{
-			type: 'reverse'
+			type: "reverse"
 		}
 	],
 
-	illustrator: 'Natsumi Miyanose',
+	illustrator: "Natsumi Miyanose",
 
 	thirdParty: {
 		cardmarket: 760712

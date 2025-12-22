@@ -1,50 +1,50 @@
-import { Card } from '../../../interfaces'
-import Set from '../Temporal Forces'
+import { Card } from "../../../interfaces"
+import Set from "../Temporal Forces"
 
 const card: Card = {
 	dexId: [837],
 	set: Set,
 
 	name: {
-		en: 'Rolycoly',
-		fr: 'Charbi',
-		es: 'Rolycoly',
-		it: 'Rolycoly',
-		pt: 'Rolycoly',
-		de: 'Klonkett'
+		en: "Rolycoly",
+		fr: "Charbi",
+		es: "Rolycoly",
+		it: "Rolycoly",
+		pt: "Rolycoly",
+		de: "Klonkett"
 	},
 
-	rarity: 'Common',
-	category: 'Pokemon',
+	rarity: "Common",
+	category: "Pokemon",
 	hp: 80,
-	types: ['Fighting'],
-	stage: 'Basic',
+	types: ["Fighting"],
+	stage: "Basic",
 
 	attacks: [
 		{
-			cost: ['Fighting'],
+			cost: ["Fighting"],
 
 			name: {
-				en: 'Rolling Tackle',
-				fr: 'Roulé-Boulé',
-				es: 'Placaje Giro',
-				it: 'Rollazione',
-				pt: 'Golpe de Colisão Rolante',
-				de: 'Rolltackle'
+				en: "Rolling Tackle",
+				fr: "Roulé-Boulé",
+				es: "Placaje Giro",
+				it: "Rollazione",
+				pt: "Golpe de Colisão Rolante",
+				de: "Rolltackle"
 			},
 
 			damage: 10
 		},
 		{
-			cost: ['Fighting', 'Colorless'],
+			cost: ["Fighting", "Colorless"],
 
 			name: {
-				en: 'Power Gem',
-				fr: 'Rayon Gemme',
-				es: 'Joya de Luz',
-				it: 'Gemmoforza',
-				pt: 'Gema Poderosa',
-				de: 'Juwelenkraft'
+				en: "Power Gem",
+				fr: "Rayon Gemme",
+				es: "Joya de Luz",
+				it: "Gemmoforza",
+				pt: "Gema Poderosa",
+				de: "Juwelenkraft"
 			},
 
 			damage: 30
@@ -52,18 +52,18 @@ const card: Card = {
 	],
 
 	retreat: 3,
-	regulationMark: 'H',
+	regulationMark: "H",
 
 	variants: [
 		{
-			type: 'normal'
+			type: "normal"
 		},
 		{
-			type: 'reverse'
+			type: "reverse"
 		}
 	],
 
-	illustrator: 'Aya Kusube',
+	illustrator: "Aya Kusube",
 
 	thirdParty: {
 		cardmarket: 760723

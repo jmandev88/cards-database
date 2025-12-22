@@ -1,53 +1,53 @@
-import { Card } from '../../../interfaces'
-import Set from '../Temporal Forces'
+import { Card } from "../../../interfaces"
+import Set from "../Temporal Forces"
 
 const card: Card = {
 	dexId: [93],
 	set: Set,
 
 	name: {
-		en: 'Haunter',
-		fr: 'Spectrum',
-		es: 'Haunter',
-		it: 'Haunter',
-		pt: 'Haunter',
-		de: 'Alpollo'
+		en: "Haunter",
+		fr: "Spectrum",
+		es: "Haunter",
+		it: "Haunter",
+		pt: "Haunter",
+		de: "Alpollo"
 	},
 
-	rarity: 'Common',
-	category: 'Pokemon',
+	rarity: "Common",
+	category: "Pokemon",
 	hp: 90,
-	types: ['Darkness'],
+	types: ["Darkness"],
 	evolveFrom: {
-		en: 'Gastly',
-		fr: 'Fantominus',
-		es: 'Gastly',
-		it: 'Gastly',
-		pt: 'Gastly',
-		de: 'Nebulak'
+		en: "Gastly",
+		fr: "Fantominus",
+		es: "Gastly",
+		it: "Gastly",
+		pt: "Gastly",
+		de: "Nebulak"
 	},
-	stage: 'Stage1',
+	stage: "Stage1",
 
 	attacks: [
 		{
-			cost: ['Darkness', 'Darkness'],
+			cost: ["Darkness", "Darkness"],
 
 			name: {
-				en: 'Super Poison Breath',
-				fr: 'Super Haleine Empoisonnée',
-				es: 'Aliento Supervenenoso',
-				it: 'Super Velenospiro',
-				pt: 'Super-hálito Venenoso',
-				de: 'Super-Gifthauch'
+				en: "Super Poison Breath",
+				fr: "Super Haleine Empoisonnée",
+				es: "Aliento Supervenenoso",
+				it: "Super Velenospiro",
+				pt: "Super-hálito Venenoso",
+				de: "Super-Gifthauch"
 			},
 
 			effect: {
 				en: "Your opponent's Active Pokémon is now Poisoned.",
-				fr: 'Le Pokémon Actif de votre adversaire est maintenant Empoisonné.',
-				es: 'El Pokémon Activo de tu rival pasa a estar Envenenado.',
-				it: 'Il Pokémon attivo del tuo avversario viene avvelenato.',
-				pt: 'O Pokémon Ativo do seu oponente agora está Envenenado.',
-				de: 'Das Aktive Pokémon deines Gegners ist jetzt vergiftet.'
+				fr: "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+				es: "El Pokémon Activo de tu rival pasa a estar Envenenado.",
+				it: "Il Pokémon attivo del tuo avversario viene avvelenato.",
+				pt: "O Pokémon Ativo do seu oponente agora está Envenenado.",
+				de: "Das Aktive Pokémon deines Gegners ist jetzt vergiftet."
 			},
 
 			damage: 30
@@ -55,22 +55,22 @@ const card: Card = {
 	],
 
 	retreat: 1,
-	regulationMark: 'H',
+	regulationMark: "H",
 
 	variants: [
 		{
-			type: 'normal'
+			type: "normal"
 		},
 		{
-			type: 'reverse'
+			type: "reverse"
 		},
 		{
-			type: 'normal',
-			stamp: ['trick-or-trade']
+			type: "normal",
+			stamp: ["trick-or-trade"]
 		}
 	],
 
-	illustrator: 'MAHOU',
+	illustrator: "MAHOU",
 
 	thirdParty: {
 		cardmarket: 760733
