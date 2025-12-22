@@ -1,59 +1,59 @@
-import { Card } from "../../../interfaces";
-import Set from "../Temporal Forces";
+import { Card } from '../../../interfaces'
+import Set from '../Temporal Forces'
 
 const card: Card = {
 	dexId: [946],
 	set: Set,
 
 	name: {
-		en: "Bramblin",
-		fr: "Virovent",
-		es: "Bramblin",
-		it: "Bramblin",
-		pt: "Bramblin",
-		de: "Weherba",
+		en: 'Bramblin',
+		fr: 'Virovent',
+		es: 'Bramblin',
+		it: 'Bramblin',
+		pt: 'Bramblin',
+		de: 'Weherba'
 	},
 
-	rarity: "Common",
-	category: "Pokemon",
+	rarity: 'Common',
+	category: 'Pokemon',
 	hp: 50,
-	types: ["Grass"],
-	stage: "Basic",
+	types: ['Grass'],
+	stage: 'Basic',
 
 	attacks: [
 		{
-			cost: ["Colorless", "Colorless"],
+			cost: ['Colorless', 'Colorless'],
 
 			name: {
-				en: "Spike Sting",
-				fr: "Pic Piquant",
-				es: "Picotazo Púas",
-				it: "Aculeopuntura",
-				pt: "Ferroada de Espinhos",
-				de: "Stachelstich",
+				en: 'Spike Sting',
+				fr: 'Pic Piquant',
+				es: 'Picotazo Púas',
+				it: 'Aculeopuntura',
+				pt: 'Ferroada de Espinhos',
+				de: 'Stachelstich'
 			},
 
-			damage: 30,
-		},
+			damage: 30
+		}
 	],
 
 	retreat: 1,
-	regulationMark: "H",
+	regulationMark: 'H',
 
 	variants: [
 		{
-			type: "normal",
+			type: 'normal'
 		},
 		{
-			type: "reverse",
-		},
+			type: 'reverse'
+		}
 	],
 
-	illustrator: "Tetsu Kayama",
+	illustrator: 'Tetsu Kayama',
 
 	thirdParty: {
-		cardmarket: 760650,
-	},
-};
+		cardmarket: 760650
+	}
+}
 
-export default card;
+export default card

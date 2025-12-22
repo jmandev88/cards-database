@@ -1,89 +1,89 @@
-import { Card } from "../../../interfaces";
-import Set from "../Temporal Forces";
+import { Card } from '../../../interfaces'
+import Set from '../Temporal Forces'
 
 const card: Card = {
 	dexId: [286],
 	set: Set,
 
 	name: {
-		en: "Breloom",
-		fr: "Chapignon",
-		es: "Breloom",
-		it: "Breloom",
-		pt: "Breloom",
-		de: "Kapilz",
+		en: 'Breloom',
+		fr: 'Chapignon',
+		es: 'Breloom',
+		it: 'Breloom',
+		pt: 'Breloom',
+		de: 'Kapilz'
 	},
 
-	rarity: "Common",
-	category: "Pokemon",
+	rarity: 'Common',
+	category: 'Pokemon',
 	hp: 120,
-	types: ["Grass"],
+	types: ['Grass'],
 	evolveFrom: {
-		en: "Shroomish",
-		fr: "Balignon",
-		es: "Shroomish",
-		it: "Shroomish",
-		pt: "Shroomish",
-		de: "Knilz",
+		en: 'Shroomish',
+		fr: 'Balignon',
+		es: 'Shroomish',
+		it: 'Shroomish',
+		pt: 'Shroomish',
+		de: 'Knilz'
 	},
-	stage: "Stage1",
+	stage: 'Stage1',
 
 	attacks: [
 		{
-			cost: ["Colorless"],
+			cost: ['Colorless'],
 
 			name: {
-				en: "Punch",
+				en: 'Punch',
 				fr: "Koud'Poing",
-				es: "Puño",
-				it: "Pugno",
-				pt: "Soco",
-				de: "Boxhieb",
+				es: 'Puño',
+				it: 'Pugno',
+				pt: 'Soco',
+				de: 'Boxhieb'
 			},
 
-			damage: 30,
+			damage: 30
 		},
 		{
-			cost: ["Grass", "Colorless"],
+			cost: ['Grass', 'Colorless'],
 
 			name: {
-				en: "Knuckle Impact",
+				en: 'Knuckle Impact',
 				fr: "Coup d'Articulations",
-				es: "Impacto Nudillo",
-				it: "Impatto Nocche",
-				pt: "Impacto Ossudo",
-				de: "Knöchelprall",
+				es: 'Impacto Nudillo',
+				it: 'Impatto Nocche',
+				pt: 'Impacto Ossudo',
+				de: 'Knöchelprall'
 			},
 
 			effect: {
 				en: "During your next turn, this Pokémon can't attack.",
-				fr: "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
-				es: "Durante tu próximo turno, este Pokémon no puede atacar.",
-				it: "Durante il tuo prossimo turno, questo Pokémon non può attaccare.",
-				pt: "Durante o seu próximo turno, este Pokémon não poderá atacar.",
-				de: "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.",
+				fr: 'Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.',
+				es: 'Durante tu próximo turno, este Pokémon no puede atacar.',
+				it: 'Durante il tuo prossimo turno, questo Pokémon non può attaccare.',
+				pt: 'Durante o seu próximo turno, este Pokémon não poderá atacar.',
+				de: 'Während deines nächsten Zuges kann dieses Pokémon nicht angreifen.'
 			},
 
-			damage: 120,
-		},
+			damage: 120
+		}
 	],
 
 	retreat: 1,
-	regulationMark: "H",
+	regulationMark: 'H',
 
 	variants: [
 		{
-			type: "normal",
+			type: 'normal'
 		},
 		{
-			type: "reverse",
-		},
+			type: 'reverse'
+		}
 	],
-	illustrator: "Taiga Kasai",
+	illustrator: 'Taiga Kasai',
 
 	thirdParty: {
-		cardmarket: 760637,
-	},
-};
+		cardmarket: 760637
+	}
+}
 
-export default card;
+export default card

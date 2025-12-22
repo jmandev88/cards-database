@@ -1,59 +1,59 @@
-import { Card } from "../../../interfaces";
-import Set from "../Temporal Forces";
+import { Card } from '../../../interfaces'
+import Set from '../Temporal Forces'
 
 const card: Card = {
 	dexId: [318],
 	set: Set,
 
 	name: {
-		en: "Carvanha",
-		fr: "Carvanha",
-		es: "Carvanha",
-		it: "Carvanha",
-		pt: "Carvanha",
-		de: "Kanivanha",
+		en: 'Carvanha',
+		fr: 'Carvanha',
+		es: 'Carvanha',
+		it: 'Carvanha',
+		pt: 'Carvanha',
+		de: 'Kanivanha'
 	},
 
-	rarity: "Common",
-	category: "Pokemon",
+	rarity: 'Common',
+	category: 'Pokemon',
 	hp: 50,
-	types: ["Water"],
-	stage: "Basic",
+	types: ['Water'],
+	stage: 'Basic',
 
 	attacks: [
 		{
-			cost: ["Colorless", "Colorless"],
+			cost: ['Colorless', 'Colorless'],
 
 			name: {
-				en: "Wave Splash",
-				fr: "Grosse Vague",
-				es: "Chapoteo Ondulante",
+				en: 'Wave Splash',
+				fr: 'Grosse Vague',
+				es: 'Chapoteo Ondulante',
 				it: "Schizzi d'Onda",
-				pt: "Onda Borrifante",
-				de: "Wellenplatscher",
+				pt: 'Onda Borrifante',
+				de: 'Wellenplatscher'
 			},
 
-			damage: 30,
-		},
+			damage: 30
+		}
 	],
 
 	retreat: 1,
-	regulationMark: "H",
+	regulationMark: 'H',
 
 	variants: [
 		{
-			type: "normal",
+			type: 'normal'
 		},
 		{
-			type: "reverse",
-		},
+			type: 'reverse'
+		}
 	],
 
-	illustrator: "Souichirou Gunjima",
+	illustrator: 'Souichirou Gunjima',
 
 	thirdParty: {
-		cardmarket: 760672,
-	},
-};
+		cardmarket: 760672
+	}
+}
 
-export default card;
+export default card

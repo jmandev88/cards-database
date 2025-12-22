@@ -1,56 +1,56 @@
-import { Card } from "../../../interfaces";
-import Set from "../Temporal Forces";
+import { Card } from '../../../interfaces'
+import Set from '../Temporal Forces'
 
 const card: Card = {
 	dexId: [808],
 	set: Set,
 
 	name: {
-		en: "Meltan",
-		fr: "Meltan",
-		es: "Meltan",
-		it: "Meltan",
-		pt: "Meltan",
-		de: "Meltan",
+		en: 'Meltan',
+		fr: 'Meltan',
+		es: 'Meltan',
+		it: 'Meltan',
+		pt: 'Meltan',
+		de: 'Meltan'
 	},
 
-	rarity: "Illustration rare",
-	category: "Pokemon",
+	rarity: 'Illustration rare',
+	category: 'Pokemon',
 	hp: 80,
-	types: ["Metal"],
-	stage: "Basic",
+	types: ['Metal'],
+	stage: 'Basic',
 
 	attacks: [
 		{
-			cost: ["Metal", "Metal"],
+			cost: ['Metal', 'Metal'],
 
 			name: {
-				en: "Headbutt",
+				en: 'Headbutt',
 				fr: "Coup d'Boule",
-				es: "Golpe Cabeza",
-				it: "Bottintesta",
-				pt: "Cabeçada",
-				de: "Kopfnuss",
+				es: 'Golpe Cabeza',
+				it: 'Bottintesta',
+				pt: 'Cabeçada',
+				de: 'Kopfnuss'
 			},
 
-			damage: 50,
-		},
+			damage: 50
+		}
 	],
 
 	retreat: 3,
-	regulationMark: "H",
+	regulationMark: 'H',
 
 	variants: [
 		{
-			type: "holo",
-		},
+			type: 'holo'
+		}
 	],
 
-	illustrator: "Masa",
+	illustrator: 'Masa',
 
 	thirdParty: {
-		cardmarket: 760809,
-	},
-};
+		cardmarket: 760809
+	}
+}
 
-export default card;
+export default card

@@ -1,59 +1,59 @@
-import { Card } from "../../../interfaces";
-import Set from "../Temporal Forces";
+import { Card } from '../../../interfaces'
+import Set from '../Temporal Forces'
 
 const card: Card = {
 	dexId: [204],
 	set: Set,
 
 	name: {
-		en: "Pineco",
-		fr: "Pomdepik",
-		es: "Pineco",
-		it: "Pineco",
-		pt: "Pineco",
-		de: "Tannza",
+		en: 'Pineco',
+		fr: 'Pomdepik',
+		es: 'Pineco',
+		it: 'Pineco',
+		pt: 'Pineco',
+		de: 'Tannza'
 	},
 
-	rarity: "Common",
-	category: "Pokemon",
+	rarity: 'Common',
+	category: 'Pokemon',
 	hp: 70,
-	types: ["Grass"],
-	stage: "Basic",
+	types: ['Grass'],
+	stage: 'Basic',
 
 	attacks: [
 		{
-			cost: ["Colorless", "Colorless", "Colorless"],
+			cost: ['Colorless', 'Colorless', 'Colorless'],
 
 			name: {
-				en: "Ram",
-				fr: "Collision",
-				es: "Apisonar",
-				it: "Carica",
-				pt: "Aríete",
-				de: "Ramme",
+				en: 'Ram',
+				fr: 'Collision',
+				es: 'Apisonar',
+				it: 'Carica',
+				pt: 'Aríete',
+				de: 'Ramme'
 			},
 
-			damage: 50,
-		},
+			damage: 50
+		}
 	],
 
 	retreat: 2,
-	regulationMark: "H",
+	regulationMark: 'H',
 
 	variants: [
 		{
-			type: "normal",
+			type: 'normal'
 		},
 		{
-			type: "reverse",
-		},
+			type: 'reverse'
+		}
 	],
 
-	illustrator: "Midori Harada",
+	illustrator: 'Midori Harada',
 
 	thirdParty: {
-		cardmarket: 760632,
-	},
-};
+		cardmarket: 760632
+	}
+}
 
-export default card;
+export default card

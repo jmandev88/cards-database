@@ -1,90 +1,90 @@
-import { Card } from "../../../interfaces";
-import Set from "../Temporal Forces";
+import { Card } from '../../../interfaces'
+import Set from '../Temporal Forces'
 
 const card: Card = {
 	dexId: [78],
 	set: Set,
 
 	name: {
-		en: "Rapidash",
-		fr: "Galopa",
-		es: "Rapidash",
-		it: "Rapidash",
-		pt: "Rapidash",
-		de: "Gallopa",
+		en: 'Rapidash',
+		fr: 'Galopa',
+		es: 'Rapidash',
+		it: 'Rapidash',
+		pt: 'Rapidash',
+		de: 'Gallopa'
 	},
 
-	rarity: "Uncommon",
-	category: "Pokemon",
+	rarity: 'Uncommon',
+	category: 'Pokemon',
 	hp: 110,
-	types: ["Fire"],
+	types: ['Fire'],
 	evolveFrom: {
-		en: "Ponyta",
-		fr: "Ponyta",
-		es: "Ponyta",
-		it: "Ponyta",
-		pt: "Ponyta",
-		de: "Ponita",
+		en: 'Ponyta',
+		fr: 'Ponyta',
+		es: 'Ponyta',
+		it: 'Ponyta',
+		pt: 'Ponyta',
+		de: 'Ponita'
 	},
-	stage: "Stage1",
+	stage: 'Stage1',
 
 	attacks: [
 		{
-			cost: ["Colorless"],
+			cost: ['Colorless'],
 
 			name: {
-				en: "Combustion",
-				fr: "Fournaise",
-				es: "Combustión",
-				it: "Fuoco Continuo",
-				pt: "Combustão",
-				de: "Glühen",
+				en: 'Combustion',
+				fr: 'Fournaise',
+				es: 'Combustión',
+				it: 'Fuoco Continuo',
+				pt: 'Combustão',
+				de: 'Glühen'
 			},
 
-			damage: 20,
+			damage: 20
 		},
 		{
-			cost: ["Fire", "Colorless"],
+			cost: ['Fire', 'Colorless'],
 
 			name: {
-				en: "Inferno Onrush",
+				en: 'Inferno Onrush',
 				fr: "Torrent d'Enfer",
-				es: "Infierno Desatado",
-				it: "Assalto Infernale",
-				pt: "Investida Infernal",
-				de: "Inferno-Ansturm",
+				es: 'Infierno Desatado',
+				it: 'Assalto Infernale',
+				pt: 'Investida Infernal',
+				de: 'Inferno-Ansturm'
 			},
 
 			effect: {
-				en: "This Pokémon also does 30 damage to itself.",
+				en: 'This Pokémon also does 30 damage to itself.',
 				fr: "Ce Pokémon s'inflige aussi 30 dégâts.",
-				es: "Este Pokémon también se hace 30 puntos de daño a sí mismo.",
-				it: "Questo Pokémon infligge anche 30 danni a se stesso.",
-				pt: "Este Pokémon também causa 30 pontos de dano a si mesmo.",
-				de: "Dieses Pokémon fügt auch sich selbst 30 Schadenspunkte zu.",
+				es: 'Este Pokémon también se hace 30 puntos de daño a sí mismo.',
+				it: 'Questo Pokémon infligge anche 30 danni a se stesso.',
+				pt: 'Este Pokémon também causa 30 pontos de dano a si mesmo.',
+				de: 'Dieses Pokémon fügt auch sich selbst 30 Schadenspunkte zu.'
 			},
 
-			damage: 120,
-		},
+			damage: 120
+		}
 	],
 
 	retreat: 0,
-	regulationMark: "H",
+	regulationMark: 'H',
 
 	variants: [
 		{
-			type: "normal",
+			type: 'normal'
 		},
 		{
-			type: "reverse",
-		},
+			type: 'reverse'
+		}
 	],
 
-	illustrator: "Ryota Murayama",
+	illustrator: 'Ryota Murayama',
 
 	thirdParty: {
-		cardmarket: 760657,
-	},
-};
+		cardmarket: 760657
+	}
+}
 
-export default card;
+export default card

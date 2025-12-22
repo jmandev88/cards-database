@@ -1,64 +1,64 @@
-import { Card } from "../../../interfaces";
-import Set from "../Temporal Forces";
+import { Card } from '../../../interfaces'
+import Set from '../Temporal Forces'
 
 const card: Card = {
 	dexId: [737],
 	set: Set,
 
 	name: {
-		en: "Charjabug",
-		fr: "Chrysapile",
-		es: "Charjabug",
-		it: "Charjabug",
-		pt: "Charjabug",
-		de: "Akkup",
+		en: 'Charjabug',
+		fr: 'Chrysapile',
+		es: 'Charjabug',
+		it: 'Charjabug',
+		pt: 'Charjabug',
+		de: 'Akkup'
 	},
 
-	rarity: "Illustration rare",
-	category: "Pokemon",
+	rarity: 'Illustration rare',
+	category: 'Pokemon',
 	hp: 100,
-	types: ["Lightning"],
+	types: ['Lightning'],
 	evolveFrom: {
-		en: "Grubbin",
-		fr: "Larvibule",
-		es: "Grubbin",
-		it: "Grubbin",
-		pt: "Grubbin",
-		de: "Mabula",
+		en: 'Grubbin',
+		fr: 'Larvibule',
+		es: 'Grubbin',
+		it: 'Grubbin',
+		pt: 'Grubbin',
+		de: 'Mabula'
 	},
-	stage: "Stage1",
+	stage: 'Stage1',
 
 	attacks: [
 		{
-			cost: ["Lightning", "Lightning"],
+			cost: ['Lightning', 'Lightning'],
 
 			name: {
-				en: "Static Shock",
-				fr: "Choc Statique",
-				es: "Impacto Estático",
-				it: "Shock Statico",
-				pt: "Choque de Estática",
-				de: "Statischer Schock",
+				en: 'Static Shock',
+				fr: 'Choc Statique',
+				es: 'Impacto Estático',
+				it: 'Shock Statico',
+				pt: 'Choque de Estática',
+				de: 'Statischer Schock'
 			},
 
-			damage: 60,
-		},
+			damage: 60
+		}
 	],
 
 	retreat: 2,
-	regulationMark: "H",
+	regulationMark: 'H',
 
 	variants: [
 		{
-			type: "holo",
-		},
+			type: 'holo'
+		}
 	],
 
-	illustrator: "Mina Nakai",
+	illustrator: 'Mina Nakai',
 
 	thirdParty: {
-		cardmarket: 760799,
-	},
-};
+		cardmarket: 760799
+	}
+}
 
-export default card;
+export default card

@@ -1,73 +1,73 @@
-import { Card } from "../../../interfaces";
-import Set from "../Temporal Forces";
+import { Card } from '../../../interfaces'
+import Set from '../Temporal Forces'
 
 const card: Card = {
 	dexId: [125],
 	set: Set,
 
 	name: {
-		en: "Electabuzz",
-		fr: "Élektek",
-		es: "Electabuzz",
-		it: "Electabuzz",
-		pt: "Electabuzz",
-		de: "Elektek",
+		en: 'Electabuzz',
+		fr: 'Élektek',
+		es: 'Electabuzz',
+		it: 'Electabuzz',
+		pt: 'Electabuzz',
+		de: 'Elektek'
 	},
 
-	rarity: "Common",
-	category: "Pokemon",
+	rarity: 'Common',
+	category: 'Pokemon',
 	hp: 90,
-	types: ["Lightning"],
-	stage: "Basic",
+	types: ['Lightning'],
+	stage: 'Basic',
 
 	attacks: [
 		{
-			cost: ["Lightning"],
+			cost: ['Lightning'],
 
 			name: {
-				en: "Chop",
-				fr: "Coup Tranchant",
-				es: "Cortar",
-				it: "Ceffone",
-				pt: "Trincar",
-				de: "Hacker",
+				en: 'Chop',
+				fr: 'Coup Tranchant',
+				es: 'Cortar',
+				it: 'Ceffone',
+				pt: 'Trincar',
+				de: 'Hacker'
 			},
 
-			damage: 20,
+			damage: 20
 		},
 		{
-			cost: ["Lightning", "Colorless", "Colorless"],
+			cost: ['Lightning', 'Colorless', 'Colorless'],
 
 			name: {
-				en: "Electric Punch",
-				fr: "Poing Électrique",
-				es: "Puño Eléctrico",
-				it: "Pugno Elettrico",
-				pt: "Murro Elétrico",
-				de: "Elektroschlag",
+				en: 'Electric Punch',
+				fr: 'Poing Électrique',
+				es: 'Puño Eléctrico',
+				it: 'Pugno Elettrico',
+				pt: 'Murro Elétrico',
+				de: 'Elektroschlag'
 			},
 
-			damage: 50,
-		},
+			damage: 50
+		}
 	],
 
 	retreat: 2,
-	regulationMark: "H",
+	regulationMark: 'H',
 
 	variants: [
 		{
-			type: "normal",
+			type: 'normal'
 		},
 		{
-			type: "reverse",
-		},
+			type: 'reverse'
+		}
 	],
 
-	illustrator: "Uta",
+	illustrator: 'Uta',
 
 	thirdParty: {
-		cardmarket: 760683,
-	},
-};
+		cardmarket: 760683
+	}
+}
 
-export default card;
+export default card
