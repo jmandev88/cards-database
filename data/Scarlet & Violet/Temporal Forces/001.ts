@@ -53,7 +53,7 @@ const card: Card = {
 			pt: "Durante o seu próximo turno, este Pokémon não poderá usar Ataque Cortante.",
 			de: "Während deines nächsten Zuges kann dieses Pokémon Schlitzender Schlag nicht einsetzen."
 		},
-		
+
 		damage: 60
 	}],
 
