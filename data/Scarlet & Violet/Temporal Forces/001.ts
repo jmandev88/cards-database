@@ -22,6 +22,7 @@ const card: Card = {
 
 	attacks: [{
 		cost: ["Colorless"],
+
 		name: {
 			en: "Cut Up",
 			fr: "Découpage",
@@ -30,9 +31,11 @@ const card: Card = {
 			pt: "Dilacerar",
 			de: "Zerhäckseln"
 		},
+
 		damage: 10
 	}, {
 		cost: ["Colorless", "Colorless"],
+
 		name: {
 			en: "Slashing Strike",
 			fr: "Coup Déchirant",
@@ -41,6 +44,7 @@ const card: Card = {
 			pt: "Ataque Cortante",
 			de: "Schlitzender Schlag"
 		},
+
 		effect: {
 			en: "During your next turn, this Pokémon can't use Slashing Strike.",
 			fr: "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Coup Déchirant.",
@@ -49,6 +53,7 @@ const card: Card = {
 			pt: "Durante o seu próximo turno, este Pokémon não poderá usar Ataque Cortante.",
 			de: "Während deines nächsten Zuges kann dieses Pokémon Schlitzender Schlag nicht einsetzen."
 		},
+		
 		damage: 60
 	}],
 
