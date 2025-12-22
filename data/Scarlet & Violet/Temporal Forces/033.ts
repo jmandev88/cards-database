@@ -28,36 +28,34 @@ const card: Card = {
 	},
 	stage: "Stage1",
 
-	attacks: [
-		{
-			cost: ["Fire"],
+	attacks: [{
+		cost: ["Fire"],
 
-			name: {
-				en: "Bite",
-				fr: "Morsure",
-				es: "Mordisco",
-				it: "Morso",
-				pt: "Mordida",
-				de: "Biss"
-			},
-
-			damage: 30
+		name: {
+			en: "Bite",
+			fr: "Morsure",
+			es: "Mordisco",
+			it: "Morso",
+			pt: "Mordida",
+			de: "Biss"
 		},
-		{
-			cost: ["Fire", "Colorless", "Colorless"],
 
-			name: {
-				en: "Flare Strike",
-				fr: "Attaque Flamboyante",
-				es: "Impacto Ígneo",
-				it: "Colpo Fiammante",
-				pt: "Golpe de Chamas",
-				de: "Feuergeschoss"
-			},
+		damage: 30
+	}, {
+		cost: ["Fire", "Colorless", "Colorless"],
 
-			effect: {
-				en: "During your next turn, this Pokémon can't use Flare Strike.",
-				fr: "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Attaque Flamboyante.",
+		name: {
+			en: "Flare Strike",
+			fr: "Attaque Flamboyante",
+			es: "Impacto Ígneo",
+			it: "Colpo Fiammante",
+			pt: "Golpe de Chamas",
+			de: "Feuergeschoss"
+		},
+
+		effect: {
+			en: "During your next turn, this Pokémon can't use Flare Strike.",
+			fr: "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Attaque Flamboyante.",
 				es: "Durante tu próximo turno, este Pokémon no puede usar Impacto Ígneo.",
 				it: "Durante il tuo prossimo turno, questo Pokémon non può usare Colpo Fiammante.",
 				pt: "Durante o seu próximo turno, este Pokémon não poderá usar Golpe de Chamas.",

@@ -1,6 +1,7 @@
 import { Card } from "../../../interfaces"
 import Set from "../Temporal Forces"
 
+
 const card: Card = {
 	dexId: [946],
 	set: Set,
@@ -18,42 +19,36 @@ const card: Card = {
 	category: "Pokemon",
 	hp: 50,
 	types: ["Grass"],
+
 	stage: "Basic",
 
-	attacks: [
-		{
-			cost: ["Colorless", "Colorless"],
-
-			name: {
-				en: "Spike Sting",
-				fr: "Pic Piquant",
-				es: "Picotazo Púas",
-				it: "Aculeopuntura",
-				pt: "Ferroada de Espinhos",
-				de: "Stachelstich"
-			},
-
-			damage: 30
-		}
-	],
+       attacks: [{
+	       cost: ["Colorless", "Colorless"],
+	       name: {
+		       en: "Spike Sting",
+		       fr: "Pic Piquant",
+		       es: "Picotazo Púas",
+		       it: "Aculeopuntura",
+		       pt: "Ferroada de Espinhos",
+		       de: "Stachelstich"
+	       },
+	       damage: 30
+       }],
 
 	retreat: 1,
 	regulationMark: "H",
 
-	variants: [
-		{
-			type: "normal"
-		},
-		{
-			type: "reverse"
-		}
-	],
+       variants: [
+	       {
+		       type: "normal"
+	       },
+	       {
+		       type: "reverse"
+	       }
+       ],
 
 	illustrator: "Tetsu Kayama",
 
-	thirdParty: {
-		cardmarket: 760650
-	}
+	thirdParty: { cardmarket: 760650 }
 }
-
 export default card
