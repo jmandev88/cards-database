@@ -1,0 +1,15 @@
+{
+  "set": "Gym Challenge",
+  "missing": [
+    {
+      "file": "data/Gym/Gym Challenge/75.ts",
+      "id": "75",
+      "name": "Giovanni"
+    },
+    {
+      "file": "data/Gym/Gym Challenge/76.ts",
+      "id": "76",
+      "name": "Giovanni"
+    }
+  ]
+}

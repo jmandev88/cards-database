@@ -1,0 +1,65 @@
+{
+  "set": "Macdonald's Collection 2011",
+  "missing": [
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2011/1.ts",
+      "id": "1",
+      "name": "Slam"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2011/10.ts",
+      "id": "10",
+      "name": "Charge Beam"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2011/11.ts",
+      "id": "11",
+      "name": "Growl"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2011/12.ts",
+      "id": "12",
+      "name": "Double Slap"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2011/2.ts",
+      "id": "2",
+      "name": "Mega Drain"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2011/3.ts",
+      "id": "3",
+      "name": "Ember"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2011/4.ts",
+      "id": "4",
+      "name": "Water Pulse"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2011/5.ts",
+      "id": "5",
+      "name": "Pound"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2011/6.ts",
+      "id": "6",
+      "name": "Quick Attack"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2011/7.ts",
+      "id": "7",
+      "name": "Yawn"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2011/8.ts",
+      "id": "8",
+      "name": "Sand Tomb"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2011/9.ts",
+      "id": "9",
+      "name": "Scratch"
+    }
+  ]
+}

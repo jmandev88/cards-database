@@ -1,0 +1,55 @@
+{
+  "set": "EX trainer Kit (Latios)",
+  "missing": [
+    {
+      "file": "data/Trainer kits/EX trainer Kit (Latios)/1.ts",
+      "id": "1",
+      "name": "Electrike"
+    },
+    {
+      "file": "data/Trainer kits/EX trainer Kit (Latios)/10.ts",
+      "id": "10",
+      "name": "Lightning Energy"
+    },
+    {
+      "file": "data/Trainer kits/EX trainer Kit (Latios)/2.ts",
+      "id": "2",
+      "name": "Latios"
+    },
+    {
+      "file": "data/Trainer kits/EX trainer Kit (Latios)/3.ts",
+      "id": "3",
+      "name": "Linoone"
+    },
+    {
+      "file": "data/Trainer kits/EX trainer Kit (Latios)/4.ts",
+      "id": "4",
+      "name": "Magnemite"
+    },
+    {
+      "file": "data/Trainer kits/EX trainer Kit (Latios)/5.ts",
+      "id": "5",
+      "name": "Magneton"
+    },
+    {
+      "file": "data/Trainer kits/EX trainer Kit (Latios)/6.ts",
+      "id": "6",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Trainer kits/EX trainer Kit (Latios)/7.ts",
+      "id": "7",
+      "name": "Zigzagoon"
+    },
+    {
+      "file": "data/Trainer kits/EX trainer Kit (Latios)/8.ts",
+      "id": "8",
+      "name": "Potion"
+    },
+    {
+      "file": "data/Trainer kits/EX trainer Kit (Latios)/9.ts",
+      "id": "9",
+      "name": "Energy Search"
+    }
+  ]
+}

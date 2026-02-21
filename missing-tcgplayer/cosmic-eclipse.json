@@ -1,0 +1,65 @@
+{
+  "set": "Cosmic Eclipse",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/Cosmic Eclipse/149.ts",
+      "id": "149",
+      "name": "Flabébé"
+    },
+    {
+      "file": "data/Sun & Moon/Cosmic Eclipse/150.ts",
+      "id": "150",
+      "name": "Flabébé"
+    },
+    {
+      "file": "data/Sun & Moon/Cosmic Eclipse/195.ts",
+      "id": "195",
+      "name": "Lana’s Fishing Rod"
+    },
+    {
+      "file": "data/Sun & Moon/Cosmic Eclipse/196.ts",
+      "id": "196",
+      "name": "Lillie’s Full Force"
+    },
+    {
+      "file": "data/Sun & Moon/Cosmic Eclipse/197.ts",
+      "id": "197",
+      "name": "Lillie’s Poké Doll"
+    },
+    {
+      "file": "data/Sun & Moon/Cosmic Eclipse/200.ts",
+      "id": "200",
+      "name": "N’s Resolve"
+    },
+    {
+      "file": "data/Sun & Moon/Cosmic Eclipse/201.ts",
+      "id": "201",
+      "name": "Professor Oak’s Setup"
+    },
+    {
+      "file": "data/Sun & Moon/Cosmic Eclipse/230.ts",
+      "id": "230",
+      "name": "Lillie’s Full Force"
+    },
+    {
+      "file": "data/Sun & Moon/Cosmic Eclipse/232.ts",
+      "id": "232",
+      "name": "N’s Resolve"
+    },
+    {
+      "file": "data/Sun & Moon/Cosmic Eclipse/233.ts",
+      "id": "233",
+      "name": "Professor Oak’s Setup"
+    },
+    {
+      "file": "data/Sun & Moon/Cosmic Eclipse/266.ts",
+      "id": "266",
+      "name": "Lana’s Fishing Rod"
+    },
+    {
+      "file": "data/Sun & Moon/Cosmic Eclipse/267.ts",
+      "id": "267",
+      "name": "Lillie’s Poké Doll"
+    }
+  ]
+}

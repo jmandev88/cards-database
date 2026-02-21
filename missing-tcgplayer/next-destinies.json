@@ -1,0 +1,70 @@
+{
+  "set": "Next Destinies",
+  "missing": [
+    {
+      "file": "data/Black & White/Next Destinies/22.ts",
+      "id": "22",
+      "name": "Reshiram-EX"
+    },
+    {
+      "file": "data/Black & White/Next Destinies/38.ts",
+      "id": "38",
+      "name": "Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/Next Destinies/5.ts",
+      "id": "5",
+      "name": "Shaymin-EX"
+    },
+    {
+      "file": "data/Black & White/Next Destinies/51.ts",
+      "id": "51",
+      "name": "Zekrom-EX"
+    },
+    {
+      "file": "data/Black & White/Next Destinies/54.ts",
+      "id": "54",
+      "name": "Mewtwo-EX"
+    },
+    {
+      "file": "data/Black & White/Next Destinies/82.ts",
+      "id": "82",
+      "name": "Regigigas-EX"
+    },
+    {
+      "file": "data/Black & White/Next Destinies/90.ts",
+      "id": "90",
+      "name": "Pokémon Center"
+    },
+    {
+      "file": "data/Black & White/Next Destinies/94.ts",
+      "id": "94",
+      "name": "Shaymin-EX"
+    },
+    {
+      "file": "data/Black & White/Next Destinies/95.ts",
+      "id": "95",
+      "name": "Reshiram-EX"
+    },
+    {
+      "file": "data/Black & White/Next Destinies/96.ts",
+      "id": "96",
+      "name": "Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/Next Destinies/97.ts",
+      "id": "97",
+      "name": "Zekrom-EX"
+    },
+    {
+      "file": "data/Black & White/Next Destinies/98.ts",
+      "id": "98",
+      "name": "Mewtwo-EX"
+    },
+    {
+      "file": "data/Black & White/Next Destinies/99.ts",
+      "id": "99",
+      "name": "Regigigas-EX"
+    }
+  ]
+}

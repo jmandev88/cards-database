@@ -1,0 +1,45 @@
+{
+  "set": "Base Set",
+  "missing": [
+    {
+      "file": "data/Base/Base Set/55.ts",
+      "id": "55",
+      "name": "Nidoran♂"
+    },
+    {
+      "file": "data/Base/Base Set/73.ts",
+      "id": "73",
+      "name": "Impostor Professor Oak"
+    },
+    {
+      "file": "data/Base/Base Set/76.ts",
+      "id": "76",
+      "name": "Pokémon Breeder"
+    },
+    {
+      "file": "data/Base/Base Set/77.ts",
+      "id": "77",
+      "name": "Pokémon Trader"
+    },
+    {
+      "file": "data/Base/Base Set/8.ts",
+      "id": "8",
+      "name": "Machamp"
+    },
+    {
+      "file": "data/Base/Base Set/85.ts",
+      "id": "85",
+      "name": "Pokémon Center"
+    },
+    {
+      "file": "data/Base/Base Set/86.ts",
+      "id": "86",
+      "name": "Pokémon Flute"
+    },
+    {
+      "file": "data/Base/Base Set/87.ts",
+      "id": "87",
+      "name": "Pokédex"
+    }
+  ]
+}

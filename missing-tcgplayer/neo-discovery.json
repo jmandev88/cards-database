@@ -1,0 +1,10 @@
+{
+  "set": "Neo Discovery",
+  "missing": [
+    {
+      "file": "data/Neo/Neo Discovery/26.ts",
+      "id": "26",
+      "name": "Magnemite"
+    }
+  ]
+}

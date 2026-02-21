@@ -1,0 +1,405 @@
+{
+  "set": "Dragon Frontiers",
+  "missing": [
+    {
+      "file": "data/EX/Dragon Frontiers/1.ts",
+      "id": "1",
+      "name": "Ampharos δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/10.ts",
+      "id": "10",
+      "name": "Snorlax δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/100.ts",
+      "id": "100",
+      "name": "Charizard Star δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/101.ts",
+      "id": "101",
+      "name": "Mew Star δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/11.ts",
+      "id": "11",
+      "name": "Togetic δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/12.ts",
+      "id": "12",
+      "name": "Typhlosion δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/13.ts",
+      "id": "13",
+      "name": "Arbok δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/14.ts",
+      "id": "14",
+      "name": "Cloyster δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/15.ts",
+      "id": "15",
+      "name": "Dewgong δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/16.ts",
+      "id": "16",
+      "name": "Gligar δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/17.ts",
+      "id": "17",
+      "name": "Jynx δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/18.ts",
+      "id": "18",
+      "name": "Ledian δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/19.ts",
+      "id": "19",
+      "name": "Lickitung δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/2.ts",
+      "id": "2",
+      "name": "Feraligatr δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/20.ts",
+      "id": "20",
+      "name": "Mantine δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/21.ts",
+      "id": "21",
+      "name": "Quagsire δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/22.ts",
+      "id": "22",
+      "name": "Seadra δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/23.ts",
+      "id": "23",
+      "name": "Tropius δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/24.ts",
+      "id": "24",
+      "name": "Vibrava δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/25.ts",
+      "id": "25",
+      "name": "Xatu δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/26.ts",
+      "id": "26",
+      "name": "Bayleef δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/27.ts",
+      "id": "27",
+      "name": "Croconaw δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/28.ts",
+      "id": "28",
+      "name": "Dragonair δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/29.ts",
+      "id": "29",
+      "name": "Electabuzz δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/3.ts",
+      "id": "3",
+      "name": "Heracross δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/30.ts",
+      "id": "30",
+      "name": "Flaaffy δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/31.ts",
+      "id": "31",
+      "name": "Horsea δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/33.ts",
+      "id": "33",
+      "name": "Kirlia δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/34.ts",
+      "id": "34",
+      "name": "Nidorina δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/35.ts",
+      "id": "35",
+      "name": "Nidorino δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/36.ts",
+      "id": "36",
+      "name": "Quilava δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/37.ts",
+      "id": "37",
+      "name": "Seadra δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/38.ts",
+      "id": "38",
+      "name": "Shelgon δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/39.ts",
+      "id": "39",
+      "name": "Smeargle δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/4.ts",
+      "id": "4",
+      "name": "Meganium δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/40.ts",
+      "id": "40",
+      "name": "Swellow δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/41.ts",
+      "id": "41",
+      "name": "Togepi δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/42.ts",
+      "id": "42",
+      "name": "Vibrava δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/43.ts",
+      "id": "43",
+      "name": "Bagon δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/44.ts",
+      "id": "44",
+      "name": "Chikorita δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/45.ts",
+      "id": "45",
+      "name": "Cyndaquil δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/46.ts",
+      "id": "46",
+      "name": "Dratini δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/47.ts",
+      "id": "47",
+      "name": "Ekans δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/48.ts",
+      "id": "48",
+      "name": "Elekid δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/49.ts",
+      "id": "49",
+      "name": "Feebas δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/5.ts",
+      "id": "5",
+      "name": "Milotic δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/50.ts",
+      "id": "50",
+      "name": "Horsea δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/52.ts",
+      "id": "52",
+      "name": "Larvitar δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/53.ts",
+      "id": "53",
+      "name": "Ledyba δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/54.ts",
+      "id": "54",
+      "name": "Mareep δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/55.ts",
+      "id": "55",
+      "name": "Natu δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/56.ts",
+      "id": "56",
+      "name": "Nidoran♀ δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/57.ts",
+      "id": "57",
+      "name": "Nidoran♂ δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/59.ts",
+      "id": "59",
+      "name": "Pupitar δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/6.ts",
+      "id": "6",
+      "name": "Nidoking δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/61.ts",
+      "id": "61",
+      "name": "Ralts δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/62.ts",
+      "id": "62",
+      "name": "Seel δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/63.ts",
+      "id": "63",
+      "name": "Shellder δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/64.ts",
+      "id": "64",
+      "name": "Smoochum δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/65.ts",
+      "id": "65",
+      "name": "Swablu δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/66.ts",
+      "id": "66",
+      "name": "Taillow δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/67.ts",
+      "id": "67",
+      "name": "Totodile δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/68.ts",
+      "id": "68",
+      "name": "Trapinch δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/69.ts",
+      "id": "69",
+      "name": "Trapinch δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/7.ts",
+      "id": "7",
+      "name": "Nidoqueen δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/70.ts",
+      "id": "70",
+      "name": "Vulpix δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/71.ts",
+      "id": "71",
+      "name": "Wooper δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/8.ts",
+      "id": "8",
+      "name": "Ninetales δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/88.ts",
+      "id": "88",
+      "name": "δ Rainbow Energy"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/9.ts",
+      "id": "9",
+      "name": "Pinsir δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/90.ts",
+      "id": "90",
+      "name": "Altaria ex δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/91.ts",
+      "id": "91",
+      "name": "Dragonite ex δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/92.ts",
+      "id": "92",
+      "name": "Flygon ex δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/93.ts",
+      "id": "93",
+      "name": "Gardevoir ex δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/94.ts",
+      "id": "94",
+      "name": "Kingdra ex δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/95.ts",
+      "id": "95",
+      "name": "Latias ex δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/96.ts",
+      "id": "96",
+      "name": "Latios ex δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/97.ts",
+      "id": "97",
+      "name": "Rayquaza ex δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/98.ts",
+      "id": "98",
+      "name": "Salamence ex δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/99.ts",
+      "id": "99",
+      "name": "Tyranitar ex δ"
+    }
+  ]
+}

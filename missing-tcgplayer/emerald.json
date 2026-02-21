@@ -1,0 +1,10 @@
+{
+  "set": "Emerald",
+  "missing": [
+    {
+      "file": "data/EX/Emerald/81.ts",
+      "id": "81",
+      "name": "PokéNav"
+    }
+  ]
+}

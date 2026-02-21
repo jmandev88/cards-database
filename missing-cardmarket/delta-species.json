@@ -1,0 +1,20 @@
+{
+  "set": "Delta Species",
+  "missing": [
+    {
+      "file": "data/EX/Delta Species/111.ts",
+      "id": "111",
+      "name": "Groudon Star"
+    },
+    {
+      "file": "data/EX/Delta Species/112.ts",
+      "id": "112",
+      "name": "Kyogre Star"
+    },
+    {
+      "file": "data/EX/Delta Species/113.ts",
+      "id": "113",
+      "name": "Metagross Star"
+    }
+  ]
+}

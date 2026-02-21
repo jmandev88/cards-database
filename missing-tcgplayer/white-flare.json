@@ -1,0 +1,870 @@
+{
+  "set": "White Flare",
+  "missing": [
+    {
+      "file": "data/Scarlet & Violet/White Flare/001.ts",
+      "id": "001",
+      "name": "Sewaddle"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/002.ts",
+      "id": "002",
+      "name": "Swadloon"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/003.ts",
+      "id": "003",
+      "name": "Leavanny"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/004.ts",
+      "id": "004",
+      "name": "Cottonee"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/005.ts",
+      "id": "005",
+      "name": "Whimsicott ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/006.ts",
+      "id": "006",
+      "name": "Deerling"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/007.ts",
+      "id": "007",
+      "name": "Sawsbuck"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/008.ts",
+      "id": "008",
+      "name": "Shelmet"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/009.ts",
+      "id": "009",
+      "name": "Accelgor"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/010.ts",
+      "id": "010",
+      "name": "Virizion"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/011.ts",
+      "id": "011",
+      "name": "Tepig"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/012.ts",
+      "id": "012",
+      "name": "Pignite"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/013.ts",
+      "id": "013",
+      "name": "Emboar"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/014.ts",
+      "id": "014",
+      "name": "Pansear"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/015.ts",
+      "id": "015",
+      "name": "Simisear"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/016.ts",
+      "id": "016",
+      "name": "Litwick"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/017.ts",
+      "id": "017",
+      "name": "Lampent"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/018.ts",
+      "id": "018",
+      "name": "Chandelure"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/019.ts",
+      "id": "019",
+      "name": "Heatmor"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/020.ts",
+      "id": "020",
+      "name": "Reshiram ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/021.ts",
+      "id": "021",
+      "name": "Oshawott"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/022.ts",
+      "id": "022",
+      "name": "Dewott"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/023.ts",
+      "id": "023",
+      "name": "Samurott"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/024.ts",
+      "id": "024",
+      "name": "Basculin"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/025.ts",
+      "id": "025",
+      "name": "Ducklett"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/026.ts",
+      "id": "026",
+      "name": "Swanna"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/027.ts",
+      "id": "027",
+      "name": "Vanillite"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/028.ts",
+      "id": "028",
+      "name": "Vanillish"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/029.ts",
+      "id": "029",
+      "name": "Vanilluxe"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/030.ts",
+      "id": "030",
+      "name": "Keldeo ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/031.ts",
+      "id": "031",
+      "name": "Blitzle"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/032.ts",
+      "id": "032",
+      "name": "Zebstrika"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/033.ts",
+      "id": "033",
+      "name": "Joltik"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/034.ts",
+      "id": "034",
+      "name": "Galvantula"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/035.ts",
+      "id": "035",
+      "name": "Stunfisk"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/036.ts",
+      "id": "036",
+      "name": "Woobat"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/037.ts",
+      "id": "037",
+      "name": "Swoobat"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/038.ts",
+      "id": "038",
+      "name": "Sigilyph"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/039.ts",
+      "id": "039",
+      "name": "Yamask"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/040.ts",
+      "id": "040",
+      "name": "Cofagrigus"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/041.ts",
+      "id": "041",
+      "name": "Gothita"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/042.ts",
+      "id": "042",
+      "name": "Gothorita"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/043.ts",
+      "id": "043",
+      "name": "Gothitelle"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/044.ts",
+      "id": "044",
+      "name": "Frillish"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/045.ts",
+      "id": "045",
+      "name": "Jellicent ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/046.ts",
+      "id": "046",
+      "name": "Roggenrola"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/047.ts",
+      "id": "047",
+      "name": "Boldore"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/048.ts",
+      "id": "048",
+      "name": "Gigalith"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/049.ts",
+      "id": "049",
+      "name": "Sawk"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/050.ts",
+      "id": "050",
+      "name": "Archen"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/051.ts",
+      "id": "051",
+      "name": "Archeops"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/052.ts",
+      "id": "052",
+      "name": "Mienfoo"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/053.ts",
+      "id": "053",
+      "name": "Mienshao"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/054.ts",
+      "id": "054",
+      "name": "Terrakion"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/055.ts",
+      "id": "055",
+      "name": "Purrloin"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/056.ts",
+      "id": "056",
+      "name": "Liepard"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/057.ts",
+      "id": "057",
+      "name": "Scraggy"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/058.ts",
+      "id": "058",
+      "name": "Scrafty"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/059.ts",
+      "id": "059",
+      "name": "Trubbish"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/060.ts",
+      "id": "060",
+      "name": "Garbodor"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/061.ts",
+      "id": "061",
+      "name": "Zorua"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/062.ts",
+      "id": "062",
+      "name": "Zoroark"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/063.ts",
+      "id": "063",
+      "name": "Vullaby"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/064.ts",
+      "id": "064",
+      "name": "Mandibuzz"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/065.ts",
+      "id": "065",
+      "name": "Deino"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/066.ts",
+      "id": "066",
+      "name": "Zweilous"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/067.ts",
+      "id": "067",
+      "name": "Hydreigon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/068.ts",
+      "id": "068",
+      "name": "Ferroseed"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/069.ts",
+      "id": "069",
+      "name": "Ferrothorn"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/070.ts",
+      "id": "070",
+      "name": "Durant"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/071.ts",
+      "id": "071",
+      "name": "Druddigon"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/072.ts",
+      "id": "072",
+      "name": "Patrat"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/073.ts",
+      "id": "073",
+      "name": "Watchog"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/074.ts",
+      "id": "074",
+      "name": "Lillipup"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/075.ts",
+      "id": "075",
+      "name": "Herdier"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/076.ts",
+      "id": "076",
+      "name": "Stoutland"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/077.ts",
+      "id": "077",
+      "name": "Bouffalant ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/078.ts",
+      "id": "078",
+      "name": "Tornadus"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/079.ts",
+      "id": "079",
+      "name": "Antique Plume Fossil"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/080.ts",
+      "id": "080",
+      "name": "Brave Bangle"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/081.ts",
+      "id": "081",
+      "name": "Cheren"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/082.ts",
+      "id": "082",
+      "name": "Energy Retrieval"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/083.ts",
+      "id": "083",
+      "name": "Harlequin"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/084.ts",
+      "id": "084",
+      "name": "Hilda"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/085.ts",
+      "id": "085",
+      "name": "Tool Scrapper"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/086.ts",
+      "id": "086",
+      "name": "Ignition Energy"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/087.ts",
+      "id": "087",
+      "name": "Sewaddle"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/088.ts",
+      "id": "088",
+      "name": "Swadloon"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/089.ts",
+      "id": "089",
+      "name": "Leavanny"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/090.ts",
+      "id": "090",
+      "name": "Cottonee"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/091.ts",
+      "id": "091",
+      "name": "Deerling"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/092.ts",
+      "id": "092",
+      "name": "Sawsbuck"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/093.ts",
+      "id": "093",
+      "name": "Shelmet"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/094.ts",
+      "id": "094",
+      "name": "Accelgor"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/095.ts",
+      "id": "095",
+      "name": "Virizion"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/096.ts",
+      "id": "096",
+      "name": "Tepig"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/097.ts",
+      "id": "097",
+      "name": "Pignite"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/098.ts",
+      "id": "098",
+      "name": "Emboar"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/099.ts",
+      "id": "099",
+      "name": "Pansear"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/100.ts",
+      "id": "100",
+      "name": "Simisear"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/101.ts",
+      "id": "101",
+      "name": "Litwick"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/102.ts",
+      "id": "102",
+      "name": "Lampent"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/103.ts",
+      "id": "103",
+      "name": "Chandelure"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/104.ts",
+      "id": "104",
+      "name": "Heatmor"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/105.ts",
+      "id": "105",
+      "name": "Oshawott"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/106.ts",
+      "id": "106",
+      "name": "Dewott"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/107.ts",
+      "id": "107",
+      "name": "Samurott"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/108.ts",
+      "id": "108",
+      "name": "Basculin"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/109.ts",
+      "id": "109",
+      "name": "Ducklett"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/110.ts",
+      "id": "110",
+      "name": "Swanna"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/111.ts",
+      "id": "111",
+      "name": "Vanillite"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/112.ts",
+      "id": "112",
+      "name": "Vanillish"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/113.ts",
+      "id": "113",
+      "name": "Vanilluxe"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/114.ts",
+      "id": "114",
+      "name": "Blitzle"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/115.ts",
+      "id": "115",
+      "name": "Zebstrika"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/116.ts",
+      "id": "116",
+      "name": "Joltik"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/117.ts",
+      "id": "117",
+      "name": "Galvantula"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/118.ts",
+      "id": "118",
+      "name": "Stunfisk"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/119.ts",
+      "id": "119",
+      "name": "Woobat"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/120.ts",
+      "id": "120",
+      "name": "Swoobat"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/121.ts",
+      "id": "121",
+      "name": "Sigilyph"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/122.ts",
+      "id": "122",
+      "name": "Yamask"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/123.ts",
+      "id": "123",
+      "name": "Cofagrigus"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/124.ts",
+      "id": "124",
+      "name": "Gothita"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/125.ts",
+      "id": "125",
+      "name": "Gothorita"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/126.ts",
+      "id": "126",
+      "name": "Frillish"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/127.ts",
+      "id": "127",
+      "name": "Roggenrola"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/128.ts",
+      "id": "128",
+      "name": "Boldore"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/129.ts",
+      "id": "129",
+      "name": "Gigalith"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/130.ts",
+      "id": "130",
+      "name": "Sawk"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/131.ts",
+      "id": "131",
+      "name": "Archen"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/132.ts",
+      "id": "132",
+      "name": "Archeops"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/133.ts",
+      "id": "133",
+      "name": "Mienfoo"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/134.ts",
+      "id": "134",
+      "name": "Mienshao"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/135.ts",
+      "id": "135",
+      "name": "Terrakion"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/136.ts",
+      "id": "136",
+      "name": "Purrloin"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/137.ts",
+      "id": "137",
+      "name": "Liepard"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/138.ts",
+      "id": "138",
+      "name": "Scraggy"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/139.ts",
+      "id": "139",
+      "name": "Scrafty"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/140.ts",
+      "id": "140",
+      "name": "Trubbish"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/141.ts",
+      "id": "141",
+      "name": "Garbodor"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/142.ts",
+      "id": "142",
+      "name": "Zorua"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/143.ts",
+      "id": "143",
+      "name": "Zoroark"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/144.ts",
+      "id": "144",
+      "name": "Vullaby"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/145.ts",
+      "id": "145",
+      "name": "Mandibuzz"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/146.ts",
+      "id": "146",
+      "name": "Deino"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/147.ts",
+      "id": "147",
+      "name": "Zweilous"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/148.ts",
+      "id": "148",
+      "name": "Ferroseed"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/149.ts",
+      "id": "149",
+      "name": "Ferrothorn"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/150.ts",
+      "id": "150",
+      "name": "Durant"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/151.ts",
+      "id": "151",
+      "name": "Druddigon"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/152.ts",
+      "id": "152",
+      "name": "Patrat"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/153.ts",
+      "id": "153",
+      "name": "Watchog"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/154.ts",
+      "id": "154",
+      "name": "Lillipup"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/155.ts",
+      "id": "155",
+      "name": "Herdier"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/156.ts",
+      "id": "156",
+      "name": "Stoutland"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/157.ts",
+      "id": "157",
+      "name": "Whimsicott ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/158.ts",
+      "id": "158",
+      "name": "Reshiram ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/159.ts",
+      "id": "159",
+      "name": "Keldeo ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/160.ts",
+      "id": "160",
+      "name": "Jellicent ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/161.ts",
+      "id": "161",
+      "name": "Hydreigon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/162.ts",
+      "id": "162",
+      "name": "Bouffalant ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/163.ts",
+      "id": "163",
+      "name": "Harlequin"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/164.ts",
+      "id": "164",
+      "name": "Hilda"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/165.ts",
+      "id": "165",
+      "name": "Whimsicott ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/166.ts",
+      "id": "166",
+      "name": "Reshiram ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/167.ts",
+      "id": "167",
+      "name": "Keldeo ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/168.ts",
+      "id": "168",
+      "name": "Jellicent ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/169.ts",
+      "id": "169",
+      "name": "Hydreigon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/170.ts",
+      "id": "170",
+      "name": "Bouffalant ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/171.ts",
+      "id": "171",
+      "name": "Hilda"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/172.ts",
+      "id": "172",
+      "name": "Victini"
+    },
+    {
+      "file": "data/Scarlet & Violet/White Flare/173.ts",
+      "id": "173",
+      "name": "Reshiram ex"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "set": "XY trainer Kit (Latias)",
+  "missing": [
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/1.ts",
+      "id": "1",
+      "name": "Grass Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/10.ts",
+      "id": "10",
+      "name": "Psychic Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/11.ts",
+      "id": "11",
+      "name": "Lotad"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/12.ts",
+      "id": "12",
+      "name": "Tangrowth"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/13.ts",
+      "id": "13",
+      "name": "Tangela"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/14.ts",
+      "id": "14",
+      "name": "Latias"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/15.ts",
+      "id": "15",
+      "name": "Potion"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/16.ts",
+      "id": "16",
+      "name": "Surskit"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/17.ts",
+      "id": "17",
+      "name": "Psychic Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/18.ts",
+      "id": "18",
+      "name": "Grovyle"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/19.ts",
+      "id": "19",
+      "name": "Grass Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/2.ts",
+      "id": "2",
+      "name": "Grass Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/20.ts",
+      "id": "20",
+      "name": "Acro Bike"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/21.ts",
+      "id": "21",
+      "name": "Lombre"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/22.ts",
+      "id": "22",
+      "name": "Psychic Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/23.ts",
+      "id": "23",
+      "name": "Lotad"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/24.ts",
+      "id": "24",
+      "name": "Treecko"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/25.ts",
+      "id": "25",
+      "name": "Tangrowth"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/26.ts",
+      "id": "26",
+      "name": "Tangela"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/27.ts",
+      "id": "27",
+      "name": "Grovyle"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/28.ts",
+      "id": "28",
+      "name": "Psychic Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/29.ts",
+      "id": "29",
+      "name": "Acro Bike"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/3.ts",
+      "id": "3",
+      "name": "Grass Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/30.ts",
+      "id": "30",
+      "name": "Latias"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/4.ts",
+      "id": "4",
+      "name": "Fletchling"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/5.ts",
+      "id": "5",
+      "name": "Grass Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/6.ts",
+      "id": "6",
+      "name": "Lombre"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/7.ts",
+      "id": "7",
+      "name": "Treecko"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/8.ts",
+      "id": "8",
+      "name": "Psychic Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias)/9.ts",
+      "id": "9",
+      "name": "Psychic Energy"
+    }
+  ]
+}

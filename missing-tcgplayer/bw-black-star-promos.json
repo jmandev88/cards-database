@@ -1,0 +1,510 @@
+{
+  "set": "BW Black Star Promos",
+  "missing": [
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW01.ts",
+      "id": "BW01",
+      "name": "Snivy"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW02.ts",
+      "id": "BW02",
+      "name": "Tepig"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW03.ts",
+      "id": "BW03",
+      "name": "Oshawott"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW04.ts",
+      "id": "BW04",
+      "name": "Reshiram"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW05.ts",
+      "id": "BW05",
+      "name": "Zekrom"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW06.ts",
+      "id": "BW06",
+      "name": "Snivy"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW07.ts",
+      "id": "BW07",
+      "name": "Tepig"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW08.ts",
+      "id": "BW08",
+      "name": "Oshawott"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW09.ts",
+      "id": "BW09",
+      "name": "Zoroark"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW10.ts",
+      "id": "BW10",
+      "name": "Axew"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW100.ts",
+      "id": "BW100",
+      "name": "N"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW101.ts",
+      "id": "BW101",
+      "name": "Genesect"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW11.ts",
+      "id": "BW11",
+      "name": "Pansage"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW12.ts",
+      "id": "BW12",
+      "name": "Zorua"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW13.ts",
+      "id": "BW13",
+      "name": "Minccino"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW14.ts",
+      "id": "BW14",
+      "name": "Pansage"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW15.ts",
+      "id": "BW15",
+      "name": "Pidove"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW16.ts",
+      "id": "BW16",
+      "name": "Axew"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW17.ts",
+      "id": "BW17",
+      "name": "Ducklett"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW18.ts",
+      "id": "BW18",
+      "name": "Darumaka"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW19.ts",
+      "id": "BW19",
+      "name": "Zoroark"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW20.ts",
+      "id": "BW20",
+      "name": "Serperior"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW21.ts",
+      "id": "BW21",
+      "name": "Emboar"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW22.ts",
+      "id": "BW22",
+      "name": "Samurott"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW23.ts",
+      "id": "BW23",
+      "name": "Reshiram"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW24.ts",
+      "id": "BW24",
+      "name": "Zekrom"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW25.ts",
+      "id": "BW25",
+      "name": "Scraggy"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW26.ts",
+      "id": "BW26",
+      "name": "Axew"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW27.ts",
+      "id": "BW27",
+      "name": "Litwick"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW28.ts",
+      "id": "BW28",
+      "name": "Tropical Beach"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW29.ts",
+      "id": "BW29",
+      "name": "Victory Cup"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW30.ts",
+      "id": "BW30",
+      "name": "Victory Cup"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW31.ts",
+      "id": "BW31",
+      "name": "Victory Cup"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW32.ts",
+      "id": "BW32",
+      "name": "Victini"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW33.ts",
+      "id": "BW33",
+      "name": "Riolu"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW34.ts",
+      "id": "BW34",
+      "name": "Luxio"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW35.ts",
+      "id": "BW35",
+      "name": "Meowth"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW36.ts",
+      "id": "BW36",
+      "name": "Reshiram-EX"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW37.ts",
+      "id": "BW37",
+      "name": "Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW38.ts",
+      "id": "BW38",
+      "name": "Zekrom-EX"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW39.ts",
+      "id": "BW39",
+      "name": "Battle City"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW40.ts",
+      "id": "BW40",
+      "name": "Volcarona"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW41.ts",
+      "id": "BW41",
+      "name": "Thundurus"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW42.ts",
+      "id": "BW42",
+      "name": "Tornadus"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW43.ts",
+      "id": "BW43",
+      "name": "Landorus"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW44.ts",
+      "id": "BW44",
+      "name": "Kyurem"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW45.ts",
+      "id": "BW45",
+      "name": "Mewtwo-EX"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW46.ts",
+      "id": "BW46",
+      "name": "Darkrai-EX"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW47.ts",
+      "id": "BW47",
+      "name": "Rayquaza-EX"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW48.ts",
+      "id": "BW48",
+      "name": "Altaria"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW49.ts",
+      "id": "BW49",
+      "name": "Lilligant"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW50.ts",
+      "id": "BW50",
+      "name": "Tropical Beach"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW51.ts",
+      "id": "BW51",
+      "name": "Crobat"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW52.ts",
+      "id": "BW52",
+      "name": "Lillipup"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW53.ts",
+      "id": "BW53",
+      "name": "Flygon"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW54.ts",
+      "id": "BW54",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW55.ts",
+      "id": "BW55",
+      "name": "Elgyem"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW56.ts",
+      "id": "BW56",
+      "name": "Empoleon"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW57.ts",
+      "id": "BW57",
+      "name": "Haxorus"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW58.ts",
+      "id": "BW58",
+      "name": "Black Kyurem"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW59.ts",
+      "id": "BW59",
+      "name": "White Kyurem"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW60.ts",
+      "id": "BW60",
+      "name": "Keldeo"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW61.ts",
+      "id": "BW61",
+      "name": "Keldeo-EX"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW62.ts",
+      "id": "BW62",
+      "name": "Black Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW63.ts",
+      "id": "BW63",
+      "name": "White Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW64.ts",
+      "id": "BW64",
+      "name": "Drifblim"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW65.ts",
+      "id": "BW65",
+      "name": "Jigglypuff"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW66.ts",
+      "id": "BW66",
+      "name": "Ninetales"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW67.ts",
+      "id": "BW67",
+      "name": "Ampharos"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW68.ts",
+      "id": "BW68",
+      "name": "Meloetta"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW69.ts",
+      "id": "BW69",
+      "name": "Meloetta"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW70.ts",
+      "id": "BW70",
+      "name": "Virizion"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW71.ts",
+      "id": "BW71",
+      "name": "Terrakion"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW72.ts",
+      "id": "BW72",
+      "name": "Cobalion"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW73.ts",
+      "id": "BW73",
+      "name": "Darkrai"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW74.ts",
+      "id": "BW74",
+      "name": "Giratina"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW75.ts",
+      "id": "BW75",
+      "name": "Metagross"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW76.ts",
+      "id": "BW76",
+      "name": "Electrode"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW77.ts",
+      "id": "BW77",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW78.ts",
+      "id": "BW78",
+      "name": "Raichu"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW79.ts",
+      "id": "BW79",
+      "name": "Landorus"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW80.ts",
+      "id": "BW80",
+      "name": "Druddigon"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW81.ts",
+      "id": "BW81",
+      "name": "Thundurus-EX"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW82.ts",
+      "id": "BW82",
+      "name": "Deoxys-EX"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW83.ts",
+      "id": "BW83",
+      "name": "Lugia-EX"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW84.ts",
+      "id": "BW84",
+      "name": "Porygon-Z"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW85.ts",
+      "id": "BW85",
+      "name": "Lucario"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW86.ts",
+      "id": "BW86",
+      "name": "Genesect"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW87.ts",
+      "id": "BW87",
+      "name": "Leafeon"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW88.ts",
+      "id": "BW88",
+      "name": "Flareon"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW89.ts",
+      "id": "BW89",
+      "name": "Vaporeon"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW90.ts",
+      "id": "BW90",
+      "name": "Glaceon"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW91.ts",
+      "id": "BW91",
+      "name": "Jolteon"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW92.ts",
+      "id": "BW92",
+      "name": "Espeon"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW93.ts",
+      "id": "BW93",
+      "name": "Umbreon"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW94.ts",
+      "id": "BW94",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW95.ts",
+      "id": "BW95",
+      "name": "Champions Festival"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW96.ts",
+      "id": "BW96",
+      "name": "Tornadus-EX"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW97.ts",
+      "id": "BW97",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW98.ts",
+      "id": "BW98",
+      "name": "Mew"
+    },
+    {
+      "file": "data/Black & White/BW Black Star Promos/BW99.ts",
+      "id": "BW99",
+      "name": "Genesect"
+    }
+  ]
+}

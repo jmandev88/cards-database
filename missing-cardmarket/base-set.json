@@ -1,0 +1,15 @@
+{
+  "set": "Base Set",
+  "missing": [
+    {
+      "file": "data/Base/Base Set/55.ts",
+      "id": "55",
+      "name": "Nidoran♂"
+    },
+    {
+      "file": "data/Base/Base Set/73.ts",
+      "id": "73",
+      "name": "Impostor Professor Oak"
+    }
+  ]
+}

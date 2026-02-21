@@ -1,0 +1,20 @@
+{
+  "set": "Ruby & Sapphire",
+  "missing": [
+    {
+      "file": "data/EX/Ruby & Sapphire/86.ts",
+      "id": "86",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/EX/Ruby & Sapphire/87.ts",
+      "id": "87",
+      "name": "Pokémon Reversal"
+    },
+    {
+      "file": "data/EX/Ruby & Sapphire/88.ts",
+      "id": "88",
+      "name": "PokéNav"
+    }
+  ]
+}

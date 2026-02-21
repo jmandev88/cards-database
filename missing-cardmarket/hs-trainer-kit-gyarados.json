@@ -1,0 +1,10 @@
+{
+  "set": "HS trainer Kit (Gyarados)",
+  "missing": [
+    {
+      "file": "data/Trainer kits/HS trainer Kit (Gyarados)/20.ts",
+      "id": "20",
+      "name": "Gyarados"
+    }
+  ]
+}

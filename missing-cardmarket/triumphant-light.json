@@ -1,0 +1,485 @@
+{
+  "set": "Triumphant Light",
+  "missing": [
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/001.ts",
+      "id": "001",
+      "name": "Heracross"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/002.ts",
+      "id": "002",
+      "name": "Burmy"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/003.ts",
+      "id": "003",
+      "name": "Mothim"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/004.ts",
+      "id": "004",
+      "name": "Combee"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/005.ts",
+      "id": "005",
+      "name": "Vespiquen"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/006.ts",
+      "id": "006",
+      "name": "Cherubi"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/007.ts",
+      "id": "007",
+      "name": "Cherrim"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/008.ts",
+      "id": "008",
+      "name": "Cherrim"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/009.ts",
+      "id": "009",
+      "name": "Carnivine"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/010.ts",
+      "id": "010",
+      "name": "Leafeon ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/011.ts",
+      "id": "011",
+      "name": "Houndour"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/012.ts",
+      "id": "012",
+      "name": "Houndoom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/013.ts",
+      "id": "013",
+      "name": "Heatran"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/014.ts",
+      "id": "014",
+      "name": "Marill"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/015.ts",
+      "id": "015",
+      "name": "Azumarill"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/016.ts",
+      "id": "016",
+      "name": "Barboach"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/017.ts",
+      "id": "017",
+      "name": "Whiscash"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/018.ts",
+      "id": "018",
+      "name": "Snorunt"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/019.ts",
+      "id": "019",
+      "name": "Froslass"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/020.ts",
+      "id": "020",
+      "name": "Snover"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/021.ts",
+      "id": "021",
+      "name": "Abomasnow"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/022.ts",
+      "id": "022",
+      "name": "Glaceon ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/023.ts",
+      "id": "023",
+      "name": "Origin Forme Palkia"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/024.ts",
+      "id": "024",
+      "name": "Phione"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/025.ts",
+      "id": "025",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/026.ts",
+      "id": "026",
+      "name": "Raichu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/027.ts",
+      "id": "027",
+      "name": "Electrike"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/028.ts",
+      "id": "028",
+      "name": "Manectric"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/029.ts",
+      "id": "029",
+      "name": "Clefairy"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/030.ts",
+      "id": "030",
+      "name": "Clefable"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/031.ts",
+      "id": "031",
+      "name": "Gastly"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/032.ts",
+      "id": "032",
+      "name": "Haunter"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/033.ts",
+      "id": "033",
+      "name": "Gengar"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/034.ts",
+      "id": "034",
+      "name": "Unown"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/035.ts",
+      "id": "035",
+      "name": "Rotom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/036.ts",
+      "id": "036",
+      "name": "Sudowoodo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/037.ts",
+      "id": "037",
+      "name": "Phanpy"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/038.ts",
+      "id": "038",
+      "name": "Donphan"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/039.ts",
+      "id": "039",
+      "name": "Larvitar"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/040.ts",
+      "id": "040",
+      "name": "Pupitar"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/041.ts",
+      "id": "041",
+      "name": "Tyranitar"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/042.ts",
+      "id": "042",
+      "name": "Nosepass"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/043.ts",
+      "id": "043",
+      "name": "Meditite"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/044.ts",
+      "id": "044",
+      "name": "Medicham"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/045.ts",
+      "id": "045",
+      "name": "Gible"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/046.ts",
+      "id": "046",
+      "name": "Gabite"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/047.ts",
+      "id": "047",
+      "name": "Garchomp ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/048.ts",
+      "id": "048",
+      "name": "Zubat"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/049.ts",
+      "id": "049",
+      "name": "Golbat"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/050.ts",
+      "id": "050",
+      "name": "Crobat"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/051.ts",
+      "id": "051",
+      "name": "Croagunk"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/052.ts",
+      "id": "052",
+      "name": "Toxicroak"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/053.ts",
+      "id": "053",
+      "name": "Magnemite"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/054.ts",
+      "id": "054",
+      "name": "Magneton"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/055.ts",
+      "id": "055",
+      "name": "Magnezone"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/056.ts",
+      "id": "056",
+      "name": "Mawile"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/057.ts",
+      "id": "057",
+      "name": "Probopass ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/058.ts",
+      "id": "058",
+      "name": "Bronzor"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/059.ts",
+      "id": "059",
+      "name": "Bronzong"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/060.ts",
+      "id": "060",
+      "name": "Origin Forme Dialga"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/061.ts",
+      "id": "061",
+      "name": "Giratina"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/062.ts",
+      "id": "062",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/063.ts",
+      "id": "063",
+      "name": "Snorlax"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/064.ts",
+      "id": "064",
+      "name": "Hoothoot"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/065.ts",
+      "id": "065",
+      "name": "Noctowl"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/066.ts",
+      "id": "066",
+      "name": "Starly"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/067.ts",
+      "id": "067",
+      "name": "Staravia"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/068.ts",
+      "id": "068",
+      "name": "Staraptor"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/069.ts",
+      "id": "069",
+      "name": "Shaymin"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/070.ts",
+      "id": "070",
+      "name": "Arceus"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/071.ts",
+      "id": "071",
+      "name": "Arceus ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/072.ts",
+      "id": "072",
+      "name": "Irida"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/073.ts",
+      "id": "073",
+      "name": "Celestic Town Elder"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/074.ts",
+      "id": "074",
+      "name": "Barry"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/075.ts",
+      "id": "075",
+      "name": "Adaman"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/076.ts",
+      "id": "076",
+      "name": "Houndoom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/077.ts",
+      "id": "077",
+      "name": "Marill"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/078.ts",
+      "id": "078",
+      "name": "Unown"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/079.ts",
+      "id": "079",
+      "name": "Sudowoodo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/080.ts",
+      "id": "080",
+      "name": "Magnemite"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/081.ts",
+      "id": "081",
+      "name": "Shaymin"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/082.ts",
+      "id": "082",
+      "name": "Leafeon ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/083.ts",
+      "id": "083",
+      "name": "Glaceon ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/084.ts",
+      "id": "084",
+      "name": "Garchomp ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/085.ts",
+      "id": "085",
+      "name": "Probopass ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/086.ts",
+      "id": "086",
+      "name": "Arceus ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/087.ts",
+      "id": "087",
+      "name": "Irida"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/088.ts",
+      "id": "088",
+      "name": "Celestic Town Elder"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/089.ts",
+      "id": "089",
+      "name": "Barry"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/090.ts",
+      "id": "090",
+      "name": "Adaman"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/091.ts",
+      "id": "091",
+      "name": "Leafeon ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/092.ts",
+      "id": "092",
+      "name": "Glaceon ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/093.ts",
+      "id": "093",
+      "name": "Garchomp ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/094.ts",
+      "id": "094",
+      "name": "Probopass ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/095.ts",
+      "id": "095",
+      "name": "Arceus ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light/096.ts",
+      "id": "096",
+      "name": "Arceus ex"
+    }
+  ]
+}

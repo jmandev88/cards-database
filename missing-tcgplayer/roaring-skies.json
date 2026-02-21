@@ -1,0 +1,15 @@
+{
+  "set": "Roaring Skies",
+  "missing": [
+    {
+      "file": "data/XY/Roaring Skies/77a.ts",
+      "id": "77a",
+      "name": "Shaymin EX"
+    },
+    {
+      "file": "data/XY/Roaring Skies/92a.ts",
+      "id": "92a",
+      "name": "Trainers"
+    }
+  ]
+}

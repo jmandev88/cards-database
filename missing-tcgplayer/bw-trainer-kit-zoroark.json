@@ -1,0 +1,155 @@
+{
+  "set": "BW trainer Kit (Zoroark)",
+  "missing": [
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/1.ts",
+      "id": "1",
+      "name": "Purrloin"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/10.ts",
+      "id": "10",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/11.ts",
+      "id": "11",
+      "name": "PlusPower"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/12.ts",
+      "id": "12",
+      "name": "Patrat"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/13.ts",
+      "id": "13",
+      "name": "Zorua"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/14.ts",
+      "id": "14",
+      "name": "Pidove"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/15.ts",
+      "id": "15",
+      "name": "Tranquill"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/16.ts",
+      "id": "16",
+      "name": "Energy Retrieval"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/17.ts",
+      "id": "17",
+      "name": "Zoroark"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/18.ts",
+      "id": "18",
+      "name": "Pokémon Communication"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/19.ts",
+      "id": "19",
+      "name": "Minccino"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/2.ts",
+      "id": "2",
+      "name": "Watchog"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/20.ts",
+      "id": "20",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/21.ts",
+      "id": "21",
+      "name": "Pidove"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/22.ts",
+      "id": "22",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/23.ts",
+      "id": "23",
+      "name": "Zorua"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/24.ts",
+      "id": "24",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/25.ts",
+      "id": "25",
+      "name": "Purrloin"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/26.ts",
+      "id": "26",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/27.ts",
+      "id": "27",
+      "name": "Energy Search"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/28.ts",
+      "id": "28",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/29.ts",
+      "id": "29",
+      "name": "Patrat"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/3.ts",
+      "id": "3",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/30.ts",
+      "id": "30",
+      "name": "Zoroark"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/4.ts",
+      "id": "4",
+      "name": "Minccino"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/5.ts",
+      "id": "5",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/6.ts",
+      "id": "6",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/7.ts",
+      "id": "7",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/8.ts",
+      "id": "8",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark)/9.ts",
+      "id": "9",
+      "name": "Darkness Energy"
+    }
+  ]
+}

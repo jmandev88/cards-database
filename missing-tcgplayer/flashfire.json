@@ -1,0 +1,40 @@
+{
+  "set": "Flashfire",
+  "missing": [
+    {
+      "file": "data/XY/Flashfire/105.ts",
+      "id": "105",
+      "name": "Pokémon Center Lady"
+    },
+    {
+      "file": "data/XY/Flashfire/106.ts",
+      "id": "106",
+      "name": "Pokémon Fan Club"
+    },
+    {
+      "file": "data/XY/Flashfire/62.ts",
+      "id": "62",
+      "name": "Flabébé"
+    },
+    {
+      "file": "data/XY/Flashfire/63.ts",
+      "id": "63",
+      "name": "Flabébé"
+    },
+    {
+      "file": "data/XY/Flashfire/88a.ts",
+      "id": "88a",
+      "name": "Blacksmith"
+    },
+    {
+      "file": "data/XY/Flashfire/93.ts",
+      "id": "93",
+      "name": "Pokémon Center Lady"
+    },
+    {
+      "file": "data/XY/Flashfire/94.ts",
+      "id": "94",
+      "name": "Pokémon Fan Club"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "set": "Jungle",
+  "missing": [
+    {
+      "file": "data/Base/Jungle/57.ts",
+      "id": "57",
+      "name": "Nidoran♀"
+    }
+  ]
+}

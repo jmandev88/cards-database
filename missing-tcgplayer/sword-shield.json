@@ -1,0 +1,40 @@
+{
+  "set": "Sword & Shield",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Sword & Shield/173.ts",
+      "id": "173",
+      "name": "Poké Kid"
+    },
+    {
+      "file": "data/Sword & Shield/Sword & Shield/174.ts",
+      "id": "174",
+      "name": "Pokégear 3.0"
+    },
+    {
+      "file": "data/Sword & Shield/Sword & Shield/175.ts",
+      "id": "175",
+      "name": "Pokémon Catcher"
+    },
+    {
+      "file": "data/Sword & Shield/Sword & Shield/176.ts",
+      "id": "176",
+      "name": "Pokémon Center Lady"
+    },
+    {
+      "file": "data/Sword & Shield/Sword & Shield/178.ts",
+      "id": "178",
+      "name": "Professor"
+    },
+    {
+      "file": "data/Sword & Shield/Sword & Shield/201.ts",
+      "id": "201",
+      "name": "Professor"
+    },
+    {
+      "file": "data/Sword & Shield/Sword & Shield/209.ts",
+      "id": "209",
+      "name": "Professor"
+    }
+  ]
+}

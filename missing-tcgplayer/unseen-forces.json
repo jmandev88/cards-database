@@ -1,0 +1,15 @@
+{
+  "set": "Unseen Forces",
+  "missing": [
+    {
+      "file": "data/EX/Unseen Forces/87.ts",
+      "id": "87",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/EX/Unseen Forces/88.ts",
+      "id": "88",
+      "name": "Pokémon Reversal"
+    }
+  ]
+}

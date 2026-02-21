@@ -1,0 +1,55 @@
+{
+  "set": "Skyridge",
+  "missing": [
+    {
+      "file": "data/E-Card/Skyridge/129.ts",
+      "id": "129",
+      "name": "Miracle Sphere Alpha"
+    },
+    {
+      "file": "data/E-Card/Skyridge/130.ts",
+      "id": "130",
+      "name": "Miracle Sphere Beta"
+    },
+    {
+      "file": "data/E-Card/Skyridge/131.ts",
+      "id": "131",
+      "name": "Miracle Sphere Gamma"
+    },
+    {
+      "file": "data/E-Card/Skyridge/133.ts",
+      "id": "133",
+      "name": "Mystery Plate Alpha"
+    },
+    {
+      "file": "data/E-Card/Skyridge/134.ts",
+      "id": "134",
+      "name": "Mystery Plate Beta"
+    },
+    {
+      "file": "data/E-Card/Skyridge/135.ts",
+      "id": "135",
+      "name": "Mystery Plate Gamma"
+    },
+    {
+      "file": "data/E-Card/Skyridge/136.ts",
+      "id": "136",
+      "name": "Mystery Plate Delta"
+    },
+    {
+      "file": "data/E-Card/Skyridge/149.ts",
+      "id": "149",
+      "name": "Ho-oh"
+    },
+    {
+      "file": "data/E-Card/Skyridge/81.ts",
+      "id": "81",
+      "name": "Nidoran♀"
+    },
+    {
+      "file": "data/E-Card/Skyridge/82.ts",
+      "id": "82",
+      "name": "Nidoran♀"
+    }
+  ]
+}

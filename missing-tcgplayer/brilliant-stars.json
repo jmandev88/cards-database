@@ -1,0 +1,160 @@
+{
+  "set": "Brilliant Stars",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/133.ts",
+      "id": "133",
+      "name": "Café Master"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG01.ts",
+      "id": "TG01",
+      "name": "Flareon"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG02.ts",
+      "id": "TG02",
+      "name": "Vaporeon"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG03.ts",
+      "id": "TG03",
+      "name": "Octillery"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG04.ts",
+      "id": "TG04",
+      "name": "Jolteon"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG05.ts",
+      "id": "TG05",
+      "name": "Zekrom"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG06.ts",
+      "id": "TG06",
+      "name": "Dusknoir"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG07.ts",
+      "id": "TG07",
+      "name": "Dedenne"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG08.ts",
+      "id": "TG08",
+      "name": "Alcremie"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG09.ts",
+      "id": "TG09",
+      "name": "Ariados"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG10.ts",
+      "id": "TG10",
+      "name": "Houndoom"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG11.ts",
+      "id": "TG11",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG12.ts",
+      "id": "TG12",
+      "name": "Oranguru"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG13.ts",
+      "id": "TG13",
+      "name": "Boltund V"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG14.ts",
+      "id": "TG14",
+      "name": "Sylveon V"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG15.ts",
+      "id": "TG15",
+      "name": "Sylveon VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG16.ts",
+      "id": "TG16",
+      "name": "Mimikyu V"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG17.ts",
+      "id": "TG17",
+      "name": "Mimikyu VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG18.ts",
+      "id": "TG18",
+      "name": "Single Strike Urshifu V"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG19.ts",
+      "id": "TG19",
+      "name": "Single Strike Urshifu VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG20.ts",
+      "id": "TG20",
+      "name": "Rapid Strike Urshifu V"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG21.ts",
+      "id": "TG21",
+      "name": "Rapid Strike Urshifu VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG22.ts",
+      "id": "TG22",
+      "name": "Umbreon V"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG23.ts",
+      "id": "TG23",
+      "name": "Umbreon VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG24.ts",
+      "id": "TG24",
+      "name": "Acerola"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG25.ts",
+      "id": "TG25",
+      "name": "Café Master"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG26.ts",
+      "id": "TG26",
+      "name": "Gloria"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG27.ts",
+      "id": "TG27",
+      "name": "Rapid Strike Style Mustard"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG28.ts",
+      "id": "TG28",
+      "name": "Single Strike Style Mustard"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG29.ts",
+      "id": "TG29",
+      "name": "Single Strike Urshifu VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Brilliant Stars/TG30.ts",
+      "id": "TG30",
+      "name": "Rapid Strike Urshifu VMAX"
+    }
+  ]
+}

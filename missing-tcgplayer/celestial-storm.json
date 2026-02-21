@@ -1,0 +1,50 @@
+{
+  "set": "Celestial Storm",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/Celestial Storm/107.ts",
+      "id": "107",
+      "name": "Latias ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Celestial Storm/108.ts",
+      "id": "108",
+      "name": "Latios ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Celestial Storm/126.ts",
+      "id": "126",
+      "name": "Bill’s Maintenance"
+    },
+    {
+      "file": "data/Sun & Moon/Celestial Storm/140.ts",
+      "id": "140",
+      "name": "PokéNav"
+    },
+    {
+      "file": "data/Sun & Moon/Celestial Storm/145.ts",
+      "id": "145",
+      "name": "Steven’s Resolve"
+    },
+    {
+      "file": "data/Sun & Moon/Celestial Storm/162.ts",
+      "id": "162",
+      "name": "Bill’s Maintenance"
+    },
+    {
+      "file": "data/Sun & Moon/Celestial Storm/165.ts",
+      "id": "165",
+      "name": "Steven’s Resolve"
+    },
+    {
+      "file": "data/Sun & Moon/Celestial Storm/181.ts",
+      "id": "181",
+      "name": "PokéNav"
+    },
+    {
+      "file": "data/Sun & Moon/Celestial Storm/97.ts",
+      "id": "97",
+      "name": "Jirachi ◇"
+    }
+  ]
+}

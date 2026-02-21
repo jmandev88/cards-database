@@ -1,0 +1,30 @@
+{
+  "set": "Phantom Forces",
+  "missing": [
+    {
+      "file": "data/XY/Phantom Forces/120.ts",
+      "id": "120",
+      "name": "M Manectric EX"
+    },
+    {
+      "file": "data/XY/Phantom Forces/121.ts",
+      "id": "121",
+      "name": "M Gengar EX"
+    },
+    {
+      "file": "data/XY/Phantom Forces/24.ts",
+      "id": "24",
+      "name": "M Manectric EX"
+    },
+    {
+      "file": "data/XY/Phantom Forces/24a.ts",
+      "id": "24a",
+      "name": "M Manectric EX"
+    },
+    {
+      "file": "data/XY/Phantom Forces/35.ts",
+      "id": "35",
+      "name": "M Gengar EX"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "set": "McDonald's Collection",
+  "missing": [
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2021.ts",
+      "id": "Macdonald's Collection 2021",
+      "name": "Macdonald"
+    },
+    {
+      "file": "data/McDonald's Collection/Promo McDonald's 2013.ts",
+      "id": "Promo McDonald's 2013",
+      "name": null
+    },
+    {
+      "file": "data/McDonald's Collection/Promo McDonald's 2018.ts",
+      "id": "Promo McDonald's 2018",
+      "name": null
+    },
+    {
+      "file": "data/McDonald's Collection/Promo McDonald's 2019.ts",
+      "id": "Promo McDonald's 2019",
+      "name": null
+    }
+  ]
+}

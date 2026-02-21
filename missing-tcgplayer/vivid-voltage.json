@@ -1,0 +1,10 @@
+{
+  "set": "Vivid Voltage",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Vivid Voltage/185.ts",
+      "id": "185",
+      "name": "Pokémon Center Lady"
+    }
+  ]
+}

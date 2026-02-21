@@ -1,0 +1,1040 @@
+{
+  "set": "151",
+  "missing": [
+    {
+      "file": "data/Scarlet & Violet/151/001.ts",
+      "id": "001",
+      "name": "Bulbasaur"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/002.ts",
+      "id": "002",
+      "name": "Ivysaur"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/003.ts",
+      "id": "003",
+      "name": "Venusaur ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/004.ts",
+      "id": "004",
+      "name": "Charmander"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/005.ts",
+      "id": "005",
+      "name": "Charmeleon"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/006.ts",
+      "id": "006",
+      "name": "Charizard ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/007.ts",
+      "id": "007",
+      "name": "Squirtle"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/008.ts",
+      "id": "008",
+      "name": "Wartortle"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/009.ts",
+      "id": "009",
+      "name": "Blastoise ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/010.ts",
+      "id": "010",
+      "name": "Caterpie"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/011.ts",
+      "id": "011",
+      "name": "Metapod"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/012.ts",
+      "id": "012",
+      "name": "Butterfree"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/013.ts",
+      "id": "013",
+      "name": "Weedle"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/014.ts",
+      "id": "014",
+      "name": "Kakuna"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/015.ts",
+      "id": "015",
+      "name": "Beedrill"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/016.ts",
+      "id": "016",
+      "name": "Pidgey"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/017.ts",
+      "id": "017",
+      "name": "Pidgeotto"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/018.ts",
+      "id": "018",
+      "name": "Pidgeot"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/019.ts",
+      "id": "019",
+      "name": "Rattata"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/020.ts",
+      "id": "020",
+      "name": "Raticate"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/021.ts",
+      "id": "021",
+      "name": "Spearow"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/022.ts",
+      "id": "022",
+      "name": "Fearow"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/023.ts",
+      "id": "023",
+      "name": "Ekans"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/024.ts",
+      "id": "024",
+      "name": "Arbok ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/025.ts",
+      "id": "025",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/026.ts",
+      "id": "026",
+      "name": "Raichu"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/027.ts",
+      "id": "027",
+      "name": "Sandshrew"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/028.ts",
+      "id": "028",
+      "name": "Sandslash"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/029.ts",
+      "id": "029",
+      "name": "Nidoran♀"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/030.ts",
+      "id": "030",
+      "name": "Nidorina"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/031.ts",
+      "id": "031",
+      "name": "Nidoqueen"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/032.ts",
+      "id": "032",
+      "name": "Nidoran♂"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/033.ts",
+      "id": "033",
+      "name": "Nidorino"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/034.ts",
+      "id": "034",
+      "name": "Nidoking"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/035.ts",
+      "id": "035",
+      "name": "Clefairy"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/036.ts",
+      "id": "036",
+      "name": "Clefable"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/037.ts",
+      "id": "037",
+      "name": "Vulpix"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/038.ts",
+      "id": "038",
+      "name": "Ninetales ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/039.ts",
+      "id": "039",
+      "name": "Jigglypuff"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/040.ts",
+      "id": "040",
+      "name": "Wigglytuff ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/041.ts",
+      "id": "041",
+      "name": "Zubat"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/042.ts",
+      "id": "042",
+      "name": "Golbat"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/043.ts",
+      "id": "043",
+      "name": "Oddish"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/044.ts",
+      "id": "044",
+      "name": "Gloom"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/045.ts",
+      "id": "045",
+      "name": "Vileplume"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/046.ts",
+      "id": "046",
+      "name": "Paras"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/047.ts",
+      "id": "047",
+      "name": "Parasect"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/048.ts",
+      "id": "048",
+      "name": "Venonat"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/049.ts",
+      "id": "049",
+      "name": "Venomoth"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/050.ts",
+      "id": "050",
+      "name": "Diglett"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/051.ts",
+      "id": "051",
+      "name": "Dugtrio"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/052.ts",
+      "id": "052",
+      "name": "Meowth"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/053.ts",
+      "id": "053",
+      "name": "Persian"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/054.ts",
+      "id": "054",
+      "name": "Psyduck"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/055.ts",
+      "id": "055",
+      "name": "Golduck"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/056.ts",
+      "id": "056",
+      "name": "Mankey"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/057.ts",
+      "id": "057",
+      "name": "Primeape"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/058.ts",
+      "id": "058",
+      "name": "Growlithe"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/059.ts",
+      "id": "059",
+      "name": "Arcanine"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/060.ts",
+      "id": "060",
+      "name": "Poliwag"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/061.ts",
+      "id": "061",
+      "name": "Poliwhirl"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/062.ts",
+      "id": "062",
+      "name": "Poliwrath"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/063.ts",
+      "id": "063",
+      "name": "Abra"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/064.ts",
+      "id": "064",
+      "name": "Kadabra"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/065.ts",
+      "id": "065",
+      "name": "Alakazam ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/066.ts",
+      "id": "066",
+      "name": "Machop"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/067.ts",
+      "id": "067",
+      "name": "Machoke"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/068.ts",
+      "id": "068",
+      "name": "Machamp"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/069.ts",
+      "id": "069",
+      "name": "Bellsprout"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/070.ts",
+      "id": "070",
+      "name": "Weepinbell"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/071.ts",
+      "id": "071",
+      "name": "Victreebel"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/072.ts",
+      "id": "072",
+      "name": "Tentacool"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/073.ts",
+      "id": "073",
+      "name": "Tentacruel"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/074.ts",
+      "id": "074",
+      "name": "Geodude"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/075.ts",
+      "id": "075",
+      "name": "Graveler"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/076.ts",
+      "id": "076",
+      "name": "Golem ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/077.ts",
+      "id": "077",
+      "name": "Ponyta"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/078.ts",
+      "id": "078",
+      "name": "Rapidash"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/079.ts",
+      "id": "079",
+      "name": "Slowpoke"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/080.ts",
+      "id": "080",
+      "name": "Slowbro"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/081.ts",
+      "id": "081",
+      "name": "Magnemite"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/082.ts",
+      "id": "082",
+      "name": "Magneton"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/083.ts",
+      "id": "083",
+      "name": "Farfetch"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/084.ts",
+      "id": "084",
+      "name": "Doduo"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/085.ts",
+      "id": "085",
+      "name": "Dodrio"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/086.ts",
+      "id": "086",
+      "name": "Seel"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/087.ts",
+      "id": "087",
+      "name": "Dewgong"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/088.ts",
+      "id": "088",
+      "name": "Grimer"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/089.ts",
+      "id": "089",
+      "name": "Muk"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/090.ts",
+      "id": "090",
+      "name": "Shellder"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/091.ts",
+      "id": "091",
+      "name": "Cloyster"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/092.ts",
+      "id": "092",
+      "name": "Gastly"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/093.ts",
+      "id": "093",
+      "name": "Haunter"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/094.ts",
+      "id": "094",
+      "name": "Gengar"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/095.ts",
+      "id": "095",
+      "name": "Onix"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/096.ts",
+      "id": "096",
+      "name": "Drowzee"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/097.ts",
+      "id": "097",
+      "name": "Hypno"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/098.ts",
+      "id": "098",
+      "name": "Krabby"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/099.ts",
+      "id": "099",
+      "name": "Kingler"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/100.ts",
+      "id": "100",
+      "name": "Voltorb"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/101.ts",
+      "id": "101",
+      "name": "Electrode"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/102.ts",
+      "id": "102",
+      "name": "Exeggcute"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/103.ts",
+      "id": "103",
+      "name": "Exeggutor"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/104.ts",
+      "id": "104",
+      "name": "Cubone"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/105.ts",
+      "id": "105",
+      "name": "Marowak"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/106.ts",
+      "id": "106",
+      "name": "Hitmonlee"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/107.ts",
+      "id": "107",
+      "name": "Hitmonchan"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/108.ts",
+      "id": "108",
+      "name": "Lickitung"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/109.ts",
+      "id": "109",
+      "name": "Koffing"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/110.ts",
+      "id": "110",
+      "name": "Weezing"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/111.ts",
+      "id": "111",
+      "name": "Rhyhorn"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/112.ts",
+      "id": "112",
+      "name": "Rhydon"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/113.ts",
+      "id": "113",
+      "name": "Chansey"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/114.ts",
+      "id": "114",
+      "name": "Tangela"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/115.ts",
+      "id": "115",
+      "name": "Kangaskhan ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/116.ts",
+      "id": "116",
+      "name": "Horsea"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/117.ts",
+      "id": "117",
+      "name": "Seadra"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/118.ts",
+      "id": "118",
+      "name": "Goldeen"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/119.ts",
+      "id": "119",
+      "name": "Seaking"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/120.ts",
+      "id": "120",
+      "name": "Staryu"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/121.ts",
+      "id": "121",
+      "name": "Starmie"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/122.ts",
+      "id": "122",
+      "name": "Mr. Mime"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/123.ts",
+      "id": "123",
+      "name": "Scyther"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/124.ts",
+      "id": "124",
+      "name": "Jynx ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/125.ts",
+      "id": "125",
+      "name": "Electabuzz"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/126.ts",
+      "id": "126",
+      "name": "Magmar"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/127.ts",
+      "id": "127",
+      "name": "Pinsir"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/128.ts",
+      "id": "128",
+      "name": "Tauros"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/129.ts",
+      "id": "129",
+      "name": "Magikarp"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/130.ts",
+      "id": "130",
+      "name": "Gyarados"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/131.ts",
+      "id": "131",
+      "name": "Lapras"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/132.ts",
+      "id": "132",
+      "name": "Ditto"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/133.ts",
+      "id": "133",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/134.ts",
+      "id": "134",
+      "name": "Vaporeon"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/135.ts",
+      "id": "135",
+      "name": "Jolteon"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/136.ts",
+      "id": "136",
+      "name": "Flareon"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/137.ts",
+      "id": "137",
+      "name": "Porygon"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/138.ts",
+      "id": "138",
+      "name": "Omanyte"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/139.ts",
+      "id": "139",
+      "name": "Omastar"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/140.ts",
+      "id": "140",
+      "name": "Kabuto"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/141.ts",
+      "id": "141",
+      "name": "Kabutops"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/142.ts",
+      "id": "142",
+      "name": "Aerodactyl"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/143.ts",
+      "id": "143",
+      "name": "Snorlax"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/144.ts",
+      "id": "144",
+      "name": "Articuno"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/145.ts",
+      "id": "145",
+      "name": "Zapdos ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/146.ts",
+      "id": "146",
+      "name": "Moltres"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/147.ts",
+      "id": "147",
+      "name": "Dratini"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/148.ts",
+      "id": "148",
+      "name": "Dragonair"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/149.ts",
+      "id": "149",
+      "name": "Dragonite"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/150.ts",
+      "id": "150",
+      "name": "Mewtwo"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/151.ts",
+      "id": "151",
+      "name": "Mew ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/152.ts",
+      "id": "152",
+      "name": "Antique Dome Fossil"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/153.ts",
+      "id": "153",
+      "name": "Antique Helix Fossil"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/154.ts",
+      "id": "154",
+      "name": "Antique Old Amber"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/155.ts",
+      "id": "155",
+      "name": "Big Air Balloon"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/156.ts",
+      "id": "156",
+      "name": "Bill"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/157.ts",
+      "id": "157",
+      "name": "Cycling Road"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/158.ts",
+      "id": "158",
+      "name": "Daisy"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/159.ts",
+      "id": "159",
+      "name": "Energy Sticker"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/160.ts",
+      "id": "160",
+      "name": "Erika"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/161.ts",
+      "id": "161",
+      "name": "Giovanni"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/162.ts",
+      "id": "162",
+      "name": "Grabber"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/163.ts",
+      "id": "163",
+      "name": "Leftovers"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/164.ts",
+      "id": "164",
+      "name": "Protective Goggles"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/165.ts",
+      "id": "165",
+      "name": "Rigid Band"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/166.ts",
+      "id": "166",
+      "name": "Bulbasaur"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/167.ts",
+      "id": "167",
+      "name": "Ivysaur"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/168.ts",
+      "id": "168",
+      "name": "Charmander"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/169.ts",
+      "id": "169",
+      "name": "Charmeleon"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/170.ts",
+      "id": "170",
+      "name": "Squirtle"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/171.ts",
+      "id": "171",
+      "name": "Wartortle"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/172.ts",
+      "id": "172",
+      "name": "Caterpie"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/173.ts",
+      "id": "173",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/174.ts",
+      "id": "174",
+      "name": "Nidoking"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/175.ts",
+      "id": "175",
+      "name": "Psyduck"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/176.ts",
+      "id": "176",
+      "name": "Poliwhirl"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/177.ts",
+      "id": "177",
+      "name": "Machoke"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/178.ts",
+      "id": "178",
+      "name": "Tangela"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/179.ts",
+      "id": "179",
+      "name": "Mr. Mime"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/180.ts",
+      "id": "180",
+      "name": "Omanyte"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/181.ts",
+      "id": "181",
+      "name": "Dragonair"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/182.ts",
+      "id": "182",
+      "name": "Venusaur ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/183.ts",
+      "id": "183",
+      "name": "Charizard ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/184.ts",
+      "id": "184",
+      "name": "Blastoise ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/185.ts",
+      "id": "185",
+      "name": "Arbok ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/186.ts",
+      "id": "186",
+      "name": "Ninetales ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/187.ts",
+      "id": "187",
+      "name": "Wigglytuff ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/188.ts",
+      "id": "188",
+      "name": "Alakazam ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/189.ts",
+      "id": "189",
+      "name": "Golem ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/190.ts",
+      "id": "190",
+      "name": "Kangaskhan ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/191.ts",
+      "id": "191",
+      "name": "Jynx ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/192.ts",
+      "id": "192",
+      "name": "Zapdos ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/193.ts",
+      "id": "193",
+      "name": "Mew ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/194.ts",
+      "id": "194",
+      "name": "Bill"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/195.ts",
+      "id": "195",
+      "name": "Daisy"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/196.ts",
+      "id": "196",
+      "name": "Erika"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/197.ts",
+      "id": "197",
+      "name": "Giovanni"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/198.ts",
+      "id": "198",
+      "name": "Venusaur ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/199.ts",
+      "id": "199",
+      "name": "Charizard ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/200.ts",
+      "id": "200",
+      "name": "Blastoise ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/201.ts",
+      "id": "201",
+      "name": "Alakazam ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/202.ts",
+      "id": "202",
+      "name": "Zapdos ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/203.ts",
+      "id": "203",
+      "name": "Erika"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/204.ts",
+      "id": "204",
+      "name": "Giovanni"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/205.ts",
+      "id": "205",
+      "name": "Mew ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/206.ts",
+      "id": "206",
+      "name": "Switch"
+    },
+    {
+      "file": "data/Scarlet & Violet/151/207.ts",
+      "id": "207",
+      "name": "Basic Psychic Energy"
+    }
+  ]
+}

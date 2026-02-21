@@ -1,0 +1,475 @@
+{
+  "set": "Yellow A Alternate",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV1.ts",
+      "id": "SV1",
+      "name": "Scyther"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV10.ts",
+      "id": "SV10",
+      "name": "Quagsire"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV11.ts",
+      "id": "SV11",
+      "name": "Froakie"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV12.ts",
+      "id": "SV12",
+      "name": "Frogadier"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV13.ts",
+      "id": "SV13",
+      "name": "Voltorb"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV14.ts",
+      "id": "SV14",
+      "name": "Xurkitree"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV15.ts",
+      "id": "SV15",
+      "name": "Seviper"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV16.ts",
+      "id": "SV16",
+      "name": "Shuppet"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV17.ts",
+      "id": "SV17",
+      "name": "Inkay"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV18.ts",
+      "id": "SV18",
+      "name": "Malamar"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV19.ts",
+      "id": "SV19",
+      "name": "Poipole"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV2.ts",
+      "id": "SV2",
+      "name": "Rowlet"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV20.ts",
+      "id": "SV20",
+      "name": "Sudowoodo"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV21.ts",
+      "id": "SV21",
+      "name": "Riolu"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV22.ts",
+      "id": "SV22",
+      "name": "Lucario"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV23.ts",
+      "id": "SV23",
+      "name": "Rockruff"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV24.ts",
+      "id": "SV24",
+      "name": "Buzzwole"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV25.ts",
+      "id": "SV25",
+      "name": "Zorua"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV26.ts",
+      "id": "SV26",
+      "name": "Guzzlord"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV27.ts",
+      "id": "SV27",
+      "name": "Magnemite"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV28.ts",
+      "id": "SV28",
+      "name": "Magneton"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV29.ts",
+      "id": "SV29",
+      "name": "Magnezone"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV3.ts",
+      "id": "SV3",
+      "name": "Dartrix"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV30.ts",
+      "id": "SV30",
+      "name": "Beldum"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV31.ts",
+      "id": "SV31",
+      "name": "Metang"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV32.ts",
+      "id": "SV32",
+      "name": "Celesteela"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV33.ts",
+      "id": "SV33",
+      "name": "Kartana"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV34.ts",
+      "id": "SV34",
+      "name": "Ralts"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV35.ts",
+      "id": "SV35",
+      "name": "Kirlia"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV36.ts",
+      "id": "SV36",
+      "name": "Diancie"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV37.ts",
+      "id": "SV37",
+      "name": "Altaria"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV38.ts",
+      "id": "SV38",
+      "name": "Gible"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV39.ts",
+      "id": "SV39",
+      "name": "Gabite"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV4.ts",
+      "id": "SV4",
+      "name": "Wimpod"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV40.ts",
+      "id": "SV40",
+      "name": "Garchomp"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV41.ts",
+      "id": "SV41",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV42.ts",
+      "id": "SV42",
+      "name": "Swablu"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV43.ts",
+      "id": "SV43",
+      "name": "Noibat"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV44.ts",
+      "id": "SV44",
+      "name": "Oranguru"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV45.ts",
+      "id": "SV45",
+      "name": "Type: Null"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV46.ts",
+      "id": "SV46",
+      "name": "Leafeon-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV47.ts",
+      "id": "SV47",
+      "name": "Decidueye-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV48.ts",
+      "id": "SV48",
+      "name": "Golisopod-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV49.ts",
+      "id": "SV49",
+      "name": "Charizard-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV5.ts",
+      "id": "SV5",
+      "name": "Pheromosa"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV50.ts",
+      "id": "SV50",
+      "name": "Ho-Oh-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV51.ts",
+      "id": "SV51",
+      "name": "Reshiram-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV52.ts",
+      "id": "SV52",
+      "name": "Turtonator-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV53.ts",
+      "id": "SV53",
+      "name": "Alolan Ninetales-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV54.ts",
+      "id": "SV54",
+      "name": "Articuno-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV55.ts",
+      "id": "SV55",
+      "name": "Glaceon-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV56.ts",
+      "id": "SV56",
+      "name": "Greninja-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV57.ts",
+      "id": "SV57",
+      "name": "Electrode-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV58.ts",
+      "id": "SV58",
+      "name": "Xurkitree-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV59.ts",
+      "id": "SV59",
+      "name": "Mewtwo-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV6.ts",
+      "id": "SV6",
+      "name": "Charmander"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV60.ts",
+      "id": "SV60",
+      "name": "Espeon-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV61.ts",
+      "id": "SV61",
+      "name": "Banette-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV62.ts",
+      "id": "SV62",
+      "name": "Nihilego-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV63.ts",
+      "id": "SV63",
+      "name": "Naganadel-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV64.ts",
+      "id": "SV64",
+      "name": "Lucario-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV65.ts",
+      "id": "SV65",
+      "name": "Zygarde-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV66.ts",
+      "id": "SV66",
+      "name": "Lycanroc-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV67.ts",
+      "id": "SV67",
+      "name": "Lycanroc-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV68.ts",
+      "id": "SV68",
+      "name": "Buzzwole-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV69.ts",
+      "id": "SV69",
+      "name": "Umbreon-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV7.ts",
+      "id": "SV7",
+      "name": "Charmeleon"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV70.ts",
+      "id": "SV70",
+      "name": "Darkrai-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV71.ts",
+      "id": "SV71",
+      "name": "Guzzlord-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV72.ts",
+      "id": "SV72",
+      "name": "Scizor-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV73.ts",
+      "id": "SV73",
+      "name": "Kartana-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV74.ts",
+      "id": "SV74",
+      "name": "Stakataka-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV75.ts",
+      "id": "SV75",
+      "name": "Gardevoir-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV76.ts",
+      "id": "SV76",
+      "name": "Sylveon-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV77.ts",
+      "id": "SV77",
+      "name": "Altaria-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV78.ts",
+      "id": "SV78",
+      "name": "Noivern-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV79.ts",
+      "id": "SV79",
+      "name": "Silvally-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV8.ts",
+      "id": "SV8",
+      "name": "Alolan Vulpix"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV80.ts",
+      "id": "SV80",
+      "name": "Drampa-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV81.ts",
+      "id": "SV81",
+      "name": "Aether Foundation Employee"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV82.ts",
+      "id": "SV82",
+      "name": "Cynthia"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV83.ts",
+      "id": "SV83",
+      "name": "Fisherman"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV84.ts",
+      "id": "SV84",
+      "name": "Guzma"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV85.ts",
+      "id": "SV85",
+      "name": "Hiker"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV86.ts",
+      "id": "SV86",
+      "name": "Lady"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV87.ts",
+      "id": "SV87",
+      "name": "Aether Paradise Conservation Area"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV88.ts",
+      "id": "SV88",
+      "name": "Brooklet Hill"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV89.ts",
+      "id": "SV89",
+      "name": "Mt. Coronet"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV9.ts",
+      "id": "SV9",
+      "name": "Wooper"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV90.ts",
+      "id": "SV90",
+      "name": "Shrine of Punishment"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV91.ts",
+      "id": "SV91",
+      "name": "Tapu Bulu-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV92.ts",
+      "id": "SV92",
+      "name": "Tapu Fini-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV93.ts",
+      "id": "SV93",
+      "name": "Tapu Koko-GX"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate/SV94.ts",
+      "id": "SV94",
+      "name": "Tapu Lele-GX"
+    }
+  ]
+}

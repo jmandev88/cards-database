@@ -1,0 +1,20 @@
+{
+  "set": "Power Keepers",
+  "missing": [
+    {
+      "file": "data/EX/Power Keepers/100.ts",
+      "id": "100",
+      "name": "Flareon Star"
+    },
+    {
+      "file": "data/EX/Power Keepers/101.ts",
+      "id": "101",
+      "name": "Jolteon Star"
+    },
+    {
+      "file": "data/EX/Power Keepers/102.ts",
+      "id": "102",
+      "name": "Vaporeon Star"
+    }
+  ]
+}

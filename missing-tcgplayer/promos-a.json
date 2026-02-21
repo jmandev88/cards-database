@@ -1,0 +1,505 @@
+{
+  "set": "Promos-A",
+  "missing": [
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/001.ts",
+      "id": "001",
+      "name": "Potion"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/002.ts",
+      "id": "002",
+      "name": "X Speed"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/003.ts",
+      "id": "003",
+      "name": "Hand Scope"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/004.ts",
+      "id": "004",
+      "name": "Pokédex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/005.ts",
+      "id": "005",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/006.ts",
+      "id": "006",
+      "name": "Red Card"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/007.ts",
+      "id": "007",
+      "name": "Professor"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/008.ts",
+      "id": "008",
+      "name": "Pokédex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/009.ts",
+      "id": "009",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/010.ts",
+      "id": "010",
+      "name": "Mewtwo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/011.ts",
+      "id": "011",
+      "name": "Chansey"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/012.ts",
+      "id": "012",
+      "name": "Meowth"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/013.ts",
+      "id": "013",
+      "name": "Butterfree"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/014.ts",
+      "id": "014",
+      "name": "Lapras ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/015.ts",
+      "id": "015",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/016.ts",
+      "id": "016",
+      "name": "Clefairy"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/017.ts",
+      "id": "017",
+      "name": "Mankey"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/018.ts",
+      "id": "018",
+      "name": "Venusaur"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/019.ts",
+      "id": "019",
+      "name": "Greninja"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/020.ts",
+      "id": "020",
+      "name": "Haunter"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/021.ts",
+      "id": "021",
+      "name": "Onix"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/022.ts",
+      "id": "022",
+      "name": "Jigglypuff"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/023.ts",
+      "id": "023",
+      "name": "Bulbasaur"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/024.ts",
+      "id": "024",
+      "name": "Magnemite"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/025.ts",
+      "id": "025",
+      "name": "Moltres ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/026.ts",
+      "id": "026",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/027.ts",
+      "id": "027",
+      "name": "Snivy"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/028.ts",
+      "id": "028",
+      "name": "Volcarona"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/029.ts",
+      "id": "029",
+      "name": "Blastoise"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/030.ts",
+      "id": "030",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/031.ts",
+      "id": "031",
+      "name": "Cinccino"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/032.ts",
+      "id": "032",
+      "name": "Charmander"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/033.ts",
+      "id": "033",
+      "name": "Squirtle"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/034.ts",
+      "id": "034",
+      "name": "Piplup"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/035.ts",
+      "id": "035",
+      "name": "Turtwig"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/036.ts",
+      "id": "036",
+      "name": "Electivire"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/037.ts",
+      "id": "037",
+      "name": "Cresselia ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/038.ts",
+      "id": "038",
+      "name": "Misdreavus"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/039.ts",
+      "id": "039",
+      "name": "Skarmory"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/040.ts",
+      "id": "040",
+      "name": "Chimchar"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/041.ts",
+      "id": "041",
+      "name": "Togepi"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/042.ts",
+      "id": "042",
+      "name": "Darkrai ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/043.ts",
+      "id": "043",
+      "name": "Cherrim"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/044.ts",
+      "id": "044",
+      "name": "Raichu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/045.ts",
+      "id": "045",
+      "name": "Nosepass"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/046.ts",
+      "id": "046",
+      "name": "Gible"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/047.ts",
+      "id": "047",
+      "name": "Staraptor"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/048.ts",
+      "id": "048",
+      "name": "Manaphy"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/049.ts",
+      "id": "049",
+      "name": "Snorlax"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/050.ts",
+      "id": "050",
+      "name": "Mewtwo ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/051.ts",
+      "id": "051",
+      "name": "Cyclizar"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/052.ts",
+      "id": "052",
+      "name": "Sprigatito"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/053.ts",
+      "id": "053",
+      "name": "Floatzel"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/054.ts",
+      "id": "054",
+      "name": "Pawmot"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/055.ts",
+      "id": "055",
+      "name": "Machamp"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/056.ts",
+      "id": "056",
+      "name": "Ekans"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/057.ts",
+      "id": "057",
+      "name": "Bidoof"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/058.ts",
+      "id": "058",
+      "name": "Pachirisu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/059.ts",
+      "id": "059",
+      "name": "Riolu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/060.ts",
+      "id": "060",
+      "name": "Exeggcute"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/061.ts",
+      "id": "061",
+      "name": "Froakie"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/062.ts",
+      "id": "062",
+      "name": "Farfetch"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/063.ts",
+      "id": "063",
+      "name": "Rayquaza"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/064.ts",
+      "id": "064",
+      "name": "Rayquaza ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/065.ts",
+      "id": "065",
+      "name": "Rayquaza ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/066.ts",
+      "id": "066",
+      "name": "Mimikyu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/067.ts",
+      "id": "067",
+      "name": "Cosmog"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/068.ts",
+      "id": "068",
+      "name": "Lycanroc"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/069.ts",
+      "id": "069",
+      "name": "Alolan Exeggutor"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/070.ts",
+      "id": "070",
+      "name": "Alolan Ninetales"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/071.ts",
+      "id": "071",
+      "name": "Crabrawler"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/072.ts",
+      "id": "072",
+      "name": "Alolan Grimer"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/073.ts",
+      "id": "073",
+      "name": "Toucannon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/074.ts",
+      "id": "074",
+      "name": "Zeraora"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/075.ts",
+      "id": "075",
+      "name": "Kartana"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/076.ts",
+      "id": "076",
+      "name": "Blacephalon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/077.ts",
+      "id": "077",
+      "name": "Xurkitree"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/078.ts",
+      "id": "078",
+      "name": "Dawn Wings Necrozma"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/079.ts",
+      "id": "079",
+      "name": "Dusk Mane Necrozma"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/080.ts",
+      "id": "080",
+      "name": "Stakataka"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/081.ts",
+      "id": "081",
+      "name": "Ultra Necrozma ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/082.ts",
+      "id": "082",
+      "name": "Poipole"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/083.ts",
+      "id": "083",
+      "name": "Stufful"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/084.ts",
+      "id": "084",
+      "name": "Tapu Koko ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/085.ts",
+      "id": "085",
+      "name": "Vanillite"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/086.ts",
+      "id": "086",
+      "name": "Jolteon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/087.ts",
+      "id": "087",
+      "name": "Alcremie"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/088.ts",
+      "id": "088",
+      "name": "Dragonair"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/089.ts",
+      "id": "089",
+      "name": "Audino"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/090.ts",
+      "id": "090",
+      "name": "Togedemaru"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/091.ts",
+      "id": "091",
+      "name": "Greedent"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/092.ts",
+      "id": "092",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/093.ts",
+      "id": "093",
+      "name": "Cleffa"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/094.ts",
+      "id": "094",
+      "name": "Horsea"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/095.ts",
+      "id": "095",
+      "name": "Chinchou"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/096.ts",
+      "id": "096",
+      "name": "Houndoom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/097.ts",
+      "id": "097",
+      "name": "Kangaskhan"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/098.ts",
+      "id": "098",
+      "name": "Blissey ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/099.ts",
+      "id": "099",
+      "name": "Marill"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A/100.ts",
+      "id": "100",
+      "name": "Weavile"
+    }
+  ]
+}

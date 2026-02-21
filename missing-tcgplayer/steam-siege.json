@@ -1,0 +1,25 @@
+{
+  "set": "Steam Siege",
+  "missing": [
+    {
+      "file": "data/XY/Steam Siege/104.ts",
+      "id": "104",
+      "name": "Pokémon Ranger"
+    },
+    {
+      "file": "data/XY/Steam Siege/113.ts",
+      "id": "113",
+      "name": "Pokémon Ranger"
+    },
+    {
+      "file": "data/XY/Steam Siege/43.ts",
+      "id": "43",
+      "name": "Nidoran♂"
+    },
+    {
+      "file": "data/XY/Steam Siege/99.ts",
+      "id": "99",
+      "name": "Captivating Poké Puff"
+    }
+  ]
+}

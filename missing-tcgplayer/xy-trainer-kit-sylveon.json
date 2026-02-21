@@ -1,0 +1,20 @@
+{
+  "set": "XY trainer Kit (Sylveon)",
+  "missing": [
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Sylveon)/23.ts",
+      "id": "23",
+      "name": "Pokémon Catcher"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Sylveon)/26.ts",
+      "id": "26",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Sylveon)/28.ts",
+      "id": "28",
+      "name": "Professor’s Letter"
+    }
+  ]
+}

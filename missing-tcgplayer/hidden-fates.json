@@ -1,0 +1,85 @@
+{
+  "set": "Hidden Fates",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/Hidden Fates/45.ts",
+      "id": "45",
+      "name": "Farfetch’d"
+    },
+    {
+      "file": "data/Sun & Moon/Hidden Fates/51.ts",
+      "id": "51",
+      "name": "Bill’s Analysis"
+    },
+    {
+      "file": "data/Sun & Moon/Hidden Fates/52.ts",
+      "id": "52",
+      "name": "Blaine’s Last Stand"
+    },
+    {
+      "file": "data/Sun & Moon/Hidden Fates/53.ts",
+      "id": "53",
+      "name": "Brock’s Grit"
+    },
+    {
+      "file": "data/Sun & Moon/Hidden Fates/54.ts",
+      "id": "54",
+      "name": "Brock’s Pewter City Gym"
+    },
+    {
+      "file": "data/Sun & Moon/Hidden Fates/55.ts",
+      "id": "55",
+      "name": "Brock’s Training"
+    },
+    {
+      "file": "data/Sun & Moon/Hidden Fates/56.ts",
+      "id": "56",
+      "name": "Erika’s Hospitality"
+    },
+    {
+      "file": "data/Sun & Moon/Hidden Fates/57.ts",
+      "id": "57",
+      "name": "Giovanni’s Exile"
+    },
+    {
+      "file": "data/Sun & Moon/Hidden Fates/59.ts",
+      "id": "59",
+      "name": "Koga’s Trap"
+    },
+    {
+      "file": "data/Sun & Moon/Hidden Fates/60.ts",
+      "id": "60",
+      "name": "Lt. Surge’s Strategy"
+    },
+    {
+      "file": "data/Sun & Moon/Hidden Fates/61.ts",
+      "id": "61",
+      "name": "Misty’s Cerulean City Gym"
+    },
+    {
+      "file": "data/Sun & Moon/Hidden Fates/62.ts",
+      "id": "62",
+      "name": "Misty’s Determination"
+    },
+    {
+      "file": "data/Sun & Moon/Hidden Fates/63.ts",
+      "id": "63",
+      "name": "Misty’s Water Command"
+    },
+    {
+      "file": "data/Sun & Moon/Hidden Fates/64.ts",
+      "id": "64",
+      "name": "Pokémon Center Lady"
+    },
+    {
+      "file": "data/Sun & Moon/Hidden Fates/65.ts",
+      "id": "65",
+      "name": "Sabrina’s Suggestion"
+    },
+    {
+      "file": "data/Sun & Moon/Hidden Fates/67.ts",
+      "id": "67",
+      "name": "Giovanni’s Exile"
+    }
+  ]
+}

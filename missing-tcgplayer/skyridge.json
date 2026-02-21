@@ -1,0 +1,15 @@
+{
+  "set": "Skyridge",
+  "missing": [
+    {
+      "file": "data/E-Card/Skyridge/81.ts",
+      "id": "81",
+      "name": "Nidoran♀"
+    },
+    {
+      "file": "data/E-Card/Skyridge/82.ts",
+      "id": "82",
+      "name": "Nidoran♀"
+    }
+  ]
+}

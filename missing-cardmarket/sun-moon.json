@@ -1,0 +1,15 @@
+{
+  "set": "Sun & Moon",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos.ts",
+      "id": "SM Black Star Promos",
+      "name": "SM Black Star Promos"
+    },
+    {
+      "file": "data/Sun & Moon/Yellow A Alternate.ts",
+      "id": "Yellow A Alternate",
+      "name": "Yellow A Alternate"
+    }
+  ]
+}

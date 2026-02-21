@@ -1,0 +1,15 @@
+{
+  "set": "Legendary Collection",
+  "missing": [
+    {
+      "file": "data/Legendary Collection/Legendary Collection/82.ts",
+      "id": "82",
+      "name": "Nidoran♀"
+    },
+    {
+      "file": "data/Legendary Collection/Legendary Collection/83.ts",
+      "id": "83",
+      "name": "Nidoran♂"
+    }
+  ]
+}

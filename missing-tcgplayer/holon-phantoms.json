@@ -1,0 +1,260 @@
+{
+  "set": "Holon Phantoms",
+  "missing": [
+    {
+      "file": "data/EX/Holon Phantoms/1.ts",
+      "id": "1",
+      "name": "Armaldo δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/10.ts",
+      "id": "10",
+      "name": "Kingdra δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/102.ts",
+      "id": "102",
+      "name": "Gyarados Star δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/11.ts",
+      "id": "11",
+      "name": "Latias δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/12.ts",
+      "id": "12",
+      "name": "Latios δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/13.ts",
+      "id": "13",
+      "name": "Omastar δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/14.ts",
+      "id": "14",
+      "name": "Pidgeot δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/15.ts",
+      "id": "15",
+      "name": "Raichu δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/16.ts",
+      "id": "16",
+      "name": "Rayquaza δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/17.ts",
+      "id": "17",
+      "name": "Vileplume δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/19.ts",
+      "id": "19",
+      "name": "Bellossom δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/2.ts",
+      "id": "2",
+      "name": "Cradily δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/21.ts",
+      "id": "21",
+      "name": "Latias δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/22.ts",
+      "id": "22",
+      "name": "Latios δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/24.ts",
+      "id": "24",
+      "name": "Mewtwo δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/26.ts",
+      "id": "26",
+      "name": "Rayquaza δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/3.ts",
+      "id": "3",
+      "name": "Deoxys δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/35.ts",
+      "id": "35",
+      "name": "Aerodactyl δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/37.ts",
+      "id": "37",
+      "name": "Chimecho δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/4.ts",
+      "id": "4",
+      "name": "Deoxys δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/41.ts",
+      "id": "41",
+      "name": "Exeggutor δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/42.ts",
+      "id": "42",
+      "name": "Gloom δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/43.ts",
+      "id": "43",
+      "name": "Golduck δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/48.ts",
+      "id": "48",
+      "name": "Persian δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/49.ts",
+      "id": "49",
+      "name": "Pidgeotto δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/5.ts",
+      "id": "5",
+      "name": "Deoxys δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/50.ts",
+      "id": "50",
+      "name": "Primeape δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/52.ts",
+      "id": "52",
+      "name": "Seadra δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/53.ts",
+      "id": "53",
+      "name": "Sharpedo δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/54.ts",
+      "id": "54",
+      "name": "Vibrava δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/57.ts",
+      "id": "57",
+      "name": "Anorith δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/6.ts",
+      "id": "6",
+      "name": "Deoxys δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/61.ts",
+      "id": "61",
+      "name": "Carvanha δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/65.ts",
+      "id": "65",
+      "name": "Exeggcute δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/66.ts",
+      "id": "66",
+      "name": "Horsea δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/67.ts",
+      "id": "67",
+      "name": "Kabuto δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/68.ts",
+      "id": "68",
+      "name": "Lileep δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/69.ts",
+      "id": "69",
+      "name": "Magikarp δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/7.ts",
+      "id": "7",
+      "name": "Flygon δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/70.ts",
+      "id": "70",
+      "name": "Mankey δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/71.ts",
+      "id": "71",
+      "name": "Meowth δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/73.ts",
+      "id": "73",
+      "name": "Oddish δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/74.ts",
+      "id": "74",
+      "name": "Omanyte δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/76.ts",
+      "id": "76",
+      "name": "Pichu δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/77.ts",
+      "id": "77",
+      "name": "Pidgey δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/79.ts",
+      "id": "79",
+      "name": "Pikachu δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/8.ts",
+      "id": "8",
+      "name": "Gyarados δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/81.ts",
+      "id": "81",
+      "name": "Psyduck δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/84.ts",
+      "id": "84",
+      "name": "Trapinch δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/9.ts",
+      "id": "9",
+      "name": "Kabutops δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/98.ts",
+      "id": "98",
+      "name": "δ Rainbow Energy"
+    }
+  ]
+}

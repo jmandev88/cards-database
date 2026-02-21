@@ -1,0 +1,40 @@
+{
+  "set": "Platinum",
+  "missing": [
+    {
+      "file": "data/Platinum/Platinum/113.ts",
+      "id": "113",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/Platinum/Platinum/114.ts",
+      "id": "114",
+      "name": "Pokédex HANDY910is"
+    },
+    {
+      "file": "data/Platinum/Platinum/115.ts",
+      "id": "115",
+      "name": "Pokémon Rescue"
+    },
+    {
+      "file": "data/Platinum/Platinum/118.ts",
+      "id": "118",
+      "name": "Team Galactic"
+    },
+    {
+      "file": "data/Platinum/Platinum/SH4.ts",
+      "id": "SH4",
+      "name": "Lotad"
+    },
+    {
+      "file": "data/Platinum/Platinum/SH5.ts",
+      "id": "SH5",
+      "name": "Swablu"
+    },
+    {
+      "file": "data/Platinum/Platinum/SH6.ts",
+      "id": "SH6",
+      "name": "Vulpix"
+    }
+  ]
+}

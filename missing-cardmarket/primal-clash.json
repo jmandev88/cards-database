@@ -1,0 +1,30 @@
+{
+  "set": "Primal Clash",
+  "missing": [
+    {
+      "file": "data/XY/Primal Clash/106.ts",
+      "id": "106",
+      "name": "M Gardevoir EX"
+    },
+    {
+      "file": "data/XY/Primal Clash/154.ts",
+      "id": "154",
+      "name": "M Aggron EX"
+    },
+    {
+      "file": "data/XY/Primal Clash/156.ts",
+      "id": "156",
+      "name": "M Gardevoir EX"
+    },
+    {
+      "file": "data/XY/Primal Clash/66.ts",
+      "id": "66",
+      "name": "Nidoran♀"
+    },
+    {
+      "file": "data/XY/Primal Clash/94.ts",
+      "id": "94",
+      "name": "M Aggron EX"
+    }
+  ]
+}

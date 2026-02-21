@@ -1,0 +1,130 @@
+{
+  "set": "HGSS Black Star Promos",
+  "missing": [
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS01.ts",
+      "id": "HGSS01",
+      "name": "Ho-Oh"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS02.ts",
+      "id": "HGSS02",
+      "name": "Lugia"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS03.ts",
+      "id": "HGSS03",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS04.ts",
+      "id": "HGSS04",
+      "name": "Wobbuffet"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS05.ts",
+      "id": "HGSS05",
+      "name": "Hoothoot"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS06.ts",
+      "id": "HGSS06",
+      "name": "Noctowl"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS07.ts",
+      "id": "HGSS07",
+      "name": "Feraligatr"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS08.ts",
+      "id": "HGSS08",
+      "name": "Meganium"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS09.ts",
+      "id": "HGSS09",
+      "name": "Typhlosion"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS10.ts",
+      "id": "HGSS10",
+      "name": "Latias"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS11.ts",
+      "id": "HGSS11",
+      "name": "Latios"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS12.ts",
+      "id": "HGSS12",
+      "name": "Cleffa"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS13.ts",
+      "id": "HGSS13",
+      "name": "Smoochum"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS14.ts",
+      "id": "HGSS14",
+      "name": "Lapras"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS15.ts",
+      "id": "HGSS15",
+      "name": "Shuckle"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS16.ts",
+      "id": "HGSS16",
+      "name": "Plusle"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS17.ts",
+      "id": "HGSS17",
+      "name": "Minun"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS18.ts",
+      "id": "HGSS18",
+      "name": "Tropical Tidal Wave"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS19.ts",
+      "id": "HGSS19",
+      "name": "Raikou"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS20.ts",
+      "id": "HGSS20",
+      "name": "Entei"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS21.ts",
+      "id": "HGSS21",
+      "name": "Suicune"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS22.ts",
+      "id": "HGSS22",
+      "name": "Porygon"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS23.ts",
+      "id": "HGSS23",
+      "name": "Porygon2"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS24.ts",
+      "id": "HGSS24",
+      "name": "Hitmonchan"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HGSS Black Star Promos/HGSS25.ts",
+      "id": "HGSS25",
+      "name": "Hitmonlee"
+    }
+  ]
+}

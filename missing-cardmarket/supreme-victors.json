@@ -1,0 +1,180 @@
+{
+  "set": "Supreme Victors",
+  "missing": [
+    {
+      "file": "data/Platinum/Supreme Victors/1.ts",
+      "id": "1",
+      "name": "Absol G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/11.ts",
+      "id": "11",
+      "name": "Staraptor FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/141.ts",
+      "id": "141",
+      "name": "Absol G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/142.ts",
+      "id": "142",
+      "name": "Blaziken FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/143.ts",
+      "id": "143",
+      "name": "Charizard G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/144.ts",
+      "id": "144",
+      "name": "Electivire FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/145.ts",
+      "id": "145",
+      "name": "Garchomp C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/146.ts",
+      "id": "146",
+      "name": "Rayquaza C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/147.ts",
+      "id": "147",
+      "name": "Staraptor FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/15.ts",
+      "id": "15",
+      "name": "Arcanine G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/17.ts",
+      "id": "17",
+      "name": "Butterfree FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/19.ts",
+      "id": "19",
+      "name": "Camerupt G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/2.ts",
+      "id": "2",
+      "name": "Blaziken FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/20.ts",
+      "id": "20",
+      "name": "Charizard G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/23.ts",
+      "id": "23",
+      "name": "Crawdaunt G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/26.ts",
+      "id": "26",
+      "name": "Dusknoir FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/27.ts",
+      "id": "27",
+      "name": "Empoleon FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/3.ts",
+      "id": "3",
+      "name": "Drifblim FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/30.ts",
+      "id": "30",
+      "name": "Lickilicky C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/31.ts",
+      "id": "31",
+      "name": "Lucario C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/35.ts",
+      "id": "35",
+      "name": "Milotic C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/4.ts",
+      "id": "4",
+      "name": "Electivire FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/40.ts",
+      "id": "40",
+      "name": "Roserade C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/41.ts",
+      "id": "41",
+      "name": "Sableye G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/49.ts",
+      "id": "49",
+      "name": "Altaria C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/54.ts",
+      "id": "54",
+      "name": "Chatot G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/56.ts",
+      "id": "56",
+      "name": "Dragonite FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/60.ts",
+      "id": "60",
+      "name": "Garchomp C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/66.ts",
+      "id": "66",
+      "name": "Manectric G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/78.ts",
+      "id": "78",
+      "name": "Raticate G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/8.ts",
+      "id": "8",
+      "name": "Rayquaza C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/83.ts",
+      "id": "83",
+      "name": "Skarmory FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/84.ts",
+      "id": "84",
+      "name": "Spiritomb C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/86.ts",
+      "id": "86",
+      "name": "Togekiss C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/9.ts",
+      "id": "9",
+      "name": "Regigigas FB"
+    }
+  ]
+}

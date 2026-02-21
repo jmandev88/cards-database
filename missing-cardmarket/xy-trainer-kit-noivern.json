@@ -1,0 +1,155 @@
+{
+  "set": "XY trainer Kit (Noivern)",
+  "missing": [
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/1.ts",
+      "id": "1",
+      "name": "Spoink"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/10.ts",
+      "id": "10",
+      "name": "Psychic Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/11.ts",
+      "id": "11",
+      "name": "Pumpkaboo"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/12.ts",
+      "id": "12",
+      "name": "Noibat"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/13.ts",
+      "id": "13",
+      "name": "Noivern"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/14.ts",
+      "id": "14",
+      "name": "Pokémon Catcher"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/15.ts",
+      "id": "15",
+      "name": "Potion"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/16.ts",
+      "id": "16",
+      "name": "Ekans"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/17.ts",
+      "id": "17",
+      "name": "Psychic Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/18.ts",
+      "id": "18",
+      "name": "Pumpkaboo"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/19.ts",
+      "id": "19",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/2.ts",
+      "id": "2",
+      "name": "Gourgeist"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/20.ts",
+      "id": "20",
+      "name": "Furfrou"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/21.ts",
+      "id": "21",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/22.ts",
+      "id": "22",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/23.ts",
+      "id": "23",
+      "name": "Noibat"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/24.ts",
+      "id": "24",
+      "name": "Professor’s Letter"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/25.ts",
+      "id": "25",
+      "name": "Psychic Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/26.ts",
+      "id": "26",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/27.ts",
+      "id": "27",
+      "name": "Potion"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/28.ts",
+      "id": "28",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/29.ts",
+      "id": "29",
+      "name": "Switch"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/3.ts",
+      "id": "3",
+      "name": "Arbok"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/30.ts",
+      "id": "30",
+      "name": "Noivern"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/4.ts",
+      "id": "4",
+      "name": "Bunnelby"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/5.ts",
+      "id": "5",
+      "name": "Psychic Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/6.ts",
+      "id": "6",
+      "name": "Psychic Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/7.ts",
+      "id": "7",
+      "name": "Psychic Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/8.ts",
+      "id": "8",
+      "name": "Psychic Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/9.ts",
+      "id": "9",
+      "name": "Psychic Energy"
+    }
+  ]
+}

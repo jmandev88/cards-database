@@ -1,0 +1,20 @@
+{
+  "set": "Black & White",
+  "missing": [
+    {
+      "file": "data/Black & White/Black & White/97.ts",
+      "id": "97",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/Black & White/Black & White/98.ts",
+      "id": "98",
+      "name": "Pokédex"
+    },
+    {
+      "file": "data/Black & White/Black & White/99.ts",
+      "id": "99",
+      "name": "Pokémon Communication"
+    }
+  ]
+}

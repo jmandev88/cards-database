@@ -1,0 +1,50 @@
+{
+  "set": "Legends Awakened",
+  "missing": [
+    {
+      "file": "data/Diamond & Pearl/Legends Awakened/42.ts",
+      "id": "42",
+      "name": "Unown !"
+    },
+    {
+      "file": "data/Diamond & Pearl/Legends Awakened/50.ts",
+      "id": "50",
+      "name": "Castform Snow-cloud Form"
+    },
+    {
+      "file": "data/Diamond & Pearl/Legends Awakened/76.ts",
+      "id": "76",
+      "name": "Unown J"
+    },
+    {
+      "file": "data/Diamond & Pearl/Legends Awakened/77.ts",
+      "id": "77",
+      "name": "Unown R"
+    },
+    {
+      "file": "data/Diamond & Pearl/Legends Awakened/78.ts",
+      "id": "78",
+      "name": "Unown U"
+    },
+    {
+      "file": "data/Diamond & Pearl/Legends Awakened/79.ts",
+      "id": "79",
+      "name": "Unown V"
+    },
+    {
+      "file": "data/Diamond & Pearl/Legends Awakened/80.ts",
+      "id": "80",
+      "name": "Unown W"
+    },
+    {
+      "file": "data/Diamond & Pearl/Legends Awakened/81.ts",
+      "id": "81",
+      "name": "Unown Y"
+    },
+    {
+      "file": "data/Diamond & Pearl/Legends Awakened/82.ts",
+      "id": "82",
+      "name": "Unown ?"
+    }
+  ]
+}

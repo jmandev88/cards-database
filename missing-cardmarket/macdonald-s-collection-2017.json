@@ -1,0 +1,65 @@
+{
+  "set": "Macdonald's Collection 2017",
+  "missing": [
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2017/1.ts",
+      "id": "1",
+      "name": "Rowlet"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2017/10.ts",
+      "id": "10",
+      "name": "Cutiefly"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2017/11.ts",
+      "id": "11",
+      "name": "Pikipek"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2017/12.ts",
+      "id": "12",
+      "name": "Yungoos"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2017/2.ts",
+      "id": "2",
+      "name": "Grubbin"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2017/3.ts",
+      "id": "3",
+      "name": "Litten"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2017/4.ts",
+      "id": "4",
+      "name": "Popplio"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2017/5.ts",
+      "id": "5",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2017/6.ts",
+      "id": "6",
+      "name": "Cosmog"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2017/7.ts",
+      "id": "7",
+      "name": "Crabrawler"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2017/8.ts",
+      "id": "8",
+      "name": "Alolan Meowth"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2017/9.ts",
+      "id": "9",
+      "name": "Alolan Diglett"
+    }
+  ]
+}

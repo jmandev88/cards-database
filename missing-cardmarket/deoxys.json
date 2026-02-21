@@ -1,0 +1,20 @@
+{
+  "set": "Deoxys",
+  "missing": [
+    {
+      "file": "data/EX/Deoxys/105.ts",
+      "id": "105",
+      "name": "Latias Star"
+    },
+    {
+      "file": "data/EX/Deoxys/106.ts",
+      "id": "106",
+      "name": "Latios Star"
+    },
+    {
+      "file": "data/EX/Deoxys/107.ts",
+      "id": "107",
+      "name": "Rayquaza Star"
+    }
+  ]
+}

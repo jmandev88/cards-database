@@ -1,0 +1,30 @@
+{
+  "set": "Dragon Frontiers",
+  "missing": [
+    {
+      "file": "data/EX/Dragon Frontiers/100.ts",
+      "id": "100",
+      "name": "Charizard Star δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/101.ts",
+      "id": "101",
+      "name": "Mew Star δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/56.ts",
+      "id": "56",
+      "name": "Nidoran♀ δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/57.ts",
+      "id": "57",
+      "name": "Nidoran♂ δ"
+    },
+    {
+      "file": "data/EX/Dragon Frontiers/88.ts",
+      "id": "88",
+      "name": "δ Rainbow Energy"
+    }
+  ]
+}

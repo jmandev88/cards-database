@@ -1,0 +1,30 @@
+{
+  "set": "Rebel Clash",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Rebel Clash/154.ts",
+      "id": "154",
+      "name": "Boss"
+    },
+    {
+      "file": "data/Sword & Shield/Rebel Clash/172.ts",
+      "id": "172",
+      "name": "Horror Psychic Energy"
+    },
+    {
+      "file": "data/Sword & Shield/Rebel Clash/173.ts",
+      "id": "173",
+      "name": "Speed Lightning Energy"
+    },
+    {
+      "file": "data/Sword & Shield/Rebel Clash/189.ts",
+      "id": "189",
+      "name": "Boss"
+    },
+    {
+      "file": "data/Sword & Shield/Rebel Clash/200.ts",
+      "id": "200",
+      "name": "Boss"
+    }
+  ]
+}

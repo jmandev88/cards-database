@@ -1,0 +1,115 @@
+{
+  "set": "XY Black Star Promos",
+  "missing": [
+    {
+      "file": "data/XY/XY Black Star Promos/XY104.ts",
+      "id": "XY104",
+      "name": "M Mawile EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY133.ts",
+      "id": "XY133",
+      "name": "Ash Greninja EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY150a.ts",
+      "id": "XY150a",
+      "name": "Yveltal-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY153.ts",
+      "id": "XY153",
+      "name": "Ho Oh"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY158.ts",
+      "id": "XY158",
+      "name": "M Beedrill-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY166.ts",
+      "id": "XY166",
+      "name": "M Gengar-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY167.ts",
+      "id": "XY167",
+      "name": "Garchomp-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY168.ts",
+      "id": "XY168",
+      "name": "M Garchomp-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY171.ts",
+      "id": "XY171",
+      "name": "M Salamence-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY174.ts",
+      "id": "XY174",
+      "name": "Pikachu-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY175.ts",
+      "id": "XY175",
+      "name": "Magearna-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY183.ts",
+      "id": "XY183",
+      "name": "Mewtwo-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY198.ts",
+      "id": "XY198",
+      "name": "M Camerupt-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY198a.ts",
+      "id": "XY198a",
+      "name": "M Camerupt-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY200.ts",
+      "id": "XY200",
+      "name": "M Sharpedo-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY200a.ts",
+      "id": "XY200a",
+      "name": "M Sharpedo-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY35.ts",
+      "id": "XY35",
+      "name": "M Metagross EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY44.ts",
+      "id": "XY44",
+      "name": "M Diancie EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY63.ts",
+      "id": "XY63",
+      "name": "M Absol EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY86.ts",
+      "id": "XY86",
+      "name": "M Blaziken EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY87.ts",
+      "id": "XY87",
+      "name": "M Swampert EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY98.ts",
+      "id": "XY98",
+      "name": "M Aerodactyl EX"
+    }
+  ]
+}

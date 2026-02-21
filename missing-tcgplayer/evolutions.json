@@ -1,0 +1,20 @@
+{
+  "set": "Evolutions",
+  "missing": [
+    {
+      "file": "data/XY/Evolutions/109.ts",
+      "id": "109",
+      "name": "ナッシー[Exeggutor]"
+    },
+    {
+      "file": "data/XY/Evolutions/43.ts",
+      "id": "43",
+      "name": "Nidoran♂"
+    },
+    {
+      "file": "data/XY/Evolutions/82.ts",
+      "id": "82",
+      "name": "Pokédex"
+    }
+  ]
+}

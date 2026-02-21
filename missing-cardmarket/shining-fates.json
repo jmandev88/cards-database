@@ -1,0 +1,15 @@
+{
+  "set": "Shining Fates",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Shining Fates/58.ts",
+      "id": "58",
+      "name": "Boss"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/60.ts",
+      "id": "60",
+      "name": "Professor"
+    }
+  ]
+}

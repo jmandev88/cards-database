@@ -1,0 +1,155 @@
+{
+  "set": "Lost Origin",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG01.ts",
+      "id": "TG01",
+      "name": "Parasect"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG02.ts",
+      "id": "TG02",
+      "name": "Roserade"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG03.ts",
+      "id": "TG03",
+      "name": "Charizard"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG04.ts",
+      "id": "TG04",
+      "name": "Chandelure"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG05.ts",
+      "id": "TG05",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG06.ts",
+      "id": "TG06",
+      "name": "Gengar"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG07.ts",
+      "id": "TG07",
+      "name": "Banette"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG08.ts",
+      "id": "TG08",
+      "name": "Hisuian Arcanine"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG09.ts",
+      "id": "TG09",
+      "name": "Spiritomb"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG10.ts",
+      "id": "TG10",
+      "name": "Snorlax"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG11.ts",
+      "id": "TG11",
+      "name": "Castform"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG12.ts",
+      "id": "TG12",
+      "name": "Orbeetle V"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG13.ts",
+      "id": "TG13",
+      "name": "Orbeetle VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG14.ts",
+      "id": "TG14",
+      "name": "Centiskorch V"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG15.ts",
+      "id": "TG15",
+      "name": "Centiskorch VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG16.ts",
+      "id": "TG16",
+      "name": "Pikachu V"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG17.ts",
+      "id": "TG17",
+      "name": "Pikachu VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG18.ts",
+      "id": "TG18",
+      "name": "Enamorus V"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG19.ts",
+      "id": "TG19",
+      "name": "Gallade V"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG20.ts",
+      "id": "TG20",
+      "name": "Crobat V"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG21.ts",
+      "id": "TG21",
+      "name": "Eternatus V"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG22.ts",
+      "id": "TG22",
+      "name": "Eternatus VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG23.ts",
+      "id": "TG23",
+      "name": "Adventurer"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG24.ts",
+      "id": "TG24",
+      "name": "Boss"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG25.ts",
+      "id": "TG25",
+      "name": "Cook"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG26.ts",
+      "id": "TG26",
+      "name": "Kabu"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG27.ts",
+      "id": "TG27",
+      "name": "Nessa"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG28.ts",
+      "id": "TG28",
+      "name": "Opal"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG29.ts",
+      "id": "TG29",
+      "name": "Pikachu VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Lost Origin/TG30.ts",
+      "id": "TG30",
+      "name": "Mew VMAX"
+    }
+  ]
+}

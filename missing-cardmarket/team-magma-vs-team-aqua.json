@@ -1,0 +1,15 @@
+{
+  "set": "Team Magma vs Team Aqua",
+  "missing": [
+    {
+      "file": "data/EX/Team Magma vs Team Aqua/79.ts",
+      "id": "79",
+      "name": "Team Aqua"
+    },
+    {
+      "file": "data/EX/Team Magma vs Team Aqua/84.ts",
+      "id": "84",
+      "name": "Team Magma"
+    }
+  ]
+}

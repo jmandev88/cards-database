@@ -1,0 +1,15 @@
+{
+  "set": "Neo Revelation",
+  "missing": [
+    {
+      "file": "data/Neo/Neo Revelation/18.ts",
+      "id": "18",
+      "name": "Ho-oh"
+    },
+    {
+      "file": "data/Neo/Neo Revelation/7.ts",
+      "id": "7",
+      "name": "Ho-oh"
+    }
+  ]
+}

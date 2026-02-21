@@ -1,0 +1,10 @@
+{
+  "set": "POP Series 3",
+  "missing": [
+    {
+      "file": "data/POP/POP Series 3/17.ts",
+      "id": "17",
+      "name": "Ho-Oh ex"
+    }
+  ]
+}

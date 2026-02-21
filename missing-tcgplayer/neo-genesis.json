@@ -1,0 +1,20 @@
+{
+  "set": "Neo Genesis",
+  "missing": [
+    {
+      "file": "data/Neo/Neo Genesis/102.ts",
+      "id": "102",
+      "name": "Pokémon March"
+    },
+    {
+      "file": "data/Neo/Neo Genesis/88.ts",
+      "id": "88",
+      "name": "PokéGear"
+    },
+    {
+      "file": "data/Neo/Neo Genesis/95.ts",
+      "id": "95",
+      "name": "New Pokédex"
+    }
+  ]
+}

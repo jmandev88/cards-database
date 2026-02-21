@@ -1,0 +1,15 @@
+{
+  "set": "Kalos Starter Set",
+  "missing": [
+    {
+      "file": "data/XY/Kalos Starter Set/35.ts",
+      "id": "35",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/XY/Kalos Starter Set/36.ts",
+      "id": "36",
+      "name": "Pokémon Catcher"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "set": "Furious Fists",
+  "missing": [
+    {
+      "file": "data/XY/Furious Fists/112.ts",
+      "id": "112",
+      "name": "M Heracross EX"
+    },
+    {
+      "file": "data/XY/Furious Fists/113.ts",
+      "id": "113",
+      "name": "M Lucario EX"
+    },
+    {
+      "file": "data/XY/Furious Fists/5.ts",
+      "id": "5",
+      "name": "M Heracross EX"
+    },
+    {
+      "file": "data/XY/Furious Fists/55.ts",
+      "id": "55",
+      "name": "M Lucario EX"
+    },
+    {
+      "file": "data/XY/Furious Fists/55a.ts",
+      "id": "55a",
+      "name": "M Lucario EX"
+    }
+  ]
+}

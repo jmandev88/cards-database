@@ -1,0 +1,630 @@
+{
+  "set": "Shining Fates",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Shining Fates/58.ts",
+      "id": "58",
+      "name": "Boss"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/60.ts",
+      "id": "60",
+      "name": "Professor"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/70.ts",
+      "id": "70",
+      "name": "Poké Kid"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV001.ts",
+      "id": "SV001",
+      "name": "Rowlet"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV002.ts",
+      "id": "SV002",
+      "name": "Dartrix"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV003.ts",
+      "id": "SV003",
+      "name": "Decidueye"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV004.ts",
+      "id": "SV004",
+      "name": "Grookey"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV005.ts",
+      "id": "SV005",
+      "name": "Thwackey"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV006.ts",
+      "id": "SV006",
+      "name": "Rillaboom"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV007.ts",
+      "id": "SV007",
+      "name": "Blipbug"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV008.ts",
+      "id": "SV008",
+      "name": "Dottler"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV009.ts",
+      "id": "SV009",
+      "name": "Orbeetle"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV010.ts",
+      "id": "SV010",
+      "name": "Gossifleur"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV011.ts",
+      "id": "SV011",
+      "name": "Eldegoss"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV012.ts",
+      "id": "SV012",
+      "name": "Applin"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV013.ts",
+      "id": "SV013",
+      "name": "Flapple"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV014.ts",
+      "id": "SV014",
+      "name": "Appletun"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV015.ts",
+      "id": "SV015",
+      "name": "Scorbunny"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV016.ts",
+      "id": "SV016",
+      "name": "Raboot"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV017.ts",
+      "id": "SV017",
+      "name": "Cinderace"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV018.ts",
+      "id": "SV018",
+      "name": "Sizzlipede"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV019.ts",
+      "id": "SV019",
+      "name": "Centiskorch"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV020.ts",
+      "id": "SV020",
+      "name": "Galarian Mr. Mime"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV021.ts",
+      "id": "SV021",
+      "name": "Galarian Mr. Rime"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV022.ts",
+      "id": "SV022",
+      "name": "Suicune"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV023.ts",
+      "id": "SV023",
+      "name": "Galarian Darumaka"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV024.ts",
+      "id": "SV024",
+      "name": "Galarian Darmanitan"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV025.ts",
+      "id": "SV025",
+      "name": "Sobble"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV026.ts",
+      "id": "SV026",
+      "name": "Drizzile"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV027.ts",
+      "id": "SV027",
+      "name": "Inteleon"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV028.ts",
+      "id": "SV028",
+      "name": "Chewtle"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV029.ts",
+      "id": "SV029",
+      "name": "Drednaw"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV030.ts",
+      "id": "SV030",
+      "name": "Cramorant"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV031.ts",
+      "id": "SV031",
+      "name": "Arrokuda"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV032.ts",
+      "id": "SV032",
+      "name": "Barraskewda"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV033.ts",
+      "id": "SV033",
+      "name": "Snom"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV034.ts",
+      "id": "SV034",
+      "name": "Frosmoth"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV035.ts",
+      "id": "SV035",
+      "name": "Eiscue"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV036.ts",
+      "id": "SV036",
+      "name": "Dracovish"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV037.ts",
+      "id": "SV037",
+      "name": "Arctovish"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV038.ts",
+      "id": "SV038",
+      "name": "Rotom"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV039.ts",
+      "id": "SV039",
+      "name": "Yamper"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV040.ts",
+      "id": "SV040",
+      "name": "Boltund"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV041.ts",
+      "id": "SV041",
+      "name": "Toxel"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV042.ts",
+      "id": "SV042",
+      "name": "Toxtricity"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV043.ts",
+      "id": "SV043",
+      "name": "Pincurchin"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV044.ts",
+      "id": "SV044",
+      "name": "Morpeko"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV045.ts",
+      "id": "SV045",
+      "name": "Dracozolt"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV046.ts",
+      "id": "SV046",
+      "name": "Arctozolt"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV047.ts",
+      "id": "SV047",
+      "name": "Galarian Ponyta"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV048.ts",
+      "id": "SV048",
+      "name": "Galarian Rapidash"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV049.ts",
+      "id": "SV049",
+      "name": "Galarian Corsola"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV050.ts",
+      "id": "SV050",
+      "name": "Galarian Cursola"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV051.ts",
+      "id": "SV051",
+      "name": "Dedenne"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV052.ts",
+      "id": "SV052",
+      "name": "Sinistea"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV053.ts",
+      "id": "SV053",
+      "name": "Polteageist"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV054.ts",
+      "id": "SV054",
+      "name": "Hatenna"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV055.ts",
+      "id": "SV055",
+      "name": "Hattrem"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV056.ts",
+      "id": "SV056",
+      "name": "Hatterene"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV057.ts",
+      "id": "SV057",
+      "name": "Milcery"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV058.ts",
+      "id": "SV058",
+      "name": "Alcremie"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV059.ts",
+      "id": "SV059",
+      "name": "Indeedee"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV060.ts",
+      "id": "SV060",
+      "name": "Dreepy"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV061.ts",
+      "id": "SV061",
+      "name": "Drakloak"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV062.ts",
+      "id": "SV062",
+      "name": "Dragapult"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV063.ts",
+      "id": "SV063",
+      "name": "Galarian Farfetch"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV064.ts",
+      "id": "SV064",
+      "name": "Galarian Sirfetch"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV065.ts",
+      "id": "SV065",
+      "name": "Galarian Yamask"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV066.ts",
+      "id": "SV066",
+      "name": "Galarian Runerigus"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV067.ts",
+      "id": "SV067",
+      "name": "Rolycoly"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV068.ts",
+      "id": "SV068",
+      "name": "Carkol"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV069.ts",
+      "id": "SV069",
+      "name": "Coalossal"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV070.ts",
+      "id": "SV070",
+      "name": "Silicobra"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV071.ts",
+      "id": "SV071",
+      "name": "Sandaconda"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV072.ts",
+      "id": "SV072",
+      "name": "Clobbopus"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV073.ts",
+      "id": "SV073",
+      "name": "Grapploct"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV074.ts",
+      "id": "SV074",
+      "name": "Falinks"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV075.ts",
+      "id": "SV075",
+      "name": "Stonjourner"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV076.ts",
+      "id": "SV076",
+      "name": "Koffing"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV077.ts",
+      "id": "SV077",
+      "name": "Galarian Weezing"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV078.ts",
+      "id": "SV078",
+      "name": "Galarian Zigzagoon"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV079.ts",
+      "id": "SV079",
+      "name": "Galarian Linoone"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV080.ts",
+      "id": "SV080",
+      "name": "Galarian Obstagoon"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV081.ts",
+      "id": "SV081",
+      "name": "Nickit"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV082.ts",
+      "id": "SV082",
+      "name": "Thievul"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV083.ts",
+      "id": "SV083",
+      "name": "Impidimp"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV084.ts",
+      "id": "SV084",
+      "name": "Morgrem"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV085.ts",
+      "id": "SV085",
+      "name": "Grimmsnarl"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV086.ts",
+      "id": "SV086",
+      "name": "Galarian Meowth"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV087.ts",
+      "id": "SV087",
+      "name": "Galarian Perrserker"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV088.ts",
+      "id": "SV088",
+      "name": "Galarian Stunfisk"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV089.ts",
+      "id": "SV089",
+      "name": "Corviknight"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV090.ts",
+      "id": "SV090",
+      "name": "Cufant"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV091.ts",
+      "id": "SV091",
+      "name": "Copperajah"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV092.ts",
+      "id": "SV092",
+      "name": "Duraludon"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV093.ts",
+      "id": "SV093",
+      "name": "Minccino"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV094.ts",
+      "id": "SV094",
+      "name": "Cinccino"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV095.ts",
+      "id": "SV095",
+      "name": "Ducklett"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV096.ts",
+      "id": "SV096",
+      "name": "Swanna"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV097.ts",
+      "id": "SV097",
+      "name": "Bunnelby"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV098.ts",
+      "id": "SV098",
+      "name": "Oranguru"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV099.ts",
+      "id": "SV099",
+      "name": "Skwovet"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV100.ts",
+      "id": "SV100",
+      "name": "Greedent"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV101.ts",
+      "id": "SV101",
+      "name": "Rookidee"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV102.ts",
+      "id": "SV102",
+      "name": "Corvisquire"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV103.ts",
+      "id": "SV103",
+      "name": "Wooloo"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV104.ts",
+      "id": "SV104",
+      "name": "Dubwool"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV105.ts",
+      "id": "SV105",
+      "name": "Rillaboom V"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV106.ts",
+      "id": "SV106",
+      "name": "Rillaboom VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV107.ts",
+      "id": "SV107",
+      "name": "Charizard VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV108.ts",
+      "id": "SV108",
+      "name": "Centiskorch V"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV109.ts",
+      "id": "SV109",
+      "name": "Centiskorch VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV110.ts",
+      "id": "SV110",
+      "name": "Lapras V"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV111.ts",
+      "id": "SV111",
+      "name": "Lapras VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV112.ts",
+      "id": "SV112",
+      "name": "Toxtricity V"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV113.ts",
+      "id": "SV113",
+      "name": "Toxtricity VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV114.ts",
+      "id": "SV114",
+      "name": "Indeedee V"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV115.ts",
+      "id": "SV115",
+      "name": "Falinks V"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV116.ts",
+      "id": "SV116",
+      "name": "Grimmsnarl V"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV117.ts",
+      "id": "SV117",
+      "name": "Grimmsnarl VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV118.ts",
+      "id": "SV118",
+      "name": "Ditto V"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV119.ts",
+      "id": "SV119",
+      "name": "Ditto VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV120.ts",
+      "id": "SV120",
+      "name": "Dubwool V"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV121.ts",
+      "id": "SV121",
+      "name": "Eternatus V"
+    },
+    {
+      "file": "data/Sword & Shield/Shining Fates/SV122.ts",
+      "id": "SV122",
+      "name": "Eternatus VMAX"
+    }
+  ]
+}

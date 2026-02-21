@@ -1,0 +1,880 @@
+{
+  "set": "Stellar Crown",
+  "missing": [
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/001.ts",
+      "id": "001",
+      "name": "Venusaur ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/002.ts",
+      "id": "002",
+      "name": "Ledyba"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/003.ts",
+      "id": "003",
+      "name": "Ledian"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/004.ts",
+      "id": "004",
+      "name": "Celebi"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/005.ts",
+      "id": "005",
+      "name": "Lileep"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/006.ts",
+      "id": "006",
+      "name": "Cradily"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/007.ts",
+      "id": "007",
+      "name": "Carnivine"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/008.ts",
+      "id": "008",
+      "name": "Mow Rotom"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/009.ts",
+      "id": "009",
+      "name": "Grubbin"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/010.ts",
+      "id": "010",
+      "name": "Gossifleur"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/011.ts",
+      "id": "011",
+      "name": "Eldegoss"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/012.ts",
+      "id": "012",
+      "name": "Applin"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/013.ts",
+      "id": "013",
+      "name": "Dipplin"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/014.ts",
+      "id": "014",
+      "name": "Hydrapple ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/015.ts",
+      "id": "015",
+      "name": "Nymble"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/016.ts",
+      "id": "016",
+      "name": "Lokix"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/017.ts",
+      "id": "017",
+      "name": "Toedscool"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/018.ts",
+      "id": "018",
+      "name": "Toedscruel"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/019.ts",
+      "id": "019",
+      "name": "Ponyta"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/020.ts",
+      "id": "020",
+      "name": "Rapidash"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/021.ts",
+      "id": "021",
+      "name": "Pansear"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/022.ts",
+      "id": "022",
+      "name": "Reshiram"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/023.ts",
+      "id": "023",
+      "name": "Salandit"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/024.ts",
+      "id": "024",
+      "name": "Salazzle"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/025.ts",
+      "id": "025",
+      "name": "Turtonator"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/026.ts",
+      "id": "026",
+      "name": "Scorbunny"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/027.ts",
+      "id": "027",
+      "name": "Raboot"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/028.ts",
+      "id": "028",
+      "name": "Cinderace ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/029.ts",
+      "id": "029",
+      "name": "Charcadet"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/030.ts",
+      "id": "030",
+      "name": "Blastoise ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/031.ts",
+      "id": "031",
+      "name": "Lapras"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/032.ts",
+      "id": "032",
+      "name": "Lapras ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/033.ts",
+      "id": "033",
+      "name": "Marill"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/034.ts",
+      "id": "034",
+      "name": "Azumarill"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/035.ts",
+      "id": "035",
+      "name": "Finneon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/036.ts",
+      "id": "036",
+      "name": "Lumineon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/037.ts",
+      "id": "037",
+      "name": "Tirtouga"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/038.ts",
+      "id": "038",
+      "name": "Carracosta"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/039.ts",
+      "id": "039",
+      "name": "Froakie"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/040.ts",
+      "id": "040",
+      "name": "Frogadier"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/041.ts",
+      "id": "041",
+      "name": "Greninja ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/042.ts",
+      "id": "042",
+      "name": "Crabominable"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/043.ts",
+      "id": "043",
+      "name": "Chewtle"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/044.ts",
+      "id": "044",
+      "name": "Drednaw"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/045.ts",
+      "id": "045",
+      "name": "Veluza"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/046.ts",
+      "id": "046",
+      "name": "Electabuzz"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/047.ts",
+      "id": "047",
+      "name": "Electivire"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/048.ts",
+      "id": "048",
+      "name": "Chinchou"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/049.ts",
+      "id": "049",
+      "name": "Lanturn"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/050.ts",
+      "id": "050",
+      "name": "Joltik"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/051.ts",
+      "id": "051",
+      "name": "Galvantula ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/052.ts",
+      "id": "052",
+      "name": "Charjabug"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/053.ts",
+      "id": "053",
+      "name": "Vikavolt"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/054.ts",
+      "id": "054",
+      "name": "Togedemaru"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/055.ts",
+      "id": "055",
+      "name": "Zeraora"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/056.ts",
+      "id": "056",
+      "name": "Pawmi"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/057.ts",
+      "id": "057",
+      "name": "Slowpoke"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/058.ts",
+      "id": "058",
+      "name": "Slowking"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/059.ts",
+      "id": "059",
+      "name": "Mewtwo"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/060.ts",
+      "id": "060",
+      "name": "Drifloon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/061.ts",
+      "id": "061",
+      "name": "Drifblim"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/062.ts",
+      "id": "062",
+      "name": "Yamask"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/063.ts",
+      "id": "063",
+      "name": "Comfey"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/064.ts",
+      "id": "064",
+      "name": "Milcery"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/065.ts",
+      "id": "065",
+      "name": "Alcremie"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/066.ts",
+      "id": "066",
+      "name": "Fidough"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/067.ts",
+      "id": "067",
+      "name": "Dachsbun ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/068.ts",
+      "id": "068",
+      "name": "Flittle"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/069.ts",
+      "id": "069",
+      "name": "Espathra"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/070.ts",
+      "id": "070",
+      "name": "Greavard"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/071.ts",
+      "id": "071",
+      "name": "Iron Boulder"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/072.ts",
+      "id": "072",
+      "name": "Cubone"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/073.ts",
+      "id": "073",
+      "name": "Marowak"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/074.ts",
+      "id": "074",
+      "name": "Rhyhorn"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/075.ts",
+      "id": "075",
+      "name": "Rhydon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/076.ts",
+      "id": "076",
+      "name": "Rhyperior"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/077.ts",
+      "id": "077",
+      "name": "Meditite"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/078.ts",
+      "id": "078",
+      "name": "Meditite"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/079.ts",
+      "id": "079",
+      "name": "Medicham"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/080.ts",
+      "id": "080",
+      "name": "Medicham ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/081.ts",
+      "id": "081",
+      "name": "Riolu"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/082.ts",
+      "id": "082",
+      "name": "Lucario ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/083.ts",
+      "id": "083",
+      "name": "Mienfoo"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/084.ts",
+      "id": "084",
+      "name": "Mienshao"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/085.ts",
+      "id": "085",
+      "name": "Pancham"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/086.ts",
+      "id": "086",
+      "name": "Diancie"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/087.ts",
+      "id": "087",
+      "name": "Crabrawler"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/088.ts",
+      "id": "088",
+      "name": "Falinks"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/089.ts",
+      "id": "089",
+      "name": "Garganacl ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/090.ts",
+      "id": "090",
+      "name": "Koraidon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/091.ts",
+      "id": "091",
+      "name": "Gulpin"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/092.ts",
+      "id": "092",
+      "name": "Swalot"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/093.ts",
+      "id": "093",
+      "name": "Pangoro"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/094.ts",
+      "id": "094",
+      "name": "Impidimp"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/095.ts",
+      "id": "095",
+      "name": "Morgrem"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/096.ts",
+      "id": "096",
+      "name": "Grimmsnarl"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/097.ts",
+      "id": "097",
+      "name": "Bombirdier"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/098.ts",
+      "id": "098",
+      "name": "Jirachi"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/099.ts",
+      "id": "099",
+      "name": "Klink"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/100.ts",
+      "id": "100",
+      "name": "Klang"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/101.ts",
+      "id": "101",
+      "name": "Klinklang"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/102.ts",
+      "id": "102",
+      "name": "Meltan"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/103.ts",
+      "id": "103",
+      "name": "Meltan"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/104.ts",
+      "id": "104",
+      "name": "Melmetal"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/105.ts",
+      "id": "105",
+      "name": "Melmetal ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/106.ts",
+      "id": "106",
+      "name": "Duraludon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/107.ts",
+      "id": "107",
+      "name": "Archaludon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/108.ts",
+      "id": "108",
+      "name": "Varoom"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/109.ts",
+      "id": "109",
+      "name": "Revavroom"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/110.ts",
+      "id": "110",
+      "name": "Orthworm ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/111.ts",
+      "id": "111",
+      "name": "Raging Bolt"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/112.ts",
+      "id": "112",
+      "name": "Tauros"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/113.ts",
+      "id": "113",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/114.ts",
+      "id": "114",
+      "name": "Hoothoot"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/115.ts",
+      "id": "115",
+      "name": "Noctowl"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/116.ts",
+      "id": "116",
+      "name": "Glameow"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/117.ts",
+      "id": "117",
+      "name": "Purugly"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/118.ts",
+      "id": "118",
+      "name": "Fan Rotom"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/119.ts",
+      "id": "119",
+      "name": "Bouffalant"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/120.ts",
+      "id": "120",
+      "name": "Tornadus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/121.ts",
+      "id": "121",
+      "name": "Fletchling"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/122.ts",
+      "id": "122",
+      "name": "Fletchinder"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/123.ts",
+      "id": "123",
+      "name": "Talonflame"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/124.ts",
+      "id": "124",
+      "name": "Wooloo"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/125.ts",
+      "id": "125",
+      "name": "Dubwool"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/126.ts",
+      "id": "126",
+      "name": "Lechonk"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/127.ts",
+      "id": "127",
+      "name": "Cyclizar"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/128.ts",
+      "id": "128",
+      "name": "Terapagos ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/129.ts",
+      "id": "129",
+      "name": "Antique Cover Fossil"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/130.ts",
+      "id": "130",
+      "name": "Antique Root Fossil"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/131.ts",
+      "id": "131",
+      "name": "Area Zero Underdepths"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/132.ts",
+      "id": "132",
+      "name": "Briar"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/133.ts",
+      "id": "133",
+      "name": "Crispin"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/134.ts",
+      "id": "134",
+      "name": "Deluxe Bomb"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/135.ts",
+      "id": "135",
+      "name": "Glass Trumpet"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/136.ts",
+      "id": "136",
+      "name": "Grand Tree"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/137.ts",
+      "id": "137",
+      "name": "Gravity Gemstone"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/138.ts",
+      "id": "138",
+      "name": "Kofu"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/139.ts",
+      "id": "139",
+      "name": "Lacey"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/140.ts",
+      "id": "140",
+      "name": "Occa Berry"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/141.ts",
+      "id": "141",
+      "name": "Payapa Berry"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/142.ts",
+      "id": "142",
+      "name": "Sparkling Crystal"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/143.ts",
+      "id": "143",
+      "name": "Bulbasaur"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/144.ts",
+      "id": "144",
+      "name": "Ledian"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/145.ts",
+      "id": "145",
+      "name": "Lileep"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/146.ts",
+      "id": "146",
+      "name": "Turtonator"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/147.ts",
+      "id": "147",
+      "name": "Raboot"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/148.ts",
+      "id": "148",
+      "name": "Squirtle"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/149.ts",
+      "id": "149",
+      "name": "Crabominable"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/150.ts",
+      "id": "150",
+      "name": "Joltik"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/151.ts",
+      "id": "151",
+      "name": "Zeraora"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/152.ts",
+      "id": "152",
+      "name": "Milcery"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/153.ts",
+      "id": "153",
+      "name": "Meditite"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/154.ts",
+      "id": "154",
+      "name": "Gulpin"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/155.ts",
+      "id": "155",
+      "name": "Archaludon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/156.ts",
+      "id": "156",
+      "name": "Hydrapple ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/157.ts",
+      "id": "157",
+      "name": "Cinderace ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/158.ts",
+      "id": "158",
+      "name": "Lapras ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/159.ts",
+      "id": "159",
+      "name": "Galvantula ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/160.ts",
+      "id": "160",
+      "name": "Dachsbun ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/161.ts",
+      "id": "161",
+      "name": "Medicham ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/162.ts",
+      "id": "162",
+      "name": "Orthworm ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/163.ts",
+      "id": "163",
+      "name": "Briar"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/164.ts",
+      "id": "164",
+      "name": "Crispin"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/165.ts",
+      "id": "165",
+      "name": "Kofu"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/166.ts",
+      "id": "166",
+      "name": "Lacey"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/167.ts",
+      "id": "167",
+      "name": "Hydrapple ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/168.ts",
+      "id": "168",
+      "name": "Galvantula ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/169.ts",
+      "id": "169",
+      "name": "Dachsbun ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/170.ts",
+      "id": "170",
+      "name": "Terapagos ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/171.ts",
+      "id": "171",
+      "name": "Briar"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/172.ts",
+      "id": "172",
+      "name": "Lacey"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/173.ts",
+      "id": "173",
+      "name": "Terapagos ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/174.ts",
+      "id": "174",
+      "name": "Area Zero Underdepths"
+    },
+    {
+      "file": "data/Scarlet & Violet/Stellar Crown/175.ts",
+      "id": "175",
+      "name": "Bravery Charm"
+    }
+  ]
+}

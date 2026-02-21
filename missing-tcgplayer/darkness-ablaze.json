@@ -1,0 +1,35 @@
+{
+  "set": "Darkness Ablaze",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Darkness Ablaze/166.ts",
+      "id": "166",
+      "name": "Pokémon Breeder"
+    },
+    {
+      "file": "data/Sword & Shield/Darkness Ablaze/174.ts",
+      "id": "174",
+      "name": "Heat Fire Energy"
+    },
+    {
+      "file": "data/Sword & Shield/Darkness Ablaze/175.ts",
+      "id": "175",
+      "name": "Hiding Darkness Energy"
+    },
+    {
+      "file": "data/Sword & Shield/Darkness Ablaze/176.ts",
+      "id": "176",
+      "name": "Powerful Colorless Energy"
+    },
+    {
+      "file": "data/Sword & Shield/Darkness Ablaze/188.ts",
+      "id": "188",
+      "name": "Pokémon Breeder"
+    },
+    {
+      "file": "data/Sword & Shield/Darkness Ablaze/195.ts",
+      "id": "195",
+      "name": "Pokémon Breeder"
+    }
+  ]
+}

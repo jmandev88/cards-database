@@ -1,0 +1,30 @@
+{
+  "set": "XY trainer Kit (Noivern)",
+  "missing": [
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/14.ts",
+      "id": "14",
+      "name": "Pokémon Catcher"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/21.ts",
+      "id": "21",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/23.ts",
+      "id": "23",
+      "name": "Noibat"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/24.ts",
+      "id": "24",
+      "name": "Professor’s Letter"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern)/29.ts",
+      "id": "29",
+      "name": "Switch"
+    }
+  ]
+}

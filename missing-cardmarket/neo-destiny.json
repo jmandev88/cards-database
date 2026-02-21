@@ -1,0 +1,15 @@
+{
+  "set": "Neo Destiny",
+  "missing": [
+    {
+      "file": "data/Neo/Neo Destiny/93.ts",
+      "id": "93",
+      "name": "EXP.ALL"
+    },
+    {
+      "file": "data/Neo/Neo Destiny/96.ts",
+      "id": "96",
+      "name": "Thought Wave Machine (Rocket"
+    }
+  ]
+}

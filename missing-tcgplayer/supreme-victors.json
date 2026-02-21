@@ -1,0 +1,770 @@
+{
+  "set": "Supreme Victors",
+  "missing": [
+    {
+      "file": "data/Platinum/Supreme Victors/1.ts",
+      "id": "1",
+      "name": "Absol G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/10.ts",
+      "id": "10",
+      "name": "Rhyperior"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/100.ts",
+      "id": "100",
+      "name": "Corphish"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/101.ts",
+      "id": "101",
+      "name": "Croagunk"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/102.ts",
+      "id": "102",
+      "name": "Doduo"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/103.ts",
+      "id": "103",
+      "name": "Drifloon"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/104.ts",
+      "id": "104",
+      "name": "Feebas"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/105.ts",
+      "id": "105",
+      "name": "Geodude"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/106.ts",
+      "id": "106",
+      "name": "Gible"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/107.ts",
+      "id": "107",
+      "name": "Goldeen"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/108.ts",
+      "id": "108",
+      "name": "Growlithe"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/109.ts",
+      "id": "109",
+      "name": "Kricketot"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/11.ts",
+      "id": "11",
+      "name": "Staraptor FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/110.ts",
+      "id": "110",
+      "name": "Magikarp"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/111.ts",
+      "id": "111",
+      "name": "Magnemite"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/112.ts",
+      "id": "112",
+      "name": "Mankey"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/113.ts",
+      "id": "113",
+      "name": "Meditite"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/114.ts",
+      "id": "114",
+      "name": "Meowth"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/115.ts",
+      "id": "115",
+      "name": "Mime Jr."
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/116.ts",
+      "id": "116",
+      "name": "Mudkip"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/117.ts",
+      "id": "117",
+      "name": "Nincada"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/118.ts",
+      "id": "118",
+      "name": "Pachirisu"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/119.ts",
+      "id": "119",
+      "name": "Paras"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/12.ts",
+      "id": "12",
+      "name": "Swampert"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/120.ts",
+      "id": "120",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/121.ts",
+      "id": "121",
+      "name": "Piplup"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/122.ts",
+      "id": "122",
+      "name": "Rhyhorn"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/123.ts",
+      "id": "123",
+      "name": "Roselia"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/124.ts",
+      "id": "124",
+      "name": "Sandshrew"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/125.ts",
+      "id": "125",
+      "name": "Seel"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/126.ts",
+      "id": "126",
+      "name": "Shinx"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/127.ts",
+      "id": "127",
+      "name": "Shroomish"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/128.ts",
+      "id": "128",
+      "name": "Skorupi"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/129.ts",
+      "id": "129",
+      "name": "Starly"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/13.ts",
+      "id": "13",
+      "name": "Venusaur"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/130.ts",
+      "id": "130",
+      "name": "Surskit"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/131.ts",
+      "id": "131",
+      "name": "Turtwig"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/132.ts",
+      "id": "132",
+      "name": "Whismur"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/133.ts",
+      "id": "133",
+      "name": "Zubat"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/134.ts",
+      "id": "134",
+      "name": "Battle Tower"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/135.ts",
+      "id": "135",
+      "name": "Champion"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/136.ts",
+      "id": "136",
+      "name": "Cynthia"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/137.ts",
+      "id": "137",
+      "name": "Cyrus"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/138.ts",
+      "id": "138",
+      "name": "Night Teleporter"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/139.ts",
+      "id": "139",
+      "name": "Palmer"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/14.ts",
+      "id": "14",
+      "name": "Yanmega"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/140.ts",
+      "id": "140",
+      "name": "VS Seeker"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/141.ts",
+      "id": "141",
+      "name": "Absol G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/142.ts",
+      "id": "142",
+      "name": "Blaziken FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/143.ts",
+      "id": "143",
+      "name": "Charizard G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/144.ts",
+      "id": "144",
+      "name": "Electivire FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/145.ts",
+      "id": "145",
+      "name": "Garchomp C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/146.ts",
+      "id": "146",
+      "name": "Rayquaza C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/147.ts",
+      "id": "147",
+      "name": "Staraptor FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/148.ts",
+      "id": "148",
+      "name": "Articuno"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/149.ts",
+      "id": "149",
+      "name": "Moltres"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/15.ts",
+      "id": "15",
+      "name": "Arcanine G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/150.ts",
+      "id": "150",
+      "name": "Zapdos"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/16.ts",
+      "id": "16",
+      "name": "Articuno"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/17.ts",
+      "id": "17",
+      "name": "Butterfree FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/18.ts",
+      "id": "18",
+      "name": "Camerupt"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/19.ts",
+      "id": "19",
+      "name": "Camerupt G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/2.ts",
+      "id": "2",
+      "name": "Blaziken FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/20.ts",
+      "id": "20",
+      "name": "Charizard G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/21.ts",
+      "id": "21",
+      "name": "Chimecho"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/22.ts",
+      "id": "22",
+      "name": "Claydol"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/23.ts",
+      "id": "23",
+      "name": "Crawdaunt G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/24.ts",
+      "id": "24",
+      "name": "Dewgong"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/25.ts",
+      "id": "25",
+      "name": "Dodrio"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/26.ts",
+      "id": "26",
+      "name": "Dusknoir FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/27.ts",
+      "id": "27",
+      "name": "Empoleon FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/28.ts",
+      "id": "28",
+      "name": "Exploud"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/29.ts",
+      "id": "29",
+      "name": "Honchkrow"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/3.ts",
+      "id": "3",
+      "name": "Drifblim FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/30.ts",
+      "id": "30",
+      "name": "Lickilicky C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/31.ts",
+      "id": "31",
+      "name": "Lucario C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/32.ts",
+      "id": "32",
+      "name": "Lunatone"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/33.ts",
+      "id": "33",
+      "name": "Mawile"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/34.ts",
+      "id": "34",
+      "name": "Medicham"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/35.ts",
+      "id": "35",
+      "name": "Milotic C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/36.ts",
+      "id": "36",
+      "name": "Moltres"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/37.ts",
+      "id": "37",
+      "name": "Mr. Mime"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/38.ts",
+      "id": "38",
+      "name": "Parasect"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/39.ts",
+      "id": "39",
+      "name": "Primeape"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/4.ts",
+      "id": "4",
+      "name": "Electivire FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/40.ts",
+      "id": "40",
+      "name": "Roserade C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/41.ts",
+      "id": "41",
+      "name": "Sableye G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/42.ts",
+      "id": "42",
+      "name": "Sandslash"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/43.ts",
+      "id": "43",
+      "name": "Seaking"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/44.ts",
+      "id": "44",
+      "name": "Shedinja"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/45.ts",
+      "id": "45",
+      "name": "Solrock"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/46.ts",
+      "id": "46",
+      "name": "Spinda"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/47.ts",
+      "id": "47",
+      "name": "Wailord"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/48.ts",
+      "id": "48",
+      "name": "Zapdos"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/49.ts",
+      "id": "49",
+      "name": "Altaria C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/5.ts",
+      "id": "5",
+      "name": "Garchomp"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/50.ts",
+      "id": "50",
+      "name": "Arcanine"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/51.ts",
+      "id": "51",
+      "name": "Bibarel"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/52.ts",
+      "id": "52",
+      "name": "Breloom"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/53.ts",
+      "id": "53",
+      "name": "Carnivine"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/54.ts",
+      "id": "54",
+      "name": "Chatot G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/55.ts",
+      "id": "55",
+      "name": "Cherrim"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/56.ts",
+      "id": "56",
+      "name": "Dragonite FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/57.ts",
+      "id": "57",
+      "name": "Drifblim"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/58.ts",
+      "id": "58",
+      "name": "Floatzel"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/59.ts",
+      "id": "59",
+      "name": "Gabite"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/6.ts",
+      "id": "6",
+      "name": "Magmortar"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/60.ts",
+      "id": "60",
+      "name": "Garchomp C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/61.ts",
+      "id": "61",
+      "name": "Hippopotas"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/62.ts",
+      "id": "62",
+      "name": "Ivysaur"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/63.ts",
+      "id": "63",
+      "name": "Lopunny"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/64.ts",
+      "id": "64",
+      "name": "Loudred"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/65.ts",
+      "id": "65",
+      "name": "Magmar"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/66.ts",
+      "id": "66",
+      "name": "Manectric G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/67.ts",
+      "id": "67",
+      "name": "Marshtomp"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/68.ts",
+      "id": "68",
+      "name": "Masquerain"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/69.ts",
+      "id": "69",
+      "name": "Metang"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/7.ts",
+      "id": "7",
+      "name": "Metagross"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/70.ts",
+      "id": "70",
+      "name": "Milotic"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/71.ts",
+      "id": "71",
+      "name": "Minun"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/72.ts",
+      "id": "72",
+      "name": "Murkrow"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/73.ts",
+      "id": "73",
+      "name": "Ninjask"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/74.ts",
+      "id": "74",
+      "name": "Numel"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/75.ts",
+      "id": "75",
+      "name": "Pinsir"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/76.ts",
+      "id": "76",
+      "name": "Plusle"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/77.ts",
+      "id": "77",
+      "name": "Raichu"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/78.ts",
+      "id": "78",
+      "name": "Raticate G"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/79.ts",
+      "id": "79",
+      "name": "Relicanth"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/8.ts",
+      "id": "8",
+      "name": "Rayquaza C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/80.ts",
+      "id": "80",
+      "name": "Rhydon"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/81.ts",
+      "id": "81",
+      "name": "Roserade"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/82.ts",
+      "id": "82",
+      "name": "Rotom"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/83.ts",
+      "id": "83",
+      "name": "Skarmory FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/84.ts",
+      "id": "84",
+      "name": "Spiritomb C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/85.ts",
+      "id": "85",
+      "name": "Staravia"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/86.ts",
+      "id": "86",
+      "name": "Togekiss C"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/87.ts",
+      "id": "87",
+      "name": "Wailmer"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/88.ts",
+      "id": "88",
+      "name": "Yanma"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/89.ts",
+      "id": "89",
+      "name": "Baltoy"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/9.ts",
+      "id": "9",
+      "name": "Regigigas FB"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/90.ts",
+      "id": "90",
+      "name": "Beldum"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/91.ts",
+      "id": "91",
+      "name": "Bidoof"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/92.ts",
+      "id": "92",
+      "name": "Buizel"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/93.ts",
+      "id": "93",
+      "name": "Bulbasaur"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/94.ts",
+      "id": "94",
+      "name": "Buneary"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/95.ts",
+      "id": "95",
+      "name": "Chatot"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/96.ts",
+      "id": "96",
+      "name": "Cherubi"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/97.ts",
+      "id": "97",
+      "name": "Chimchar"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/98.ts",
+      "id": "98",
+      "name": "Chingling"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/99.ts",
+      "id": "99",
+      "name": "Combee"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/SH7.ts",
+      "id": "SH7",
+      "name": "Milotic"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/SH8.ts",
+      "id": "SH8",
+      "name": "Relicanth"
+    },
+    {
+      "file": "data/Platinum/Supreme Victors/SH9.ts",
+      "id": "SH9",
+      "name": "Yanma"
+    }
+  ]
+}

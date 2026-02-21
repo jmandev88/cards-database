@@ -1,0 +1,25 @@
+{
+  "set": "Legendary Collection",
+  "missing": [
+    {
+      "file": "data/Legendary Collection/Legendary Collection/102.ts",
+      "id": "102",
+      "name": "Pokémon Breeder"
+    },
+    {
+      "file": "data/Legendary Collection/Legendary Collection/103.ts",
+      "id": "103",
+      "name": "Pokémon Trader"
+    },
+    {
+      "file": "data/Legendary Collection/Legendary Collection/82.ts",
+      "id": "82",
+      "name": "Nidoran♀"
+    },
+    {
+      "file": "data/Legendary Collection/Legendary Collection/83.ts",
+      "id": "83",
+      "name": "Nidoran♂"
+    }
+  ]
+}

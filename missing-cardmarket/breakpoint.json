@@ -1,0 +1,25 @@
+{
+  "set": "BREAKpoint",
+  "missing": [
+    {
+      "file": "data/XY/BREAKpoint/115.ts",
+      "id": "115",
+      "name": "M Gyarados EX"
+    },
+    {
+      "file": "data/XY/BREAKpoint/120.ts",
+      "id": "120",
+      "name": "M Scizor EX"
+    },
+    {
+      "file": "data/XY/BREAKpoint/27.ts",
+      "id": "27",
+      "name": "M Gyarados EX"
+    },
+    {
+      "file": "data/XY/BREAKpoint/77.ts",
+      "id": "77",
+      "name": "M Scizor EX"
+    }
+  ]
+}

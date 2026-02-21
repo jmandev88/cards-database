@@ -1,0 +1,25 @@
+{
+  "set": "FireRed & LeafGreen",
+  "missing": [
+    {
+      "file": "data/EX/FireRed & LeafGreen/70.ts",
+      "id": "70",
+      "name": "Nidoran♀"
+    },
+    {
+      "file": "data/EX/FireRed & LeafGreen/71.ts",
+      "id": "71",
+      "name": "Nidoran♂"
+    },
+    {
+      "file": "data/EX/FireRed & LeafGreen/96.ts",
+      "id": "96",
+      "name": "PokéDex (HANDY909)"
+    },
+    {
+      "file": "data/EX/FireRed & LeafGreen/98.ts",
+      "id": "98",
+      "name": "Prof. Oak"
+    }
+  ]
+}

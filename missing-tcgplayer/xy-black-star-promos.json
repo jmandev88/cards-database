@@ -1,0 +1,1085 @@
+{
+  "set": "XY Black Star Promos",
+  "missing": [
+    {
+      "file": "data/XY/XY Black Star Promos/XY01.ts",
+      "id": "XY01",
+      "name": "Chespin"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY02.ts",
+      "id": "XY02",
+      "name": "Fennekin"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY03.ts",
+      "id": "XY03",
+      "name": "Froakie"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY04.ts",
+      "id": "XY04",
+      "name": "Sylveon"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY05.ts",
+      "id": "XY05",
+      "name": "Xerneas"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY06.ts",
+      "id": "XY06",
+      "name": "Yveltal"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY07.ts",
+      "id": "XY07",
+      "name": "Xerneas EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY08.ts",
+      "id": "XY08",
+      "name": "Yveltal EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY09.ts",
+      "id": "XY09",
+      "name": "Garchomp EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY10.ts",
+      "id": "XY10",
+      "name": "Dragalge"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY100.ts",
+      "id": "XY100",
+      "name": "Mewtwo"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY101.ts",
+      "id": "XY101",
+      "name": "Mewtwo"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY102.ts",
+      "id": "XY102",
+      "name": "Aurorus EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY103.ts",
+      "id": "XY103",
+      "name": "Mawile EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY104.ts",
+      "id": "XY104",
+      "name": "M Mawile EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY105.ts",
+      "id": "XY105",
+      "name": "Mawile Spirit Link"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY106.ts",
+      "id": "XY106",
+      "name": "Gyarados EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY107.ts",
+      "id": "XY107",
+      "name": "Mewtwo EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY108.ts",
+      "id": "XY108",
+      "name": "Machamp EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY109.ts",
+      "id": "XY109",
+      "name": "Gyarados"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY11.ts",
+      "id": "XY11",
+      "name": "Skiddo"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY110.ts",
+      "id": "XY110",
+      "name": "Mew"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY111.ts",
+      "id": "XY111",
+      "name": "Celebi"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY112.ts",
+      "id": "XY112",
+      "name": "Jirachi"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY113.ts",
+      "id": "XY113",
+      "name": "Manaphy"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY114.ts",
+      "id": "XY114",
+      "name": "Darkrai"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY115.ts",
+      "id": "XY115",
+      "name": "Shaymin"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY116.ts",
+      "id": "XY116",
+      "name": "Arceus"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY117.ts",
+      "id": "XY117",
+      "name": "Victini"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY118.ts",
+      "id": "XY118",
+      "name": "Keldeo"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY119.ts",
+      "id": "XY119",
+      "name": "Genesect"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY12.ts",
+      "id": "XY12",
+      "name": "Honedge"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY120.ts",
+      "id": "XY120",
+      "name": "Meloetta"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY121.ts",
+      "id": "XY121",
+      "name": "Charizard EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY122.ts",
+      "id": "XY122",
+      "name": "Blastoise EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY123.ts",
+      "id": "XY123",
+      "name": "Venusaur EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY124.ts",
+      "id": "XY124",
+      "name": "Pikachu EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY125.ts",
+      "id": "XY125",
+      "name": "Mewtwo EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY126.ts",
+      "id": "XY126",
+      "name": "Mew EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY127.ts",
+      "id": "XY127",
+      "name": "Moltres"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY128.ts",
+      "id": "XY128",
+      "name": "White Kyurem"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY129.ts",
+      "id": "XY129",
+      "name": "Zygarde"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY13.ts",
+      "id": "XY13",
+      "name": "Machamp"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY130.ts",
+      "id": "XY130",
+      "name": "Tyranitar"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY131.ts",
+      "id": "XY131",
+      "name": "Pansear"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY132.ts",
+      "id": "XY132",
+      "name": "Gastly"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY133.ts",
+      "id": "XY133",
+      "name": "Ash Greninja EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY134.ts",
+      "id": "XY134",
+      "name": "Empoleon BREAK"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY135.ts",
+      "id": "XY135",
+      "name": "Beheeyem BREAK"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY136.ts",
+      "id": "XY136",
+      "name": "Noctowl BREAK"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY137.ts",
+      "id": "XY137",
+      "name": "Vivillon"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY138.ts",
+      "id": "XY138",
+      "name": "Froakie"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY139.ts",
+      "id": "XY139",
+      "name": "Floette"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY14.ts",
+      "id": "XY14",
+      "name": "Trevenant"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY140.ts",
+      "id": "XY140",
+      "name": "Lucario"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY141.ts",
+      "id": "XY141",
+      "name": "Rayquaza"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY142.ts",
+      "id": "XY142",
+      "name": "Azelf"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY143.ts",
+      "id": "XY143",
+      "name": "Magikarp"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY144.ts",
+      "id": "XY144",
+      "name": "Yanmega"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY145.ts",
+      "id": "XY145",
+      "name": "Volcanion"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY146.ts",
+      "id": "XY146",
+      "name": "Clawitzer"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY147.ts",
+      "id": "XY147",
+      "name": "Hoopa"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY148.ts",
+      "id": "XY148",
+      "name": "Shaymin EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY149.ts",
+      "id": "XY149",
+      "name": "Xerneas EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY15.ts",
+      "id": "XY15",
+      "name": "Slurpuff"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY150.ts",
+      "id": "XY150",
+      "name": "Yveltal EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY150a.ts",
+      "id": "XY150a",
+      "name": "Yveltal-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY151.ts",
+      "id": "XY151",
+      "name": "Zygarde EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY152.ts",
+      "id": "XY152",
+      "name": "Zygarde"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY153.ts",
+      "id": "XY153",
+      "name": "Ho Oh"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY154.ts",
+      "id": "XY154",
+      "name": "Ho-Oh BREAK"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY155.ts",
+      "id": "XY155",
+      "name": "Wobbuffet BREAK"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY156.ts",
+      "id": "XY156",
+      "name": "Lugia"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY157.ts",
+      "id": "XY157",
+      "name": "Beedrill EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY158.ts",
+      "id": "XY158",
+      "name": "M Beedrill-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY159.ts",
+      "id": "XY159",
+      "name": "Beedrill Spirit Link"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY16.ts",
+      "id": "XY16",
+      "name": "Gogoat"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY160.ts",
+      "id": "XY160",
+      "name": "Black Kyurem"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY161.ts",
+      "id": "XY161",
+      "name": "Braixen"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY162.ts",
+      "id": "XY162",
+      "name": "Greninja"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY163.ts",
+      "id": "XY163",
+      "name": "Weezing"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY164.ts",
+      "id": "XY164",
+      "name": "Volcanion"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY165.ts",
+      "id": "XY165",
+      "name": "Magearna"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY166.ts",
+      "id": "XY166",
+      "name": "M Gengar-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY167.ts",
+      "id": "XY167",
+      "name": "Garchomp-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY168.ts",
+      "id": "XY168",
+      "name": "M Garchomp-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY169.ts",
+      "id": "XY169",
+      "name": "Garchomp Spirit Link"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY17.ts",
+      "id": "XY17",
+      "name": "Charizard EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY170.ts",
+      "id": "XY170",
+      "name": "Salamence EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY171.ts",
+      "id": "XY171",
+      "name": "M Salamence-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY172.ts",
+      "id": "XY172",
+      "name": "Salamence Spirit Link"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY173.ts",
+      "id": "XY173",
+      "name": "Volcanion EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY174.ts",
+      "id": "XY174",
+      "name": "Pikachu-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY175.ts",
+      "id": "XY175",
+      "name": "Magearna-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY176.ts",
+      "id": "XY176",
+      "name": "Champions Festival"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY177.ts",
+      "id": "XY177",
+      "name": "Karen"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY177a.ts",
+      "id": "XY177a",
+      "name": "Karen"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY178.ts",
+      "id": "XY178",
+      "name": "Absol"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY179.ts",
+      "id": "XY179",
+      "name": "Snorlax"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY18.ts",
+      "id": "XY18",
+      "name": "Chesnaught EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY180.ts",
+      "id": "XY180",
+      "name": "Arcanine BREAK"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY181.ts",
+      "id": "XY181",
+      "name": "Crobat BREAK"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY182.ts",
+      "id": "XY182",
+      "name": "Mandibuzz BREAK"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY183.ts",
+      "id": "XY183",
+      "name": "Mewtwo-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY184.ts",
+      "id": "XY184",
+      "name": "Giratina"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY185.ts",
+      "id": "XY185",
+      "name": "Volcanion"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY186.ts",
+      "id": "XY186",
+      "name": "Magearna"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY187.ts",
+      "id": "XY187",
+      "name": "Celebi"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY188.ts",
+      "id": "XY188",
+      "name": "Shaymin"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY189.ts",
+      "id": "XY189",
+      "name": "Victini"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY19.ts",
+      "id": "XY19",
+      "name": "Delphox EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY190.ts",
+      "id": "XY190",
+      "name": "Manaphy"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY191.ts",
+      "id": "XY191",
+      "name": "Keldeo"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY192.ts",
+      "id": "XY192",
+      "name": "Mew"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY193.ts",
+      "id": "XY193",
+      "name": "Meloetta"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY194.ts",
+      "id": "XY194",
+      "name": "Darkrai"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY195.ts",
+      "id": "XY195",
+      "name": "Jirachi"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY196.ts",
+      "id": "XY196",
+      "name": "Genesect"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY197.ts",
+      "id": "XY197",
+      "name": "Arceus"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY198.ts",
+      "id": "XY198",
+      "name": "M Camerupt-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY198a.ts",
+      "id": "XY198a",
+      "name": "M Camerupt-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY199.ts",
+      "id": "XY199",
+      "name": "Camerupt Spirit Link"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY20.ts",
+      "id": "XY20",
+      "name": "Greninja EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY200.ts",
+      "id": "XY200",
+      "name": "M Sharpedo-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY200a.ts",
+      "id": "XY200a",
+      "name": "M Sharpedo-EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY201.ts",
+      "id": "XY201",
+      "name": "Sharpedo Spirit Link"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY202.ts",
+      "id": "XY202",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY203.ts",
+      "id": "XY203",
+      "name": "Gym Badge"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY204.ts",
+      "id": "XY204",
+      "name": "Gym Badge"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY205.ts",
+      "id": "XY205",
+      "name": "Gym Badge"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY206.ts",
+      "id": "XY206",
+      "name": "Gym Badge"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY207.ts",
+      "id": "XY207",
+      "name": "Gym Badge"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY208.ts",
+      "id": "XY208",
+      "name": "Gym Badge"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY209.ts",
+      "id": "XY209",
+      "name": "Gym Badge"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY21.ts",
+      "id": "XY21",
+      "name": "Bronzong"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY210.ts",
+      "id": "XY210",
+      "name": "Gym Badge"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY211.ts",
+      "id": "XY211",
+      "name": "Lucario Spirit Link"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY22.ts",
+      "id": "XY22",
+      "name": "Darkrai"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY23.ts",
+      "id": "XY23",
+      "name": "Shiftry"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY24.ts",
+      "id": "XY24",
+      "name": "Greninja"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY25.ts",
+      "id": "XY25",
+      "name": "Krookodile EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY26.ts",
+      "id": "XY26",
+      "name": "Pyroar"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY27.ts",
+      "id": "XY27",
+      "name": "Champions Festival"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY28.ts",
+      "id": "XY28",
+      "name": "Venusaur EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY29.ts",
+      "id": "XY29",
+      "name": "Charizard EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY30.ts",
+      "id": "XY30",
+      "name": "Blastoise EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY31.ts",
+      "id": "XY31",
+      "name": "Xerneas"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY32.ts",
+      "id": "XY32",
+      "name": "Yveltal"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY33.ts",
+      "id": "XY33",
+      "name": "Trevor"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY34.ts",
+      "id": "XY34",
+      "name": "Metagross EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY35.ts",
+      "id": "XY35",
+      "name": "M Metagross EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY36.ts",
+      "id": "XY36",
+      "name": "Treecko"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY37.ts",
+      "id": "XY37",
+      "name": "Torchic"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY38.ts",
+      "id": "XY38",
+      "name": "Mudkip"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY39.ts",
+      "id": "XY39",
+      "name": "Kingdra"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY40.ts",
+      "id": "XY40",
+      "name": "Ditto"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY41.ts",
+      "id": "XY41",
+      "name": "Kyogre EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY42.ts",
+      "id": "XY42",
+      "name": "Groudon EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY43.ts",
+      "id": "XY43",
+      "name": "Diancie EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY44.ts",
+      "id": "XY44",
+      "name": "M Diancie EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY45.ts",
+      "id": "XY45",
+      "name": "Gallade EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY46.ts",
+      "id": "XY46",
+      "name": "Altaria"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY47.ts",
+      "id": "XY47",
+      "name": "Heliolisk"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY48.ts",
+      "id": "XY48",
+      "name": "Meowstic"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY49.ts",
+      "id": "XY49",
+      "name": "Regirock"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY50.ts",
+      "id": "XY50",
+      "name": "Pangoro"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY51.ts",
+      "id": "XY51",
+      "name": "Kyogre"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY52.ts",
+      "id": "XY52",
+      "name": "Groudon"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY53.ts",
+      "id": "XY53",
+      "name": "Sceptile EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY54.ts",
+      "id": "XY54",
+      "name": "Blaziken EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY55.ts",
+      "id": "XY55",
+      "name": "Swampert EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY56.ts",
+      "id": "XY56",
+      "name": "Blissey"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY57.ts",
+      "id": "XY57",
+      "name": "Fearow"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY58.ts",
+      "id": "XY58",
+      "name": "Malamar"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY59.ts",
+      "id": "XY59",
+      "name": "Salamence"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY60.ts",
+      "id": "XY60",
+      "name": "Gyarados"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY61.ts",
+      "id": "XY61",
+      "name": "Flygon EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY62.ts",
+      "id": "XY62",
+      "name": "Absol EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY63.ts",
+      "id": "XY63",
+      "name": "M Absol EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY64.ts",
+      "id": "XY64",
+      "name": "Rayquaza"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY65.ts",
+      "id": "XY65",
+      "name": "Latios"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY66.ts",
+      "id": "XY66",
+      "name": "Rayquaza EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY67.ts",
+      "id": "XY67",
+      "name": "Jirachi"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY67a.ts",
+      "id": "XY67a",
+      "name": "Jirachi"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY68.ts",
+      "id": "XY68",
+      "name": "Chesnaught"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY69.ts",
+      "id": "XY69",
+      "name": "Rayquaza EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY70.ts",
+      "id": "XY70",
+      "name": "Tyrantrum EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY71.ts",
+      "id": "XY71",
+      "name": "Hoopa EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY72.ts",
+      "id": "XY72",
+      "name": "Latios EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY73.ts",
+      "id": "XY73",
+      "name": "Rayquaza EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY74.ts",
+      "id": "XY74",
+      "name": "Reshiram"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY75.ts",
+      "id": "XY75",
+      "name": "Palkia"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY76.ts",
+      "id": "XY76",
+      "name": "Zekrom"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY77.ts",
+      "id": "XY77",
+      "name": "Dialga"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY78.ts",
+      "id": "XY78",
+      "name": "Latias"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY79.ts",
+      "id": "XY79",
+      "name": "Latios"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY80.ts",
+      "id": "XY80",
+      "name": "Black Kyurem"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY81.ts",
+      "id": "XY81",
+      "name": "White Kyurem"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY82.ts",
+      "id": "XY82",
+      "name": "Regigigas"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY83.ts",
+      "id": "XY83",
+      "name": "Arceus"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY84.ts",
+      "id": "XY84",
+      "name": "Pikachu EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY85.ts",
+      "id": "XY85",
+      "name": "Hoopa EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY86.ts",
+      "id": "XY86",
+      "name": "M Blaziken EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY87.ts",
+      "id": "XY87",
+      "name": "M Swampert EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY88.ts",
+      "id": "XY88",
+      "name": "Chespin"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY89.ts",
+      "id": "XY89",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY90.ts",
+      "id": "XY90",
+      "name": "Hoopa"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY91.ts",
+      "id": "XY91",
+      "name": "Champions Festival"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY92.ts",
+      "id": "XY92",
+      "name": "Sableye"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY93.ts",
+      "id": "XY93",
+      "name": "Celebi"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY94.ts",
+      "id": "XY94",
+      "name": "Trevenant"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY95.ts",
+      "id": "XY95",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY96.ts",
+      "id": "XY96",
+      "name": "Umbreon"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY97.ts",
+      "id": "XY97",
+      "name": "Aerodactyl EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY98.ts",
+      "id": "XY98",
+      "name": "M Aerodactyl EX"
+    },
+    {
+      "file": "data/XY/XY Black Star Promos/XY99.ts",
+      "id": "XY99",
+      "name": "Aerodactyl Spirit Link"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "set": "Flashfire",
+  "missing": [
+    {
+      "file": "data/XY/Flashfire/107.ts",
+      "id": "107",
+      "name": "M Charizard EX"
+    },
+    {
+      "file": "data/XY/Flashfire/108.ts",
+      "id": "108",
+      "name": "M Charizard EX"
+    },
+    {
+      "file": "data/XY/Flashfire/109.ts",
+      "id": "109",
+      "name": "M Kangaskhan EX"
+    },
+    {
+      "file": "data/XY/Flashfire/13.ts",
+      "id": "13",
+      "name": "M Charizard EX"
+    },
+    {
+      "file": "data/XY/Flashfire/69.ts",
+      "id": "69",
+      "name": "M Charizard EX"
+    },
+    {
+      "file": "data/XY/Flashfire/79.ts",
+      "id": "79",
+      "name": "M Kangaskhan EX"
+    }
+  ]
+}

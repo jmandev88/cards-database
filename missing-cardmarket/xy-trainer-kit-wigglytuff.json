@@ -1,0 +1,155 @@
+{
+  "set": "XY trainer Kit (Wigglytuff)",
+  "missing": [
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/1.ts",
+      "id": "1",
+      "name": "Swirlix"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/10.ts",
+      "id": "10",
+      "name": "Fairy Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/11.ts",
+      "id": "11",
+      "name": "Pidgey"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/12.ts",
+      "id": "12",
+      "name": "Jigglypuff"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/13.ts",
+      "id": "13",
+      "name": "Clefairy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/14.ts",
+      "id": "14",
+      "name": "Wigglytuff"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/15.ts",
+      "id": "15",
+      "name": "Potion"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/16.ts",
+      "id": "16",
+      "name": "Clefable"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/17.ts",
+      "id": "17",
+      "name": "Fairy Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/18.ts",
+      "id": "18",
+      "name": "Swirlix"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/19.ts",
+      "id": "19",
+      "name": "Clefairy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/2.ts",
+      "id": "2",
+      "name": "Pidgeotto"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/20.ts",
+      "id": "20",
+      "name": "Potion"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/21.ts",
+      "id": "21",
+      "name": "Fairy Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/22.ts",
+      "id": "22",
+      "name": "Fairy Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/23.ts",
+      "id": "23",
+      "name": "Pidgeotto"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/24.ts",
+      "id": "24",
+      "name": "Trevor"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/25.ts",
+      "id": "25",
+      "name": "Jigglypuff"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/26.ts",
+      "id": "26",
+      "name": "Tierno"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/27.ts",
+      "id": "27",
+      "name": "Fairy Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/28.ts",
+      "id": "28",
+      "name": "Clefable"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/29.ts",
+      "id": "29",
+      "name": "Pidgey"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/3.ts",
+      "id": "3",
+      "name": "Fairy Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/30.ts",
+      "id": "30",
+      "name": "Wigglytuff"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/4.ts",
+      "id": "4",
+      "name": "Sentret"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/5.ts",
+      "id": "5",
+      "name": "Fairy Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/6.ts",
+      "id": "6",
+      "name": "Fairy Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/7.ts",
+      "id": "7",
+      "name": "Fairy Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/8.ts",
+      "id": "8",
+      "name": "Fairy Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff)/9.ts",
+      "id": "9",
+      "name": "Fairy Energy"
+    }
+  ]
+}

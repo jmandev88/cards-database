@@ -1,0 +1,60 @@
+{
+  "set": "POP Series 5",
+  "missing": [
+    {
+      "file": "data/POP/POP Series 5/10.ts",
+      "id": "10",
+      "name": "Charmander δ"
+    },
+    {
+      "file": "data/POP/POP Series 5/11.ts",
+      "id": "11",
+      "name": "Meowth δ"
+    },
+    {
+      "file": "data/POP/POP Series 5/13.ts",
+      "id": "13",
+      "name": "Pikachu δ"
+    },
+    {
+      "file": "data/POP/POP Series 5/14.ts",
+      "id": "14",
+      "name": "Pelipper δ"
+    },
+    {
+      "file": "data/POP/POP Series 5/15.ts",
+      "id": "15",
+      "name": "Zangoose δ"
+    },
+    {
+      "file": "data/POP/POP Series 5/16.ts",
+      "id": "16",
+      "name": "Espeon ★"
+    },
+    {
+      "file": "data/POP/POP Series 5/17.ts",
+      "id": "17",
+      "name": "Umbreon ★"
+    },
+    {
+      "file": "data/POP/POP Series 5/3.ts",
+      "id": "3",
+      "name": "Mew δ"
+    },
+    {
+      "file": "data/POP/POP Series 5/5.ts",
+      "id": "5",
+      "name": "Charmeleon δ"
+    },
+    {
+      "file": "data/POP/POP Series 5/6.ts",
+      "id": "6",
+      "name": "Bill’s Maintenance"
+    },
+    {
+      "file": "data/POP/POP Series 5/9.ts",
+      "id": "9",
+      "name": "δ Rainbow Energy"
+    }
+  ]
+}

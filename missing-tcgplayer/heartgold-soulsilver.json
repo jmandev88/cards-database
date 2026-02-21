@@ -1,0 +1,70 @@
+{
+  "set": "HeartGold SoulSilver",
+  "missing": [
+    {
+      "file": "data/HeartGold & SoulSilver/HeartGold SoulSilver/100.ts",
+      "id": "100",
+      "name": "Professor Elm’s Training Method"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HeartGold SoulSilver/101.ts",
+      "id": "101",
+      "name": "Professor Oak’s New Theory"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HeartGold SoulSilver/111.ts",
+      "id": "111",
+      "name": "Ho-Oh LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HeartGold SoulSilver/112.ts",
+      "id": "112",
+      "name": "Ho-Oh LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HeartGold SoulSilver/113.ts",
+      "id": "113",
+      "name": "Lugia LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HeartGold SoulSilver/114.ts",
+      "id": "114",
+      "name": "Lugia LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HeartGold SoulSilver/19.ts",
+      "id": "19",
+      "name": "Farfetch’d"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HeartGold SoulSilver/95.ts",
+      "id": "95",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HeartGold SoulSilver/96.ts",
+      "id": "96",
+      "name": "Pokégear3.0"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HeartGold SoulSilver/97.ts",
+      "id": "97",
+      "name": "Pokémon Collector"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HeartGold SoulSilver/98.ts",
+      "id": "98",
+      "name": "Pokémon Communication"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HeartGold SoulSilver/99.ts",
+      "id": "99",
+      "name": "Pokémon Reversal"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/HeartGold SoulSilver/ONE.ts",
+      "id": "ONE",
+      "name": "Alph Lithograph"
+    }
+  ]
+}

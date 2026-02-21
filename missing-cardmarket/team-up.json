@@ -1,0 +1,60 @@
+{
+  "set": "Team Up",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/Team Up/127.ts",
+      "id": "127",
+      "name": "Farfetch’d"
+    },
+    {
+      "file": "data/Sun & Moon/Team Up/133.ts",
+      "id": "133",
+      "name": "Bill’s Analysis"
+    },
+    {
+      "file": "data/Sun & Moon/Team Up/135.ts",
+      "id": "135",
+      "name": "Brock’s Grit"
+    },
+    {
+      "file": "data/Sun & Moon/Team Up/140.ts",
+      "id": "140",
+      "name": "Erika’s Hospitality"
+    },
+    {
+      "file": "data/Sun & Moon/Team Up/154.ts",
+      "id": "154",
+      "name": "Sabrina’s Suggestion"
+    },
+    {
+      "file": "data/Sun & Moon/Team Up/172.ts",
+      "id": "172",
+      "name": "Brock’s Grit"
+    },
+    {
+      "file": "data/Sun & Moon/Team Up/174.ts",
+      "id": "174",
+      "name": "Erika’s Hospitality"
+    },
+    {
+      "file": "data/Sun & Moon/Team Up/181.ts",
+      "id": "181",
+      "name": "Sabrina’s Suggestion"
+    },
+    {
+      "file": "data/Sun & Moon/Team Up/51.ts",
+      "id": "51",
+      "name": "Tapu Koko ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Team Up/54.ts",
+      "id": "54",
+      "name": "Nidoran♀"
+    },
+    {
+      "file": "data/Sun & Moon/Team Up/57.ts",
+      "id": "57",
+      "name": "Nidoran♂"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "set": "Neo Destiny",
+  "missing": [
+    {
+      "file": "data/Neo/Neo Destiny/102.ts",
+      "id": "102",
+      "name": "Pokémon Personality Test"
+    },
+    {
+      "file": "data/Neo/Neo Destiny/33.ts",
+      "id": "33",
+      "name": "Dark Exeggutor"
+    }
+  ]
+}

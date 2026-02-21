@@ -1,0 +1,35 @@
+{
+  "set": "Lost Thunder",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/Lost Thunder/174.ts",
+      "id": "174",
+      "name": "Fairy Charm Grass"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/175.ts",
+      "id": "175",
+      "name": "Fairy Charm Psychic"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/176.ts",
+      "id": "176",
+      "name": "Fairy Charm Fighting"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/177.ts",
+      "id": "177",
+      "name": "Fairy Charm Dragon"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/188.ts",
+      "id": "188",
+      "name": "Professor Elm’s Lecture"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/213.ts",
+      "id": "213",
+      "name": "Professor Elm’s Lecture"
+    }
+  ]
+}

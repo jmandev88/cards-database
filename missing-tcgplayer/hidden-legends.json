@@ -1,0 +1,20 @@
+{
+  "set": "Hidden Legends",
+  "missing": [
+    {
+      "file": "data/EX/Hidden Legends/84.ts",
+      "id": "84",
+      "name": "Ancient Technical Machine (Ice)"
+    },
+    {
+      "file": "data/EX/Hidden Legends/85.ts",
+      "id": "85",
+      "name": "Ancient Technical Machine (Rock)"
+    },
+    {
+      "file": "data/EX/Hidden Legends/86.ts",
+      "id": "86",
+      "name": "Ancient Technical Machine (Steel)"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "set": "Macdonald's Collection 2012",
+  "missing": [
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2012/1.ts",
+      "id": "1",
+      "name": "Wrap"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2012/10.ts",
+      "id": "10",
+      "name": "Headbutt"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2012/11.ts",
+      "id": "11",
+      "name": "Metal Sound"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2012/12.ts",
+      "id": "12",
+      "name": "Dual Chop"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2012/2.ts",
+      "id": "2",
+      "name": "Collect"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2012/3.ts",
+      "id": "3",
+      "name": "Withdraw"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2012/4.ts",
+      "id": "4",
+      "name": "Flame Charge"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2012/5.ts",
+      "id": "5",
+      "name": "Water Gun"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2012/6.ts",
+      "id": "6",
+      "name": "Thundershock"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2012/7.ts",
+      "id": "7",
+      "name": "Psy Bolt"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2012/8.ts",
+      "id": "8",
+      "name": "Hone Claws"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2012/9.ts",
+      "id": "9",
+      "name": "Knock Off"
+    }
+  ]
+}

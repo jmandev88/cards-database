@@ -1,0 +1,25 @@
+{
+  "set": "Holon Phantoms",
+  "missing": [
+    {
+      "file": "data/EX/Holon Phantoms/102.ts",
+      "id": "102",
+      "name": "Gyarados Star δ"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/103.ts",
+      "id": "103",
+      "name": "Mewtwo Star"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/104.ts",
+      "id": "104",
+      "name": "Pikachu Star"
+    },
+    {
+      "file": "data/EX/Holon Phantoms/98.ts",
+      "id": "98",
+      "name": "δ Rainbow Energy"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "set": "Shining Legends",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/Shining Legends/63.ts",
+      "id": "63",
+      "name": "Pokémon Breeder"
+    },
+    {
+      "file": "data/Sun & Moon/Shining Legends/64.ts",
+      "id": "64",
+      "name": "Pokémon Catcher"
+    },
+    {
+      "file": "data/Sun & Moon/Shining Legends/73.ts",
+      "id": "73",
+      "name": "Pokémon Breeder"
+    }
+  ]
+}

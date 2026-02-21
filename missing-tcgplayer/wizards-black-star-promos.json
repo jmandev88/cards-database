@@ -1,0 +1,270 @@
+{
+  "set": "Wizards Black Star Promos",
+  "missing": [
+    {
+      "file": "data/Base/Wizards Black Star Promos/1.ts",
+      "id": "1",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/10.ts",
+      "id": "10",
+      "name": "Meowth"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/11.ts",
+      "id": "11",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/12.ts",
+      "id": "12",
+      "name": "Mewtwo"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/13.ts",
+      "id": "13",
+      "name": "Venusaur"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/14.ts",
+      "id": "14",
+      "name": "Mewtwo"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/15.ts",
+      "id": "15",
+      "name": "Cool Porygon"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/16.ts",
+      "id": "16",
+      "name": "Computer Error"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/17.ts",
+      "id": "17",
+      "name": "Dark Persian"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/18.ts",
+      "id": "18",
+      "name": "Team Rocket"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/19.ts",
+      "id": "19",
+      "name": "Sabrina"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/2.ts",
+      "id": "2",
+      "name": "Electabuzz"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/20.ts",
+      "id": "20",
+      "name": "Psyduck"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/21.ts",
+      "id": "21",
+      "name": "Moltres"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/22.ts",
+      "id": "22",
+      "name": "Articuno"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/23.ts",
+      "id": "23",
+      "name": "Zapdos"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/24.ts",
+      "id": "24",
+      "name": "___________"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/25.ts",
+      "id": "25",
+      "name": "Flying Pikachu"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/26.ts",
+      "id": "26",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/27.ts",
+      "id": "27",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/28.ts",
+      "id": "28",
+      "name": "Surfing Pikachu"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/29.ts",
+      "id": "29",
+      "name": "Marill"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/3.ts",
+      "id": "3",
+      "name": "Mewtwo"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/30.ts",
+      "id": "30",
+      "name": "Togepi"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/31.ts",
+      "id": "31",
+      "name": "Cleffa"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/32.ts",
+      "id": "32",
+      "name": "Smeargle"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/33.ts",
+      "id": "33",
+      "name": "Scizor"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/34.ts",
+      "id": "34",
+      "name": "Entei"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/35.ts",
+      "id": "35",
+      "name": "Pichu"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/36.ts",
+      "id": "36",
+      "name": "Igglybuff"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/37.ts",
+      "id": "37",
+      "name": "Hitmontop"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/38.ts",
+      "id": "38",
+      "name": "Unown [J]"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/39.ts",
+      "id": "39",
+      "name": "Misdreavus"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/4.ts",
+      "id": "4",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/40.ts",
+      "id": "40",
+      "name": "Pokémon Center"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/41.ts",
+      "id": "41",
+      "name": "Lucky Stadium"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/42.ts",
+      "id": "42",
+      "name": "Pokémon Tower"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/43.ts",
+      "id": "43",
+      "name": "Machamp"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/44.ts",
+      "id": "44",
+      "name": "Magmar"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/45.ts",
+      "id": "45",
+      "name": "Scyther"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/46.ts",
+      "id": "46",
+      "name": "Electabuzz"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/47.ts",
+      "id": "47",
+      "name": "Mew"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/48.ts",
+      "id": "48",
+      "name": "Articuno"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/49.ts",
+      "id": "49",
+      "name": "Snorlax"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/5.ts",
+      "id": "5",
+      "name": "Dragonite"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/50.ts",
+      "id": "50",
+      "name": "Celebi"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/51.ts",
+      "id": "51",
+      "name": "Rapidash"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/52.ts",
+      "id": "52",
+      "name": "Ho-oh"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/53.ts",
+      "id": "53",
+      "name": "Suicune"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/6.ts",
+      "id": "6",
+      "name": "Arcanine"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/7.ts",
+      "id": "7",
+      "name": "Jigglypuff"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/8.ts",
+      "id": "8",
+      "name": "Mew"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos/9.ts",
+      "id": "9",
+      "name": "Mew"
+    }
+  ]
+}

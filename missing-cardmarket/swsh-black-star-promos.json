@@ -1,0 +1,15 @@
+{
+  "set": "SWSH Black Star Promos",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/SWSH Black Star Promos/SWSH138.ts",
+      "id": "SWSH138",
+      "name": "Hydreigon C"
+    },
+    {
+      "file": "data/Sword & Shield/SWSH Black Star Promos/SWSH144.ts",
+      "id": "SWSH144",
+      "name": "Greninja {star}"
+    }
+  ]
+}

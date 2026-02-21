@@ -1,0 +1,155 @@
+{
+  "set": "XY trainer Kit (Bisharp)",
+  "missing": [
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/1.ts",
+      "id": "1",
+      "name": "Fletchling"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/10.ts",
+      "id": "10",
+      "name": "Metal Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/11.ts",
+      "id": "11",
+      "name": "Honedge"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/12.ts",
+      "id": "12",
+      "name": "Bidoof"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/13.ts",
+      "id": "13",
+      "name": "Pawniard"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/14.ts",
+      "id": "14",
+      "name": "Doublade"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/15.ts",
+      "id": "15",
+      "name": "Slakoth"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/16.ts",
+      "id": "16",
+      "name": "Bisharp"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/17.ts",
+      "id": "17",
+      "name": "Patrat"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/18.ts",
+      "id": "18",
+      "name": "Metal Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/19.ts",
+      "id": "19",
+      "name": "Tierno"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/2.ts",
+      "id": "2",
+      "name": "Metal Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/20.ts",
+      "id": "20",
+      "name": "Trevor"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/21.ts",
+      "id": "21",
+      "name": "Pawniard"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/22.ts",
+      "id": "22",
+      "name": "Metal Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/23.ts",
+      "id": "23",
+      "name": "Doublade"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/24.ts",
+      "id": "24",
+      "name": "Metal Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/25.ts",
+      "id": "25",
+      "name": "Potion"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/26.ts",
+      "id": "26",
+      "name": "Slakoth"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/27.ts",
+      "id": "27",
+      "name": "Honedge"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/28.ts",
+      "id": "28",
+      "name": "Vigoroth"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/29.ts",
+      "id": "29",
+      "name": "Potion"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/3.ts",
+      "id": "3",
+      "name": "Metal Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/30.ts",
+      "id": "30",
+      "name": "Bisharp"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/4.ts",
+      "id": "4",
+      "name": "Vigoroth"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/5.ts",
+      "id": "5",
+      "name": "Metal Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/6.ts",
+      "id": "6",
+      "name": "Metal Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/7.ts",
+      "id": "7",
+      "name": "Metal Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/8.ts",
+      "id": "8",
+      "name": "Metal Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp)/9.ts",
+      "id": "9",
+      "name": "Metal Energy"
+    }
+  ]
+}

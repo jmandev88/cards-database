@@ -1,0 +1,10 @@
+{
+  "set": "HS trainer Kit (Raichu)",
+  "missing": [
+    {
+      "file": "data/Trainer kits/HS trainer Kit (Raichu)/19.ts",
+      "id": "19",
+      "name": "Raichu"
+    }
+  ]
+}

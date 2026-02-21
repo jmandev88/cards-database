@@ -1,0 +1,65 @@
+{
+  "set": "Unleashed",
+  "missing": [
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/71.ts",
+      "id": "71",
+      "name": "Cheerleader’s Cheer"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/73.ts",
+      "id": "73",
+      "name": "Emcee’s Chatter"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/75.ts",
+      "id": "75",
+      "name": "Engineer’s Adjustments"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/77.ts",
+      "id": "77",
+      "name": "Interviewer’s Questions"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/81.ts",
+      "id": "81",
+      "name": "Pokémon Circulator"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/90.ts",
+      "id": "90",
+      "name": "Entei & Raikou LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/91.ts",
+      "id": "91",
+      "name": "Entei & Raikou LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/92.ts",
+      "id": "92",
+      "name": "Raikou & Suicune LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/93.ts",
+      "id": "93",
+      "name": "Raikou & Suicune LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/94.ts",
+      "id": "94",
+      "name": "Suicune & Entei LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/95.ts",
+      "id": "95",
+      "name": "Suicune & Entei LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/TWO.ts",
+      "id": "TWO",
+      "name": "Alph Lithograph"
+    }
+  ]
+}

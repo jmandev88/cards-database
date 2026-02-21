@@ -1,0 +1,15 @@
+{
+  "set": "POP Series 2",
+  "missing": [
+    {
+      "file": "data/POP/POP Series 2/10.ts",
+      "id": "10",
+      "name": "Pokémon Park"
+    },
+    {
+      "file": "data/POP/POP Series 2/8.ts",
+      "id": "8",
+      "name": "Mr. Briney’s Compassion"
+    }
+  ]
+}

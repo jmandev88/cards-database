@@ -1,0 +1,865 @@
+{
+  "set": "Black Bolt",
+  "missing": [
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/001.ts",
+      "id": "001",
+      "name": "Snivy"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/002.ts",
+      "id": "002",
+      "name": "Servine"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/003.ts",
+      "id": "003",
+      "name": "Serperior ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/004.ts",
+      "id": "004",
+      "name": "Pansage"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/005.ts",
+      "id": "005",
+      "name": "Simisage"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/006.ts",
+      "id": "006",
+      "name": "Petilil"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/007.ts",
+      "id": "007",
+      "name": "Lilligant"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/008.ts",
+      "id": "008",
+      "name": "Maractus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/009.ts",
+      "id": "009",
+      "name": "Karrablast"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/010.ts",
+      "id": "010",
+      "name": "Foongus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/011.ts",
+      "id": "011",
+      "name": "Amoonguss"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/012.ts",
+      "id": "012",
+      "name": "Victini"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/013.ts",
+      "id": "013",
+      "name": "Darumaka"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/014.ts",
+      "id": "014",
+      "name": "Darmanitan"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/015.ts",
+      "id": "015",
+      "name": "Larvesta"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/016.ts",
+      "id": "016",
+      "name": "Volcarona"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/017.ts",
+      "id": "017",
+      "name": "Panpour"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/018.ts",
+      "id": "018",
+      "name": "Simipour"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/019.ts",
+      "id": "019",
+      "name": "Tympole"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/020.ts",
+      "id": "020",
+      "name": "Palpitoad"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/021.ts",
+      "id": "021",
+      "name": "Seismitoad"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/022.ts",
+      "id": "022",
+      "name": "Tirtouga"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/023.ts",
+      "id": "023",
+      "name": "Carracosta"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/024.ts",
+      "id": "024",
+      "name": "Alomomola"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/025.ts",
+      "id": "025",
+      "name": "Cubchoo"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/026.ts",
+      "id": "026",
+      "name": "Beartic"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/027.ts",
+      "id": "027",
+      "name": "Cryogonal"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/028.ts",
+      "id": "028",
+      "name": "Kyurem ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/029.ts",
+      "id": "029",
+      "name": "Emolga"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/030.ts",
+      "id": "030",
+      "name": "Tynamo"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/031.ts",
+      "id": "031",
+      "name": "Eelektrik"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/032.ts",
+      "id": "032",
+      "name": "Eelektross"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/033.ts",
+      "id": "033",
+      "name": "Thundurus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/034.ts",
+      "id": "034",
+      "name": "Zekrom ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/035.ts",
+      "id": "035",
+      "name": "Munna"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/036.ts",
+      "id": "036",
+      "name": "Musharna"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/037.ts",
+      "id": "037",
+      "name": "Solosis"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/038.ts",
+      "id": "038",
+      "name": "Duosion"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/039.ts",
+      "id": "039",
+      "name": "Reuniclus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/040.ts",
+      "id": "040",
+      "name": "Elgyem"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/041.ts",
+      "id": "041",
+      "name": "Beheeyem"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/042.ts",
+      "id": "042",
+      "name": "Golett"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/043.ts",
+      "id": "043",
+      "name": "Golurk"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/044.ts",
+      "id": "044",
+      "name": "Meloetta ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/045.ts",
+      "id": "045",
+      "name": "Drilbur"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/046.ts",
+      "id": "046",
+      "name": "Excadrill ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/047.ts",
+      "id": "047",
+      "name": "Timburr"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/048.ts",
+      "id": "048",
+      "name": "Gurdurr"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/049.ts",
+      "id": "049",
+      "name": "Conkeldurr"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/050.ts",
+      "id": "050",
+      "name": "Throh"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/051.ts",
+      "id": "051",
+      "name": "Dwebble"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/052.ts",
+      "id": "052",
+      "name": "Crustle"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/053.ts",
+      "id": "053",
+      "name": "Landorus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/054.ts",
+      "id": "054",
+      "name": "Venipede"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/055.ts",
+      "id": "055",
+      "name": "Whirlipede"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/056.ts",
+      "id": "056",
+      "name": "Scolipede"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/057.ts",
+      "id": "057",
+      "name": "Sandile"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/058.ts",
+      "id": "058",
+      "name": "Krokorok"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/059.ts",
+      "id": "059",
+      "name": "Krookodile"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/060.ts",
+      "id": "060",
+      "name": "Escavalier"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/061.ts",
+      "id": "061",
+      "name": "Klink"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/062.ts",
+      "id": "062",
+      "name": "Klang"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/063.ts",
+      "id": "063",
+      "name": "Klinklang"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/064.ts",
+      "id": "064",
+      "name": "Pawniard"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/065.ts",
+      "id": "065",
+      "name": "Bisharp"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/066.ts",
+      "id": "066",
+      "name": "Cobalion"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/067.ts",
+      "id": "067",
+      "name": "Genesect ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/068.ts",
+      "id": "068",
+      "name": "Axew"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/069.ts",
+      "id": "069",
+      "name": "Fraxure"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/070.ts",
+      "id": "070",
+      "name": "Haxorus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/071.ts",
+      "id": "071",
+      "name": "Pidove"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/072.ts",
+      "id": "072",
+      "name": "Tranquill"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/073.ts",
+      "id": "073",
+      "name": "Unfezant"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/074.ts",
+      "id": "074",
+      "name": "Audino"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/075.ts",
+      "id": "075",
+      "name": "Minccino"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/076.ts",
+      "id": "076",
+      "name": "Cinccino"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/077.ts",
+      "id": "077",
+      "name": "Rufflet"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/078.ts",
+      "id": "078",
+      "name": "Braviary"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/079.ts",
+      "id": "079",
+      "name": "Air Balloon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/080.ts",
+      "id": "080",
+      "name": "Antique Cover Fossil"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/081.ts",
+      "id": "081",
+      "name": "Energy Coin"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/082.ts",
+      "id": "082",
+      "name": "Fennel"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/083.ts",
+      "id": "083",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/084.ts",
+      "id": "084",
+      "name": "Pokégear 3.0"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/085.ts",
+      "id": "085",
+      "name": "Professor"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/086.ts",
+      "id": "086",
+      "name": "Prism Energy"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/087.ts",
+      "id": "087",
+      "name": "Snivy"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/088.ts",
+      "id": "088",
+      "name": "Servine"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/089.ts",
+      "id": "089",
+      "name": "Pansage"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/090.ts",
+      "id": "090",
+      "name": "Simisage"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/091.ts",
+      "id": "091",
+      "name": "Petilil"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/092.ts",
+      "id": "092",
+      "name": "Lilligant"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/093.ts",
+      "id": "093",
+      "name": "Maractus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/094.ts",
+      "id": "094",
+      "name": "Karrablast"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/095.ts",
+      "id": "095",
+      "name": "Foongus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/096.ts",
+      "id": "096",
+      "name": "Amoonguss"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/097.ts",
+      "id": "097",
+      "name": "Darumaka"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/098.ts",
+      "id": "098",
+      "name": "Darmanitan"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/099.ts",
+      "id": "099",
+      "name": "Larvesta"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/100.ts",
+      "id": "100",
+      "name": "Volcarona"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/101.ts",
+      "id": "101",
+      "name": "Panpour"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/102.ts",
+      "id": "102",
+      "name": "Simipour"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/103.ts",
+      "id": "103",
+      "name": "Tympole"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/104.ts",
+      "id": "104",
+      "name": "Palpitoad"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/105.ts",
+      "id": "105",
+      "name": "Seismitoad"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/106.ts",
+      "id": "106",
+      "name": "Tirtouga"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/107.ts",
+      "id": "107",
+      "name": "Carracosta"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/108.ts",
+      "id": "108",
+      "name": "Alomomola"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/109.ts",
+      "id": "109",
+      "name": "Cubchoo"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/110.ts",
+      "id": "110",
+      "name": "Beartic"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/111.ts",
+      "id": "111",
+      "name": "Cryogonal"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/112.ts",
+      "id": "112",
+      "name": "Emolga"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/113.ts",
+      "id": "113",
+      "name": "Tynamo"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/114.ts",
+      "id": "114",
+      "name": "Eelektrik"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/115.ts",
+      "id": "115",
+      "name": "Eelektross"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/116.ts",
+      "id": "116",
+      "name": "Munna"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/117.ts",
+      "id": "117",
+      "name": "Musharna"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/118.ts",
+      "id": "118",
+      "name": "Solosis"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/119.ts",
+      "id": "119",
+      "name": "Duosion"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/120.ts",
+      "id": "120",
+      "name": "Elgyem"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/121.ts",
+      "id": "121",
+      "name": "Beheeyem"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/122.ts",
+      "id": "122",
+      "name": "Golett"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/123.ts",
+      "id": "123",
+      "name": "Golurk"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/124.ts",
+      "id": "124",
+      "name": "Drilbur"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/125.ts",
+      "id": "125",
+      "name": "Timburr"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/126.ts",
+      "id": "126",
+      "name": "Gurdurr"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/127.ts",
+      "id": "127",
+      "name": "Conkeldurr"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/128.ts",
+      "id": "128",
+      "name": "Throh"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/129.ts",
+      "id": "129",
+      "name": "Dwebble"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/130.ts",
+      "id": "130",
+      "name": "Crustle"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/131.ts",
+      "id": "131",
+      "name": "Landorus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/132.ts",
+      "id": "132",
+      "name": "Venipede"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/133.ts",
+      "id": "133",
+      "name": "Whirlipede"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/134.ts",
+      "id": "134",
+      "name": "Scolipede"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/135.ts",
+      "id": "135",
+      "name": "Sandile"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/136.ts",
+      "id": "136",
+      "name": "Krokorok"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/137.ts",
+      "id": "137",
+      "name": "Krookodile"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/138.ts",
+      "id": "138",
+      "name": "Escavalier"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/139.ts",
+      "id": "139",
+      "name": "Klink"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/140.ts",
+      "id": "140",
+      "name": "Klang"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/141.ts",
+      "id": "141",
+      "name": "Klinklang"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/142.ts",
+      "id": "142",
+      "name": "Pawniard"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/143.ts",
+      "id": "143",
+      "name": "Bisharp"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/144.ts",
+      "id": "144",
+      "name": "Cobalion"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/145.ts",
+      "id": "145",
+      "name": "Axew"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/146.ts",
+      "id": "146",
+      "name": "Fraxure"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/147.ts",
+      "id": "147",
+      "name": "Haxorus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/148.ts",
+      "id": "148",
+      "name": "Pidove"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/149.ts",
+      "id": "149",
+      "name": "Tranquill"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/150.ts",
+      "id": "150",
+      "name": "Unfezant"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/151.ts",
+      "id": "151",
+      "name": "Audino"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/152.ts",
+      "id": "152",
+      "name": "Minccino"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/153.ts",
+      "id": "153",
+      "name": "Cinccino"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/154.ts",
+      "id": "154",
+      "name": "Rufflet"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/155.ts",
+      "id": "155",
+      "name": "Braviary"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/156.ts",
+      "id": "156",
+      "name": "Serperior ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/157.ts",
+      "id": "157",
+      "name": "Kyurem ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/158.ts",
+      "id": "158",
+      "name": "Zekrom ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/159.ts",
+      "id": "159",
+      "name": "Meloetta ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/160.ts",
+      "id": "160",
+      "name": "Excadrill ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/161.ts",
+      "id": "161",
+      "name": "Genesect ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/162.ts",
+      "id": "162",
+      "name": "Fennel"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/163.ts",
+      "id": "163",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/164.ts",
+      "id": "164",
+      "name": "Serperior ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/165.ts",
+      "id": "165",
+      "name": "Kyurem ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/166.ts",
+      "id": "166",
+      "name": "Zekrom ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/167.ts",
+      "id": "167",
+      "name": "Meloetta ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/168.ts",
+      "id": "168",
+      "name": "Excadrill ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/169.ts",
+      "id": "169",
+      "name": "Genesect ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/170.ts",
+      "id": "170",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/171.ts",
+      "id": "171",
+      "name": "Victini"
+    },
+    {
+      "file": "data/Scarlet & Violet/Black Bolt/172.ts",
+      "id": "172",
+      "name": "Zekrom ex"
+    }
+  ]
+}

@@ -1,0 +1,1660 @@
+{
+  "set": "Mega Rising",
+  "missing": [
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/001.ts",
+      "id": "001",
+      "name": "Pinsir"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/002.ts",
+      "id": "002",
+      "name": "Mega Pinsir ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/003.ts",
+      "id": "003",
+      "name": "Wurmple"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/004.ts",
+      "id": "004",
+      "name": "Silcoon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/005.ts",
+      "id": "005",
+      "name": "Beautifly"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/006.ts",
+      "id": "006",
+      "name": "Cascoon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/007.ts",
+      "id": "007",
+      "name": "Dustox"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/008.ts",
+      "id": "008",
+      "name": "Seedot"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/009.ts",
+      "id": "009",
+      "name": "Nuzleaf"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/010.ts",
+      "id": "010",
+      "name": "Shiftry"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/011.ts",
+      "id": "011",
+      "name": "Shroomish"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/012.ts",
+      "id": "012",
+      "name": "Breloom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/013.ts",
+      "id": "013",
+      "name": "Pansage"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/014.ts",
+      "id": "014",
+      "name": "Simisage"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/015.ts",
+      "id": "015",
+      "name": "Cottonee"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/016.ts",
+      "id": "016",
+      "name": "Whimsicott ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/017.ts",
+      "id": "017",
+      "name": "Petilil"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/018.ts",
+      "id": "018",
+      "name": "Lilligant"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/019.ts",
+      "id": "019",
+      "name": "Maractus"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/020.ts",
+      "id": "020",
+      "name": "Virizion"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/021.ts",
+      "id": "021",
+      "name": "Skiddo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/022.ts",
+      "id": "022",
+      "name": "Gogoat"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/023.ts",
+      "id": "023",
+      "name": "Phantump"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/024.ts",
+      "id": "024",
+      "name": "Trevenant"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/025.ts",
+      "id": "025",
+      "name": "Grookey"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/026.ts",
+      "id": "026",
+      "name": "Thwackey"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/027.ts",
+      "id": "027",
+      "name": "Rillaboom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/028.ts",
+      "id": "028",
+      "name": "Growlithe"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/029.ts",
+      "id": "029",
+      "name": "Arcanine"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/030.ts",
+      "id": "030",
+      "name": "Ponyta"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/031.ts",
+      "id": "031",
+      "name": "Rapidash ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/032.ts",
+      "id": "032",
+      "name": "Ho-Oh"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/033.ts",
+      "id": "033",
+      "name": "Torchic"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/034.ts",
+      "id": "034",
+      "name": "Combusken"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/035.ts",
+      "id": "035",
+      "name": "Blaziken"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/036.ts",
+      "id": "036",
+      "name": "Mega Blaziken ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/037.ts",
+      "id": "037",
+      "name": "Pansear"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/038.ts",
+      "id": "038",
+      "name": "Simisear"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/039.ts",
+      "id": "039",
+      "name": "Darumaka"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/040.ts",
+      "id": "040",
+      "name": "Darmanitan"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/041.ts",
+      "id": "041",
+      "name": "Litwick"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/042.ts",
+      "id": "042",
+      "name": "Lampent"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/043.ts",
+      "id": "043",
+      "name": "Chandelure"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/044.ts",
+      "id": "044",
+      "name": "Heatmor"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/045.ts",
+      "id": "045",
+      "name": "Litleo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/046.ts",
+      "id": "046",
+      "name": "Pyroar"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/047.ts",
+      "id": "047",
+      "name": "Turtonator"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/048.ts",
+      "id": "048",
+      "name": "Psyduck"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/049.ts",
+      "id": "049",
+      "name": "Golduck"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/050.ts",
+      "id": "050",
+      "name": "Magikarp"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/051.ts",
+      "id": "051",
+      "name": "Gyarados"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/052.ts",
+      "id": "052",
+      "name": "Mega Gyarados ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/053.ts",
+      "id": "053",
+      "name": "Lotad"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/054.ts",
+      "id": "054",
+      "name": "Lombre"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/055.ts",
+      "id": "055",
+      "name": "Ludicolo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/056.ts",
+      "id": "056",
+      "name": "Wailmer"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/057.ts",
+      "id": "057",
+      "name": "Wailord"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/058.ts",
+      "id": "058",
+      "name": "Corphish"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/059.ts",
+      "id": "059",
+      "name": "Crawdaunt"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/060.ts",
+      "id": "060",
+      "name": "Luvdisc"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/061.ts",
+      "id": "061",
+      "name": "Panpour"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/062.ts",
+      "id": "062",
+      "name": "Simipour"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/063.ts",
+      "id": "063",
+      "name": "Tympole"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/064.ts",
+      "id": "064",
+      "name": "Palpitoad"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/065.ts",
+      "id": "065",
+      "name": "Seismitoad"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/066.ts",
+      "id": "066",
+      "name": "Tirtouga"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/067.ts",
+      "id": "067",
+      "name": "Carracosta"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/068.ts",
+      "id": "068",
+      "name": "Frillish"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/069.ts",
+      "id": "069",
+      "name": "Jellicent"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/070.ts",
+      "id": "070",
+      "name": "Keldeo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/071.ts",
+      "id": "071",
+      "name": "Froakie"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/072.ts",
+      "id": "072",
+      "name": "Frogadier"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/073.ts",
+      "id": "073",
+      "name": "Greninja ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/074.ts",
+      "id": "074",
+      "name": "Bergmite"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/075.ts",
+      "id": "075",
+      "name": "Avalugg"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/076.ts",
+      "id": "076",
+      "name": "Chewtle"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/077.ts",
+      "id": "077",
+      "name": "Drednaw"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/078.ts",
+      "id": "078",
+      "name": "Arrokuda"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/079.ts",
+      "id": "079",
+      "name": "Barraskewda"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/080.ts",
+      "id": "080",
+      "name": "Eiscue"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/081.ts",
+      "id": "081",
+      "name": "Jolteon ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/082.ts",
+      "id": "082",
+      "name": "Mareep"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/083.ts",
+      "id": "083",
+      "name": "Flaaffy"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/084.ts",
+      "id": "084",
+      "name": "Ampharos"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/085.ts",
+      "id": "085",
+      "name": "Mega Ampharos ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/086.ts",
+      "id": "086",
+      "name": "Shinx"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/087.ts",
+      "id": "087",
+      "name": "Luxio"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/088.ts",
+      "id": "088",
+      "name": "Luxray"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/089.ts",
+      "id": "089",
+      "name": "Pachirisu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/090.ts",
+      "id": "090",
+      "name": "Blitzle"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/091.ts",
+      "id": "091",
+      "name": "Zebstrika"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/092.ts",
+      "id": "092",
+      "name": "Joltik"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/093.ts",
+      "id": "093",
+      "name": "Galvantula"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/094.ts",
+      "id": "094",
+      "name": "Dedenne"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/095.ts",
+      "id": "095",
+      "name": "Yamper"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/096.ts",
+      "id": "096",
+      "name": "Boltund"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/097.ts",
+      "id": "097",
+      "name": "Natu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/098.ts",
+      "id": "098",
+      "name": "Xatu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/099.ts",
+      "id": "099",
+      "name": "Misdreavus"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/100.ts",
+      "id": "100",
+      "name": "Mismagius"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/101.ts",
+      "id": "101",
+      "name": "Sableye"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/102.ts",
+      "id": "102",
+      "name": "Mega Altaria ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/103.ts",
+      "id": "103",
+      "name": "Duskull"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/104.ts",
+      "id": "104",
+      "name": "Dusclops"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/105.ts",
+      "id": "105",
+      "name": "Dusknoir"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/106.ts",
+      "id": "106",
+      "name": "Jirachi"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/107.ts",
+      "id": "107",
+      "name": "Drifloon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/108.ts",
+      "id": "108",
+      "name": "Drifblim"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/109.ts",
+      "id": "109",
+      "name": "Chingling"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/110.ts",
+      "id": "110",
+      "name": "Yamask"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/111.ts",
+      "id": "111",
+      "name": "Cofagrigus"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/112.ts",
+      "id": "112",
+      "name": "Gothita"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/113.ts",
+      "id": "113",
+      "name": "Gothorita"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/114.ts",
+      "id": "114",
+      "name": "Gothitelle"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/115.ts",
+      "id": "115",
+      "name": "Spritzee"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/116.ts",
+      "id": "116",
+      "name": "Aromatisse"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/117.ts",
+      "id": "117",
+      "name": "Swirlix"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/118.ts",
+      "id": "118",
+      "name": "Slurpuff"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/119.ts",
+      "id": "119",
+      "name": "Carbink"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/120.ts",
+      "id": "120",
+      "name": "Klefki"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/121.ts",
+      "id": "121",
+      "name": "Indeedee ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/122.ts",
+      "id": "122",
+      "name": "Sandshrew"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/123.ts",
+      "id": "123",
+      "name": "Sandslash"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/124.ts",
+      "id": "124",
+      "name": "Hitmonchan ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/125.ts",
+      "id": "125",
+      "name": "Sudowoodo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/126.ts",
+      "id": "126",
+      "name": "Makuhita"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/127.ts",
+      "id": "127",
+      "name": "Hariyama"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/128.ts",
+      "id": "128",
+      "name": "Hippopotas"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/129.ts",
+      "id": "129",
+      "name": "Hippowdon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/130.ts",
+      "id": "130",
+      "name": "Sandile"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/131.ts",
+      "id": "131",
+      "name": "Krokorok"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/132.ts",
+      "id": "132",
+      "name": "Krookodile"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/133.ts",
+      "id": "133",
+      "name": "Archen"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/134.ts",
+      "id": "134",
+      "name": "Archeops"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/135.ts",
+      "id": "135",
+      "name": "Golett"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/136.ts",
+      "id": "136",
+      "name": "Golurk"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/137.ts",
+      "id": "137",
+      "name": "Terrakion"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/138.ts",
+      "id": "138",
+      "name": "Pancham"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/139.ts",
+      "id": "139",
+      "name": "Crabrawler"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/140.ts",
+      "id": "140",
+      "name": "Crabominable"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/141.ts",
+      "id": "141",
+      "name": "Stufful"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/142.ts",
+      "id": "142",
+      "name": "Bewear"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/143.ts",
+      "id": "143",
+      "name": "Sandygast"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/144.ts",
+      "id": "144",
+      "name": "Palossand"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/145.ts",
+      "id": "145",
+      "name": "Rolycoly"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/146.ts",
+      "id": "146",
+      "name": "Carkol"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/147.ts",
+      "id": "147",
+      "name": "Coalossal"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/148.ts",
+      "id": "148",
+      "name": "Murkrow"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/149.ts",
+      "id": "149",
+      "name": "Honchkrow"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/150.ts",
+      "id": "150",
+      "name": "Absol"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/151.ts",
+      "id": "151",
+      "name": "Mega Absol ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/152.ts",
+      "id": "152",
+      "name": "Skorupi"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/153.ts",
+      "id": "153",
+      "name": "Drapion"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/154.ts",
+      "id": "154",
+      "name": "Darkrai"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/155.ts",
+      "id": "155",
+      "name": "Deino"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/156.ts",
+      "id": "156",
+      "name": "Zweilous"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/157.ts",
+      "id": "157",
+      "name": "Hydreigon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/158.ts",
+      "id": "158",
+      "name": "Pangoro"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/159.ts",
+      "id": "159",
+      "name": "Skrelp"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/160.ts",
+      "id": "160",
+      "name": "Dragalge ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/161.ts",
+      "id": "161",
+      "name": "Mareanie"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/162.ts",
+      "id": "162",
+      "name": "Toxapex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/163.ts",
+      "id": "163",
+      "name": "Impidimp"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/164.ts",
+      "id": "164",
+      "name": "Morgrem"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/165.ts",
+      "id": "165",
+      "name": "Grimmsnarl"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/166.ts",
+      "id": "166",
+      "name": "Ferroseed"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/167.ts",
+      "id": "167",
+      "name": "Ferrothorn"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/168.ts",
+      "id": "168",
+      "name": "Durant"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/169.ts",
+      "id": "169",
+      "name": "Cobalion"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/170.ts",
+      "id": "170",
+      "name": "Honedge"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/171.ts",
+      "id": "171",
+      "name": "Doublade"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/172.ts",
+      "id": "172",
+      "name": "Aegislash"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/173.ts",
+      "id": "173",
+      "name": "Meltan"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/174.ts",
+      "id": "174",
+      "name": "Melmetal ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/175.ts",
+      "id": "175",
+      "name": "Corviknight"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/176.ts",
+      "id": "176",
+      "name": "Druddigon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/177.ts",
+      "id": "177",
+      "name": "Goomy"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/178.ts",
+      "id": "178",
+      "name": "Sliggoo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/179.ts",
+      "id": "179",
+      "name": "Goodra"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/180.ts",
+      "id": "180",
+      "name": "Pidgey"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/181.ts",
+      "id": "181",
+      "name": "Pidgeotto"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/182.ts",
+      "id": "182",
+      "name": "Pidgeot"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/183.ts",
+      "id": "183",
+      "name": "Tauros ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/184.ts",
+      "id": "184",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/185.ts",
+      "id": "185",
+      "name": "Aipom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/186.ts",
+      "id": "186",
+      "name": "Ambipom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/187.ts",
+      "id": "187",
+      "name": "Miltank"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/188.ts",
+      "id": "188",
+      "name": "Zigzagoon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/189.ts",
+      "id": "189",
+      "name": "Linoone"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/190.ts",
+      "id": "190",
+      "name": "Whismur"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/191.ts",
+      "id": "191",
+      "name": "Loudred"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/192.ts",
+      "id": "192",
+      "name": "Exploud"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/193.ts",
+      "id": "193",
+      "name": "Skitty"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/194.ts",
+      "id": "194",
+      "name": "Delcatty"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/195.ts",
+      "id": "195",
+      "name": "Spinda"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/196.ts",
+      "id": "196",
+      "name": "Swablu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/197.ts",
+      "id": "197",
+      "name": "Altaria"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/198.ts",
+      "id": "198",
+      "name": "Chatot"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/199.ts",
+      "id": "199",
+      "name": "Patrat"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/200.ts",
+      "id": "200",
+      "name": "Watchog"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/201.ts",
+      "id": "201",
+      "name": "Lillipup"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/202.ts",
+      "id": "202",
+      "name": "Herdier"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/203.ts",
+      "id": "203",
+      "name": "Stoutland"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/204.ts",
+      "id": "204",
+      "name": "Rufflet"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/205.ts",
+      "id": "205",
+      "name": "Braviary"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/206.ts",
+      "id": "206",
+      "name": "Furfrou"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/207.ts",
+      "id": "207",
+      "name": "Furfrou"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/208.ts",
+      "id": "208",
+      "name": "Furfrou"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/209.ts",
+      "id": "209",
+      "name": "Rookidee"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/210.ts",
+      "id": "210",
+      "name": "Corvisquire"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/211.ts",
+      "id": "211",
+      "name": "Wooloo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/212.ts",
+      "id": "212",
+      "name": "Dubwool"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/213.ts",
+      "id": "213",
+      "name": "Prank Spinner"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/214.ts",
+      "id": "214",
+      "name": "Plume Fossil"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/215.ts",
+      "id": "215",
+      "name": "Hitting Hammer"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/216.ts",
+      "id": "216",
+      "name": "Cover Fossil"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/217.ts",
+      "id": "217",
+      "name": "Flame Patch"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/218.ts",
+      "id": "218",
+      "name": "Sitrus Berry"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/219.ts",
+      "id": "219",
+      "name": "Heavy Helmet"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/220.ts",
+      "id": "220",
+      "name": "Lucky Mittens"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/221.ts",
+      "id": "221",
+      "name": "Marlon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/222.ts",
+      "id": "222",
+      "name": "Hala"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/223.ts",
+      "id": "223",
+      "name": "May"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/224.ts",
+      "id": "224",
+      "name": "Fantina"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/225.ts",
+      "id": "225",
+      "name": "Copycat"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/226.ts",
+      "id": "226",
+      "name": "Lisia"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/227.ts",
+      "id": "227",
+      "name": "Beautifly"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/228.ts",
+      "id": "228",
+      "name": "Skiddo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/229.ts",
+      "id": "229",
+      "name": "Rillaboom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/230.ts",
+      "id": "230",
+      "name": "Growlithe"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/231.ts",
+      "id": "231",
+      "name": "Chandelure"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/232.ts",
+      "id": "232",
+      "name": "Magikarp"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/233.ts",
+      "id": "233",
+      "name": "Ludicolo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/234.ts",
+      "id": "234",
+      "name": "Jellicent"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/235.ts",
+      "id": "235",
+      "name": "Keldeo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/236.ts",
+      "id": "236",
+      "name": "Eiscue"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/237.ts",
+      "id": "237",
+      "name": "Luxray"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/238.ts",
+      "id": "238",
+      "name": "Cofagrigus"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/239.ts",
+      "id": "239",
+      "name": "Gothita"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/240.ts",
+      "id": "240",
+      "name": "Makuhita"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/241.ts",
+      "id": "241",
+      "name": "Hippowdon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/242.ts",
+      "id": "242",
+      "name": "Archeops"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/243.ts",
+      "id": "243",
+      "name": "Pancham"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/244.ts",
+      "id": "244",
+      "name": "Honchkrow"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/245.ts",
+      "id": "245",
+      "name": "Hydreigon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/246.ts",
+      "id": "246",
+      "name": "Corviknight"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/247.ts",
+      "id": "247",
+      "name": "Goomy"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/248.ts",
+      "id": "248",
+      "name": "Delcatty"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/249.ts",
+      "id": "249",
+      "name": "Stoutland"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/250.ts",
+      "id": "250",
+      "name": "Rufflet"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/251.ts",
+      "id": "251",
+      "name": "Mega Pinsir ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/252.ts",
+      "id": "252",
+      "name": "Whimsicott ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/253.ts",
+      "id": "253",
+      "name": "Rapidash ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/254.ts",
+      "id": "254",
+      "name": "Mega Blaziken ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/255.ts",
+      "id": "255",
+      "name": "Mega Gyarados ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/256.ts",
+      "id": "256",
+      "name": "Greninja ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/257.ts",
+      "id": "257",
+      "name": "Jolteon ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/258.ts",
+      "id": "258",
+      "name": "Mega Ampharos ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/259.ts",
+      "id": "259",
+      "name": "Mega Altaria ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/260.ts",
+      "id": "260",
+      "name": "Indeedee ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/261.ts",
+      "id": "261",
+      "name": "Hitmonchan ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/262.ts",
+      "id": "262",
+      "name": "Mega Absol ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/263.ts",
+      "id": "263",
+      "name": "Dragalge ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/264.ts",
+      "id": "264",
+      "name": "Melmetal ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/265.ts",
+      "id": "265",
+      "name": "Tauros ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/266.ts",
+      "id": "266",
+      "name": "Marlon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/267.ts",
+      "id": "267",
+      "name": "Hala"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/268.ts",
+      "id": "268",
+      "name": "May"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/269.ts",
+      "id": "269",
+      "name": "Fantina"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/270.ts",
+      "id": "270",
+      "name": "Copycat"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/271.ts",
+      "id": "271",
+      "name": "Lisia"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/272.ts",
+      "id": "272",
+      "name": "Mega Pinsir ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/273.ts",
+      "id": "273",
+      "name": "Whimsicott ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/274.ts",
+      "id": "274",
+      "name": "Rapidash ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/275.ts",
+      "id": "275",
+      "name": "Greninja ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/276.ts",
+      "id": "276",
+      "name": "Jolteon ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/277.ts",
+      "id": "277",
+      "name": "Mega Ampharos ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/278.ts",
+      "id": "278",
+      "name": "Indeedee ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/279.ts",
+      "id": "279",
+      "name": "Hitmonchan ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/280.ts",
+      "id": "280",
+      "name": "Mega Absol ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/281.ts",
+      "id": "281",
+      "name": "Dragalge ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/282.ts",
+      "id": "282",
+      "name": "Melmetal ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/283.ts",
+      "id": "283",
+      "name": "Tauros ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/284.ts",
+      "id": "284",
+      "name": "Mega Blaziken ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/285.ts",
+      "id": "285",
+      "name": "Mega Gyarados ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/286.ts",
+      "id": "286",
+      "name": "Mega Altaria ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/287.ts",
+      "id": "287",
+      "name": "Bellsprout"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/288.ts",
+      "id": "288",
+      "name": "Weepinbell"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/289.ts",
+      "id": "289",
+      "name": "Victreebel"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/290.ts",
+      "id": "290",
+      "name": "Rowlet"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/291.ts",
+      "id": "291",
+      "name": "Dartrix"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/292.ts",
+      "id": "292",
+      "name": "Moltres"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/293.ts",
+      "id": "293",
+      "name": "Litten"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/294.ts",
+      "id": "294",
+      "name": "Torracat"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/295.ts",
+      "id": "295",
+      "name": "Poliwag"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/296.ts",
+      "id": "296",
+      "name": "Poliwhirl"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/297.ts",
+      "id": "297",
+      "name": "Poliwrath"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/298.ts",
+      "id": "298",
+      "name": "Articuno"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/299.ts",
+      "id": "299",
+      "name": "Manaphy"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/300.ts",
+      "id": "300",
+      "name": "Popplio"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/301.ts",
+      "id": "301",
+      "name": "Brionne"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/302.ts",
+      "id": "302",
+      "name": "Zapdos"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/303.ts",
+      "id": "303",
+      "name": "Oricorio"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/304.ts",
+      "id": "304",
+      "name": "Zeraora"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/305.ts",
+      "id": "305",
+      "name": "Drowzee"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/306.ts",
+      "id": "306",
+      "name": "Hypno"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/307.ts",
+      "id": "307",
+      "name": "Geodude"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/308.ts",
+      "id": "308",
+      "name": "Graveler"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/309.ts",
+      "id": "309",
+      "name": "Golem"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/310.ts",
+      "id": "310",
+      "name": "Rockruff"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/311.ts",
+      "id": "311",
+      "name": "Alolan Diglett"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/312.ts",
+      "id": "312",
+      "name": "Meowth"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/313.ts",
+      "id": "313",
+      "name": "Persian"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/314.ts",
+      "id": "314",
+      "name": "Doduo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/315.ts",
+      "id": "315",
+      "name": "Dodrio"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/316.ts",
+      "id": "316",
+      "name": "Bidoof"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/317.ts",
+      "id": "317",
+      "name": "Decidueye ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/318.ts",
+      "id": "318",
+      "name": "Incineroar ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/319.ts",
+      "id": "319",
+      "name": "Palkia ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/320.ts",
+      "id": "320",
+      "name": "Primarina ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/321.ts",
+      "id": "321",
+      "name": "Pikachu ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/322.ts",
+      "id": "322",
+      "name": "Tapu Koko ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/323.ts",
+      "id": "323",
+      "name": "Lycanroc ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/324.ts",
+      "id": "324",
+      "name": "Passimian ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/325.ts",
+      "id": "325",
+      "name": "Alolan Dugtrio ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/326.ts",
+      "id": "326",
+      "name": "Dialga ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/327.ts",
+      "id": "327",
+      "name": "Bibarel ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/328.ts",
+      "id": "328",
+      "name": "Arceus ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/329.ts",
+      "id": "329",
+      "name": "Lilligant"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/330.ts",
+      "id": "330",
+      "name": "Klefki"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising/331.ts",
+      "id": "331",
+      "name": "Flame Patch"
+    }
+  ]
+}

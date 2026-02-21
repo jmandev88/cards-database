@@ -1,0 +1,45 @@
+{
+  "set": "BREAKthrough",
+  "missing": [
+    {
+      "file": "data/XY/BREAKthrough/154.ts",
+      "id": "154",
+      "name": "M Houndoom EX"
+    },
+    {
+      "file": "data/XY/BREAKthrough/156.ts",
+      "id": "156",
+      "name": "M Glalie EX"
+    },
+    {
+      "file": "data/XY/BREAKthrough/159.ts",
+      "id": "159",
+      "name": "M Mewtwo EX"
+    },
+    {
+      "file": "data/XY/BREAKthrough/160.ts",
+      "id": "160",
+      "name": "M Mewtwo EX"
+    },
+    {
+      "file": "data/XY/BREAKthrough/22.ts",
+      "id": "22",
+      "name": "M Houndoom EX"
+    },
+    {
+      "file": "data/XY/BREAKthrough/35.ts",
+      "id": "35",
+      "name": "M Glalie EX"
+    },
+    {
+      "file": "data/XY/BREAKthrough/63.ts",
+      "id": "63",
+      "name": "M Mewtwo EX"
+    },
+    {
+      "file": "data/XY/BREAKthrough/64.ts",
+      "id": "64",
+      "name": "M Mewtwo EX"
+    }
+  ]
+}

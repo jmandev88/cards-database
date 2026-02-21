@@ -1,0 +1,70 @@
+{
+  "set": "Lost Thunder",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/Lost Thunder/144.ts",
+      "id": "144",
+      "name": "Xerneas ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/154.ts",
+      "id": "154",
+      "name": "Ditto ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/174.ts",
+      "id": "174",
+      "name": "Fairy Charm Grass"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/175.ts",
+      "id": "175",
+      "name": "Fairy Charm Psychic"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/176.ts",
+      "id": "176",
+      "name": "Fairy Charm Fighting"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/177.ts",
+      "id": "177",
+      "name": "Fairy Charm Dragon"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/178.ts",
+      "id": "178",
+      "name": "Heat Factory ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/180.ts",
+      "id": "180",
+      "name": "Life Forest ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/182.ts",
+      "id": "182",
+      "name": "Lusamine ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/188.ts",
+      "id": "188",
+      "name": "Professor Elm’s Lecture"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/19.ts",
+      "id": "19",
+      "name": "Celebi ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/191.ts",
+      "id": "191",
+      "name": "Thunder Mountain ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Lost Thunder/213.ts",
+      "id": "213",
+      "name": "Professor Elm’s Lecture"
+    }
+  ]
+}

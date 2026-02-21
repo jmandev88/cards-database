@@ -1,0 +1,155 @@
+{
+  "set": "XY trainer Kit (Suicune)",
+  "missing": [
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/1.ts",
+      "id": "1",
+      "name": "Water Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/10.ts",
+      "id": "10",
+      "name": "Water Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/11.ts",
+      "id": "11",
+      "name": "Froakie"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/12.ts",
+      "id": "12",
+      "name": "Seaking"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/13.ts",
+      "id": "13",
+      "name": "Goldeen"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/14.ts",
+      "id": "14",
+      "name": "Suicune"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/15.ts",
+      "id": "15",
+      "name": "Potion"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/16.ts",
+      "id": "16",
+      "name": "Piplup"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/17.ts",
+      "id": "17",
+      "name": "Water Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/18.ts",
+      "id": "18",
+      "name": "Swanna"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/19.ts",
+      "id": "19",
+      "name": "Water Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/2.ts",
+      "id": "2",
+      "name": "Water Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/20.ts",
+      "id": "20",
+      "name": "Tierno"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/21.ts",
+      "id": "21",
+      "name": "Frogadier"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/22.ts",
+      "id": "22",
+      "name": "Water Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/23.ts",
+      "id": "23",
+      "name": "Froakie"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/24.ts",
+      "id": "24",
+      "name": "Ducklett"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/25.ts",
+      "id": "25",
+      "name": "Seaking"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/26.ts",
+      "id": "26",
+      "name": "Goldeen"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/27.ts",
+      "id": "27",
+      "name": "Swanna"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/28.ts",
+      "id": "28",
+      "name": "Water Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/29.ts",
+      "id": "29",
+      "name": "Tierno"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/3.ts",
+      "id": "3",
+      "name": "Water Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/30.ts",
+      "id": "30",
+      "name": "Suicune"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/4.ts",
+      "id": "4",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/5.ts",
+      "id": "5",
+      "name": "Water Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/6.ts",
+      "id": "6",
+      "name": "Frogadier"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/7.ts",
+      "id": "7",
+      "name": "Ducklett"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/8.ts",
+      "id": "8",
+      "name": "Water Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune)/9.ts",
+      "id": "9",
+      "name": "Water Energy"
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "set": "Eevee Grove",
+  "missing": [
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/001.ts",
+      "id": "001",
+      "name": "Tropius"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/002.ts",
+      "id": "002",
+      "name": "Leafeon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/003.ts",
+      "id": "003",
+      "name": "Bounsweet"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/004.ts",
+      "id": "004",
+      "name": "Steenee"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/005.ts",
+      "id": "005",
+      "name": "Tsareena"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/006.ts",
+      "id": "006",
+      "name": "Applin"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/007.ts",
+      "id": "007",
+      "name": "Appletun"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/008.ts",
+      "id": "008",
+      "name": "Flareon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/009.ts",
+      "id": "009",
+      "name": "Flareon ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/010.ts",
+      "id": "010",
+      "name": "Torkoal"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/011.ts",
+      "id": "011",
+      "name": "Litten"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/012.ts",
+      "id": "012",
+      "name": "Torracat"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/013.ts",
+      "id": "013",
+      "name": "Incineroar"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/014.ts",
+      "id": "014",
+      "name": "Salandit"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/015.ts",
+      "id": "015",
+      "name": "Salazzle"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/016.ts",
+      "id": "016",
+      "name": "Vaporeon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/017.ts",
+      "id": "017",
+      "name": "Glaceon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/018.ts",
+      "id": "018",
+      "name": "Vanillite"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/019.ts",
+      "id": "019",
+      "name": "Vanillish"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/020.ts",
+      "id": "020",
+      "name": "Vanilluxe"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/021.ts",
+      "id": "021",
+      "name": "Alomomola"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/022.ts",
+      "id": "022",
+      "name": "Popplio"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/023.ts",
+      "id": "023",
+      "name": "Brionne"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/024.ts",
+      "id": "024",
+      "name": "Primarina ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/025.ts",
+      "id": "025",
+      "name": "Jolteon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/026.ts",
+      "id": "026",
+      "name": "Joltik"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/027.ts",
+      "id": "027",
+      "name": "Galvantula"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/028.ts",
+      "id": "028",
+      "name": "Espeon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/029.ts",
+      "id": "029",
+      "name": "Woobat"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/030.ts",
+      "id": "030",
+      "name": "Swoobat"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/031.ts",
+      "id": "031",
+      "name": "Swirlix"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/032.ts",
+      "id": "032",
+      "name": "Slurpuff"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/033.ts",
+      "id": "033",
+      "name": "Sylveon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/034.ts",
+      "id": "034",
+      "name": "Sylveon ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/035.ts",
+      "id": "035",
+      "name": "Mimikyu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/036.ts",
+      "id": "036",
+      "name": "Milcery"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/037.ts",
+      "id": "037",
+      "name": "Alcremie"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/038.ts",
+      "id": "038",
+      "name": "Barboach"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/039.ts",
+      "id": "039",
+      "name": "Whiscash"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/040.ts",
+      "id": "040",
+      "name": "Mienfoo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/041.ts",
+      "id": "041",
+      "name": "Mienshao"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/042.ts",
+      "id": "042",
+      "name": "Carbink"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/043.ts",
+      "id": "043",
+      "name": "Umbreon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/044.ts",
+      "id": "044",
+      "name": "Sableye"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/045.ts",
+      "id": "045",
+      "name": "Purrloin"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/046.ts",
+      "id": "046",
+      "name": "Liepard"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/047.ts",
+      "id": "047",
+      "name": "Mawile"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/048.ts",
+      "id": "048",
+      "name": "Togedemaru"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/049.ts",
+      "id": "049",
+      "name": "Meltan"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/050.ts",
+      "id": "050",
+      "name": "Melmetal"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/051.ts",
+      "id": "051",
+      "name": "Dratini"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/052.ts",
+      "id": "052",
+      "name": "Dragonair"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/053.ts",
+      "id": "053",
+      "name": "Dragonite ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/054.ts",
+      "id": "054",
+      "name": "Drampa"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/055.ts",
+      "id": "055",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/056.ts",
+      "id": "056",
+      "name": "Eevee ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/057.ts",
+      "id": "057",
+      "name": "Snorlax ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/058.ts",
+      "id": "058",
+      "name": "Aipom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/059.ts",
+      "id": "059",
+      "name": "Ambipom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/060.ts",
+      "id": "060",
+      "name": "Chatot"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/061.ts",
+      "id": "061",
+      "name": "Audino"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/062.ts",
+      "id": "062",
+      "name": "Minccino"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/063.ts",
+      "id": "063",
+      "name": "Cinccino"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/064.ts",
+      "id": "064",
+      "name": "Skwovet"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/065.ts",
+      "id": "065",
+      "name": "Greedent"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/066.ts",
+      "id": "066",
+      "name": "Eevee Bag"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/067.ts",
+      "id": "067",
+      "name": "Leftovers"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/068.ts",
+      "id": "068",
+      "name": "Hau"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/069.ts",
+      "id": "069",
+      "name": "Penny"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/070.ts",
+      "id": "070",
+      "name": "Leafeon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/071.ts",
+      "id": "071",
+      "name": "Flareon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/072.ts",
+      "id": "072",
+      "name": "Vaporeon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/073.ts",
+      "id": "073",
+      "name": "Glaceon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/074.ts",
+      "id": "074",
+      "name": "Jolteon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/075.ts",
+      "id": "075",
+      "name": "Espeon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/076.ts",
+      "id": "076",
+      "name": "Sylveon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/077.ts",
+      "id": "077",
+      "name": "Umbreon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/078.ts",
+      "id": "078",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/079.ts",
+      "id": "079",
+      "name": "Flareon ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/080.ts",
+      "id": "080",
+      "name": "Primarina ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/081.ts",
+      "id": "081",
+      "name": "Sylveon ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/082.ts",
+      "id": "082",
+      "name": "Dragonite ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/083.ts",
+      "id": "083",
+      "name": "Eevee ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/084.ts",
+      "id": "084",
+      "name": "Snorlax ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/085.ts",
+      "id": "085",
+      "name": "Hau"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/086.ts",
+      "id": "086",
+      "name": "Penny"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/087.ts",
+      "id": "087",
+      "name": "Flareon ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/088.ts",
+      "id": "088",
+      "name": "Primarina ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/089.ts",
+      "id": "089",
+      "name": "Sylveon ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/090.ts",
+      "id": "090",
+      "name": "Dragonite ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/091.ts",
+      "id": "091",
+      "name": "Snorlax ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/092.ts",
+      "id": "092",
+      "name": "Eevee ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/093.ts",
+      "id": "093",
+      "name": "Pinsir"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/094.ts",
+      "id": "094",
+      "name": "Lapras"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/095.ts",
+      "id": "095",
+      "name": "Voltorb"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/096.ts",
+      "id": "096",
+      "name": "Electrode"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/097.ts",
+      "id": "097",
+      "name": "Ralts"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/098.ts",
+      "id": "098",
+      "name": "Kirlia"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/099.ts",
+      "id": "099",
+      "name": "Gardevoir"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/100.ts",
+      "id": "100",
+      "name": "Ekans"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/101.ts",
+      "id": "101",
+      "name": "Arbok"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/102.ts",
+      "id": "102",
+      "name": "Farfetch"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/103.ts",
+      "id": "103",
+      "name": "Moltres ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/104.ts",
+      "id": "104",
+      "name": "Articuno ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/105.ts",
+      "id": "105",
+      "name": "Zapdos ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/106.ts",
+      "id": "106",
+      "name": "Gallade ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove/107.ts",
+      "id": "107",
+      "name": "Eevee Bag"
+    }
+  ]
+}

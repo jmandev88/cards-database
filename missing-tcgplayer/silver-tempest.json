@@ -1,0 +1,155 @@
+{
+  "set": "Silver Tempest",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG01.ts",
+      "id": "TG01",
+      "name": "Braixen"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG02.ts",
+      "id": "TG02",
+      "name": "Milotic"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG03.ts",
+      "id": "TG03",
+      "name": "Flaaffy"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG04.ts",
+      "id": "TG04",
+      "name": "Jynx"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG05.ts",
+      "id": "TG05",
+      "name": "Gardevoir"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG06.ts",
+      "id": "TG06",
+      "name": "Malamar"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG07.ts",
+      "id": "TG07",
+      "name": "Rockruff"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG08.ts",
+      "id": "TG08",
+      "name": "Passimian"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG09.ts",
+      "id": "TG09",
+      "name": "Druddigon"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG10.ts",
+      "id": "TG10",
+      "name": "Smeargle"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG11.ts",
+      "id": "TG11",
+      "name": "Altaria"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG12.ts",
+      "id": "TG12",
+      "name": "Kricketune V"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG13.ts",
+      "id": "TG13",
+      "name": "Serperior V"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG14.ts",
+      "id": "TG14",
+      "name": "Blaziken V"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG15.ts",
+      "id": "TG15",
+      "name": "Blaziken VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG16.ts",
+      "id": "TG16",
+      "name": "Zeraora V"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG17.ts",
+      "id": "TG17",
+      "name": "Mawile V"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG18.ts",
+      "id": "TG18",
+      "name": "Corviknight V"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG19.ts",
+      "id": "TG19",
+      "name": "Corviknight VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG20.ts",
+      "id": "TG20",
+      "name": "Rayquaza VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG21.ts",
+      "id": "TG21",
+      "name": "Duraludon VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG22.ts",
+      "id": "TG22",
+      "name": "Blissey V"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG23.ts",
+      "id": "TG23",
+      "name": "Friends in Galar"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG24.ts",
+      "id": "TG24",
+      "name": "Gordie"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG25.ts",
+      "id": "TG25",
+      "name": "Judge"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG26.ts",
+      "id": "TG26",
+      "name": "Professor Burnet"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG27.ts",
+      "id": "TG27",
+      "name": "Raihan"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG28.ts",
+      "id": "TG28",
+      "name": "Sordward & Shielbert"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG29.ts",
+      "id": "TG29",
+      "name": "Rayquaza VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Silver Tempest/TG30.ts",
+      "id": "TG30",
+      "name": "Duraludon VMAX"
+    }
+  ]
+}

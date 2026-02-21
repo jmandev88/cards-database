@@ -1,0 +1,25 @@
+{
+  "set": "BREAKpoint",
+  "missing": [
+    {
+      "file": "data/XY/BREAKpoint/105.ts",
+      "id": "105",
+      "name": "Pokémon Catcher"
+    },
+    {
+      "file": "data/XY/BREAKpoint/107a.ts",
+      "id": "107a",
+      "name": "Professor Sycamore"
+    },
+    {
+      "file": "data/XY/BREAKpoint/98a.ts",
+      "id": "98a",
+      "name": "Delinquent"
+    },
+    {
+      "file": "data/XY/BREAKpoint/98b.ts",
+      "id": "98b",
+      "name": "Delinquent"
+    }
+  ]
+}

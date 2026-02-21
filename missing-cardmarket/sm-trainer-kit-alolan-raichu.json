@@ -1,0 +1,100 @@
+{
+  "set": "SM trainer Kit (Alolan Raichu)",
+  "missing": [
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/11.ts",
+      "id": "11",
+      "name": "Zubat"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/13.ts",
+      "id": "13",
+      "name": "Spearow"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/14.ts",
+      "id": "14",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/15.ts",
+      "id": "15",
+      "name": "Potion"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/16.ts",
+      "id": "16",
+      "name": "Grubbin"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/17.ts",
+      "id": "17",
+      "name": "Alolan Raichu"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/18.ts",
+      "id": "18",
+      "name": "Bewear"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/19.ts",
+      "id": "19",
+      "name": "Hau"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/2.ts",
+      "id": "2",
+      "name": "Lightning Energy"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/20.ts",
+      "id": "20",
+      "name": "Psychic Energy"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/21.ts",
+      "id": "21",
+      "name": "Great Ball"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/22.ts",
+      "id": "22",
+      "name": "Drowzee"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/23.ts",
+      "id": "23",
+      "name": "Hau"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/25.ts",
+      "id": "25",
+      "name": "Great Ball"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/26.ts",
+      "id": "26",
+      "name": "Togedemaru"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/29.ts",
+      "id": "29",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/30.ts",
+      "id": "30",
+      "name": "Alolan Raichu"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/4.ts",
+      "id": "4",
+      "name": "Stufful"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu)/6.ts",
+      "id": "6",
+      "name": "Golbat"
+    }
+  ]
+}

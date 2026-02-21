@@ -1,0 +1,520 @@
+{
+  "set": "Extradimensional Crisis",
+  "missing": [
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/001.ts",
+      "id": "001",
+      "name": "Petilil"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/002.ts",
+      "id": "002",
+      "name": "Lilligant"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/003.ts",
+      "id": "003",
+      "name": "Rowlet"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/004.ts",
+      "id": "004",
+      "name": "Dartrix"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/005.ts",
+      "id": "005",
+      "name": "Decidueye"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/006.ts",
+      "id": "006",
+      "name": "Buzzwole ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/007.ts",
+      "id": "007",
+      "name": "Pheromosa"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/008.ts",
+      "id": "008",
+      "name": "Kartana"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/009.ts",
+      "id": "009",
+      "name": "Blacephalon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/010.ts",
+      "id": "010",
+      "name": "Mantine"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/011.ts",
+      "id": "011",
+      "name": "Carvanha"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/012.ts",
+      "id": "012",
+      "name": "Sharpedo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/013.ts",
+      "id": "013",
+      "name": "Shinx"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/014.ts",
+      "id": "014",
+      "name": "Luxio"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/015.ts",
+      "id": "015",
+      "name": "Luxray"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/016.ts",
+      "id": "016",
+      "name": "Blitzle"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/017.ts",
+      "id": "017",
+      "name": "Zebstrika"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/018.ts",
+      "id": "018",
+      "name": "Emolga"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/019.ts",
+      "id": "019",
+      "name": "Tapu Koko ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/020.ts",
+      "id": "020",
+      "name": "Xurkitree"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/021.ts",
+      "id": "021",
+      "name": "Zeraora"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/022.ts",
+      "id": "022",
+      "name": "Clefairy"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/023.ts",
+      "id": "023",
+      "name": "Clefable"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/024.ts",
+      "id": "024",
+      "name": "Phantump"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/025.ts",
+      "id": "025",
+      "name": "Trevenant"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/026.ts",
+      "id": "026",
+      "name": "Morelull"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/027.ts",
+      "id": "027",
+      "name": "Shiinotic"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/028.ts",
+      "id": "028",
+      "name": "Meditite"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/029.ts",
+      "id": "029",
+      "name": "Medicham"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/030.ts",
+      "id": "030",
+      "name": "Baltoy"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/031.ts",
+      "id": "031",
+      "name": "Claydol"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/032.ts",
+      "id": "032",
+      "name": "Rockruff"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/033.ts",
+      "id": "033",
+      "name": "Lycanroc ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/034.ts",
+      "id": "034",
+      "name": "Passimian"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/035.ts",
+      "id": "035",
+      "name": "Sandygast"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/036.ts",
+      "id": "036",
+      "name": "Palossand"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/037.ts",
+      "id": "037",
+      "name": "Alolan Meowth"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/038.ts",
+      "id": "038",
+      "name": "Alolan Persian"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/039.ts",
+      "id": "039",
+      "name": "Sandile"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/040.ts",
+      "id": "040",
+      "name": "Krokorok"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/041.ts",
+      "id": "041",
+      "name": "Krookodile"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/042.ts",
+      "id": "042",
+      "name": "Nihilego"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/043.ts",
+      "id": "043",
+      "name": "Guzzlord ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/044.ts",
+      "id": "044",
+      "name": "Poipole"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/045.ts",
+      "id": "045",
+      "name": "Naganadel"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/046.ts",
+      "id": "046",
+      "name": "Alolan Diglett"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/047.ts",
+      "id": "047",
+      "name": "Alolan Dugtrio ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/048.ts",
+      "id": "048",
+      "name": "Aron"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/049.ts",
+      "id": "049",
+      "name": "Lairon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/050.ts",
+      "id": "050",
+      "name": "Aggron"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/051.ts",
+      "id": "051",
+      "name": "Ferroseed"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/052.ts",
+      "id": "052",
+      "name": "Ferrothorn"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/053.ts",
+      "id": "053",
+      "name": "Stakataka"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/054.ts",
+      "id": "054",
+      "name": "Lillipup"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/055.ts",
+      "id": "055",
+      "name": "Herdier"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/056.ts",
+      "id": "056",
+      "name": "Stoutland"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/057.ts",
+      "id": "057",
+      "name": "Stufful"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/058.ts",
+      "id": "058",
+      "name": "Bewear"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/059.ts",
+      "id": "059",
+      "name": "Oranguru"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/060.ts",
+      "id": "060",
+      "name": "Type: Null"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/061.ts",
+      "id": "061",
+      "name": "Silvally"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/062.ts",
+      "id": "062",
+      "name": "Celesteela"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/063.ts",
+      "id": "063",
+      "name": "Beast Wall"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/064.ts",
+      "id": "064",
+      "name": "Repel"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/065.ts",
+      "id": "065",
+      "name": "Electrical Cord"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/066.ts",
+      "id": "066",
+      "name": "Beastite"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/067.ts",
+      "id": "067",
+      "name": "Gladion"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/068.ts",
+      "id": "068",
+      "name": "Looker"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/069.ts",
+      "id": "069",
+      "name": "Lusamine"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/070.ts",
+      "id": "070",
+      "name": "Rowlet"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/071.ts",
+      "id": "071",
+      "name": "Pheromosa"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/072.ts",
+      "id": "072",
+      "name": "Blacephalon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/073.ts",
+      "id": "073",
+      "name": "Alolan Meowth"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/074.ts",
+      "id": "074",
+      "name": "Silvally"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/075.ts",
+      "id": "075",
+      "name": "Celesteela"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/076.ts",
+      "id": "076",
+      "name": "Buzzwole ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/077.ts",
+      "id": "077",
+      "name": "Tapu Koko ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/078.ts",
+      "id": "078",
+      "name": "Lycanroc ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/079.ts",
+      "id": "079",
+      "name": "Guzzlord ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/080.ts",
+      "id": "080",
+      "name": "Alolan Dugtrio ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/081.ts",
+      "id": "081",
+      "name": "Gladion"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/082.ts",
+      "id": "082",
+      "name": "Looker"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/083.ts",
+      "id": "083",
+      "name": "Lusamine"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/084.ts",
+      "id": "084",
+      "name": "Tapu Koko ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/085.ts",
+      "id": "085",
+      "name": "Lycanroc ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/086.ts",
+      "id": "086",
+      "name": "Guzzlord ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/087.ts",
+      "id": "087",
+      "name": "Alolan Dugtrio ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/088.ts",
+      "id": "088",
+      "name": "Buzzwole ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/089.ts",
+      "id": "089",
+      "name": "Growlithe"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/090.ts",
+      "id": "090",
+      "name": "Arcanine"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/091.ts",
+      "id": "091",
+      "name": "Froakie"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/092.ts",
+      "id": "092",
+      "name": "Frogadier"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/093.ts",
+      "id": "093",
+      "name": "Greninja"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/094.ts",
+      "id": "094",
+      "name": "Jynx"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/095.ts",
+      "id": "095",
+      "name": "Pidgey"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/096.ts",
+      "id": "096",
+      "name": "Pidgeotto"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/097.ts",
+      "id": "097",
+      "name": "Pidgeot"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/098.ts",
+      "id": "098",
+      "name": "Aerodactyl"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/099.ts",
+      "id": "099",
+      "name": "Celebi ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/100.ts",
+      "id": "100",
+      "name": "Arcanine ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/101.ts",
+      "id": "101",
+      "name": "Aerodactyl ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/102.ts",
+      "id": "102",
+      "name": "Pidgeot ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis/103.ts",
+      "id": "103",
+      "name": "Nihilego"
+    }
+  ]
+}

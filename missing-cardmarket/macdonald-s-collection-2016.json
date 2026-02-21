@@ -1,0 +1,65 @@
+{
+  "set": "Macdonald's Collection 2016",
+  "missing": [
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2016/1.ts",
+      "id": "1",
+      "name": "Roar"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2016/10.ts",
+      "id": "10",
+      "name": "Nuzzle"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2016/11.ts",
+      "id": "11",
+      "name": "Act Tough"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2016/12.ts",
+      "id": "12",
+      "name": "Tackle"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2016/2.ts",
+      "id": "2",
+      "name": "Ember"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2016/3.ts",
+      "id": "3",
+      "name": "Will-O-Wisp"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2016/4.ts",
+      "id": "4",
+      "name": "Epic Splash"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2016/5.ts",
+      "id": "5",
+      "name": "Fury Strikes"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2016/6.ts",
+      "id": "6",
+      "name": "Tail Whip"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2016/7.ts",
+      "id": "7",
+      "name": "Corkscrew Punch"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2016/8.ts",
+      "id": "8",
+      "name": "Rollout"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2016/9.ts",
+      "id": "9",
+      "name": "Sweet Kiss"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "set": "Delta Species",
+  "missing": [
+    {
+      "file": "data/EX/Delta Species/1.ts",
+      "id": "1",
+      "name": "Beedrill δ"
+    },
+    {
+      "file": "data/EX/Delta Species/10.ts",
+      "id": "10",
+      "name": "Marowak δ"
+    },
+    {
+      "file": "data/EX/Delta Species/11.ts",
+      "id": "11",
+      "name": "Metagross δ"
+    },
+    {
+      "file": "data/EX/Delta Species/12.ts",
+      "id": "12",
+      "name": "Mewtwo δ"
+    },
+    {
+      "file": "data/EX/Delta Species/13.ts",
+      "id": "13",
+      "name": "Rayquaza δ"
+    },
+    {
+      "file": "data/EX/Delta Species/14.ts",
+      "id": "14",
+      "name": "Salamence δ"
+    },
+    {
+      "file": "data/EX/Delta Species/15.ts",
+      "id": "15",
+      "name": "Starmie δ"
+    },
+    {
+      "file": "data/EX/Delta Species/16.ts",
+      "id": "16",
+      "name": "Tyranitar δ"
+    },
+    {
+      "file": "data/EX/Delta Species/17.ts",
+      "id": "17",
+      "name": "Umbreon δ"
+    },
+    {
+      "file": "data/EX/Delta Species/18.ts",
+      "id": "18",
+      "name": "Vaporeon δ"
+    },
+    {
+      "file": "data/EX/Delta Species/19.ts",
+      "id": "19",
+      "name": "Azumarill δ"
+    },
+    {
+      "file": "data/EX/Delta Species/2.ts",
+      "id": "2",
+      "name": "Crobat δ"
+    },
+    {
+      "file": "data/EX/Delta Species/24.ts",
+      "id": "24",
+      "name": "Mightyena δ"
+    },
+    {
+      "file": "data/EX/Delta Species/27.ts",
+      "id": "27",
+      "name": "Sandslash δ"
+    },
+    {
+      "file": "data/EX/Delta Species/3.ts",
+      "id": "3",
+      "name": "Dragonite δ"
+    },
+    {
+      "file": "data/EX/Delta Species/30.ts",
+      "id": "30",
+      "name": "Starmie δ"
+    },
+    {
+      "file": "data/EX/Delta Species/4.ts",
+      "id": "4",
+      "name": "Espeon δ"
+    },
+    {
+      "file": "data/EX/Delta Species/41.ts",
+      "id": "41",
+      "name": "Dragonair δ"
+    },
+    {
+      "file": "data/EX/Delta Species/42.ts",
+      "id": "42",
+      "name": "Dragonair δ"
+    },
+    {
+      "file": "data/EX/Delta Species/49.ts",
+      "id": "49",
+      "name": "Metang δ"
+    },
+    {
+      "file": "data/EX/Delta Species/5.ts",
+      "id": "5",
+      "name": "Flareon δ"
+    },
+    {
+      "file": "data/EX/Delta Species/51.ts",
+      "id": "51",
+      "name": "Pupitar δ"
+    },
+    {
+      "file": "data/EX/Delta Species/53.ts",
+      "id": "53",
+      "name": "Shelgon δ"
+    },
+    {
+      "file": "data/EX/Delta Species/54.ts",
+      "id": "54",
+      "name": "Shelgon δ"
+    },
+    {
+      "file": "data/EX/Delta Species/57.ts",
+      "id": "57",
+      "name": "Bagon δ"
+    },
+    {
+      "file": "data/EX/Delta Species/58.ts",
+      "id": "58",
+      "name": "Bagon δ"
+    },
+    {
+      "file": "data/EX/Delta Species/59.ts",
+      "id": "59",
+      "name": "Beldum δ"
+    },
+    {
+      "file": "data/EX/Delta Species/6.ts",
+      "id": "6",
+      "name": "Gardevoir δ"
+    },
+    {
+      "file": "data/EX/Delta Species/65.ts",
+      "id": "65",
+      "name": "Dratini δ"
+    },
+    {
+      "file": "data/EX/Delta Species/66.ts",
+      "id": "66",
+      "name": "Dratini δ"
+    },
+    {
+      "file": "data/EX/Delta Species/68.ts",
+      "id": "68",
+      "name": "Eevee δ"
+    },
+    {
+      "file": "data/EX/Delta Species/7.ts",
+      "id": "7",
+      "name": "Jolteon δ"
+    },
+    {
+      "file": "data/EX/Delta Species/73.ts",
+      "id": "73",
+      "name": "Larvitar δ"
+    },
+    {
+      "file": "data/EX/Delta Species/8.ts",
+      "id": "8",
+      "name": "Latias δ"
+    },
+    {
+      "file": "data/EX/Delta Species/9.ts",
+      "id": "9",
+      "name": "Latios δ"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "set": "Rising Rivals",
+  "missing": [
+    {
+      "file": "data/Platinum/Rising Rivals/103.ts",
+      "id": "103",
+      "name": "Alakazam 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/106.ts",
+      "id": "106",
+      "name": "Gallade 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/108.ts",
+      "id": "108",
+      "name": "Infernape 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/16.ts",
+      "id": "16",
+      "name": "Bronzong 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/17.ts",
+      "id": "17",
+      "name": "Drapion 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/18.ts",
+      "id": "18",
+      "name": "Espeon 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/20.ts",
+      "id": "20",
+      "name": "Gallade 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/23.ts",
+      "id": "23",
+      "name": "Golem 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/24.ts",
+      "id": "24",
+      "name": "Heracross 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/28.ts",
+      "id": "28",
+      "name": "Mr. Mime 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/32.ts",
+      "id": "32",
+      "name": "Rhyperior 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/35.ts",
+      "id": "35",
+      "name": "Vespiquen 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/37.ts",
+      "id": "37",
+      "name": "Yanmega 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/38.ts",
+      "id": "38",
+      "name": "Alakazam 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/42.ts",
+      "id": "42",
+      "name": "Hippowdon 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/43.ts",
+      "id": "43",
+      "name": "Infernape 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/47.ts",
+      "id": "47",
+      "name": "Rapidash 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/48.ts",
+      "id": "48",
+      "name": "Scizor 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/54.ts",
+      "id": "54",
+      "name": "Whiscash 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/60.ts",
+      "id": "60",
+      "name": "Flareon 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/62.ts",
+      "id": "62",
+      "name": "Gliscor 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/65.ts",
+      "id": "65",
+      "name": "Houndoom 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/71.ts",
+      "id": "71",
+      "name": "Nidoran♀"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/72.ts",
+      "id": "72",
+      "name": "Nidoran♂"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/93.ts",
+      "id": "93",
+      "name": "Pokémon Contest Hall"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/95.ts",
+      "id": "95",
+      "name": "Team Galactic"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/RT1.ts",
+      "id": "RT1",
+      "name": "Fan Rotom"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/RT2.ts",
+      "id": "RT2",
+      "name": "Frost Rotom"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/RT3.ts",
+      "id": "RT3",
+      "name": "Heat Rotom"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/RT4.ts",
+      "id": "RT4",
+      "name": "Mow Rotom"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/RT5.ts",
+      "id": "RT5",
+      "name": "Wash Rotom"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/RT6.ts",
+      "id": "RT6",
+      "name": "Charon"
+    }
+  ]
+}

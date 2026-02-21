@@ -1,0 +1,20 @@
+{
+  "set": "Forbidden Light",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/Forbidden Light/110.ts",
+      "id": "110",
+      "name": "Lysandre ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Forbidden Light/118.ts",
+      "id": "118",
+      "name": "Unit Energy FightingDarknessFairy"
+    },
+    {
+      "file": "data/Sun & Moon/Forbidden Light/146.ts",
+      "id": "146",
+      "name": "Unit Energy FightingDarknessFairy"
+    }
+  ]
+}

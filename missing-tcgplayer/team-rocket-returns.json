@@ -1,0 +1,15 @@
+{
+  "set": "Team Rocket Returns",
+  "missing": [
+    {
+      "file": "data/EX/Team Rocket Returns/84.ts",
+      "id": "84",
+      "name": "Pokémon Retriever"
+    },
+    {
+      "file": "data/EX/Team Rocket Returns/89.ts",
+      "id": "89",
+      "name": "Rocket"
+    }
+  ]
+}

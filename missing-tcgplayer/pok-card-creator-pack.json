@@ -1,0 +1,30 @@
+{
+  "set": "Poké Card Creator Pack",
+  "missing": [
+    {
+      "file": "data/EX/Poké Card Creator Pack/1.ts",
+      "id": "1",
+      "name": "Treecko"
+    },
+    {
+      "file": "data/EX/Poké Card Creator Pack/2.ts",
+      "id": "2",
+      "name": "Wurmple"
+    },
+    {
+      "file": "data/EX/Poké Card Creator Pack/3.ts",
+      "id": "3",
+      "name": "Torchic"
+    },
+    {
+      "file": "data/EX/Poké Card Creator Pack/4.ts",
+      "id": "4",
+      "name": "Mudkip"
+    },
+    {
+      "file": "data/EX/Poké Card Creator Pack/5.ts",
+      "id": "5",
+      "name": "Pikachu"
+    }
+  ]
+}

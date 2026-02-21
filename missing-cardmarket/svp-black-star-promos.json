@@ -1,0 +1,1075 @@
+{
+  "set": "SVP Black Star Promos",
+  "missing": [
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/001.ts",
+      "id": "001",
+      "name": "Sprigatito"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/002.ts",
+      "id": "002",
+      "name": "Fuecoco"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/003.ts",
+      "id": "003",
+      "name": "Quaxly"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/004.ts",
+      "id": "004",
+      "name": "Mimikyu ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/005.ts",
+      "id": "005",
+      "name": "Quaquaval"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/006.ts",
+      "id": "006",
+      "name": "Pawmot"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/007.ts",
+      "id": "007",
+      "name": "Hawlucha"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/008.ts",
+      "id": "008",
+      "name": "Revavroom"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/009.ts",
+      "id": "009",
+      "name": "Spidops"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/010.ts",
+      "id": "010",
+      "name": "Espathra"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/011.ts",
+      "id": "011",
+      "name": "Arcanine"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/012.ts",
+      "id": "012",
+      "name": "Dondozo"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/013.ts",
+      "id": "013",
+      "name": "Miraidon"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/014.ts",
+      "id": "014",
+      "name": "Koraidon"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/015.ts",
+      "id": "015",
+      "name": "Flaaffy"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/016.ts",
+      "id": "016",
+      "name": "Ampharos ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/017.ts",
+      "id": "017",
+      "name": "Lucario ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/018.ts",
+      "id": "018",
+      "name": "Cyclizar ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/019.ts",
+      "id": "019",
+      "name": "Baxcalibur"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/020.ts",
+      "id": "020",
+      "name": "Tinkaton"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/021.ts",
+      "id": "021",
+      "name": "Murkrow"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/022.ts",
+      "id": "022",
+      "name": "Pelipper"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/023.ts",
+      "id": "023",
+      "name": "Smoliv"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/024.ts",
+      "id": "024",
+      "name": "Growlithe"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/025.ts",
+      "id": "025",
+      "name": "Tinkatink"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/026.ts",
+      "id": "026",
+      "name": "Varoom"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/027.ts",
+      "id": "027",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/028.ts",
+      "id": "028",
+      "name": "Miraidon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/029.ts",
+      "id": "029",
+      "name": "Koraidon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/030.ts",
+      "id": "030",
+      "name": "Chien-Pao ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/031.ts",
+      "id": "031",
+      "name": "Tinkaton ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/032.ts",
+      "id": "032",
+      "name": "Annihilape ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/033.ts",
+      "id": "033",
+      "name": "Meowscarada ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/034.ts",
+      "id": "034",
+      "name": "Skeledirge ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/035.ts",
+      "id": "035",
+      "name": "Quaquaval ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/036.ts",
+      "id": "036",
+      "name": "Palafin"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/037.ts",
+      "id": "037",
+      "name": "Cleffa"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/038.ts",
+      "id": "038",
+      "name": "Togekiss"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/039.ts",
+      "id": "039",
+      "name": "Mawile"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/040.ts",
+      "id": "040",
+      "name": "Pawmi"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/041.ts",
+      "id": "041",
+      "name": "Paldean Wooper"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/042.ts",
+      "id": "042",
+      "name": "Houndstone"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/043.ts",
+      "id": "043",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/044.ts",
+      "id": "044",
+      "name": "Charmander"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/045.ts",
+      "id": "045",
+      "name": "Paradise Resort"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/046.ts",
+      "id": "046",
+      "name": "Bulbasaur"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/047.ts",
+      "id": "047",
+      "name": "Charmander"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/048.ts",
+      "id": "048",
+      "name": "Squirtle"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/049.ts",
+      "id": "049",
+      "name": "Zapdos ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/050.ts",
+      "id": "050",
+      "name": "Alakazam ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/051.ts",
+      "id": "051",
+      "name": "Snorlax"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/052.ts",
+      "id": "052",
+      "name": "Mewtwo"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/053.ts",
+      "id": "053",
+      "name": "Mew ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/054.ts",
+      "id": "054",
+      "name": "Greninja ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/055.ts",
+      "id": "055",
+      "name": "Kangaskhan ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/056.ts",
+      "id": "056",
+      "name": "Charizard ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/057.ts",
+      "id": "057",
+      "name": "Chi-Yu"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/058.ts",
+      "id": "058",
+      "name": "Iron Bundle"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/059.ts",
+      "id": "059",
+      "name": "Xatu"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/060.ts",
+      "id": "060",
+      "name": "Aegislash"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/061.ts",
+      "id": "061",
+      "name": "Pineco"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/062.ts",
+      "id": "062",
+      "name": "Sinistea"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/063.ts",
+      "id": "063",
+      "name": "Cetitan"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/064.ts",
+      "id": "064",
+      "name": "Arctibax"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/065.ts",
+      "id": "065",
+      "name": "Scream Tail"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/066.ts",
+      "id": "066",
+      "name": "Iron Bundle"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/067.ts",
+      "id": "067",
+      "name": "Roaring Moon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/068.ts",
+      "id": "068",
+      "name": "Iron Valiant ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/069.ts",
+      "id": "069",
+      "name": "Fidough"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/070.ts",
+      "id": "070",
+      "name": "Greavard"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/071.ts",
+      "id": "071",
+      "name": "Maschiff"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/072.ts",
+      "id": "072",
+      "name": "Great Tusk ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/073.ts",
+      "id": "073",
+      "name": "Iron Treads ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/074.ts",
+      "id": "074",
+      "name": "Charizard ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/075.ts",
+      "id": "075",
+      "name": "Mimikyu"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/076.ts",
+      "id": "076",
+      "name": "Sprigatito"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/077.ts",
+      "id": "077",
+      "name": "Floragato"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/078.ts",
+      "id": "078",
+      "name": "Meowscarada ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/079.ts",
+      "id": "079",
+      "name": "Fuecoco"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/080.ts",
+      "id": "080",
+      "name": "Crocalor"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/081.ts",
+      "id": "081",
+      "name": "Skeledirge ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/082.ts",
+      "id": "082",
+      "name": "Quaxly"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/083.ts",
+      "id": "083",
+      "name": "Quaxwell"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/084.ts",
+      "id": "084",
+      "name": "Quaquaval ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/085.ts",
+      "id": "085",
+      "name": "Pikachu with Grey Felt Hat"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/086.ts",
+      "id": "086",
+      "name": "Mabosstiff ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/087.ts",
+      "id": "087",
+      "name": "Sprigatito ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/088.ts",
+      "id": "088",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/089.ts",
+      "id": "089",
+      "name": "Feraligatr"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/090.ts",
+      "id": "090",
+      "name": "Metang"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/091.ts",
+      "id": "091",
+      "name": "Koraidon"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/092.ts",
+      "id": "092",
+      "name": "Miraidon"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/093.ts",
+      "id": "093",
+      "name": "Carvanha"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/094.ts",
+      "id": "094",
+      "name": "Bellibolt"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/095.ts",
+      "id": "095",
+      "name": "Cleffa"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/096.ts",
+      "id": "096",
+      "name": "Cyclizar"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/097.ts",
+      "id": "097",
+      "name": "Flutter Mane"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/098.ts",
+      "id": "098",
+      "name": "Iron Thorns"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/099.ts",
+      "id": "099",
+      "name": "Shroodle"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/100.ts",
+      "id": "100",
+      "name": "Grafaiai ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/101.ts",
+      "id": "101",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/102.ts",
+      "id": "102",
+      "name": "Oddish"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/103.ts",
+      "id": "103",
+      "name": "Houndoom ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/104.ts",
+      "id": "104",
+      "name": "Melmetal ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/105.ts",
+      "id": "105",
+      "name": "Armarouge ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/106.ts",
+      "id": "106",
+      "name": "Pikachu ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/107.ts",
+      "id": "107",
+      "name": "Mareep"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/108.ts",
+      "id": "108",
+      "name": "Flaaffy"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/109.ts",
+      "id": "109",
+      "name": "Ampharos"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/110.ts",
+      "id": "110",
+      "name": "Darkrai ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/111.ts",
+      "id": "111",
+      "name": "Pawniard"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/112.ts",
+      "id": "112",
+      "name": "Bisharp"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/113.ts",
+      "id": "113",
+      "name": "Kingambit"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/114.ts",
+      "id": "114",
+      "name": "Picnicker"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/115.ts",
+      "id": "115",
+      "name": "Thwackey"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/116.ts",
+      "id": "116",
+      "name": "Infernape"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/117.ts",
+      "id": "117",
+      "name": "Froslass"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/118.ts",
+      "id": "118",
+      "name": "Tatsugiri"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/119.ts",
+      "id": "119",
+      "name": "Toxel"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/120.ts",
+      "id": "120",
+      "name": "Pupitar"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/121.ts",
+      "id": "121",
+      "name": "Revavroom"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/122.ts",
+      "id": "122",
+      "name": "Snorlax"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/123.ts",
+      "id": "123",
+      "name": "Teal Mask Ogerpon"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/124.ts",
+      "id": "124",
+      "name": "Iono"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/125.ts",
+      "id": "125",
+      "name": "Armarouge ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/126.ts",
+      "id": "126",
+      "name": "Palafin ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/127.ts",
+      "id": "127",
+      "name": "Walking Wake ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/128.ts",
+      "id": "128",
+      "name": "Iron Leaves ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/129.ts",
+      "id": "129",
+      "name": "Pecharunt"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/130.ts",
+      "id": "130",
+      "name": "Kingambit"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/131.ts",
+      "id": "131",
+      "name": "Kingdra ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/132.ts",
+      "id": "132",
+      "name": "Greninja ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/133.ts",
+      "id": "133",
+      "name": "Ledian"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/134.ts",
+      "id": "134",
+      "name": "Crabominable"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/135.ts",
+      "id": "135",
+      "name": "Drifblim"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/136.ts",
+      "id": "136",
+      "name": "Bouffalant"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/137.ts",
+      "id": "137",
+      "name": "Horsea"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/138.ts",
+      "id": "138",
+      "name": "Porygon2"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/139.ts",
+      "id": "139",
+      "name": "Latias"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/140.ts",
+      "id": "140",
+      "name": "Tinkaton"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/141.ts",
+      "id": "141",
+      "name": "Noctowl"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/142.ts",
+      "id": "142",
+      "name": "Victini ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/143.ts",
+      "id": "143",
+      "name": "Miraidon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/144.ts",
+      "id": "144",
+      "name": "Gouging Fire ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/145.ts",
+      "id": "145",
+      "name": "Raging Bolt ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/146.ts",
+      "id": "146",
+      "name": "Iron Crown ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/147.ts",
+      "id": "147",
+      "name": "Iron Boulder ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/148.ts",
+      "id": "148",
+      "name": "Miraidon"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/149.ts",
+      "id": "149",
+      "name": "Pecharunt"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/150.ts",
+      "id": "150",
+      "name": "Paradise Resort"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/151.ts",
+      "id": "151",
+      "name": "Gouging Fire"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/152.ts",
+      "id": "152",
+      "name": "Chien-Pao"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/153.ts",
+      "id": "153",
+      "name": "Magneton"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/154.ts",
+      "id": "154",
+      "name": "Indeedee"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/155.ts",
+      "id": "155",
+      "name": "Wooper"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/156.ts",
+      "id": "156",
+      "name": "Quagsire"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/157.ts",
+      "id": "157",
+      "name": "Zapdos"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/158.ts",
+      "id": "158",
+      "name": "Pachirisu"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/159.ts",
+      "id": "159",
+      "name": "Magneton"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/160.ts",
+      "id": "160",
+      "name": "Squawkabilly ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/161.ts",
+      "id": "161",
+      "name": "Charizard ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/162.ts",
+      "id": "162",
+      "name": "Houndstone ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/163.ts",
+      "id": "163",
+      "name": "Cinderace ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/164.ts",
+      "id": "164",
+      "name": "Lapras ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/165.ts",
+      "id": "165",
+      "name": "Terapagos ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/166.ts",
+      "id": "166",
+      "name": "Teal Mask Ogerpon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/167.ts",
+      "id": "167",
+      "name": "Flareon"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/168.ts",
+      "id": "168",
+      "name": "Vaporeon"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/169.ts",
+      "id": "169",
+      "name": "Jolteon"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/170.ts",
+      "id": "170",
+      "name": "Leafeon"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/171.ts",
+      "id": "171",
+      "name": "Glaceon"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/172.ts",
+      "id": "172",
+      "name": "Sylveon"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/173.ts",
+      "id": "173",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/174.ts",
+      "id": "174",
+      "name": "Eevee ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/177.ts",
+      "id": "177",
+      "name": "Bloodmoon Ursaluna ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/178.ts",
+      "id": "178",
+      "name": "Kyogre ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/179.ts",
+      "id": "179",
+      "name": "Xerneas ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/180.ts",
+      "id": "180",
+      "name": "Dialga ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/181.ts",
+      "id": "181",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/182.ts",
+      "id": "182",
+      "name": "Iono"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/183.ts",
+      "id": "183",
+      "name": "Lillie"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/184.ts",
+      "id": "184",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/185.ts",
+      "id": "185",
+      "name": "Yanma"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/186.ts",
+      "id": "186",
+      "name": "Scraggy"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/187.ts",
+      "id": "187",
+      "name": "Yanmega"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/188.ts",
+      "id": "188",
+      "name": "Scrafty"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/189.ts",
+      "id": "189",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/190.ts",
+      "id": "190",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/191.ts",
+      "id": "191",
+      "name": "Sprigatito"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/192.ts",
+      "id": "192",
+      "name": "Fuecoco"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/193.ts",
+      "id": "193",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/194.ts",
+      "id": "194",
+      "name": "Iono"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/195.ts",
+      "id": "195",
+      "name": "Lillie"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/196.ts",
+      "id": "196",
+      "name": "Charizard EX"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/197.ts",
+      "id": "197",
+      "name": "Koraidon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/198.ts",
+      "id": "198",
+      "name": "Zacian ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/199.ts",
+      "id": "199",
+      "name": "Zarude"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/200.ts",
+      "id": "200",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/201.ts",
+      "id": "201",
+      "name": "Zebstrika"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/202.ts",
+      "id": "202",
+      "name": "Kangaskhan"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/203.ts",
+      "id": "203",
+      "name": "Team Rocket"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/204.ts",
+      "id": "204",
+      "name": "Cynthia"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/205.ts",
+      "id": "205",
+      "name": "Team Rocket"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/206.ts",
+      "id": "206",
+      "name": "Marnie"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/207.ts",
+      "id": "207",
+      "name": "Steven"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/213.ts",
+      "id": "213",
+      "name": "Feraligatr"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/214.ts",
+      "id": "214",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/215.ts",
+      "id": "215",
+      "name": "Toxtricity ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/216.ts",
+      "id": "216",
+      "name": "Team Rocket"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/217.ts",
+      "id": "217",
+      "name": "Team Rocket"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/218.ts",
+      "id": "218",
+      "name": "Team Rocket"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/224.ts",
+      "id": "224",
+      "name": "Paradise Resort"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/225.ts",
+      "id": "225",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos/500.ts",
+      "id": "500",
+      "name": "Terapagos & Friends"
+    }
+  ]
+}

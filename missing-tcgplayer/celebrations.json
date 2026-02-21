@@ -1,0 +1,145 @@
+{
+  "set": "Celebrations",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Celebrations/107A.ts",
+      "id": "107A",
+      "name": "Donphan"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/109A.ts",
+      "id": "109A",
+      "name": "Luxray GL LV.X"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/113A.ts",
+      "id": "113A",
+      "name": "Reshiram"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/114A.ts",
+      "id": "114A",
+      "name": "Zekrom"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/145A.ts",
+      "id": "145A",
+      "name": "Garchomp C LV.X"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/15A.ts",
+      "id": "15A",
+      "name": "Venusaur"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/15A1.ts",
+      "id": "15A1",
+      "name": "Venusaur"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/15A2.ts",
+      "id": "15A2",
+      "name": "Here Comes Team Rocket!"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/15A3.ts",
+      "id": "15A3",
+      "name": "Rocket"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/15A4.ts",
+      "id": "15A4",
+      "name": "Claydol"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/17A.ts",
+      "id": "17A",
+      "name": "Umbreon Star"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/20A.ts",
+      "id": "20A",
+      "name": "Cleffa"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/23.ts",
+      "id": "23",
+      "name": "Professor"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/24.ts",
+      "id": "24",
+      "name": "Professor"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/24A.ts",
+      "id": "24A",
+      "name": "_____"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/2A.ts",
+      "id": "2A",
+      "name": "Blastoise"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/4A.ts",
+      "id": "4A",
+      "name": "Charizard"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/54A.ts",
+      "id": "54A",
+      "name": "Mewtwo EX"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/60A.ts",
+      "id": "60A",
+      "name": "Tapu Lele GX"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/66A.ts",
+      "id": "66A",
+      "name": "Shining Magikarp"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/73A.ts",
+      "id": "73A",
+      "name": "Imposter Professor Oak"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/76A.ts",
+      "id": "76A",
+      "name": "M Rayquaza EX"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/86A.ts",
+      "id": "86A",
+      "name": "Rocket"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/88A.ts",
+      "id": "88A",
+      "name": "Mew ex"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/8A.ts",
+      "id": "8A",
+      "name": "Dark Gyarados"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/93A.ts",
+      "id": "93A",
+      "name": "Gardevoir ex"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/97A.ts",
+      "id": "97A",
+      "name": "Xerneas EX"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/9A.ts",
+      "id": "9A",
+      "name": "Team Magma"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "set": "Macdonald's Collection 2014",
+  "missing": [
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2014/1.ts",
+      "id": "1",
+      "name": "Weedle"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2014/10.ts",
+      "id": "10",
+      "name": "Bunnelby"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2014/11.ts",
+      "id": "11",
+      "name": "Fletchling"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2014/12.ts",
+      "id": "12",
+      "name": "Furfrou"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2014/2.ts",
+      "id": "2",
+      "name": "Chespin"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2014/3.ts",
+      "id": "3",
+      "name": "Fennekin"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2014/4.ts",
+      "id": "4",
+      "name": "Froakie"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2014/5.ts",
+      "id": "5",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2014/6.ts",
+      "id": "6",
+      "name": "Inkay"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2014/7.ts",
+      "id": "7",
+      "name": "Honedge"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2014/8.ts",
+      "id": "8",
+      "name": "Snubbull"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2014/9.ts",
+      "id": "9",
+      "name": "Swirlix"
+    }
+  ]
+}

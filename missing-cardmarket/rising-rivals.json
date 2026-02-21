@@ -1,0 +1,240 @@
+{
+  "set": "Rising Rivals",
+  "missing": [
+    {
+      "file": "data/Platinum/Rising Rivals/10.ts",
+      "id": "10",
+      "name": "Mismagius GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/103.ts",
+      "id": "103",
+      "name": "Alakazam 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/104.ts",
+      "id": "104",
+      "name": "Floatzel GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/106.ts",
+      "id": "106",
+      "name": "Gallade 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/108.ts",
+      "id": "108",
+      "name": "Infernape 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/109.ts",
+      "id": "109",
+      "name": "Luxray GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/11.ts",
+      "id": "11",
+      "name": "Rampardos GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/110.ts",
+      "id": "110",
+      "name": "Mismagius GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/12.ts",
+      "id": "12",
+      "name": "Roserade GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/16.ts",
+      "id": "16",
+      "name": "Bronzong 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/17.ts",
+      "id": "17",
+      "name": "Drapion 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/18.ts",
+      "id": "18",
+      "name": "Espeon 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/2.ts",
+      "id": "2",
+      "name": "Bastiodon GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/20.ts",
+      "id": "20",
+      "name": "Gallade 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/23.ts",
+      "id": "23",
+      "name": "Golem 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/24.ts",
+      "id": "24",
+      "name": "Heracross 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/27.ts",
+      "id": "27",
+      "name": "Mamoswine GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/28.ts",
+      "id": "28",
+      "name": "Mr. Mime 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/3.ts",
+      "id": "3",
+      "name": "Darkrai G"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/31.ts",
+      "id": "31",
+      "name": "Raichu GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/32.ts",
+      "id": "32",
+      "name": "Rhyperior 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/35.ts",
+      "id": "35",
+      "name": "Vespiquen 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/37.ts",
+      "id": "37",
+      "name": "Yanmega 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/38.ts",
+      "id": "38",
+      "name": "Alakazam 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/39.ts",
+      "id": "39",
+      "name": "Electrode G"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/4.ts",
+      "id": "4",
+      "name": "Floatzel GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/40.ts",
+      "id": "40",
+      "name": "Gengar GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/42.ts",
+      "id": "42",
+      "name": "Hippowdon 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/43.ts",
+      "id": "43",
+      "name": "Infernape 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/46.ts",
+      "id": "46",
+      "name": "Machamp GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/47.ts",
+      "id": "47",
+      "name": "Rapidash 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/48.ts",
+      "id": "48",
+      "name": "Scizor 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/51.ts",
+      "id": "51",
+      "name": "Steelix GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/54.ts",
+      "id": "54",
+      "name": "Whiscash 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/55.ts",
+      "id": "55",
+      "name": "Aerodactyl GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/56.ts",
+      "id": "56",
+      "name": "Ambipom G"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/6.ts",
+      "id": "6",
+      "name": "Froslass GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/60.ts",
+      "id": "60",
+      "name": "Flareon 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/61.ts",
+      "id": "61",
+      "name": "Forretress G"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/62.ts",
+      "id": "62",
+      "name": "Gliscor 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/65.ts",
+      "id": "65",
+      "name": "Houndoom 4"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/71.ts",
+      "id": "71",
+      "name": "Nidoran♀"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/72.ts",
+      "id": "72",
+      "name": "Nidoran♂"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/76.ts",
+      "id": "76",
+      "name": "Quagsire GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/8.ts",
+      "id": "8",
+      "name": "Lucario GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/85.ts",
+      "id": "85",
+      "name": "Turtwig GL"
+    },
+    {
+      "file": "data/Platinum/Rising Rivals/9.ts",
+      "id": "9",
+      "name": "Luxray GL"
+    }
+  ]
+}

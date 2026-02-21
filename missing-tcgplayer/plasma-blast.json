@@ -1,0 +1,65 @@
+{
+  "set": "Plasma Blast",
+  "missing": [
+    {
+      "file": "data/Black & White/Plasma Blast/100.ts",
+      "id": "100",
+      "name": "Palkia-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Blast/11.ts",
+      "id": "11",
+      "name": "Genesect-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Blast/30.ts",
+      "id": "30",
+      "name": "Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Blast/60.ts",
+      "id": "60",
+      "name": "Jirachi-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Blast/65.ts",
+      "id": "65",
+      "name": "Dialga-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Blast/66.ts",
+      "id": "66",
+      "name": "Palkia-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Blast/83.ts",
+      "id": "83",
+      "name": "Pokémon Catcher"
+    },
+    {
+      "file": "data/Black & White/Plasma Blast/9.ts",
+      "id": "9",
+      "name": "Virizion-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Blast/96.ts",
+      "id": "96",
+      "name": "Virizion-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Blast/97.ts",
+      "id": "97",
+      "name": "Genesect-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Blast/98.ts",
+      "id": "98",
+      "name": "Jirachi-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Blast/99.ts",
+      "id": "99",
+      "name": "Dialga-EX"
+    }
+  ]
+}

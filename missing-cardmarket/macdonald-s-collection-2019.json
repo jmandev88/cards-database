@@ -1,0 +1,65 @@
+{
+  "set": "Macdonald's Collection 2019",
+  "missing": [
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2019/1.ts",
+      "id": "1",
+      "name": "Surprise Attack"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2019/10.ts",
+      "id": "10",
+      "name": "Spoil the Fun"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2019/11.ts",
+      "id": "11",
+      "name": "Gold Rush"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2019/12.ts",
+      "id": "12",
+      "name": "Gnaw"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2019/2.ts",
+      "id": "2",
+      "name": "Tropical Shake"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2019/3.ts",
+      "id": "3",
+      "name": "Controlled Burn"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2019/4.ts",
+      "id": "4",
+      "name": "Fury Swipes"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2019/5.ts",
+      "id": "5",
+      "name": "Aqua Bullet"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2019/6.ts",
+      "id": "6",
+      "name": "Iron Tail"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2019/7.ts",
+      "id": "7",
+      "name": "Ominous Eyes"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2019/8.ts",
+      "id": "8",
+      "name": "Three-Step Strike"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2019/9.ts",
+      "id": "9",
+      "name": "Screech"
+    }
+  ]
+}

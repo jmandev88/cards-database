@@ -1,0 +1,35 @@
+{
+  "set": "Yello A Alternate",
+  "missing": [
+    {
+      "file": "data/XY/Yello A Alternate/107a.ts",
+      "id": "107a",
+      "name": null
+    },
+    {
+      "file": "data/XY/Yello A Alternate/24a.ts",
+      "id": "24a",
+      "name": null
+    },
+    {
+      "file": "data/XY/Yello A Alternate/28a.ts",
+      "id": "28a",
+      "name": null
+    },
+    {
+      "file": "data/XY/Yello A Alternate/54a.ts",
+      "id": "54a",
+      "name": null
+    },
+    {
+      "file": "data/XY/Yello A Alternate/55a.ts",
+      "id": "55a",
+      "name": null
+    },
+    {
+      "file": "data/XY/Yello A Alternate/92a.ts",
+      "id": "92a",
+      "name": null
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "set": "Trainer kits",
+  "missing": [
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Excadrill).ts",
+      "id": "BW trainer Kit (Excadrill)",
+      "name": "BW trainer Kit (Excadrill)"
+    },
+    {
+      "file": "data/Trainer kits/BW trainer Kit (Zoroark).ts",
+      "id": "BW trainer Kit (Zoroark)",
+      "name": "BW trainer Kit (Zoroark)"
+    },
+    {
+      "file": "data/Trainer kits/DP trainer Kit (Lucario).ts",
+      "id": "DP trainer Kit (Lucario)",
+      "name": "DP trainer Kit (Lucario)"
+    },
+    {
+      "file": "data/Trainer kits/DP trainer Kit (Manaphy).ts",
+      "id": "DP trainer Kit (Manaphy)",
+      "name": "DP trainer Kit (Manaphy)"
+    },
+    {
+      "file": "data/Trainer kits/EX trainer Kit (Latias).ts",
+      "id": "EX trainer Kit (Latias)",
+      "name": "EX trainer Kit (Latias)"
+    },
+    {
+      "file": "data/Trainer kits/EX trainer Kit (Latios).ts",
+      "id": "EX trainer Kit (Latios)",
+      "name": "EX trainer Kit (Latios)"
+    },
+    {
+      "file": "data/Trainer kits/EX trainer Kit 2 (Minun).ts",
+      "id": "EX trainer Kit 2 (Minun)",
+      "name": "EX trainer Kit 2 (Minun)"
+    },
+    {
+      "file": "data/Trainer kits/EX trainer Kit 2 (Plusle).ts",
+      "id": "EX trainer Kit 2 (Plusle)",
+      "name": "EX trainer Kit 2 (Plusle)"
+    },
+    {
+      "file": "data/Trainer kits/HS trainer Kit (Gyarados).ts",
+      "id": "HS trainer Kit (Gyarados)",
+      "name": "HS trainer Kit (Gyarados)"
+    },
+    {
+      "file": "data/Trainer kits/HS trainer Kit (Raichu).ts",
+      "id": "HS trainer Kit (Raichu)",
+      "name": "HS trainer Kit (Raichu)"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Alolan Raichu).ts",
+      "id": "SM trainer Kit (Alolan Raichu)",
+      "name": "SM trainer Kit (Alolan Raichu)"
+    },
+    {
+      "file": "data/Trainer kits/SM trainer Kit (Lycanroc).ts",
+      "id": "SM trainer Kit (Lycanroc)",
+      "name": "SM trainer Kit (Lycanroc)"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Bisharp).ts",
+      "id": "XY trainer Kit (Bisharp)",
+      "name": "XY trainer Kit (Bisharp)"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latias).ts",
+      "id": "XY trainer Kit (Latias)",
+      "name": "XY trainer Kit (Latias)"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Latios).ts",
+      "id": "XY trainer Kit (Latios)",
+      "name": "XY trainer Kit (Latios)"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Noivern).ts",
+      "id": "XY trainer Kit (Noivern)",
+      "name": "XY trainer Kit (Noivern)"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre).ts",
+      "id": "XY trainer Kit (Pikachu Libre)",
+      "name": "XY trainer Kit (Pikachu Libre)"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Suicune).ts",
+      "id": "XY trainer Kit (Suicune)",
+      "name": "XY trainer Kit (Suicune)"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Sylveon).ts",
+      "id": "XY trainer Kit (Sylveon)",
+      "name": "XY trainer Kit (Sylveon)"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Wigglytuff).ts",
+      "id": "XY trainer Kit (Wigglytuff)",
+      "name": "XY trainer Kit (Wigglytuff)"
+    }
+  ]
+}

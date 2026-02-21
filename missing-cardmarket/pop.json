@@ -1,0 +1,10 @@
+{
+  "set": "POP",
+  "missing": [
+    {
+      "file": "data/POP/Nintendo Black Star Promos.ts",
+      "id": "Nintendo Black Star Promos",
+      "name": "Nintendo Black Star Promos"
+    }
+  ]
+}

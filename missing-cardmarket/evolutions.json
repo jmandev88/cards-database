@@ -1,0 +1,60 @@
+{
+  "set": "Evolutions",
+  "missing": [
+    {
+      "file": "data/XY/Evolutions/100.ts",
+      "id": "100",
+      "name": "M Venusaur EX"
+    },
+    {
+      "file": "data/XY/Evolutions/101.ts",
+      "id": "101",
+      "name": "M Charizard EX"
+    },
+    {
+      "file": "data/XY/Evolutions/102.ts",
+      "id": "102",
+      "name": "M Blastoise EX"
+    },
+    {
+      "file": "data/XY/Evolutions/105.ts",
+      "id": "105",
+      "name": "M Pidgeot EX"
+    },
+    {
+      "file": "data/XY/Evolutions/109.ts",
+      "id": "109",
+      "name": "ナッシー[Exeggutor]"
+    },
+    {
+      "file": "data/XY/Evolutions/13.ts",
+      "id": "13",
+      "name": "M Charizard EX"
+    },
+    {
+      "file": "data/XY/Evolutions/2.ts",
+      "id": "2",
+      "name": "M Venusaur EX"
+    },
+    {
+      "file": "data/XY/Evolutions/22.ts",
+      "id": "22",
+      "name": "M Blastoise EX"
+    },
+    {
+      "file": "data/XY/Evolutions/27.ts",
+      "id": "27",
+      "name": "M Slowbro EX"
+    },
+    {
+      "file": "data/XY/Evolutions/43.ts",
+      "id": "43",
+      "name": "Nidoran♂"
+    },
+    {
+      "file": "data/XY/Evolutions/65.ts",
+      "id": "65",
+      "name": "M Pidgeot EX"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "set": "Plasma Storm",
+  "missing": [
+    {
+      "file": "data/Black & White/Plasma Storm/108.ts",
+      "id": "108",
+      "name": "Lugia-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Storm/131.ts",
+      "id": "131",
+      "name": "Victini-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Storm/132.ts",
+      "id": "132",
+      "name": "Articuno-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Storm/133.ts",
+      "id": "133",
+      "name": "Cobalion-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Storm/134.ts",
+      "id": "134",
+      "name": "Lugia-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Storm/14.ts",
+      "id": "14",
+      "name": "Moltres-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Storm/18.ts",
+      "id": "18",
+      "name": "Victini-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Storm/25.ts",
+      "id": "25",
+      "name": "Articuno-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Storm/48.ts",
+      "id": "48",
+      "name": "Zapdos-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Storm/93.ts",
+      "id": "93",
+      "name": "Cobalion-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Storm/95.ts",
+      "id": "95",
+      "name": "Black Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Storm/96.ts",
+      "id": "96",
+      "name": "White Kyurem-EX"
+    }
+  ]
+}

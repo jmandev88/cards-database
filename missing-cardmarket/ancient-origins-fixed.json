@@ -1,0 +1,2587 @@
+{
+  "meta": {
+    "tool": "sbf-cm-set-merge-exporter",
+    "exportedAt": "2026-02-21T16:57:37.857Z",
+    "groupKey": "AOR",
+    "note": "Keyed by canonical SETCODE-NNN. Cross-slug merge enabled by storing per derived groupKey (canonical set code). Export uses stored setSlug→groupKey index to avoid empty exports."
+  },
+  "pages": [
+    {
+      "pageId": "base::/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30",
+      "kind": "set",
+      "bucket": "base",
+      "setSlug": "Ancient-Origins",
+      "groupKey": "AOR",
+      "setName": "Ancient Origins Singles",
+      "collectedAt": "2026-02-21T16:57:19.332Z",
+      "stats": {
+        "rowsSeen": 30,
+        "rowsWithProductId": 30,
+        "rowsWithRawCardId": 30,
+        "rowsWithCanonicalCardId": 30,
+        "rowsPaired": 30
+      }
+    },
+    {
+      "pageId": "base::/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2",
+      "kind": "set",
+      "bucket": "base",
+      "setSlug": "Ancient-Origins",
+      "groupKey": "AOR",
+      "setName": "Ancient Origins Singles",
+      "collectedAt": "2026-02-21T16:57:23.807Z",
+      "stats": {
+        "rowsSeen": 30,
+        "rowsWithProductId": 30,
+        "rowsWithRawCardId": 30,
+        "rowsWithCanonicalCardId": 30,
+        "rowsPaired": 30
+      }
+    },
+    {
+      "pageId": "base::/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3",
+      "kind": "set",
+      "bucket": "base",
+      "setSlug": "Ancient-Origins",
+      "groupKey": "AOR",
+      "setName": "Ancient Origins Singles",
+      "collectedAt": "2026-02-21T16:57:26.736Z",
+      "stats": {
+        "rowsSeen": 30,
+        "rowsWithProductId": 30,
+        "rowsWithRawCardId": 30,
+        "rowsWithCanonicalCardId": 30,
+        "rowsPaired": 30
+      }
+    },
+    {
+      "pageId": "base::/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4",
+      "kind": "set",
+      "bucket": "base",
+      "setSlug": "Ancient-Origins",
+      "groupKey": "AOR",
+      "setName": "Ancient Origins Singles",
+      "collectedAt": "2026-02-21T16:57:30.939Z",
+      "stats": {
+        "rowsSeen": 22,
+        "rowsWithProductId": 22,
+        "rowsWithRawCardId": 18,
+        "rowsWithCanonicalCardId": 18,
+        "rowsPaired": 18
+      }
+    }
+  ],
+  "stats": {
+    "mergedKeys": 101,
+    "baseOnly": 101,
+    "addOnly": 0,
+    "both": 0
+  },
+  "byCardId": {
+    "AOR-001": {
+      "cardId": "AOR-001",
+      "ids": {
+        "base": [
+          284182
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-001"
+      ],
+      "sources": [
+        {
+          "productId": 284182,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-001",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-002": {
+      "cardId": "AOR-002",
+      "ids": {
+        "base": [
+          284183
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-002"
+      ],
+      "sources": [
+        {
+          "productId": 284183,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-002",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-003": {
+      "cardId": "AOR-003",
+      "ids": {
+        "base": [
+          284184
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-003"
+      ],
+      "sources": [
+        {
+          "productId": 284184,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-003",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-004": {
+      "cardId": "AOR-004",
+      "ids": {
+        "base": [
+          284185
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-004"
+      ],
+      "sources": [
+        {
+          "productId": 284185,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-004",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-005": {
+      "cardId": "AOR-005",
+      "ids": {
+        "base": [
+          284186
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-005"
+      ],
+      "sources": [
+        {
+          "productId": 284186,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-005",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-006": {
+      "cardId": "AOR-006",
+      "ids": {
+        "base": [
+          284187
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-006"
+      ],
+      "sources": [
+        {
+          "productId": 284187,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-006",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-007": {
+      "cardId": "AOR-007",
+      "ids": {
+        "base": [
+          284188
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-007"
+      ],
+      "sources": [
+        {
+          "productId": 284188,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-007",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-008": {
+      "cardId": "AOR-008",
+      "ids": {
+        "base": [
+          284189
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-008"
+      ],
+      "sources": [
+        {
+          "productId": 284189,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-008",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-009": {
+      "cardId": "AOR-009",
+      "ids": {
+        "base": [
+          284190
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-009"
+      ],
+      "sources": [
+        {
+          "productId": 284190,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-009",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-010": {
+      "cardId": "AOR-010",
+      "ids": {
+        "base": [
+          284191
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-010"
+      ],
+      "sources": [
+        {
+          "productId": 284191,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-010",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-011": {
+      "cardId": "AOR-011",
+      "ids": {
+        "base": [
+          284192
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-011"
+      ],
+      "sources": [
+        {
+          "productId": 284192,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-011",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-012": {
+      "cardId": "AOR-012",
+      "ids": {
+        "base": [
+          284193
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-012"
+      ],
+      "sources": [
+        {
+          "productId": 284193,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-012",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-013": {
+      "cardId": "AOR-013",
+      "ids": {
+        "base": [
+          284194
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-013"
+      ],
+      "sources": [
+        {
+          "productId": 284194,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-013",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-014": {
+      "cardId": "AOR-014",
+      "ids": {
+        "base": [
+          284195
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-014"
+      ],
+      "sources": [
+        {
+          "productId": 284195,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-014",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-015": {
+      "cardId": "AOR-015",
+      "ids": {
+        "base": [
+          284196
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-015"
+      ],
+      "sources": [
+        {
+          "productId": 284196,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-015",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-016": {
+      "cardId": "AOR-016",
+      "ids": {
+        "base": [
+          284197
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-016"
+      ],
+      "sources": [
+        {
+          "productId": 284197,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-016",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-017": {
+      "cardId": "AOR-017",
+      "ids": {
+        "base": [
+          284198
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-017"
+      ],
+      "sources": [
+        {
+          "productId": 284198,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-017",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-018": {
+      "cardId": "AOR-018",
+      "ids": {
+        "base": [
+          284199
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-018"
+      ],
+      "sources": [
+        {
+          "productId": 284199,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-018",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-019": {
+      "cardId": "AOR-019",
+      "ids": {
+        "base": [
+          284200
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-019"
+      ],
+      "sources": [
+        {
+          "productId": 284200,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-019",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-020": {
+      "cardId": "AOR-020",
+      "ids": {
+        "base": [
+          284201
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-020"
+      ],
+      "sources": [
+        {
+          "productId": 284201,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-020",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-021": {
+      "cardId": "AOR-021",
+      "ids": {
+        "base": [
+          284202
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-021"
+      ],
+      "sources": [
+        {
+          "productId": 284202,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-021",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-022": {
+      "cardId": "AOR-022",
+      "ids": {
+        "base": [
+          284203
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-022"
+      ],
+      "sources": [
+        {
+          "productId": 284203,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-022",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-023": {
+      "cardId": "AOR-023",
+      "ids": {
+        "base": [
+          284204
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-023"
+      ],
+      "sources": [
+        {
+          "productId": 284204,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-023",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-024": {
+      "cardId": "AOR-024",
+      "ids": {
+        "base": [
+          284205
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-024"
+      ],
+      "sources": [
+        {
+          "productId": 284205,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-024",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-025": {
+      "cardId": "AOR-025",
+      "ids": {
+        "base": [
+          284206
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-025"
+      ],
+      "sources": [
+        {
+          "productId": 284206,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-025",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-026": {
+      "cardId": "AOR-026",
+      "ids": {
+        "base": [
+          284207
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-026"
+      ],
+      "sources": [
+        {
+          "productId": 284207,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-026",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-027": {
+      "cardId": "AOR-027",
+      "ids": {
+        "base": [
+          284208
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-027"
+      ],
+      "sources": [
+        {
+          "productId": 284208,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-027",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-028": {
+      "cardId": "AOR-028",
+      "ids": {
+        "base": [
+          284209
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-028"
+      ],
+      "sources": [
+        {
+          "productId": 284209,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-028",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-029": {
+      "cardId": "AOR-029",
+      "ids": {
+        "base": [
+          284210
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-029"
+      ],
+      "sources": [
+        {
+          "productId": 284210,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-029",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-030": {
+      "cardId": "AOR-030",
+      "ids": {
+        "base": [
+          284211
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-030"
+      ],
+      "sources": [
+        {
+          "productId": 284211,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-030",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-031": {
+      "cardId": "AOR-031",
+      "ids": {
+        "base": [
+          284212
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-031"
+      ],
+      "sources": [
+        {
+          "productId": 284212,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-031",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-032": {
+      "cardId": "AOR-032",
+      "ids": {
+        "base": [
+          284213
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-032"
+      ],
+      "sources": [
+        {
+          "productId": 284213,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-032",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-033": {
+      "cardId": "AOR-033",
+      "ids": {
+        "base": [
+          284214
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-033"
+      ],
+      "sources": [
+        {
+          "productId": 284214,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-033",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-034": {
+      "cardId": "AOR-034",
+      "ids": {
+        "base": [
+          284215
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-034"
+      ],
+      "sources": [
+        {
+          "productId": 284215,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-034",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-035": {
+      "cardId": "AOR-035",
+      "ids": {
+        "base": [
+          284216
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-035"
+      ],
+      "sources": [
+        {
+          "productId": 284216,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-035",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-036": {
+      "cardId": "AOR-036",
+      "ids": {
+        "base": [
+          284217,
+          363928
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-036"
+      ],
+      "sources": [
+        {
+          "productId": 284217,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-036",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        },
+        {
+          "productId": 363928,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-036",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        }
+      ]
+    },
+    "AOR-037": {
+      "cardId": "AOR-037",
+      "ids": {
+        "base": [
+          284218
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-037"
+      ],
+      "sources": [
+        {
+          "productId": 284218,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-037",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-038": {
+      "cardId": "AOR-038",
+      "ids": {
+        "base": [
+          284219
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-038"
+      ],
+      "sources": [
+        {
+          "productId": 284219,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-038",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-039": {
+      "cardId": "AOR-039",
+      "ids": {
+        "base": [
+          284220
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-039"
+      ],
+      "sources": [
+        {
+          "productId": 284220,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-039",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-040": {
+      "cardId": "AOR-040",
+      "ids": {
+        "base": [
+          284221
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-040"
+      ],
+      "sources": [
+        {
+          "productId": 284221,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-040",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-041": {
+      "cardId": "AOR-041",
+      "ids": {
+        "base": [
+          284222
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-041"
+      ],
+      "sources": [
+        {
+          "productId": 284222,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-041",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-042": {
+      "cardId": "AOR-042",
+      "ids": {
+        "base": [
+          284223
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-042"
+      ],
+      "sources": [
+        {
+          "productId": 284223,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-042",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-043": {
+      "cardId": "AOR-043",
+      "ids": {
+        "base": [
+          284224,
+          363919
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-043"
+      ],
+      "sources": [
+        {
+          "productId": 284224,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-043",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        },
+        {
+          "productId": 363919,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-043",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        }
+      ]
+    },
+    "AOR-044": {
+      "cardId": "AOR-044",
+      "ids": {
+        "base": [
+          284225
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-044"
+      ],
+      "sources": [
+        {
+          "productId": 284225,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-044",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-045": {
+      "cardId": "AOR-045",
+      "ids": {
+        "base": [
+          284226
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-045"
+      ],
+      "sources": [
+        {
+          "productId": 284226,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-045",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-046": {
+      "cardId": "AOR-046",
+      "ids": {
+        "base": [
+          284227
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-046"
+      ],
+      "sources": [
+        {
+          "productId": 284227,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-046",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-047": {
+      "cardId": "AOR-047",
+      "ids": {
+        "base": [
+          284228
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-047"
+      ],
+      "sources": [
+        {
+          "productId": 284228,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-047",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-048": {
+      "cardId": "AOR-048",
+      "ids": {
+        "base": [
+          284229
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-048"
+      ],
+      "sources": [
+        {
+          "productId": 284229,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-048",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-049": {
+      "cardId": "AOR-049",
+      "ids": {
+        "base": [
+          284230
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-049"
+      ],
+      "sources": [
+        {
+          "productId": 284230,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-049",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-050": {
+      "cardId": "AOR-050",
+      "ids": {
+        "base": [
+          284231
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-050"
+      ],
+      "sources": [
+        {
+          "productId": 284231,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-050",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-051": {
+      "cardId": "AOR-051",
+      "ids": {
+        "base": [
+          284232
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-051"
+      ],
+      "sources": [
+        {
+          "productId": 284232,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-051",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-052": {
+      "cardId": "AOR-052",
+      "ids": {
+        "base": [
+          284233
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-052"
+      ],
+      "sources": [
+        {
+          "productId": 284233,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-052",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-053": {
+      "cardId": "AOR-053",
+      "ids": {
+        "base": [
+          284234
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-053"
+      ],
+      "sources": [
+        {
+          "productId": 284234,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-053",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-054": {
+      "cardId": "AOR-054",
+      "ids": {
+        "base": [
+          284235
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-054"
+      ],
+      "sources": [
+        {
+          "productId": 284235,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-054",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-055": {
+      "cardId": "AOR-055",
+      "ids": {
+        "base": [
+          284236
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-055"
+      ],
+      "sources": [
+        {
+          "productId": 284236,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-055",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-056": {
+      "cardId": "AOR-056",
+      "ids": {
+        "base": [
+          284237
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-056"
+      ],
+      "sources": [
+        {
+          "productId": 284237,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-056",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-057": {
+      "cardId": "AOR-057",
+      "ids": {
+        "base": [
+          284238
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-057"
+      ],
+      "sources": [
+        {
+          "productId": 284238,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-057",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-058": {
+      "cardId": "AOR-058",
+      "ids": {
+        "base": [
+          284239
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-058"
+      ],
+      "sources": [
+        {
+          "productId": 284239,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-058",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-059": {
+      "cardId": "AOR-059",
+      "ids": {
+        "base": [
+          284240
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-059"
+      ],
+      "sources": [
+        {
+          "productId": 284240,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-059",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-060": {
+      "cardId": "AOR-060",
+      "ids": {
+        "base": [
+          284241
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-060"
+      ],
+      "sources": [
+        {
+          "productId": 284241,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-060",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-061": {
+      "cardId": "AOR-061",
+      "ids": {
+        "base": [
+          284242
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-061"
+      ],
+      "sources": [
+        {
+          "productId": 284242,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-061",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-062": {
+      "cardId": "AOR-062",
+      "ids": {
+        "base": [
+          284243
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-062"
+      ],
+      "sources": [
+        {
+          "productId": 284243,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-062",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-063": {
+      "cardId": "AOR-063",
+      "ids": {
+        "base": [
+          284244
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-063"
+      ],
+      "sources": [
+        {
+          "productId": 284244,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-063",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-064": {
+      "cardId": "AOR-064",
+      "ids": {
+        "base": [
+          284245
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-064"
+      ],
+      "sources": [
+        {
+          "productId": 284245,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-064",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-065": {
+      "cardId": "AOR-065",
+      "ids": {
+        "base": [
+          284246
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-065"
+      ],
+      "sources": [
+        {
+          "productId": 284246,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-065",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-066": {
+      "cardId": "AOR-066",
+      "ids": {
+        "base": [
+          284247
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-066"
+      ],
+      "sources": [
+        {
+          "productId": 284247,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-066",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-067": {
+      "cardId": "AOR-067",
+      "ids": {
+        "base": [
+          284248
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-067"
+      ],
+      "sources": [
+        {
+          "productId": 284248,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-067",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-068": {
+      "cardId": "AOR-068",
+      "ids": {
+        "base": [
+          284249
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-068"
+      ],
+      "sources": [
+        {
+          "productId": 284249,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-068",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-069": {
+      "cardId": "AOR-069",
+      "ids": {
+        "base": [
+          284250,
+          448198,
+          450563
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-069"
+      ],
+      "sources": [
+        {
+          "productId": 284250,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-069",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        },
+        {
+          "productId": 448198,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-069",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        },
+        {
+          "productId": 450563,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-069",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        }
+      ]
+    },
+    "AOR-070": {
+      "cardId": "AOR-070",
+      "ids": {
+        "base": [
+          284251
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-070"
+      ],
+      "sources": [
+        {
+          "productId": 284251,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-070",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-071": {
+      "cardId": "AOR-071",
+      "ids": {
+        "base": [
+          284252
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-071"
+      ],
+      "sources": [
+        {
+          "productId": 284252,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-071",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-072": {
+      "cardId": "AOR-072",
+      "ids": {
+        "base": [
+          284253
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-072"
+      ],
+      "sources": [
+        {
+          "productId": 284253,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-072",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-073": {
+      "cardId": "AOR-073",
+      "ids": {
+        "base": [
+          284254
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-073"
+      ],
+      "sources": [
+        {
+          "productId": 284254,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-073",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-074": {
+      "cardId": "AOR-074",
+      "ids": {
+        "base": [
+          284255
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-074"
+      ],
+      "sources": [
+        {
+          "productId": 284255,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-074",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-075": {
+      "cardId": "AOR-075",
+      "ids": {
+        "base": [
+          284256
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-075"
+      ],
+      "sources": [
+        {
+          "productId": 284256,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-075",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-075A": {
+      "cardId": "AOR-075A",
+      "ids": {
+        "base": [
+          311409
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-075A"
+      ],
+      "sources": [
+        {
+          "productId": 311409,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-075A",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        }
+      ]
+    },
+    "AOR-076": {
+      "cardId": "AOR-076",
+      "ids": {
+        "base": [
+          284257
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-076"
+      ],
+      "sources": [
+        {
+          "productId": 284257,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-076",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-077": {
+      "cardId": "AOR-077",
+      "ids": {
+        "base": [
+          284258
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-077"
+      ],
+      "sources": [
+        {
+          "productId": 284258,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-077",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-078": {
+      "cardId": "AOR-078",
+      "ids": {
+        "base": [
+          284259
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-078"
+      ],
+      "sources": [
+        {
+          "productId": 284259,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-078",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-079": {
+      "cardId": "AOR-079",
+      "ids": {
+        "base": [
+          284260
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-079"
+      ],
+      "sources": [
+        {
+          "productId": 284260,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-079",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-080": {
+      "cardId": "AOR-080",
+      "ids": {
+        "base": [
+          284261
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-080"
+      ],
+      "sources": [
+        {
+          "productId": 284261,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-080",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-081": {
+      "cardId": "AOR-081",
+      "ids": {
+        "base": [
+          284262
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-081"
+      ],
+      "sources": [
+        {
+          "productId": 284262,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-081",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "AOR-082": {
+      "cardId": "AOR-082",
+      "ids": {
+        "base": [
+          284263
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-082"
+      ],
+      "sources": [
+        {
+          "productId": 284263,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-082",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-083": {
+      "cardId": "AOR-083",
+      "ids": {
+        "base": [
+          284264
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-083"
+      ],
+      "sources": [
+        {
+          "productId": 284264,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-083",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=2"
+        }
+      ]
+    },
+    "AOR-084": {
+      "cardId": "AOR-084",
+      "ids": {
+        "base": [
+          284265
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-084"
+      ],
+      "sources": [
+        {
+          "productId": 284265,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-084",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-085": {
+      "cardId": "AOR-085",
+      "ids": {
+        "base": [
+          284266
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-085"
+      ],
+      "sources": [
+        {
+          "productId": 284266,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-085",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-086": {
+      "cardId": "AOR-086",
+      "ids": {
+        "base": [
+          284267
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-086"
+      ],
+      "sources": [
+        {
+          "productId": 284267,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-086",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-087": {
+      "cardId": "AOR-087",
+      "ids": {
+        "base": [
+          284268
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-087"
+      ],
+      "sources": [
+        {
+          "productId": 284268,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-087",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-088": {
+      "cardId": "AOR-088",
+      "ids": {
+        "base": [
+          284269
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-088"
+      ],
+      "sources": [
+        {
+          "productId": 284269,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-088",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        }
+      ]
+    },
+    "AOR-089": {
+      "cardId": "AOR-089",
+      "ids": {
+        "base": [
+          284270
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-089"
+      ],
+      "sources": [
+        {
+          "productId": 284270,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-089",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        }
+      ]
+    },
+    "AOR-090": {
+      "cardId": "AOR-090",
+      "ids": {
+        "base": [
+          284271
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-090"
+      ],
+      "sources": [
+        {
+          "productId": 284271,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-090",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-091": {
+      "cardId": "AOR-091",
+      "ids": {
+        "base": [
+          284272
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-091"
+      ],
+      "sources": [
+        {
+          "productId": 284272,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-091",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        }
+      ]
+    },
+    "AOR-092": {
+      "cardId": "AOR-092",
+      "ids": {
+        "base": [
+          284273
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-092"
+      ],
+      "sources": [
+        {
+          "productId": 284273,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-092",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        }
+      ]
+    },
+    "AOR-093": {
+      "cardId": "AOR-093",
+      "ids": {
+        "base": [
+          284274
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-093"
+      ],
+      "sources": [
+        {
+          "productId": 284274,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-093",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        }
+      ]
+    },
+    "AOR-094": {
+      "cardId": "AOR-094",
+      "ids": {
+        "base": [
+          284275
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-094"
+      ],
+      "sources": [
+        {
+          "productId": 284275,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-094",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        }
+      ]
+    },
+    "AOR-095": {
+      "cardId": "AOR-095",
+      "ids": {
+        "base": [
+          284276
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-095"
+      ],
+      "sources": [
+        {
+          "productId": 284276,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-095",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        }
+      ]
+    },
+    "AOR-096": {
+      "cardId": "AOR-096",
+      "ids": {
+        "base": [
+          284277,
+          363677
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-096"
+      ],
+      "sources": [
+        {
+          "productId": 284277,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-096",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=3"
+        },
+        {
+          "productId": 363677,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-096",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        }
+      ]
+    },
+    "AOR-097": {
+      "cardId": "AOR-097",
+      "ids": {
+        "base": [
+          284278,
+          363676
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-097"
+      ],
+      "sources": [
+        {
+          "productId": 284278,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-097",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        },
+        {
+          "productId": 363676,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-097",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        }
+      ]
+    },
+    "AOR-098": {
+      "cardId": "AOR-098",
+      "ids": {
+        "base": [
+          284279,
+          363678
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-098"
+      ],
+      "sources": [
+        {
+          "productId": 284279,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-098",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        },
+        {
+          "productId": 363678,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-098",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        }
+      ]
+    },
+    "AOR-099": {
+      "cardId": "AOR-099",
+      "ids": {
+        "base": [
+          284280
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-099"
+      ],
+      "sources": [
+        {
+          "productId": 284280,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-099",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        }
+      ]
+    },
+    "AOR-100": {
+      "cardId": "AOR-100",
+      "ids": {
+        "base": [
+          284281
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "AOR-100"
+      ],
+      "sources": [
+        {
+          "productId": 284281,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "AOR-100",
+          "setSlug": "Ancient-Origins",
+          "groupKey": "AOR",
+          "setName": "Ancient Origins Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ancient-Origins?mode=list&idRarity=0&perSite=30&site=4"
+        }
+      ]
+    }
+  }
+}

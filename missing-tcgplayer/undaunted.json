@@ -1,0 +1,45 @@
+{
+  "set": "Undaunted",
+  "missing": [
+    {
+      "file": "data/HeartGold & SoulSilver/Undaunted/76.ts",
+      "id": "76",
+      "name": "Ruins of Alph"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Undaunted/77.ts",
+      "id": "77",
+      "name": "Sage’s Training"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Undaunted/78.ts",
+      "id": "78",
+      "name": "Team Rocket’s Trickery"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Undaunted/87.ts",
+      "id": "87",
+      "name": "Kyogre & Groudon LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Undaunted/88.ts",
+      "id": "88",
+      "name": "Kyogre & Groudon LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Undaunted/89.ts",
+      "id": "89",
+      "name": "Rayquaza & Deoxys LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Undaunted/90.ts",
+      "id": "90",
+      "name": "Rayquaza & Deoxys LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Undaunted/THREE.ts",
+      "id": "THREE",
+      "name": "Alph Lithograph"
+    }
+  ]
+}

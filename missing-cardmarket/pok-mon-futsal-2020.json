@@ -1,0 +1,30 @@
+{
+  "set": "Pokémon Futsal 2020",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Pokémon Futsal 2020/1.ts",
+      "id": "1",
+      "name": "Pikachu on the Ball"
+    },
+    {
+      "file": "data/Sword & Shield/Pokémon Futsal 2020/2.ts",
+      "id": "2",
+      "name": "Eevee on the Ball"
+    },
+    {
+      "file": "data/Sword & Shield/Pokémon Futsal 2020/3.ts",
+      "id": "3",
+      "name": "Grookey on the Ball"
+    },
+    {
+      "file": "data/Sword & Shield/Pokémon Futsal 2020/4.ts",
+      "id": "4",
+      "name": "Scorbunny on the Ball"
+    },
+    {
+      "file": "data/Sword & Shield/Pokémon Futsal 2020/5.ts",
+      "id": "5",
+      "name": "Sobble on the Ball"
+    }
+  ]
+}

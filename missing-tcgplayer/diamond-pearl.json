@@ -1,0 +1,40 @@
+{
+  "set": "Diamond & Pearl",
+  "missing": [
+    {
+      "file": "data/Diamond & Pearl/Diamond & Pearl/108.ts",
+      "id": "108",
+      "name": "Night Pokémon Center"
+    },
+    {
+      "file": "data/Diamond & Pearl/Diamond & Pearl/110.ts",
+      "id": "110",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/Diamond & Pearl/Diamond & Pearl/111.ts",
+      "id": "111",
+      "name": "Pokédex HANDY910is"
+    },
+    {
+      "file": "data/Diamond & Pearl/Diamond & Pearl/65.ts",
+      "id": "65",
+      "name": "Unown A"
+    },
+    {
+      "file": "data/Diamond & Pearl/Diamond & Pearl/66.ts",
+      "id": "66",
+      "name": "Unown B"
+    },
+    {
+      "file": "data/Diamond & Pearl/Diamond & Pearl/67.ts",
+      "id": "67",
+      "name": "Unown C"
+    },
+    {
+      "file": "data/Diamond & Pearl/Diamond & Pearl/68.ts",
+      "id": "68",
+      "name": "Unown D"
+    }
+  ]
+}

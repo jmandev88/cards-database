@@ -1,0 +1,10 @@
+{
+  "set": "Mega Evolution",
+  "missing": [
+    {
+      "file": "data/Mega Evolution/MEP Black Star Promos.ts",
+      "id": "MEP Black Star Promos",
+      "name": "MEP Black Star Promos"
+    }
+  ]
+}

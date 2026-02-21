@@ -1,0 +1,365 @@
+{
+  "set": "Crown Zenith",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Crown Zenith/137.ts",
+      "id": "137",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/138.ts",
+      "id": "138",
+      "name": "Pokémon Catcher"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG01.ts",
+      "id": "GG01",
+      "name": "Hisuian Voltorb"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG02.ts",
+      "id": "GG02",
+      "name": "Kricketune"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG03.ts",
+      "id": "GG03",
+      "name": "Magmortar"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG04.ts",
+      "id": "GG04",
+      "name": "Oricorio"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG05.ts",
+      "id": "GG05",
+      "name": "Lapras"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG06.ts",
+      "id": "GG06",
+      "name": "Manaphy"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG07.ts",
+      "id": "GG07",
+      "name": "Keldeo"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG08.ts",
+      "id": "GG08",
+      "name": "Electivire"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG09.ts",
+      "id": "GG09",
+      "name": "Toxtricity"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG10.ts",
+      "id": "GG10",
+      "name": "Mew"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG11.ts",
+      "id": "GG11",
+      "name": "Lunatone"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG12.ts",
+      "id": "GG12",
+      "name": "Deoxys"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG13.ts",
+      "id": "GG13",
+      "name": "Diancie"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG14.ts",
+      "id": "GG14",
+      "name": "Comfey"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG15.ts",
+      "id": "GG15",
+      "name": "Solrock"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG16.ts",
+      "id": "GG16",
+      "name": "Absol"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG17.ts",
+      "id": "GG17",
+      "name": "Thievul"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG18.ts",
+      "id": "GG18",
+      "name": "Magnezone"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG19.ts",
+      "id": "GG19",
+      "name": "Altaria"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG20.ts",
+      "id": "GG20",
+      "name": "Latias"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG21.ts",
+      "id": "GG21",
+      "name": "Hisuian Goodra"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG22.ts",
+      "id": "GG22",
+      "name": "Ditto"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG23.ts",
+      "id": "GG23",
+      "name": "Dunsparce"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG24.ts",
+      "id": "GG24",
+      "name": "Miltank"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG25.ts",
+      "id": "GG25",
+      "name": "Bibarel"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG26.ts",
+      "id": "GG26",
+      "name": "Riolu"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG27.ts",
+      "id": "GG27",
+      "name": "Swablu"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG28.ts",
+      "id": "GG28",
+      "name": "Duskull"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG29.ts",
+      "id": "GG29",
+      "name": "Bidoof"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG30.ts",
+      "id": "GG30",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG31.ts",
+      "id": "GG31",
+      "name": "Turtwig"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG32.ts",
+      "id": "GG32",
+      "name": "Paras"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG33.ts",
+      "id": "GG33",
+      "name": "Poochyena"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG34.ts",
+      "id": "GG34",
+      "name": "Mareep"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG35.ts",
+      "id": "GG35",
+      "name": "Leafeon VSTAR"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG36.ts",
+      "id": "GG36",
+      "name": "Entei V"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG37.ts",
+      "id": "GG37",
+      "name": "Simisear VSTAR"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG38.ts",
+      "id": "GG38",
+      "name": "Suicune V"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG39.ts",
+      "id": "GG39",
+      "name": "Lumineon V"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG40.ts",
+      "id": "GG40",
+      "name": "Glaceon VSTAR"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG41.ts",
+      "id": "GG41",
+      "name": "Raikou V"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG42.ts",
+      "id": "GG42",
+      "name": "Zeraora VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG43.ts",
+      "id": "GG43",
+      "name": "Zeraora VSTAR"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG44.ts",
+      "id": "GG44",
+      "name": "Mewtwo VSTAR"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG45.ts",
+      "id": "GG45",
+      "name": "Deoxys VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG46.ts",
+      "id": "GG46",
+      "name": "Deoxys VSTAR"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG47.ts",
+      "id": "GG47",
+      "name": "Hatterene VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG48.ts",
+      "id": "GG48",
+      "name": "Zacian V"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG49.ts",
+      "id": "GG49",
+      "name": "Drapion V"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG50.ts",
+      "id": "GG50",
+      "name": "Darkrai VSTAR"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG51.ts",
+      "id": "GG51",
+      "name": "Hisuian Samurott V"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG52.ts",
+      "id": "GG52",
+      "name": "Hisuian Samurott VSTAR"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG53.ts",
+      "id": "GG53",
+      "name": "Hoopa V"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG54.ts",
+      "id": "GG54",
+      "name": "Zamazenta V"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG55.ts",
+      "id": "GG55",
+      "name": "Regigigas VSTAR"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG56.ts",
+      "id": "GG56",
+      "name": "Hisuian Zoroark VSTAR"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG57.ts",
+      "id": "GG57",
+      "name": "Adaman"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG58.ts",
+      "id": "GG58",
+      "name": "Cheren"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG59.ts",
+      "id": "GG59",
+      "name": "Colress"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG60.ts",
+      "id": "GG60",
+      "name": "Cynthia"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG61.ts",
+      "id": "GG61",
+      "name": "Gardenia"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG62.ts",
+      "id": "GG62",
+      "name": "Grant"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG63.ts",
+      "id": "GG63",
+      "name": "Irida"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG64.ts",
+      "id": "GG64",
+      "name": "Melony"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG65.ts",
+      "id": "GG65",
+      "name": "Raihan"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG66.ts",
+      "id": "GG66",
+      "name": "Roxanne"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG67.ts",
+      "id": "GG67",
+      "name": "Origin Forme Palkia VSTAR"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG68.ts",
+      "id": "GG68",
+      "name": "Origin Forme Dialga VSTAR"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG69.ts",
+      "id": "GG69",
+      "name": "Giratina VSTAR"
+    },
+    {
+      "file": "data/Sword & Shield/Crown Zenith/GG70.ts",
+      "id": "GG70",
+      "name": "Arceus VSTAR"
+    }
+  ]
+}

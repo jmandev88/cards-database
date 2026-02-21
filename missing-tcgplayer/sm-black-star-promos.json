@@ -1,0 +1,1225 @@
+{
+  "set": "SM Black Star Promos",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM01.ts",
+      "id": "SM01",
+      "name": "Rowlet"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM02.ts",
+      "id": "SM02",
+      "name": "Litten"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM03.ts",
+      "id": "SM03",
+      "name": "Popplio"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM04.ts",
+      "id": "SM04",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM05.ts",
+      "id": "SM05",
+      "name": "Snorlax GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM06.ts",
+      "id": "SM06",
+      "name": "Rockruff"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM07.ts",
+      "id": "SM07",
+      "name": "Pikipek"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM08.ts",
+      "id": "SM08",
+      "name": "Litten"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM09.ts",
+      "id": "SM09",
+      "name": "Togedemaru"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM10.ts",
+      "id": "SM10",
+      "name": "Shiinotic"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM100.ts",
+      "id": "SM100",
+      "name": "Lucario GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM101.ts",
+      "id": "SM101",
+      "name": "Dawn Wings Necrozma GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM102.ts",
+      "id": "SM102",
+      "name": "Dusk Mane Necrozma GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM103.ts",
+      "id": "SM103",
+      "name": "Lunala GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM104.ts",
+      "id": "SM104",
+      "name": "Solgaleo GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM105.ts",
+      "id": "SM105",
+      "name": "Lycanroc"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM106.ts",
+      "id": "SM106",
+      "name": "Dawn Wings Necrozma"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM107.ts",
+      "id": "SM107",
+      "name": "Dusk Mane Necrozma"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM108.ts",
+      "id": "SM108",
+      "name": "Ash"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM109.ts",
+      "id": "SM109",
+      "name": "Ash"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM11.ts",
+      "id": "SM11",
+      "name": "Bruxish"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM110.ts",
+      "id": "SM110",
+      "name": "Ash"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM111.ts",
+      "id": "SM111",
+      "name": "Ash"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM112.ts",
+      "id": "SM112",
+      "name": "Ash"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM113.ts",
+      "id": "SM113",
+      "name": "Ash"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM114.ts",
+      "id": "SM114",
+      "name": "Ash"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM115.ts",
+      "id": "SM115",
+      "name": "Pheromosa"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM116.ts",
+      "id": "SM116",
+      "name": "Xurkitree"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM117.ts",
+      "id": "SM117",
+      "name": "Malamar"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM118.ts",
+      "id": "SM118",
+      "name": "Lycanroc"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM119.ts",
+      "id": "SM119",
+      "name": "Exeggcute"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM12.ts",
+      "id": "SM12",
+      "name": "Passimian"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM120.ts",
+      "id": "SM120",
+      "name": "Rockruff"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM121.ts",
+      "id": "SM121",
+      "name": "Raikou GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM122.ts",
+      "id": "SM122",
+      "name": "Zygarde GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM123.ts",
+      "id": "SM123",
+      "name": "Dawn Wings Necrozma"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM124.ts",
+      "id": "SM124",
+      "name": "Dusk Mane Necrozma"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM125.ts",
+      "id": "SM125",
+      "name": "Naganadel GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM126.ts",
+      "id": "SM126",
+      "name": "Ultra Necrozma GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM127.ts",
+      "id": "SM127",
+      "name": "Alolan Sandslash"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM128.ts",
+      "id": "SM128",
+      "name": "Alolan Ninetales"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM129.ts",
+      "id": "SM129",
+      "name": "Kyogre"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM13.ts",
+      "id": "SM13",
+      "name": "Oranguru"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM130.ts",
+      "id": "SM130",
+      "name": "Manectric"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM131.ts",
+      "id": "SM131",
+      "name": "Celesteela"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM132.ts",
+      "id": "SM132",
+      "name": "Delcatty"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM133.ts",
+      "id": "SM133",
+      "name": "Thundurus GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM134.ts",
+      "id": "SM134",
+      "name": "Tornadus GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM135.ts",
+      "id": "SM135",
+      "name": "Latias"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM136.ts",
+      "id": "SM136",
+      "name": "Latios"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM137.ts",
+      "id": "SM137",
+      "name": "Reshiram GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM138.ts",
+      "id": "SM138",
+      "name": "Zekrom GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM139.ts",
+      "id": "SM139",
+      "name": "Salamence GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM14.ts",
+      "id": "SM14",
+      "name": "Lycanroc GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM140.ts",
+      "id": "SM140",
+      "name": "Salamence"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM141.ts",
+      "id": "SM141",
+      "name": "White Kyurem GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM142.ts",
+      "id": "SM142",
+      "name": "Kyurem"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM143.ts",
+      "id": "SM143",
+      "name": "Moltres"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM144.ts",
+      "id": "SM144",
+      "name": "Articuno"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM145.ts",
+      "id": "SM145",
+      "name": "Zapdos"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM146.ts",
+      "id": "SM146",
+      "name": "Leafeon GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM147.ts",
+      "id": "SM147",
+      "name": "Glaceon GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM148.ts",
+      "id": "SM148",
+      "name": "Champions Festival"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM149.ts",
+      "id": "SM149",
+      "name": "Suicune"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM15.ts",
+      "id": "SM15",
+      "name": "Zygarde"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM150.ts",
+      "id": "SM150",
+      "name": "Raikou"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM151.ts",
+      "id": "SM151",
+      "name": "Giratina"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM152.ts",
+      "id": "SM152",
+      "name": "Tapu Lele"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM153.ts",
+      "id": "SM153",
+      "name": "Rowlet"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM154.ts",
+      "id": "SM154",
+      "name": "Salandit"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM155.ts",
+      "id": "SM155",
+      "name": "Kingdra GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM156.ts",
+      "id": "SM156",
+      "name": "Dragonite GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM157.ts",
+      "id": "SM157",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM158.ts",
+      "id": "SM158",
+      "name": "Charizard"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM159.ts",
+      "id": "SM159",
+      "name": "Zapdos"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM16.ts",
+      "id": "SM16",
+      "name": "Solgaleo GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM160.ts",
+      "id": "SM160",
+      "name": "Nidoqueen"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM161.ts",
+      "id": "SM161",
+      "name": "Jirachi"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM162.ts",
+      "id": "SM162",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM163.ts",
+      "id": "SM163",
+      "name": "Mimikyu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM164.ts",
+      "id": "SM164",
+      "name": "Deoxys"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM165.ts",
+      "id": "SM165",
+      "name": "Ultra Necrozma"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM166.ts",
+      "id": "SM166",
+      "name": "Magikarp & Wailord GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM167.ts",
+      "id": "SM167",
+      "name": "Celebi & Venusaur GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM168.ts",
+      "id": "SM168",
+      "name": "Pikachu & Zekrom GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM169.ts",
+      "id": "SM169",
+      "name": "Eevee & Snorlax GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM17.ts",
+      "id": "SM17",
+      "name": "Lunala GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM170.ts",
+      "id": "SM170",
+      "name": "Detective Pikachu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM171.ts",
+      "id": "SM171",
+      "name": "Flareon GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM172.ts",
+      "id": "SM172",
+      "name": "Vaporeon GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM173.ts",
+      "id": "SM173",
+      "name": "Jolteon GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM174.ts",
+      "id": "SM174",
+      "name": "Eevee GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM175.ts",
+      "id": "SM175",
+      "name": "Eevee GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM176.ts",
+      "id": "SM176",
+      "name": "Eevee GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM177.ts",
+      "id": "SM177",
+      "name": "Meltan"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM178.ts",
+      "id": "SM178",
+      "name": "Melmetal GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM179.ts",
+      "id": "SM179",
+      "name": "Volcanion"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM18.ts",
+      "id": "SM18",
+      "name": "Alolan Sandslash"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM180.ts",
+      "id": "SM180",
+      "name": "Stakataka"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM181.ts",
+      "id": "SM181",
+      "name": "Melmetal"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM182.ts",
+      "id": "SM182",
+      "name": "Persian"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM183.ts",
+      "id": "SM183",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM184.ts",
+      "id": "SM184",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM185.ts",
+      "id": "SM185",
+      "name": "Typhlosion"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM186.ts",
+      "id": "SM186",
+      "name": "Flareon"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM187.ts",
+      "id": "SM187",
+      "name": "Alolan Marowak GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM188.ts",
+      "id": "SM188",
+      "name": "Kangaskhan GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM189.ts",
+      "id": "SM189",
+      "name": "Blastoise GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM19.ts",
+      "id": "SM19",
+      "name": "Oricorio"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM190.ts",
+      "id": "SM190",
+      "name": "Detective Pikachu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM191.ts",
+      "id": "SM191",
+      "name": "Mewtwo & Mew GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM192.ts",
+      "id": "SM192",
+      "name": "Lucario & Melmetal GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM193.ts",
+      "id": "SM193",
+      "name": "Garchomp & Giratina GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM194.ts",
+      "id": "SM194",
+      "name": "Detective Pikachu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM195.ts",
+      "id": "SM195",
+      "name": "Charizard GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM196.ts",
+      "id": "SM196",
+      "name": "Mewtwo GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM197.ts",
+      "id": "SM197",
+      "name": "Greninja GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM198.ts",
+      "id": "SM198",
+      "name": "Bulbasaur"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM199.ts",
+      "id": "SM199",
+      "name": "Psyduck"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM20.ts",
+      "id": "SM20",
+      "name": "Mudsdale"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM200.ts",
+      "id": "SM200",
+      "name": "Snubbull"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM201.ts",
+      "id": "SM201",
+      "name": "Reshiram & Charizard GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM202.ts",
+      "id": "SM202",
+      "name": "Amoonguss"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM203.ts",
+      "id": "SM203",
+      "name": "Tapu Fini"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM204.ts",
+      "id": "SM204",
+      "name": "Necrozma"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM205.ts",
+      "id": "SM205",
+      "name": "Terrakion"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM206.ts",
+      "id": "SM206",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM207.ts",
+      "id": "SM207",
+      "name": "Sudowoodo"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM208.ts",
+      "id": "SM208",
+      "name": "Vikavolt"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM209.ts",
+      "id": "SM209",
+      "name": "Stakataka"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM21.ts",
+      "id": "SM21",
+      "name": "Drampa"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM210.ts",
+      "id": "SM210",
+      "name": "Moltres & Zapdos & Articuno GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM211.ts",
+      "id": "SM211",
+      "name": "Charizard GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM212.ts",
+      "id": "SM212",
+      "name": "Gyarados GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM213.ts",
+      "id": "SM213",
+      "name": "Raichu GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM214.ts",
+      "id": "SM214",
+      "name": "Mewtwo"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM215.ts",
+      "id": "SM215",
+      "name": "Mew"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM216.ts",
+      "id": "SM216",
+      "name": "Porygon-Z GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM217.ts",
+      "id": "SM217",
+      "name": "Trevenant & Dusknoir GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM218.ts",
+      "id": "SM218",
+      "name": "Buzzwole"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM219.ts",
+      "id": "SM219",
+      "name": "Entei"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM22.ts",
+      "id": "SM22",
+      "name": "Rowlet"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM220.ts",
+      "id": "SM220",
+      "name": "Phione"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM221.ts",
+      "id": "SM221",
+      "name": "Blacephalon"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM222.ts",
+      "id": "SM222",
+      "name": "Mismagius"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM223.ts",
+      "id": "SM223",
+      "name": "Terrakion"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM224.ts",
+      "id": "SM224",
+      "name": "Celebi"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM225.ts",
+      "id": "SM225",
+      "name": "Victini"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM226.ts",
+      "id": "SM226",
+      "name": "Charizard"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM227.ts",
+      "id": "SM227",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM228.ts",
+      "id": "SM228",
+      "name": "Armored Mewtwo"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM229.ts",
+      "id": "SM229",
+      "name": "Venusaur & Snivy GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM23.ts",
+      "id": "SM23",
+      "name": "Litten"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM230.ts",
+      "id": "SM230",
+      "name": "Charizard & Braixen GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM231.ts",
+      "id": "SM231",
+      "name": "Champions Festival"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM232.ts",
+      "id": "SM232",
+      "name": "Pikachu GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM233.ts",
+      "id": "SM233",
+      "name": "Eevee GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM234.ts",
+      "id": "SM234",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM235.ts",
+      "id": "SM235",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM236.ts",
+      "id": "SM236",
+      "name": "Alolan Sandslash GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM237.ts",
+      "id": "SM237",
+      "name": "Leafeon"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM238.ts",
+      "id": "SM238",
+      "name": "Glaceon"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM239.ts",
+      "id": "SM239",
+      "name": "Carracosta GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM24.ts",
+      "id": "SM24",
+      "name": "Popplio"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM240.ts",
+      "id": "SM240",
+      "name": "Espeon & Deoxys GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM241.ts",
+      "id": "SM241",
+      "name": "Umbreon & Darkrai GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM242.ts",
+      "id": "SM242",
+      "name": "Eevee GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM243.ts",
+      "id": "SM243",
+      "name": "Regigigas"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM244.ts",
+      "id": "SM244",
+      "name": "Aipom"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM25.ts",
+      "id": "SM25",
+      "name": "Lurantis"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM26.ts",
+      "id": "SM26",
+      "name": "Tsareena"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM27.ts",
+      "id": "SM27",
+      "name": "Turtonator"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM28.ts",
+      "id": "SM28",
+      "name": "Vikavolt"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM29.ts",
+      "id": "SM29",
+      "name": "Mimikyu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM30.ts",
+      "id": "SM30",
+      "name": "Tapu Koko"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM31.ts",
+      "id": "SM31",
+      "name": "Tapu Koko"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM32.ts",
+      "id": "SM32",
+      "name": "Tapu Bulu GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM33.ts",
+      "id": "SM33",
+      "name": "Tapu Koko GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM34.ts",
+      "id": "SM34",
+      "name": "Bewear GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM35.ts",
+      "id": "SM35",
+      "name": "Espeon GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM36.ts",
+      "id": "SM36",
+      "name": "Umbreon GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM37.ts",
+      "id": "SM37",
+      "name": "Decidueye GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM38.ts",
+      "id": "SM38",
+      "name": "Incineroar GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM39.ts",
+      "id": "SM39",
+      "name": "Primarina GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM40.ts",
+      "id": "SM40",
+      "name": "Jangmo-o"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM41.ts",
+      "id": "SM41",
+      "name": "Komala"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM42.ts",
+      "id": "SM42",
+      "name": "Cosmog"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM43.ts",
+      "id": "SM43",
+      "name": "Alolan Meowth"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM44.ts",
+      "id": "SM44",
+      "name": "Togedemaru"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM45.ts",
+      "id": "SM45",
+      "name": "Tapu Lele"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM46.ts",
+      "id": "SM46",
+      "name": "Seviper"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM47.ts",
+      "id": "SM47",
+      "name": "Crabominable"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM48.ts",
+      "id": "SM48",
+      "name": "Zygarde"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM49.ts",
+      "id": "SM49",
+      "name": "Bewear"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM50.ts",
+      "id": "SM50",
+      "name": "Tapu Koko GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM51.ts",
+      "id": "SM51",
+      "name": "Alolan Meowth"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM52.ts",
+      "id": "SM52",
+      "name": "Golisopod"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM53.ts",
+      "id": "SM53",
+      "name": "Dhelmise"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM54.ts",
+      "id": "SM54",
+      "name": "Lucario"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM55.ts",
+      "id": "SM55",
+      "name": "Decidueye"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM56.ts",
+      "id": "SM56",
+      "name": "Tsareena GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM57.ts",
+      "id": "SM57",
+      "name": "Ho-Oh GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM58.ts",
+      "id": "SM58",
+      "name": "Necrozma GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM59.ts",
+      "id": "SM59",
+      "name": "Marshadow GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM60.ts",
+      "id": "SM60",
+      "name": "Charizard GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM61.ts",
+      "id": "SM61",
+      "name": "Tapu Bulu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM62.ts",
+      "id": "SM62",
+      "name": "Golisopod GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM63.ts",
+      "id": "SM63",
+      "name": "Salazzle GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM64.ts",
+      "id": "SM64",
+      "name": "Silvally"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM65.ts",
+      "id": "SM65",
+      "name": "Alolan Raichu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM66.ts",
+      "id": "SM66",
+      "name": "Pheromosa GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM67.ts",
+      "id": "SM67",
+      "name": "Celesteela GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM68.ts",
+      "id": "SM68",
+      "name": "Xurkitree GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM69.ts",
+      "id": "SM69",
+      "name": "Buzzwole GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM70.ts",
+      "id": "SM70",
+      "name": "Shining Ho-Oh"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM71.ts",
+      "id": "SM71",
+      "name": "Kommo-o GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM72.ts",
+      "id": "SM72",
+      "name": "Alolan Raichu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM73.ts",
+      "id": "SM73",
+      "name": "Salazzle"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM74.ts",
+      "id": "SM74",
+      "name": "Regirock"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM75.ts",
+      "id": "SM75",
+      "name": "Registeel"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM76.ts",
+      "id": "SM76",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM77.ts",
+      "id": "SM77",
+      "name": "Mewtwo"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM78.ts",
+      "id": "SM78",
+      "name": "Champions Festival"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM79.ts",
+      "id": "SM79",
+      "name": "Shining Celebi"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM80.ts",
+      "id": "SM80",
+      "name": "Ho-Oh GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM81.ts",
+      "id": "SM81",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM82.ts",
+      "id": "SM82",
+      "name": "Shining Lugia"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM83.ts",
+      "id": "SM83",
+      "name": "Zorua"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM84.ts",
+      "id": "SM84",
+      "name": "Zoroark GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM85.ts",
+      "id": "SM85",
+      "name": "Marshadow"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM86.ts",
+      "id": "SM86",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM87.ts",
+      "id": "SM87",
+      "name": "Latias"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM88.ts",
+      "id": "SM88",
+      "name": "Latios"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM89.ts",
+      "id": "SM89",
+      "name": "Zoroark"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM90.ts",
+      "id": "SM90",
+      "name": "Raichu GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM91.ts",
+      "id": "SM91",
+      "name": "Silvally GX"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM92.ts",
+      "id": "SM92",
+      "name": "Tapu Fini"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM93.ts",
+      "id": "SM93",
+      "name": "Marshadow"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM94.ts",
+      "id": "SM94",
+      "name": "Wash Rotom"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM95.ts",
+      "id": "SM95",
+      "name": "Lucario"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM96.ts",
+      "id": "SM96",
+      "name": "Heatran"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM97.ts",
+      "id": "SM97",
+      "name": "Gumshoos"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM98.ts",
+      "id": "SM98",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Sun & Moon/SM Black Star Promos/SM99.ts",
+      "id": "SM99",
+      "name": "Mimikyu"
+    }
+  ]
+}

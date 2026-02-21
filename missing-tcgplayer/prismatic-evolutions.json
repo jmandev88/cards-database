@@ -1,0 +1,905 @@
+{
+  "set": "Prismatic Evolutions",
+  "missing": [
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/001.ts",
+      "id": "001",
+      "name": "Exeggcute"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/002.ts",
+      "id": "002",
+      "name": "Exeggutor"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/003.ts",
+      "id": "003",
+      "name": "Pinsir"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/004.ts",
+      "id": "004",
+      "name": "Budew"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/005.ts",
+      "id": "005",
+      "name": "Leafeon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/006.ts",
+      "id": "006",
+      "name": "Leafeon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/007.ts",
+      "id": "007",
+      "name": "Cottonee"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/008.ts",
+      "id": "008",
+      "name": "Whimsicott"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/009.ts",
+      "id": "009",
+      "name": "Applin"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/010.ts",
+      "id": "010",
+      "name": "Dipplin"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/011.ts",
+      "id": "011",
+      "name": "Hydrapple ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/012.ts",
+      "id": "012",
+      "name": "Teal Mask Ogerpon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/013.ts",
+      "id": "013",
+      "name": "Flareon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/014.ts",
+      "id": "014",
+      "name": "Flareon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/015.ts",
+      "id": "015",
+      "name": "Litleo"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/016.ts",
+      "id": "016",
+      "name": "Pyroar"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/017.ts",
+      "id": "017",
+      "name": "Hearthflame Mask Ogerpon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/018.ts",
+      "id": "018",
+      "name": "Slowpoke"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/019.ts",
+      "id": "019",
+      "name": "Slowking"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/020.ts",
+      "id": "020",
+      "name": "Goldeen"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/021.ts",
+      "id": "021",
+      "name": "Seaking"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/022.ts",
+      "id": "022",
+      "name": "Vaporeon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/023.ts",
+      "id": "023",
+      "name": "Vaporeon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/024.ts",
+      "id": "024",
+      "name": "Suicune"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/025.ts",
+      "id": "025",
+      "name": "Glaceon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/026.ts",
+      "id": "026",
+      "name": "Glaceon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/027.ts",
+      "id": "027",
+      "name": "Wellspring Mask Ogerpon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/028.ts",
+      "id": "028",
+      "name": "Pikachu ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/029.ts",
+      "id": "029",
+      "name": "Jolteon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/030.ts",
+      "id": "030",
+      "name": "Jolteon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/031.ts",
+      "id": "031",
+      "name": "Iron Hands ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/032.ts",
+      "id": "032",
+      "name": "Iron Thorns ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/033.ts",
+      "id": "033",
+      "name": "Espeon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/034.ts",
+      "id": "034",
+      "name": "Espeon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/035.ts",
+      "id": "035",
+      "name": "Duskull"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/036.ts",
+      "id": "036",
+      "name": "Dusclops"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/037.ts",
+      "id": "037",
+      "name": "Dusknoir"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/038.ts",
+      "id": "038",
+      "name": "Spritzee"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/039.ts",
+      "id": "039",
+      "name": "Aromatisse"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/040.ts",
+      "id": "040",
+      "name": "Sylveon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/041.ts",
+      "id": "041",
+      "name": "Sylveon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/042.ts",
+      "id": "042",
+      "name": "Scream Tail"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/043.ts",
+      "id": "043",
+      "name": "Flutter Mane"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/044.ts",
+      "id": "044",
+      "name": "Munkidori"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/045.ts",
+      "id": "045",
+      "name": "Fezandipiti"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/046.ts",
+      "id": "046",
+      "name": "Iron Boulder"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/047.ts",
+      "id": "047",
+      "name": "Larvitar"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/048.ts",
+      "id": "048",
+      "name": "Pupitar"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/049.ts",
+      "id": "049",
+      "name": "Groudon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/050.ts",
+      "id": "050",
+      "name": "Riolu"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/051.ts",
+      "id": "051",
+      "name": "Lucario ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/052.ts",
+      "id": "052",
+      "name": "Hippopotas"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/053.ts",
+      "id": "053",
+      "name": "Hippowdon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/054.ts",
+      "id": "054",
+      "name": "Bloodmoon Ursaluna"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/055.ts",
+      "id": "055",
+      "name": "Great Tusk"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/056.ts",
+      "id": "056",
+      "name": "Sandy Shocks ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/057.ts",
+      "id": "057",
+      "name": "Okidogi"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/058.ts",
+      "id": "058",
+      "name": "Cornerstone Mask Ogerpon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/059.ts",
+      "id": "059",
+      "name": "Umbreon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/060.ts",
+      "id": "060",
+      "name": "Umbreon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/061.ts",
+      "id": "061",
+      "name": "Sneasel"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/062.ts",
+      "id": "062",
+      "name": "Houndour"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/063.ts",
+      "id": "063",
+      "name": "Houndoom"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/064.ts",
+      "id": "064",
+      "name": "Tyranitar ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/065.ts",
+      "id": "065",
+      "name": "Roaring Moon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/066.ts",
+      "id": "066",
+      "name": "Bronzor"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/067.ts",
+      "id": "067",
+      "name": "Bronzong"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/068.ts",
+      "id": "068",
+      "name": "Heatran"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/069.ts",
+      "id": "069",
+      "name": "Duraludon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/070.ts",
+      "id": "070",
+      "name": "Archaludon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/071.ts",
+      "id": "071",
+      "name": "Dreepy"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/072.ts",
+      "id": "072",
+      "name": "Drakloak"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/073.ts",
+      "id": "073",
+      "name": "Dragapult ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/074.ts",
+      "id": "074",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/075.ts",
+      "id": "075",
+      "name": "Eevee ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/076.ts",
+      "id": "076",
+      "name": "Snorlax ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/077.ts",
+      "id": "077",
+      "name": "Hoothoot"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/078.ts",
+      "id": "078",
+      "name": "Noctowl"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/079.ts",
+      "id": "079",
+      "name": "Dunsparce"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/080.ts",
+      "id": "080",
+      "name": "Dudunsparce"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/081.ts",
+      "id": "081",
+      "name": "Miltank"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/082.ts",
+      "id": "082",
+      "name": "Lugia ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/083.ts",
+      "id": "083",
+      "name": "Buneary"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/084.ts",
+      "id": "084",
+      "name": "Lopunny"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/085.ts",
+      "id": "085",
+      "name": "Fan Rotom"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/086.ts",
+      "id": "086",
+      "name": "Regigigas"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/087.ts",
+      "id": "087",
+      "name": "Shaymin"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/088.ts",
+      "id": "088",
+      "name": "Furfrou"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/089.ts",
+      "id": "089",
+      "name": "Hawlucha"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/090.ts",
+      "id": "090",
+      "name": "Noibat"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/091.ts",
+      "id": "091",
+      "name": "Noivern ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/092.ts",
+      "id": "092",
+      "name": "Terapagos ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/093.ts",
+      "id": "093",
+      "name": "Amarys"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/094.ts",
+      "id": "094",
+      "name": "Area Zero Underdepths"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/095.ts",
+      "id": "095",
+      "name": "Binding Mochi"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/096.ts",
+      "id": "096",
+      "name": "Black Belt"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/097.ts",
+      "id": "097",
+      "name": "Black Belt"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/098.ts",
+      "id": "098",
+      "name": "Black Belt"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/099.ts",
+      "id": "099",
+      "name": "Black Belt"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/100.ts",
+      "id": "100",
+      "name": "Briar"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/101.ts",
+      "id": "101",
+      "name": "Buddy-Buddy Poffin"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/102.ts",
+      "id": "102",
+      "name": "Bug Catching Set"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/103.ts",
+      "id": "103",
+      "name": "Carmine"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/104.ts",
+      "id": "104",
+      "name": "Ciphermaniac"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/105.ts",
+      "id": "105",
+      "name": "Crispin"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/106.ts",
+      "id": "106",
+      "name": "Earthen Vessel"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/107.ts",
+      "id": "107",
+      "name": "Explorer"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/108.ts",
+      "id": "108",
+      "name": "Festival Grounds"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/109.ts",
+      "id": "109",
+      "name": "Friends in Paldea"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/110.ts",
+      "id": "110",
+      "name": "Glass Trumpet"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/111.ts",
+      "id": "111",
+      "name": "Haban Berry"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/112.ts",
+      "id": "112",
+      "name": "Janine"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/113.ts",
+      "id": "113",
+      "name": "Kieran"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/114.ts",
+      "id": "114",
+      "name": "Lacey"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/115.ts",
+      "id": "115",
+      "name": "Larry"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/116.ts",
+      "id": "116",
+      "name": "Max Rod"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/117.ts",
+      "id": "117",
+      "name": "Maximum Belt"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/118.ts",
+      "id": "118",
+      "name": "Ogre"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/119.ts",
+      "id": "119",
+      "name": "Prime Catcher"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/120.ts",
+      "id": "120",
+      "name": "Professor Sada"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/121.ts",
+      "id": "121",
+      "name": "Professor Turo"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/122.ts",
+      "id": "122",
+      "name": "Professor"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/123.ts",
+      "id": "123",
+      "name": "Professor"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/124.ts",
+      "id": "124",
+      "name": "Professor"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/125.ts",
+      "id": "125",
+      "name": "Professor"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/126.ts",
+      "id": "126",
+      "name": "Rescue Board"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/127.ts",
+      "id": "127",
+      "name": "Roto-Stick"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/128.ts",
+      "id": "128",
+      "name": "Scoop Up Cyclone"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/129.ts",
+      "id": "129",
+      "name": "Sparkling Crystal"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/130.ts",
+      "id": "130",
+      "name": "Techno Radar"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/131.ts",
+      "id": "131",
+      "name": "Treasure Tracker"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/132.ts",
+      "id": "132",
+      "name": "Amarys"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/133.ts",
+      "id": "133",
+      "name": "Atticus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/134.ts",
+      "id": "134",
+      "name": "Atticus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/135.ts",
+      "id": "135",
+      "name": "Brassius"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/136.ts",
+      "id": "136",
+      "name": "Eri"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/137.ts",
+      "id": "137",
+      "name": "Friends in Paldea"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/138.ts",
+      "id": "138",
+      "name": "Giacomo"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/139.ts",
+      "id": "139",
+      "name": "Larry"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/140.ts",
+      "id": "140",
+      "name": "Mela"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/141.ts",
+      "id": "141",
+      "name": "Ortega"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/142.ts",
+      "id": "142",
+      "name": "Raifort"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/143.ts",
+      "id": "143",
+      "name": "Tyme"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/144.ts",
+      "id": "144",
+      "name": "Leafeon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/145.ts",
+      "id": "145",
+      "name": "Teal Mask Ogerpon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/146.ts",
+      "id": "146",
+      "name": "Flareon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/147.ts",
+      "id": "147",
+      "name": "Ceruledge ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/148.ts",
+      "id": "148",
+      "name": "Hearthflame Mask Ogerpon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/149.ts",
+      "id": "149",
+      "name": "Vaporeon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/150.ts",
+      "id": "150",
+      "name": "Glaceon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/151.ts",
+      "id": "151",
+      "name": "Palafin ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/152.ts",
+      "id": "152",
+      "name": "Wellspring Mask Ogerpon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/153.ts",
+      "id": "153",
+      "name": "Jolteon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/154.ts",
+      "id": "154",
+      "name": "Iron Hands ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/155.ts",
+      "id": "155",
+      "name": "Espeon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/156.ts",
+      "id": "156",
+      "name": "Sylveon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/157.ts",
+      "id": "157",
+      "name": "Iron Valiant ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/158.ts",
+      "id": "158",
+      "name": "Iron Crown ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/159.ts",
+      "id": "159",
+      "name": "Sandy Shocks ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/160.ts",
+      "id": "160",
+      "name": "Cornerstone Mask Ogerpon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/161.ts",
+      "id": "161",
+      "name": "Umbreon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/162.ts",
+      "id": "162",
+      "name": "Roaring Moon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/163.ts",
+      "id": "163",
+      "name": "Pecharunt ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/164.ts",
+      "id": "164",
+      "name": "Gholdengo ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/165.ts",
+      "id": "165",
+      "name": "Dragapult ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/166.ts",
+      "id": "166",
+      "name": "Raging Bolt ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/167.ts",
+      "id": "167",
+      "name": "Eevee ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/168.ts",
+      "id": "168",
+      "name": "Bloodmoon Ursaluna ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/169.ts",
+      "id": "169",
+      "name": "Terapagos ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/170.ts",
+      "id": "170",
+      "name": "Amarys"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/171.ts",
+      "id": "171",
+      "name": "Crispin"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/172.ts",
+      "id": "172",
+      "name": "Drayton"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/173.ts",
+      "id": "173",
+      "name": "Janine"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/174.ts",
+      "id": "174",
+      "name": "Kieran"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/175.ts",
+      "id": "175",
+      "name": "Lacey"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/176.ts",
+      "id": "176",
+      "name": "Iron Leaves ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/177.ts",
+      "id": "177",
+      "name": "Teal Mask Ogerpon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/178.ts",
+      "id": "178",
+      "name": "Walking Wake ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/179.ts",
+      "id": "179",
+      "name": "Pikachu ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Prismatic Evolutions/180.ts",
+      "id": "180",
+      "name": "Terapagos ex"
+    }
+  ]
+}

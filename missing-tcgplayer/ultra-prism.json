@@ -1,0 +1,65 @@
+{
+  "set": "Ultra Prism",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/Ultra Prism/120.ts",
+      "id": "120",
+      "name": "Cyrus ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Ultra Prism/133.ts",
+      "id": "133",
+      "name": "Pokémon Fan Club"
+    },
+    {
+      "file": "data/Sun & Moon/Ultra Prism/136.ts",
+      "id": "136",
+      "name": "Super Boost Energy ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Ultra Prism/137.ts",
+      "id": "137",
+      "name": "Unit Energy GrassFireWater"
+    },
+    {
+      "file": "data/Sun & Moon/Ultra Prism/138.ts",
+      "id": "138",
+      "name": "Unit Energy LightningPsychicMetal"
+    },
+    {
+      "file": "data/Sun & Moon/Ultra Prism/155.ts",
+      "id": "155",
+      "name": "Pokémon Fan Club"
+    },
+    {
+      "file": "data/Sun & Moon/Ultra Prism/170.ts",
+      "id": "170",
+      "name": "Unit Energy GrassFireWater"
+    },
+    {
+      "file": "data/Sun & Moon/Ultra Prism/171.ts",
+      "id": "171",
+      "name": "Unit Energy LightningPsychicMetal"
+    },
+    {
+      "file": "data/Sun & Moon/Ultra Prism/58.ts",
+      "id": "58",
+      "name": "Giratina ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Ultra Prism/62.ts",
+      "id": "62",
+      "name": "Lunala ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Ultra Prism/77.ts",
+      "id": "77",
+      "name": "Darkrai ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Ultra Prism/89.ts",
+      "id": "89",
+      "name": "Solgaleo ◇"
+    }
+  ]
+}

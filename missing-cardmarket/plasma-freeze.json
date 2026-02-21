@@ -1,0 +1,75 @@
+{
+  "set": "Plasma Freeze",
+  "missing": [
+    {
+      "file": "data/Black & White/Plasma Freeze/109.ts",
+      "id": "109",
+      "name": "Heatran-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Freeze/110.ts",
+      "id": "110",
+      "name": "Thundurus-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Freeze/111.ts",
+      "id": "111",
+      "name": "Deoxys-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Freeze/112.ts",
+      "id": "112",
+      "name": "Latias-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Freeze/113.ts",
+      "id": "113",
+      "name": "Latios-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Freeze/114.ts",
+      "id": "114",
+      "name": "Tornadus-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Freeze/13.ts",
+      "id": "13",
+      "name": "Heatran-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Freeze/38.ts",
+      "id": "38",
+      "name": "Thundurus-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Freeze/40.ts",
+      "id": "40",
+      "name": "Nidoran♀"
+    },
+    {
+      "file": "data/Black & White/Plasma Freeze/43.ts",
+      "id": "43",
+      "name": "Nidoran♂"
+    },
+    {
+      "file": "data/Black & White/Plasma Freeze/53.ts",
+      "id": "53",
+      "name": "Deoxys-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Freeze/85.ts",
+      "id": "85",
+      "name": "Latias-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Freeze/86.ts",
+      "id": "86",
+      "name": "Latios-EX"
+    },
+    {
+      "file": "data/Black & White/Plasma Freeze/98.ts",
+      "id": "98",
+      "name": "Tornadus-EX"
+    }
+  ]
+}

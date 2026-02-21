@@ -1,0 +1,60 @@
+{
+  "set": "Sun & Moon",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/Sun & Moon/125.ts",
+      "id": "125",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/Sun & Moon/Sun & Moon/126.ts",
+      "id": "126",
+      "name": "Pokémon Catcher"
+    },
+    {
+      "file": "data/Sun & Moon/Sun & Moon/164.ts",
+      "id": "164",
+      "name": "Grass Energy"
+    },
+    {
+      "file": "data/Sun & Moon/Sun & Moon/165.ts",
+      "id": "165",
+      "name": "Fire Energy"
+    },
+    {
+      "file": "data/Sun & Moon/Sun & Moon/166.ts",
+      "id": "166",
+      "name": "Water Energy"
+    },
+    {
+      "file": "data/Sun & Moon/Sun & Moon/167.ts",
+      "id": "167",
+      "name": "Lightning Energy"
+    },
+    {
+      "file": "data/Sun & Moon/Sun & Moon/168.ts",
+      "id": "168",
+      "name": "Psychic Energy"
+    },
+    {
+      "file": "data/Sun & Moon/Sun & Moon/169.ts",
+      "id": "169",
+      "name": "Fighting Energy"
+    },
+    {
+      "file": "data/Sun & Moon/Sun & Moon/170.ts",
+      "id": "170",
+      "name": "Darkness Energy"
+    },
+    {
+      "file": "data/Sun & Moon/Sun & Moon/171.ts",
+      "id": "171",
+      "name": "Metal Energy"
+    },
+    {
+      "file": "data/Sun & Moon/Sun & Moon/172.ts",
+      "id": "172",
+      "name": "Fairy Energy"
+    }
+  ]
+}

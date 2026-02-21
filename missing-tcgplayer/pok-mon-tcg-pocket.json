@@ -1,0 +1,75 @@
+{
+  "set": "Pokémon TCG Pocket",
+  "missing": [
+    {
+      "file": "data/Pokémon TCG Pocket/Celestial Guardians.ts",
+      "id": "Celestial Guardians",
+      "name": "Celestial Guardians"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze.ts",
+      "id": "Crimson Blaze",
+      "name": "Crimson Blaze"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Eevee Grove.ts",
+      "id": "Eevee Grove",
+      "name": "Eevee Grove"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Extradimensional Crisis.ts",
+      "id": "Extradimensional Crisis",
+      "name": "Extradimensional Crisis"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Fantastical Parade.ts",
+      "id": "Fantastical Parade",
+      "name": "Fantastical Parade"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Genetic Apex.ts",
+      "id": "Genetic Apex",
+      "name": "Genetic Apex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mega Rising.ts",
+      "id": "Mega Rising",
+      "name": "Mega Rising"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island.ts",
+      "id": "Mythical Island",
+      "name": "Mythical Island"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Promos-A.ts",
+      "id": "Promos-A",
+      "name": "Promos-A"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Secluded Springs.ts",
+      "id": "Secluded Springs",
+      "name": "Secluded Springs"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry.ts",
+      "id": "Shining Revelry",
+      "name": "Shining Revelry"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Space-Time Smackdown.ts",
+      "id": "Space-Time Smackdown",
+      "name": "Space-Time Smackdown"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Triumphant Light.ts",
+      "id": "Triumphant Light",
+      "name": "Triumphant Light"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Wisdom of Sea and Sky.ts",
+      "id": "Wisdom of Sea and Sky",
+      "name": "Wisdom of Sea and Sky"
+    }
+  ]
+}

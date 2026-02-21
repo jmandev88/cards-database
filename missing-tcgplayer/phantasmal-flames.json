@@ -1,0 +1,655 @@
+{
+  "set": "Phantasmal Flames",
+  "missing": [
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/001.ts",
+      "id": "001",
+      "name": "Oddish"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/002.ts",
+      "id": "002",
+      "name": "Gloom"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/003.ts",
+      "id": "003",
+      "name": "Vileplume"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/004.ts",
+      "id": "004",
+      "name": "Mega Heracross ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/005.ts",
+      "id": "005",
+      "name": "Lotad"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/006.ts",
+      "id": "006",
+      "name": "Lombre"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/007.ts",
+      "id": "007",
+      "name": "Ludicolo"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/008.ts",
+      "id": "008",
+      "name": "Genesect"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/009.ts",
+      "id": "009",
+      "name": "Nymble"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/010.ts",
+      "id": "010",
+      "name": "Lokix"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/011.ts",
+      "id": "011",
+      "name": "Charmander"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/012.ts",
+      "id": "012",
+      "name": "Charmeleon"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/013.ts",
+      "id": "013",
+      "name": "Mega Charizard X ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/014.ts",
+      "id": "014",
+      "name": "Moltres"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/015.ts",
+      "id": "015",
+      "name": "Darumaka"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/016.ts",
+      "id": "016",
+      "name": "Darmanitan"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/017.ts",
+      "id": "017",
+      "name": "Reshiram"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/018.ts",
+      "id": "018",
+      "name": "Oricorio ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/019.ts",
+      "id": "019",
+      "name": "Charcadet"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/020.ts",
+      "id": "020",
+      "name": "Ceruledge"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/021.ts",
+      "id": "021",
+      "name": "Seel"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/022.ts",
+      "id": "022",
+      "name": "Dewgong"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/023.ts",
+      "id": "023",
+      "name": "Swinub"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/024.ts",
+      "id": "024",
+      "name": "Piloswine"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/025.ts",
+      "id": "025",
+      "name": "Mamoswine"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/026.ts",
+      "id": "026",
+      "name": "Suicune"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/027.ts",
+      "id": "027",
+      "name": "Piplup"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/028.ts",
+      "id": "028",
+      "name": "Prinplup"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/029.ts",
+      "id": "029",
+      "name": "Rotom ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/030.ts",
+      "id": "030",
+      "name": "Yamper"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/031.ts",
+      "id": "031",
+      "name": "Boltund"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/032.ts",
+      "id": "032",
+      "name": "Pawmi"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/033.ts",
+      "id": "033",
+      "name": "Pawmo"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/034.ts",
+      "id": "034",
+      "name": "Pawmot"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/035.ts",
+      "id": "035",
+      "name": "Misdreavus"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/036.ts",
+      "id": "036",
+      "name": "Mismagius ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/037.ts",
+      "id": "037",
+      "name": "Snubbull"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/038.ts",
+      "id": "038",
+      "name": "Granbull"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/039.ts",
+      "id": "039",
+      "name": "Cresselia"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/040.ts",
+      "id": "040",
+      "name": "Meloetta"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/041.ts",
+      "id": "041",
+      "name": "Mega Diancie ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/042.ts",
+      "id": "042",
+      "name": "Mimikyu"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/043.ts",
+      "id": "043",
+      "name": "Milcery"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/044.ts",
+      "id": "044",
+      "name": "Alcremie"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/045.ts",
+      "id": "045",
+      "name": "Zacian"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/046.ts",
+      "id": "046",
+      "name": "Bramblin"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/047.ts",
+      "id": "047",
+      "name": "Brambleghast"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/048.ts",
+      "id": "048",
+      "name": "Paldean Tauros"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/049.ts",
+      "id": "049",
+      "name": "Gligar"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/050.ts",
+      "id": "050",
+      "name": "Gliscor"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/051.ts",
+      "id": "051",
+      "name": "Trapinch"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/052.ts",
+      "id": "052",
+      "name": "Vibrava"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/053.ts",
+      "id": "053",
+      "name": "Flygon"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/054.ts",
+      "id": "054",
+      "name": "Gastly"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/055.ts",
+      "id": "055",
+      "name": "Haunter"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/056.ts",
+      "id": "056",
+      "name": "Mega Gengar ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/057.ts",
+      "id": "057",
+      "name": "Murkrow"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/058.ts",
+      "id": "058",
+      "name": "Honchkrow"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/059.ts",
+      "id": "059",
+      "name": "Sableye"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/060.ts",
+      "id": "060",
+      "name": "Carvanha"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/061.ts",
+      "id": "061",
+      "name": "Mega Sharpedo ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/062.ts",
+      "id": "062",
+      "name": "Seviper"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/063.ts",
+      "id": "063",
+      "name": "Absol"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/064.ts",
+      "id": "064",
+      "name": "Sandile"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/065.ts",
+      "id": "065",
+      "name": "Krokorok"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/066.ts",
+      "id": "066",
+      "name": "Krookodile"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/067.ts",
+      "id": "067",
+      "name": "Toxel"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/068.ts",
+      "id": "068",
+      "name": "Toxtricity"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/069.ts",
+      "id": "069",
+      "name": "Eternatus"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/070.ts",
+      "id": "070",
+      "name": "Empoleon ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/071.ts",
+      "id": "071",
+      "name": "Bronzor"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/072.ts",
+      "id": "072",
+      "name": "Bronzong"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/073.ts",
+      "id": "073",
+      "name": "Togedemaru"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/074.ts",
+      "id": "074",
+      "name": "Duraludon"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/075.ts",
+      "id": "075",
+      "name": "Archaludon"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/076.ts",
+      "id": "076",
+      "name": "Jigglypuff"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/077.ts",
+      "id": "077",
+      "name": "Wigglytuff"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/078.ts",
+      "id": "078",
+      "name": "Aipom"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/079.ts",
+      "id": "079",
+      "name": "Ambipom"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/080.ts",
+      "id": "080",
+      "name": "Smeargle"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/081.ts",
+      "id": "081",
+      "name": "Zigzagoon"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/082.ts",
+      "id": "082",
+      "name": "Linoone"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/083.ts",
+      "id": "083",
+      "name": "Buneary"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/084.ts",
+      "id": "084",
+      "name": "Mega Lopunny ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/085.ts",
+      "id": "085",
+      "name": "Battle Cage"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/086.ts",
+      "id": "086",
+      "name": "Blowtorch"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/087.ts",
+      "id": "087",
+      "name": "Dawn"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/088.ts",
+      "id": "088",
+      "name": "Dizzying Valley"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/089.ts",
+      "id": "089",
+      "name": "Firebreather"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/090.ts",
+      "id": "090",
+      "name": "Grimsley"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/091.ts",
+      "id": "091",
+      "name": "Jumbo Ice Cream"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/092.ts",
+      "id": "092",
+      "name": "Punk Helmet"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/093.ts",
+      "id": "093",
+      "name": "Sacred Charm"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/094.ts",
+      "id": "094",
+      "name": "Wondrous Patch"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/095.ts",
+      "id": "095",
+      "name": "Ludicolo"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/096.ts",
+      "id": "096",
+      "name": "Nymble"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/097.ts",
+      "id": "097",
+      "name": "Dewgong"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/098.ts",
+      "id": "098",
+      "name": "Piplup"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/099.ts",
+      "id": "099",
+      "name": "Yamper"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/100.ts",
+      "id": "100",
+      "name": "Zacian"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/101.ts",
+      "id": "101",
+      "name": "Flygon"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/102.ts",
+      "id": "102",
+      "name": "Paldean Wooper"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/103.ts",
+      "id": "103",
+      "name": "Toxtricity"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/104.ts",
+      "id": "104",
+      "name": "Togedemaru"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/105.ts",
+      "id": "105",
+      "name": "Wigglytuff"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/106.ts",
+      "id": "106",
+      "name": "Meowth"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/107.ts",
+      "id": "107",
+      "name": "Ambipom"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/108.ts",
+      "id": "108",
+      "name": "Mega Heracross ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/109.ts",
+      "id": "109",
+      "name": "Mega Charizard X ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/110.ts",
+      "id": "110",
+      "name": "Oricorio ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/111.ts",
+      "id": "111",
+      "name": "Rotom ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/112.ts",
+      "id": "112",
+      "name": "Mismagius ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/113.ts",
+      "id": "113",
+      "name": "Mega Sharpedo ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/114.ts",
+      "id": "114",
+      "name": "Empoleon ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/115.ts",
+      "id": "115",
+      "name": "Mega Lopunny ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/116.ts",
+      "id": "116",
+      "name": "Battle Cage"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/117.ts",
+      "id": "117",
+      "name": "Blowtorch"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/118.ts",
+      "id": "118",
+      "name": "Dawn"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/119.ts",
+      "id": "119",
+      "name": "Firebreather"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/120.ts",
+      "id": "120",
+      "name": "Grimsley"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/121.ts",
+      "id": "121",
+      "name": "Punk Helmet"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/122.ts",
+      "id": "122",
+      "name": "Sacred Charm"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/123.ts",
+      "id": "123",
+      "name": "Switch"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/124.ts",
+      "id": "124",
+      "name": "Ignition Energy"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/125.ts",
+      "id": "125",
+      "name": "Mega Charizard X ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/126.ts",
+      "id": "126",
+      "name": "Rotom ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/127.ts",
+      "id": "127",
+      "name": "Mega Sharpedo ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/128.ts",
+      "id": "128",
+      "name": "Mega Lopunny ex"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/129.ts",
+      "id": "129",
+      "name": "Dawn"
+    },
+    {
+      "file": "data/Mega Evolution/Phantasmal Flames/130.ts",
+      "id": "130",
+      "name": "Mega Charizard X ex"
+    }
+  ]
+}

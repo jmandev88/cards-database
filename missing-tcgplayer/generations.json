@@ -1,0 +1,190 @@
+{
+  "set": "Generations",
+  "missing": [
+    {
+      "file": "data/XY/Generations/28a.ts",
+      "id": "28a",
+      "name": "Jolteon-EX"
+    },
+    {
+      "file": "data/XY/Generations/67.ts",
+      "id": "67",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/XY/Generations/68.ts",
+      "id": "68",
+      "name": "Pokémon Center Lady"
+    },
+    {
+      "file": "data/XY/Generations/69.ts",
+      "id": "69",
+      "name": "Pokémon Fan Club"
+    },
+    {
+      "file": "data/XY/Generations/73a.ts",
+      "id": "73a",
+      "name": "Team Flare Grunt"
+    },
+    {
+      "file": "data/XY/Generations/RC1.ts",
+      "id": "RC1",
+      "name": "Chikorita"
+    },
+    {
+      "file": "data/XY/Generations/RC10.ts",
+      "id": "RC10",
+      "name": "Dedenne"
+    },
+    {
+      "file": "data/XY/Generations/RC11.ts",
+      "id": "RC11",
+      "name": "Wobbuffet"
+    },
+    {
+      "file": "data/XY/Generations/RC12.ts",
+      "id": "RC12",
+      "name": "Gulpin"
+    },
+    {
+      "file": "data/XY/Generations/RC13.ts",
+      "id": "RC13",
+      "name": "Jirachi"
+    },
+    {
+      "file": "data/XY/Generations/RC14.ts",
+      "id": "RC14",
+      "name": "Espurr"
+    },
+    {
+      "file": "data/XY/Generations/RC15.ts",
+      "id": "RC15",
+      "name": "Meowstic"
+    },
+    {
+      "file": "data/XY/Generations/RC16.ts",
+      "id": "RC16",
+      "name": "Yveltal"
+    },
+    {
+      "file": "data/XY/Generations/RC17.ts",
+      "id": "RC17",
+      "name": "Flabébé"
+    },
+    {
+      "file": "data/XY/Generations/RC18.ts",
+      "id": "RC18",
+      "name": "Floette"
+    },
+    {
+      "file": "data/XY/Generations/RC19.ts",
+      "id": "RC19",
+      "name": "Swirlix"
+    },
+    {
+      "file": "data/XY/Generations/RC2.ts",
+      "id": "RC2",
+      "name": "Shroomish"
+    },
+    {
+      "file": "data/XY/Generations/RC20.ts",
+      "id": "RC20",
+      "name": "Slurpuff"
+    },
+    {
+      "file": "data/XY/Generations/RC21.ts",
+      "id": "RC21",
+      "name": "Sylveon EX"
+    },
+    {
+      "file": "data/XY/Generations/RC22.ts",
+      "id": "RC22",
+      "name": "Diancie"
+    },
+    {
+      "file": "data/XY/Generations/RC23.ts",
+      "id": "RC23",
+      "name": "Swablu"
+    },
+    {
+      "file": "data/XY/Generations/RC24.ts",
+      "id": "RC24",
+      "name": "Altaria"
+    },
+    {
+      "file": "data/XY/Generations/RC25.ts",
+      "id": "RC25",
+      "name": "Fletchling"
+    },
+    {
+      "file": "data/XY/Generations/RC26.ts",
+      "id": "RC26",
+      "name": "Floral Crown"
+    },
+    {
+      "file": "data/XY/Generations/RC27.ts",
+      "id": "RC27",
+      "name": "Wally"
+    },
+    {
+      "file": "data/XY/Generations/RC28.ts",
+      "id": "RC28",
+      "name": "Flareon EX"
+    },
+    {
+      "file": "data/XY/Generations/RC29.ts",
+      "id": "RC29",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/XY/Generations/RC3.ts",
+      "id": "RC3",
+      "name": "Charmander"
+    },
+    {
+      "file": "data/XY/Generations/RC30.ts",
+      "id": "RC30",
+      "name": "Gardevoir EX"
+    },
+    {
+      "file": "data/XY/Generations/RC31.ts",
+      "id": "RC31",
+      "name": "M Gardevoir EX"
+    },
+    {
+      "file": "data/XY/Generations/RC32.ts",
+      "id": "RC32",
+      "name": "Sylveon EX"
+    },
+    {
+      "file": "data/XY/Generations/RC4.ts",
+      "id": "RC4",
+      "name": "Charmeleon"
+    },
+    {
+      "file": "data/XY/Generations/RC5.ts",
+      "id": "RC5",
+      "name": "Charizard"
+    },
+    {
+      "file": "data/XY/Generations/RC6.ts",
+      "id": "RC6",
+      "name": "Flareon EX"
+    },
+    {
+      "file": "data/XY/Generations/RC7.ts",
+      "id": "RC7",
+      "name": "Snorunt"
+    },
+    {
+      "file": "data/XY/Generations/RC8.ts",
+      "id": "RC8",
+      "name": "Froslass"
+    },
+    {
+      "file": "data/XY/Generations/RC9.ts",
+      "id": "RC9",
+      "name": "Raichu"
+    }
+  ]
+}

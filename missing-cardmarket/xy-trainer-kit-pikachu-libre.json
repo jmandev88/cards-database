@@ -1,0 +1,155 @@
+{
+  "set": "XY trainer Kit (Pikachu Libre)",
+  "missing": [
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/1.ts",
+      "id": "1",
+      "name": "Glameow"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/10.ts",
+      "id": "10",
+      "name": "Lightning Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/11.ts",
+      "id": "11",
+      "name": "Electrike"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/12.ts",
+      "id": "12",
+      "name": "Blitzle"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/13.ts",
+      "id": "13",
+      "name": "Manectric"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/14.ts",
+      "id": "14",
+      "name": "Pikachu Libre"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/15.ts",
+      "id": "15",
+      "name": "Electabuzz"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/16.ts",
+      "id": "16",
+      "name": "Fletchling"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/17.ts",
+      "id": "17",
+      "name": "Lightning Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/18.ts",
+      "id": "18",
+      "name": "Lightning Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/19.ts",
+      "id": "19",
+      "name": "Purugly"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/2.ts",
+      "id": "2",
+      "name": "Lightning Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/20.ts",
+      "id": "20",
+      "name": "Tierno"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/21.ts",
+      "id": "21",
+      "name": "Potion"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/22.ts",
+      "id": "22",
+      "name": "Manectric"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/23.ts",
+      "id": "23",
+      "name": "Electabuzz"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/24.ts",
+      "id": "24",
+      "name": "Purugly"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/25.ts",
+      "id": "25",
+      "name": "Electivire"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/26.ts",
+      "id": "26",
+      "name": "Blitzle"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/27.ts",
+      "id": "27",
+      "name": "Glameow"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/28.ts",
+      "id": "28",
+      "name": "Electrike"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/29.ts",
+      "id": "29",
+      "name": "Lightning Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/3.ts",
+      "id": "3",
+      "name": "Lightning Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/30.ts",
+      "id": "30",
+      "name": "Pikachu Libre"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/4.ts",
+      "id": "4",
+      "name": "Electivire"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/5.ts",
+      "id": "5",
+      "name": "Lightning Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/6.ts",
+      "id": "6",
+      "name": "Lightning Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/7.ts",
+      "id": "7",
+      "name": "Taillow"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/8.ts",
+      "id": "8",
+      "name": "Lightning Energy"
+    },
+    {
+      "file": "data/Trainer kits/XY trainer Kit (Pikachu Libre)/9.ts",
+      "id": "9",
+      "name": "Lightning Energy"
+    }
+  ]
+}

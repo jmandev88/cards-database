@@ -1,0 +1,25 @@
+{
+  "set": "Unleashed",
+  "missing": [
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/71.ts",
+      "id": "71",
+      "name": "Cheerleader’s Cheer"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/73.ts",
+      "id": "73",
+      "name": "Emcee’s Chatter"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/75.ts",
+      "id": "75",
+      "name": "Engineer’s Adjustments"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Unleashed/77.ts",
+      "id": "77",
+      "name": "Interviewer’s Questions"
+    }
+  ]
+}

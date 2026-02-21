@@ -1,0 +1,40 @@
+{
+  "set": "FireRed & LeafGreen",
+  "missing": [
+    {
+      "file": "data/EX/FireRed & LeafGreen/32.ts",
+      "id": "32",
+      "name": "Drowzee"
+    },
+    {
+      "file": "data/EX/FireRed & LeafGreen/70.ts",
+      "id": "70",
+      "name": "Nidoran♀"
+    },
+    {
+      "file": "data/EX/FireRed & LeafGreen/71.ts",
+      "id": "71",
+      "name": "Nidoran♂"
+    },
+    {
+      "file": "data/EX/FireRed & LeafGreen/91.ts",
+      "id": "91",
+      "name": "EXP. ALL"
+    },
+    {
+      "file": "data/EX/FireRed & LeafGreen/95.ts",
+      "id": "95",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/EX/FireRed & LeafGreen/96.ts",
+      "id": "96",
+      "name": "PokéDex (HANDY909)"
+    },
+    {
+      "file": "data/EX/FireRed & LeafGreen/97.ts",
+      "id": "97",
+      "name": "Pokémon Reversal"
+    }
+  ]
+}

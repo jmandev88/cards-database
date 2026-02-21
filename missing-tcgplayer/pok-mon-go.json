@@ -1,0 +1,10 @@
+{
+  "set": "Pokémon GO",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Pokémon GO/068.ts",
+      "id": "068",
+      "name": "PokéStop"
+    }
+  ]
+}

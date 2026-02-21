@@ -1,0 +1,714 @@
+{
+  "generatedFrom": "missing-cardmarket/ancient-origins-fixed.json",
+  "generatedAt": "2026-02-21T17:03:57.998Z",
+  "total": 101,
+  "cards": [
+    {
+      "cardId": "AOR-001",
+      "cardmarketId": 284182,
+      "rawCardIds": [
+        "AOR-001"
+      ]
+    },
+    {
+      "cardId": "AOR-002",
+      "cardmarketId": 284183,
+      "rawCardIds": [
+        "AOR-002"
+      ]
+    },
+    {
+      "cardId": "AOR-003",
+      "cardmarketId": 284184,
+      "rawCardIds": [
+        "AOR-003"
+      ]
+    },
+    {
+      "cardId": "AOR-004",
+      "cardmarketId": 284185,
+      "rawCardIds": [
+        "AOR-004"
+      ]
+    },
+    {
+      "cardId": "AOR-005",
+      "cardmarketId": 284186,
+      "rawCardIds": [
+        "AOR-005"
+      ]
+    },
+    {
+      "cardId": "AOR-006",
+      "cardmarketId": 284187,
+      "rawCardIds": [
+        "AOR-006"
+      ]
+    },
+    {
+      "cardId": "AOR-007",
+      "cardmarketId": 284188,
+      "rawCardIds": [
+        "AOR-007"
+      ]
+    },
+    {
+      "cardId": "AOR-008",
+      "cardmarketId": 284189,
+      "rawCardIds": [
+        "AOR-008"
+      ]
+    },
+    {
+      "cardId": "AOR-009",
+      "cardmarketId": 284190,
+      "rawCardIds": [
+        "AOR-009"
+      ]
+    },
+    {
+      "cardId": "AOR-010",
+      "cardmarketId": 284191,
+      "rawCardIds": [
+        "AOR-010"
+      ]
+    },
+    {
+      "cardId": "AOR-011",
+      "cardmarketId": 284192,
+      "rawCardIds": [
+        "AOR-011"
+      ]
+    },
+    {
+      "cardId": "AOR-012",
+      "cardmarketId": 284193,
+      "rawCardIds": [
+        "AOR-012"
+      ]
+    },
+    {
+      "cardId": "AOR-013",
+      "cardmarketId": 284194,
+      "rawCardIds": [
+        "AOR-013"
+      ]
+    },
+    {
+      "cardId": "AOR-014",
+      "cardmarketId": 284195,
+      "rawCardIds": [
+        "AOR-014"
+      ]
+    },
+    {
+      "cardId": "AOR-015",
+      "cardmarketId": 284196,
+      "rawCardIds": [
+        "AOR-015"
+      ]
+    },
+    {
+      "cardId": "AOR-016",
+      "cardmarketId": 284197,
+      "rawCardIds": [
+        "AOR-016"
+      ]
+    },
+    {
+      "cardId": "AOR-017",
+      "cardmarketId": 284198,
+      "rawCardIds": [
+        "AOR-017"
+      ]
+    },
+    {
+      "cardId": "AOR-018",
+      "cardmarketId": 284199,
+      "rawCardIds": [
+        "AOR-018"
+      ]
+    },
+    {
+      "cardId": "AOR-019",
+      "cardmarketId": 284200,
+      "rawCardIds": [
+        "AOR-019"
+      ]
+    },
+    {
+      "cardId": "AOR-020",
+      "cardmarketId": 284201,
+      "rawCardIds": [
+        "AOR-020"
+      ]
+    },
+    {
+      "cardId": "AOR-021",
+      "cardmarketId": 284202,
+      "rawCardIds": [
+        "AOR-021"
+      ]
+    },
+    {
+      "cardId": "AOR-022",
+      "cardmarketId": 284203,
+      "rawCardIds": [
+        "AOR-022"
+      ]
+    },
+    {
+      "cardId": "AOR-023",
+      "cardmarketId": 284204,
+      "rawCardIds": [
+        "AOR-023"
+      ]
+    },
+    {
+      "cardId": "AOR-024",
+      "cardmarketId": 284205,
+      "rawCardIds": [
+        "AOR-024"
+      ]
+    },
+    {
+      "cardId": "AOR-025",
+      "cardmarketId": 284206,
+      "rawCardIds": [
+        "AOR-025"
+      ]
+    },
+    {
+      "cardId": "AOR-026",
+      "cardmarketId": 284207,
+      "rawCardIds": [
+        "AOR-026"
+      ]
+    },
+    {
+      "cardId": "AOR-027",
+      "cardmarketId": 284208,
+      "rawCardIds": [
+        "AOR-027"
+      ]
+    },
+    {
+      "cardId": "AOR-028",
+      "cardmarketId": 284209,
+      "rawCardIds": [
+        "AOR-028"
+      ]
+    },
+    {
+      "cardId": "AOR-029",
+      "cardmarketId": 284210,
+      "rawCardIds": [
+        "AOR-029"
+      ]
+    },
+    {
+      "cardId": "AOR-030",
+      "cardmarketId": 284211,
+      "rawCardIds": [
+        "AOR-030"
+      ]
+    },
+    {
+      "cardId": "AOR-031",
+      "cardmarketId": 284212,
+      "rawCardIds": [
+        "AOR-031"
+      ]
+    },
+    {
+      "cardId": "AOR-032",
+      "cardmarketId": 284213,
+      "rawCardIds": [
+        "AOR-032"
+      ]
+    },
+    {
+      "cardId": "AOR-033",
+      "cardmarketId": 284214,
+      "rawCardIds": [
+        "AOR-033"
+      ]
+    },
+    {
+      "cardId": "AOR-034",
+      "cardmarketId": 284215,
+      "rawCardIds": [
+        "AOR-034"
+      ]
+    },
+    {
+      "cardId": "AOR-035",
+      "cardmarketId": 284216,
+      "rawCardIds": [
+        "AOR-035"
+      ]
+    },
+    {
+      "cardId": "AOR-036",
+      "cardmarketId": 284217,
+      "rawCardIds": [
+        "AOR-036"
+      ]
+    },
+    {
+      "cardId": "AOR-037",
+      "cardmarketId": 284218,
+      "rawCardIds": [
+        "AOR-037"
+      ]
+    },
+    {
+      "cardId": "AOR-038",
+      "cardmarketId": 284219,
+      "rawCardIds": [
+        "AOR-038"
+      ]
+    },
+    {
+      "cardId": "AOR-039",
+      "cardmarketId": 284220,
+      "rawCardIds": [
+        "AOR-039"
+      ]
+    },
+    {
+      "cardId": "AOR-040",
+      "cardmarketId": 284221,
+      "rawCardIds": [
+        "AOR-040"
+      ]
+    },
+    {
+      "cardId": "AOR-041",
+      "cardmarketId": 284222,
+      "rawCardIds": [
+        "AOR-041"
+      ]
+    },
+    {
+      "cardId": "AOR-042",
+      "cardmarketId": 284223,
+      "rawCardIds": [
+        "AOR-042"
+      ]
+    },
+    {
+      "cardId": "AOR-043",
+      "cardmarketId": 284224,
+      "rawCardIds": [
+        "AOR-043"
+      ]
+    },
+    {
+      "cardId": "AOR-044",
+      "cardmarketId": 284225,
+      "rawCardIds": [
+        "AOR-044"
+      ]
+    },
+    {
+      "cardId": "AOR-045",
+      "cardmarketId": 284226,
+      "rawCardIds": [
+        "AOR-045"
+      ]
+    },
+    {
+      "cardId": "AOR-046",
+      "cardmarketId": 284227,
+      "rawCardIds": [
+        "AOR-046"
+      ]
+    },
+    {
+      "cardId": "AOR-047",
+      "cardmarketId": 284228,
+      "rawCardIds": [
+        "AOR-047"
+      ]
+    },
+    {
+      "cardId": "AOR-048",
+      "cardmarketId": 284229,
+      "rawCardIds": [
+        "AOR-048"
+      ]
+    },
+    {
+      "cardId": "AOR-049",
+      "cardmarketId": 284230,
+      "rawCardIds": [
+        "AOR-049"
+      ]
+    },
+    {
+      "cardId": "AOR-050",
+      "cardmarketId": 284231,
+      "rawCardIds": [
+        "AOR-050"
+      ]
+    },
+    {
+      "cardId": "AOR-051",
+      "cardmarketId": 284232,
+      "rawCardIds": [
+        "AOR-051"
+      ]
+    },
+    {
+      "cardId": "AOR-052",
+      "cardmarketId": 284233,
+      "rawCardIds": [
+        "AOR-052"
+      ]
+    },
+    {
+      "cardId": "AOR-053",
+      "cardmarketId": 284234,
+      "rawCardIds": [
+        "AOR-053"
+      ]
+    },
+    {
+      "cardId": "AOR-054",
+      "cardmarketId": 284235,
+      "rawCardIds": [
+        "AOR-054"
+      ]
+    },
+    {
+      "cardId": "AOR-055",
+      "cardmarketId": 284236,
+      "rawCardIds": [
+        "AOR-055"
+      ]
+    },
+    {
+      "cardId": "AOR-056",
+      "cardmarketId": 284237,
+      "rawCardIds": [
+        "AOR-056"
+      ]
+    },
+    {
+      "cardId": "AOR-057",
+      "cardmarketId": 284238,
+      "rawCardIds": [
+        "AOR-057"
+      ]
+    },
+    {
+      "cardId": "AOR-058",
+      "cardmarketId": 284239,
+      "rawCardIds": [
+        "AOR-058"
+      ]
+    },
+    {
+      "cardId": "AOR-059",
+      "cardmarketId": 284240,
+      "rawCardIds": [
+        "AOR-059"
+      ]
+    },
+    {
+      "cardId": "AOR-060",
+      "cardmarketId": 284241,
+      "rawCardIds": [
+        "AOR-060"
+      ]
+    },
+    {
+      "cardId": "AOR-061",
+      "cardmarketId": 284242,
+      "rawCardIds": [
+        "AOR-061"
+      ]
+    },
+    {
+      "cardId": "AOR-062",
+      "cardmarketId": 284243,
+      "rawCardIds": [
+        "AOR-062"
+      ]
+    },
+    {
+      "cardId": "AOR-063",
+      "cardmarketId": 284244,
+      "rawCardIds": [
+        "AOR-063"
+      ]
+    },
+    {
+      "cardId": "AOR-064",
+      "cardmarketId": 284245,
+      "rawCardIds": [
+        "AOR-064"
+      ]
+    },
+    {
+      "cardId": "AOR-065",
+      "cardmarketId": 284246,
+      "rawCardIds": [
+        "AOR-065"
+      ]
+    },
+    {
+      "cardId": "AOR-066",
+      "cardmarketId": 284247,
+      "rawCardIds": [
+        "AOR-066"
+      ]
+    },
+    {
+      "cardId": "AOR-067",
+      "cardmarketId": 284248,
+      "rawCardIds": [
+        "AOR-067"
+      ]
+    },
+    {
+      "cardId": "AOR-068",
+      "cardmarketId": 284249,
+      "rawCardIds": [
+        "AOR-068"
+      ]
+    },
+    {
+      "cardId": "AOR-069",
+      "cardmarketId": 284250,
+      "rawCardIds": [
+        "AOR-069"
+      ]
+    },
+    {
+      "cardId": "AOR-070",
+      "cardmarketId": 284251,
+      "rawCardIds": [
+        "AOR-070"
+      ]
+    },
+    {
+      "cardId": "AOR-071",
+      "cardmarketId": 284252,
+      "rawCardIds": [
+        "AOR-071"
+      ]
+    },
+    {
+      "cardId": "AOR-072",
+      "cardmarketId": 284253,
+      "rawCardIds": [
+        "AOR-072"
+      ]
+    },
+    {
+      "cardId": "AOR-073",
+      "cardmarketId": 284254,
+      "rawCardIds": [
+        "AOR-073"
+      ]
+    },
+    {
+      "cardId": "AOR-074",
+      "cardmarketId": 284255,
+      "rawCardIds": [
+        "AOR-074"
+      ]
+    },
+    {
+      "cardId": "AOR-075",
+      "cardmarketId": 284256,
+      "rawCardIds": [
+        "AOR-075"
+      ]
+    },
+    {
+      "cardId": "AOR-075A",
+      "cardmarketId": 311409,
+      "rawCardIds": [
+        "AOR-075A"
+      ]
+    },
+    {
+      "cardId": "AOR-076",
+      "cardmarketId": 284257,
+      "rawCardIds": [
+        "AOR-076"
+      ]
+    },
+    {
+      "cardId": "AOR-077",
+      "cardmarketId": 284258,
+      "rawCardIds": [
+        "AOR-077"
+      ]
+    },
+    {
+      "cardId": "AOR-078",
+      "cardmarketId": 284259,
+      "rawCardIds": [
+        "AOR-078"
+      ]
+    },
+    {
+      "cardId": "AOR-079",
+      "cardmarketId": 284260,
+      "rawCardIds": [
+        "AOR-079"
+      ]
+    },
+    {
+      "cardId": "AOR-080",
+      "cardmarketId": 284261,
+      "rawCardIds": [
+        "AOR-080"
+      ]
+    },
+    {
+      "cardId": "AOR-081",
+      "cardmarketId": 284262,
+      "rawCardIds": [
+        "AOR-081"
+      ]
+    },
+    {
+      "cardId": "AOR-082",
+      "cardmarketId": 284263,
+      "rawCardIds": [
+        "AOR-082"
+      ]
+    },
+    {
+      "cardId": "AOR-083",
+      "cardmarketId": 284264,
+      "rawCardIds": [
+        "AOR-083"
+      ]
+    },
+    {
+      "cardId": "AOR-084",
+      "cardmarketId": 284265,
+      "rawCardIds": [
+        "AOR-084"
+      ]
+    },
+    {
+      "cardId": "AOR-085",
+      "cardmarketId": 284266,
+      "rawCardIds": [
+        "AOR-085"
+      ]
+    },
+    {
+      "cardId": "AOR-086",
+      "cardmarketId": 284267,
+      "rawCardIds": [
+        "AOR-086"
+      ]
+    },
+    {
+      "cardId": "AOR-087",
+      "cardmarketId": 284268,
+      "rawCardIds": [
+        "AOR-087"
+      ]
+    },
+    {
+      "cardId": "AOR-088",
+      "cardmarketId": 284269,
+      "rawCardIds": [
+        "AOR-088"
+      ]
+    },
+    {
+      "cardId": "AOR-089",
+      "cardmarketId": 284270,
+      "rawCardIds": [
+        "AOR-089"
+      ]
+    },
+    {
+      "cardId": "AOR-090",
+      "cardmarketId": 284271,
+      "rawCardIds": [
+        "AOR-090"
+      ]
+    },
+    {
+      "cardId": "AOR-091",
+      "cardmarketId": 284272,
+      "rawCardIds": [
+        "AOR-091"
+      ]
+    },
+    {
+      "cardId": "AOR-092",
+      "cardmarketId": 284273,
+      "rawCardIds": [
+        "AOR-092"
+      ]
+    },
+    {
+      "cardId": "AOR-093",
+      "cardmarketId": 284274,
+      "rawCardIds": [
+        "AOR-093"
+      ]
+    },
+    {
+      "cardId": "AOR-094",
+      "cardmarketId": 284275,
+      "rawCardIds": [
+        "AOR-094"
+      ]
+    },
+    {
+      "cardId": "AOR-095",
+      "cardmarketId": 284276,
+      "rawCardIds": [
+        "AOR-095"
+      ]
+    },
+    {
+      "cardId": "AOR-096",
+      "cardmarketId": 284277,
+      "rawCardIds": [
+        "AOR-096"
+      ]
+    },
+    {
+      "cardId": "AOR-097",
+      "cardmarketId": 284278,
+      "rawCardIds": [
+        "AOR-097"
+      ]
+    },
+    {
+      "cardId": "AOR-098",
+      "cardmarketId": 284279,
+      "rawCardIds": [
+        "AOR-098"
+      ]
+    },
+    {
+      "cardId": "AOR-099",
+      "cardmarketId": 284280,
+      "rawCardIds": [
+        "AOR-099"
+      ]
+    },
+    {
+      "cardId": "AOR-100",
+      "cardmarketId": 284281,
+      "rawCardIds": [
+        "AOR-100"
+      ]
+    }
+  ]
+}

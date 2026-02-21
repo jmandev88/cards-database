@@ -1,0 +1,20 @@
+{
+  "set": "Dragon Majesty",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/Dragon Majesty/58.ts",
+      "id": "58",
+      "name": "Blaine’s Last Stand"
+    },
+    {
+      "file": "data/Sun & Moon/Dragon Majesty/61.ts",
+      "id": "61",
+      "name": "Lance ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Dragon Majesty/69.ts",
+      "id": "69",
+      "name": "Blaine’s Last Stand"
+    }
+  ]
+}

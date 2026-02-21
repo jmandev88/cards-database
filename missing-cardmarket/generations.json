@@ -1,0 +1,30 @@
+{
+  "set": "Generations",
+  "missing": [
+    {
+      "file": "data/XY/Generations/12.ts",
+      "id": "12",
+      "name": "M Charizard EX"
+    },
+    {
+      "file": "data/XY/Generations/18.ts",
+      "id": "18",
+      "name": "M Blastoise EX"
+    },
+    {
+      "file": "data/XY/Generations/2.ts",
+      "id": "2",
+      "name": "M Venusaur EX"
+    },
+    {
+      "file": "data/XY/Generations/28a.ts",
+      "id": "28a",
+      "name": "Jolteon-EX"
+    },
+    {
+      "file": "data/XY/Generations/RC31.ts",
+      "id": "RC31",
+      "name": "M Gardevoir EX"
+    }
+  ]
+}

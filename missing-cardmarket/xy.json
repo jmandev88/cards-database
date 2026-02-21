@@ -1,0 +1,15 @@
+{
+  "set": "XY",
+  "missing": [
+    {
+      "file": "data/XY/XY/2.ts",
+      "id": "2",
+      "name": "M Venusaur EX"
+    },
+    {
+      "file": "data/XY/XY/30.ts",
+      "id": "30",
+      "name": "M Blastoise EX"
+    }
+  ]
+}

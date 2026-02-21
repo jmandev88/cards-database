@@ -1,0 +1,110 @@
+{
+  "set": "data",
+  "missing": [
+    {
+      "file": "data/Base.ts",
+      "id": "Base",
+      "name": "Base"
+    },
+    {
+      "file": "data/Black & White.ts",
+      "id": "Black & White",
+      "name": "Black & White"
+    },
+    {
+      "file": "data/Call of Legends.ts",
+      "id": "Call of Legends",
+      "name": "Call of Legends"
+    },
+    {
+      "file": "data/Diamond & Pearl.ts",
+      "id": "Diamond & Pearl",
+      "name": "Diamond & Pearl"
+    },
+    {
+      "file": "data/E-Card.ts",
+      "id": "E-Card",
+      "name": "E-Card"
+    },
+    {
+      "file": "data/EX.ts",
+      "id": "EX",
+      "name": "EX"
+    },
+    {
+      "file": "data/Gym.ts",
+      "id": "Gym",
+      "name": "Gym"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver.ts",
+      "id": "HeartGold & SoulSilver",
+      "name": "HeartGold & SoulSilver"
+    },
+    {
+      "file": "data/Legendary Collection.ts",
+      "id": "Legendary Collection",
+      "name": "Legendary Collection"
+    },
+    {
+      "file": "data/McDonald's Collection.ts",
+      "id": "McDonald's Collection",
+      "name": "McDonald"
+    },
+    {
+      "file": "data/Mega Evolution.ts",
+      "id": "Mega Evolution",
+      "name": "Mega Evolution"
+    },
+    {
+      "file": "data/Miscellaneous.ts",
+      "id": "Miscellaneous",
+      "name": "Miscellaneous"
+    },
+    {
+      "file": "data/Neo.ts",
+      "id": "Neo",
+      "name": "Neo"
+    },
+    {
+      "file": "data/POP.ts",
+      "id": "POP",
+      "name": "POP"
+    },
+    {
+      "file": "data/Platinum.ts",
+      "id": "Platinum",
+      "name": "Platinum"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket.ts",
+      "id": "Pokémon TCG Pocket",
+      "name": "Pokémon TCG Pocket"
+    },
+    {
+      "file": "data/Scarlet & Violet.ts",
+      "id": "Scarlet & Violet",
+      "name": "Scarlet & Violet"
+    },
+    {
+      "file": "data/Sun & Moon.ts",
+      "id": "Sun & Moon",
+      "name": "Sun & Moon"
+    },
+    {
+      "file": "data/Sword & Shield.ts",
+      "id": "Sword & Shield",
+      "name": "Sword & Shield"
+    },
+    {
+      "file": "data/Trainer kits.ts",
+      "id": "Trainer kits",
+      "name": "Trainer kits"
+    },
+    {
+      "file": "data/XY.ts",
+      "id": "XY",
+      "name": "XY"
+    }
+  ]
+}

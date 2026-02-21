@@ -1,0 +1,20 @@
+{
+  "set": "Team Rocket Returns",
+  "missing": [
+    {
+      "file": "data/EX/Team Rocket Returns/107.ts",
+      "id": "107",
+      "name": "Mudkip Star"
+    },
+    {
+      "file": "data/EX/Team Rocket Returns/108.ts",
+      "id": "108",
+      "name": "Torchic Star"
+    },
+    {
+      "file": "data/EX/Team Rocket Returns/109.ts",
+      "id": "109",
+      "name": "Treecko Star"
+    }
+  ]
+}

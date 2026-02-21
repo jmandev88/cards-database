@@ -1,0 +1,60 @@
+{
+  "set": "Unbroken Bonds",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/Unbroken Bonds/172.ts",
+      "id": "172",
+      "name": "Fairy Charm Lightning"
+    },
+    {
+      "file": "data/Sun & Moon/Unbroken Bonds/174.ts",
+      "id": "174",
+      "name": "Giovanni’s Exile"
+    },
+    {
+      "file": "data/Sun & Moon/Unbroken Bonds/175.ts",
+      "id": "175",
+      "name": "Green’s Exploration"
+    },
+    {
+      "file": "data/Sun & Moon/Unbroken Bonds/177.ts",
+      "id": "177",
+      "name": "Koga’s Trap"
+    },
+    {
+      "file": "data/Sun & Moon/Unbroken Bonds/178.ts",
+      "id": "178",
+      "name": "Lt. Surge’s Strategy"
+    },
+    {
+      "file": "data/Sun & Moon/Unbroken Bonds/182.ts",
+      "id": "182",
+      "name": "Pokégear 3.0"
+    },
+    {
+      "file": "data/Sun & Moon/Unbroken Bonds/184.ts",
+      "id": "184",
+      "name": "Red’s Challenge"
+    },
+    {
+      "file": "data/Sun & Moon/Unbroken Bonds/209.ts",
+      "id": "209",
+      "name": "Green’s Exploration"
+    },
+    {
+      "file": "data/Sun & Moon/Unbroken Bonds/211.ts",
+      "id": "211",
+      "name": "Koga’s Trap"
+    },
+    {
+      "file": "data/Sun & Moon/Unbroken Bonds/213.ts",
+      "id": "213",
+      "name": "Red’s Challenge"
+    },
+    {
+      "file": "data/Sun & Moon/Unbroken Bonds/233.ts",
+      "id": "233",
+      "name": "Pokégear 3.0"
+    }
+  ]
+}

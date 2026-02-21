@@ -1,0 +1,15 @@
+{
+  "set": "Jungle",
+  "missing": [
+    {
+      "file": "data/Base/Jungle/57.ts",
+      "id": "57",
+      "name": "Nidoran♀"
+    },
+    {
+      "file": "data/Base/Jungle/64.ts",
+      "id": "64",
+      "name": "Poké Ball"
+    }
+  ]
+}

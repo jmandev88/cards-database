@@ -1,0 +1,15 @@
+{
+  "set": "Expedition Base Set",
+  "missing": [
+    {
+      "file": "data/E-Card/Expedition Base Set/145.ts",
+      "id": "145",
+      "name": "Pokémon Nurse"
+    },
+    {
+      "file": "data/E-Card/Expedition Base Set/146.ts",
+      "id": "146",
+      "name": "Pokémon Reversal"
+    }
+  ]
+}

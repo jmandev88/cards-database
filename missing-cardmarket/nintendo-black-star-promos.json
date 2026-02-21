@@ -1,0 +1,205 @@
+{
+  "set": "Nintendo Black Star Promos",
+  "missing": [
+    {
+      "file": "data/POP/Nintendo Black Star Promos/1.ts",
+      "id": "1",
+      "name": "Kyogre ex"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/10.ts",
+      "id": "10",
+      "name": "Mudkip"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/11.ts",
+      "id": "11",
+      "name": "Marshtomp"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/12.ts",
+      "id": "12",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/13.ts",
+      "id": "13",
+      "name": "Meowth"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/14.ts",
+      "id": "14",
+      "name": "Latias"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/15.ts",
+      "id": "15",
+      "name": "Latios"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/16.ts",
+      "id": "16",
+      "name": "Treecko"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/17.ts",
+      "id": "17",
+      "name": "Torchic"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/18.ts",
+      "id": "18",
+      "name": "Mudkip"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/19.ts",
+      "id": "19",
+      "name": "Whismur"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/2.ts",
+      "id": "2",
+      "name": "Groudon ex"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/20.ts",
+      "id": "20",
+      "name": "Ludicolo"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/21.ts",
+      "id": "21",
+      "name": "Jirachi"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/22.ts",
+      "id": "22",
+      "name": "Beldum"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/23.ts",
+      "id": "23",
+      "name": "Metang"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/24.ts",
+      "id": "24",
+      "name": "Chimecho"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/25.ts",
+      "id": "25",
+      "name": "Flygon"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/26.ts",
+      "id": "26",
+      "name": "Tropical Wind"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/27.ts",
+      "id": "27",
+      "name": "Tropical Tidal Wave"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/28.ts",
+      "id": "28",
+      "name": "Championship Arena"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/29.ts",
+      "id": "29",
+      "name": "Celebi"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/3.ts",
+      "id": "3",
+      "name": "Treecko"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/30.ts",
+      "id": "30",
+      "name": "Suicune"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/31.ts",
+      "id": "31",
+      "name": "Moltres ex"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/32.ts",
+      "id": "32",
+      "name": "Articuno ex"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/33.ts",
+      "id": "33",
+      "name": "Zapdos ex"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/34.ts",
+      "id": "34",
+      "name": "Typhlosion"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/35.ts",
+      "id": "35",
+      "name": "Pikachu δ"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/36.ts",
+      "id": "36",
+      "name": "Tropical Tidal Wave"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/37.ts",
+      "id": "37",
+      "name": "Kyogre ex"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/38.ts",
+      "id": "38",
+      "name": "Groudon ex"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/39.ts",
+      "id": "39",
+      "name": "Rayquaza ex"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/4.ts",
+      "id": "4",
+      "name": "Grovyle"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/40.ts",
+      "id": "40",
+      "name": "Mew"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/5.ts",
+      "id": "5",
+      "name": "Mudkip"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/6.ts",
+      "id": "6",
+      "name": "Torchic"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/7.ts",
+      "id": "7",
+      "name": "Treecko"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/8.ts",
+      "id": "8",
+      "name": "Torchic"
+    },
+    {
+      "file": "data/POP/Nintendo Black Star Promos/9.ts",
+      "id": "9",
+      "name": "Combusken"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "set": "Undaunted",
+  "missing": [
+    {
+      "file": "data/HeartGold & SoulSilver/Undaunted/77.ts",
+      "id": "77",
+      "name": "Sage’s Training"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Undaunted/78.ts",
+      "id": "78",
+      "name": "Team Rocket’s Trickery"
+    }
+  ]
+}

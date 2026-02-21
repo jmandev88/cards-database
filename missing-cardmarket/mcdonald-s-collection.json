@@ -1,0 +1,60 @@
+{
+  "set": "McDonald's Collection",
+  "missing": [
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2011.ts",
+      "id": "Macdonald's Collection 2011",
+      "name": "Macdonald"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2012.ts",
+      "id": "Macdonald's Collection 2012",
+      "name": "Macdonald"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2014.ts",
+      "id": "Macdonald's Collection 2014",
+      "name": "Macdonald"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2015.ts",
+      "id": "Macdonald's Collection 2015",
+      "name": "Macdonald"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2016.ts",
+      "id": "Macdonald's Collection 2016",
+      "name": "Macdonald"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2017.ts",
+      "id": "Macdonald's Collection 2017",
+      "name": "Macdonald"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2018.ts",
+      "id": "Macdonald's Collection 2018",
+      "name": "Macdonald"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2019.ts",
+      "id": "Macdonald's Collection 2019",
+      "name": "Macdonald"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2021.ts",
+      "id": "Macdonald's Collection 2021",
+      "name": "Macdonald"
+    },
+    {
+      "file": "data/McDonald's Collection/Promo McDonald's 2013.ts",
+      "id": "Promo McDonald's 2013",
+      "name": null
+    },
+    {
+      "file": "data/McDonald's Collection/Promo McDonald's 2019.ts",
+      "id": "Promo McDonald's 2019",
+      "name": null
+    }
+  ]
+}

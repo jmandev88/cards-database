@@ -1,0 +1,20 @@
+{
+  "set": "Majestic Dawn",
+  "missing": [
+    {
+      "file": "data/Diamond & Pearl/Majestic Dawn/33.ts",
+      "id": "33",
+      "name": "Unown P"
+    },
+    {
+      "file": "data/Diamond & Pearl/Majestic Dawn/49.ts",
+      "id": "49",
+      "name": "Unown Q"
+    },
+    {
+      "file": "data/Diamond & Pearl/Majestic Dawn/85.ts",
+      "id": "85",
+      "name": "Poké Ball"
+    }
+  ]
+}

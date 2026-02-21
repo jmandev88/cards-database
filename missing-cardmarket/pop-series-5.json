@@ -1,0 +1,25 @@
+{
+  "set": "POP Series 5",
+  "missing": [
+    {
+      "file": "data/POP/POP Series 5/16.ts",
+      "id": "16",
+      "name": "Espeon ★"
+    },
+    {
+      "file": "data/POP/POP Series 5/17.ts",
+      "id": "17",
+      "name": "Umbreon ★"
+    },
+    {
+      "file": "data/POP/POP Series 5/6.ts",
+      "id": "6",
+      "name": "Bill’s Maintenance"
+    },
+    {
+      "file": "data/POP/POP Series 5/9.ts",
+      "id": "9",
+      "name": "δ Rainbow Energy"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "set": "EX",
+  "missing": [
+    {
+      "file": "data/EX/Poké Card Creator Pack.ts",
+      "id": "Poké Card Creator Pack",
+      "name": "Poké Card Creator Pack"
+    },
+    {
+      "file": "data/EX/Unseen Forces Unown Collection.ts",
+      "id": "Unseen Forces Unown Collection",
+      "name": "Unseen Forces Unown Collection"
+    }
+  ]
+}

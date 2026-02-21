@@ -1,0 +1,10 @@
+{
+  "set": "E-Card",
+  "missing": [
+    {
+      "file": "data/E-Card/Sample.ts",
+      "id": "Sample",
+      "name": "Sample"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "set": "Vivid Voltage",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Vivid Voltage/162.ts",
+      "id": "162",
+      "name": "Aromatic Grass Energy"
+    },
+    {
+      "file": "data/Sword & Shield/Vivid Voltage/163.ts",
+      "id": "163",
+      "name": "Coating Metal Energy"
+    },
+    {
+      "file": "data/Sword & Shield/Vivid Voltage/164.ts",
+      "id": "164",
+      "name": "Stone Fighting Energy"
+    },
+    {
+      "file": "data/Sword & Shield/Vivid Voltage/165.ts",
+      "id": "165",
+      "name": "Wash Water Energy"
+    }
+  ]
+}

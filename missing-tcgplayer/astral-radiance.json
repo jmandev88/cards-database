@@ -1,0 +1,155 @@
+{
+  "set": "Astral Radiance",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG01.ts",
+      "id": "TG01",
+      "name": "Abomasnow"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG02.ts",
+      "id": "TG02",
+      "name": "Flapple"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG03.ts",
+      "id": "TG03",
+      "name": "Kingdra"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG04.ts",
+      "id": "TG04",
+      "name": "Frosmoth"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG05.ts",
+      "id": "TG05",
+      "name": "Gardevoir"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG06.ts",
+      "id": "TG06",
+      "name": "Wyrdeer"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG07.ts",
+      "id": "TG07",
+      "name": "Falinks"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG08.ts",
+      "id": "TG08",
+      "name": "Kleavor"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG09.ts",
+      "id": "TG09",
+      "name": "Mightyena"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG10.ts",
+      "id": "TG10",
+      "name": "Galarian Obstagoon"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG11.ts",
+      "id": "TG11",
+      "name": "Bronzong"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG12.ts",
+      "id": "TG12",
+      "name": "Hoothoot"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG13.ts",
+      "id": "TG13",
+      "name": "Starmie V"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG14.ts",
+      "id": "TG14",
+      "name": "Ice Rider Calyrex V"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG15.ts",
+      "id": "TG15",
+      "name": "Ice Rider Calyrex VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG16.ts",
+      "id": "TG16",
+      "name": "Galarian Articuno V"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG17.ts",
+      "id": "TG17",
+      "name": "Shadow Rider Calyrex V"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG18.ts",
+      "id": "TG18",
+      "name": "Shadow Rider Calyrex VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG19.ts",
+      "id": "TG19",
+      "name": "Galarian Zapdos V"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG20.ts",
+      "id": "TG20",
+      "name": "Galarian Moltres V"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG21.ts",
+      "id": "TG21",
+      "name": "Zacian V"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG22.ts",
+      "id": "TG22",
+      "name": "Zamazenta V"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG23.ts",
+      "id": "TG23",
+      "name": "Garchomp V"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG24.ts",
+      "id": "TG24",
+      "name": "Allister"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG25.ts",
+      "id": "TG25",
+      "name": "Bea"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG26.ts",
+      "id": "TG26",
+      "name": "Melony"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG27.ts",
+      "id": "TG27",
+      "name": "Milo"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG28.ts",
+      "id": "TG28",
+      "name": "Piers"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG29.ts",
+      "id": "TG29",
+      "name": "Ice Rider Calyrex VMAX"
+    },
+    {
+      "file": "data/Sword & Shield/Astral Radiance/TG30.ts",
+      "id": "TG30",
+      "name": "Shadow Rider Calyrex VMAX"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "set": "Steam Siege",
+  "missing": [
+    {
+      "file": "data/XY/Steam Siege/109.ts",
+      "id": "109",
+      "name": "M Steelix EX"
+    },
+    {
+      "file": "data/XY/Steam Siege/112.ts",
+      "id": "112",
+      "name": "M Gardevoir EX"
+    },
+    {
+      "file": "data/XY/Steam Siege/43.ts",
+      "id": "43",
+      "name": "Nidoran♂"
+    },
+    {
+      "file": "data/XY/Steam Siege/68.ts",
+      "id": "68",
+      "name": "M Steelix EX"
+    },
+    {
+      "file": "data/XY/Steam Siege/79.ts",
+      "id": "79",
+      "name": "M Gardevoir EX"
+    }
+  ]
+}

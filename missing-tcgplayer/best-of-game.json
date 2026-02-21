@@ -1,0 +1,25 @@
+{
+  "set": "Best of game",
+  "missing": [
+    {
+      "file": "data/E-Card/Best of game/4.ts",
+      "id": "4",
+      "name": "Rocket’s Scizor"
+    },
+    {
+      "file": "data/E-Card/Best of game/5.ts",
+      "id": "5",
+      "name": "Rocket’s Sneasel"
+    },
+    {
+      "file": "data/E-Card/Best of game/8.ts",
+      "id": "8",
+      "name": "Rocket’s Mewtwo"
+    },
+    {
+      "file": "data/E-Card/Best of game/9.ts",
+      "id": "9",
+      "name": "Rocket’s Hitmonchan"
+    }
+  ]
+}

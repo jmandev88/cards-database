@@ -1,0 +1,75 @@
+{
+  "set": "Dragons Exalted",
+  "missing": [
+    {
+      "file": "data/Black & White/Dragons Exalted/117.ts",
+      "id": "117",
+      "name": "Blend Energy Grass Fire Psychic Darkness"
+    },
+    {
+      "file": "data/Black & White/Dragons Exalted/118.ts",
+      "id": "118",
+      "name": "Blend Energy Water Lightning Fighting Metal"
+    },
+    {
+      "file": "data/Black & White/Dragons Exalted/119.ts",
+      "id": "119",
+      "name": "Ho-Oh-EX"
+    },
+    {
+      "file": "data/Black & White/Dragons Exalted/120.ts",
+      "id": "120",
+      "name": "Mew-EX"
+    },
+    {
+      "file": "data/Black & White/Dragons Exalted/121.ts",
+      "id": "121",
+      "name": "Terrakion-EX"
+    },
+    {
+      "file": "data/Black & White/Dragons Exalted/122.ts",
+      "id": "122",
+      "name": "Registeel-EX"
+    },
+    {
+      "file": "data/Black & White/Dragons Exalted/123.ts",
+      "id": "123",
+      "name": "Rayquaza-EX"
+    },
+    {
+      "file": "data/Black & White/Dragons Exalted/124.ts",
+      "id": "124",
+      "name": "Giratina-EX"
+    },
+    {
+      "file": "data/Black & White/Dragons Exalted/22.ts",
+      "id": "22",
+      "name": "Ho-Oh-EX"
+    },
+    {
+      "file": "data/Black & White/Dragons Exalted/46.ts",
+      "id": "46",
+      "name": "Mew-EX"
+    },
+    {
+      "file": "data/Black & White/Dragons Exalted/71.ts",
+      "id": "71",
+      "name": "Terrakion-EX"
+    },
+    {
+      "file": "data/Black & White/Dragons Exalted/81.ts",
+      "id": "81",
+      "name": "Registeel-EX"
+    },
+    {
+      "file": "data/Black & White/Dragons Exalted/85.ts",
+      "id": "85",
+      "name": "Rayquaza-EX"
+    },
+    {
+      "file": "data/Black & White/Dragons Exalted/92.ts",
+      "id": "92",
+      "name": "Giratina-EX"
+    }
+  ]
+}

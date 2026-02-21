@@ -1,0 +1,15 @@
+{
+  "set": "Crystal Guardians",
+  "missing": [
+    {
+      "file": "data/EX/Crystal Guardians/100.ts",
+      "id": "100",
+      "name": "Celebi Star"
+    },
+    {
+      "file": "data/EX/Crystal Guardians/99.ts",
+      "id": "99",
+      "name": "Alakazam Star"
+    }
+  ]
+}

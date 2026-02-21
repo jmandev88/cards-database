@@ -1,0 +1,15 @@
+{
+  "set": "Base",
+  "missing": [
+    {
+      "file": "data/Base/W Promotional.ts",
+      "id": "W Promotional",
+      "name": "W Promotional"
+    },
+    {
+      "file": "data/Base/Wizards Black Star Promos.ts",
+      "id": "Wizards Black Star Promos",
+      "name": "Wizards Black Star Promos"
+    }
+  ]
+}

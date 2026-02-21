@@ -1,0 +1,15 @@
+{
+  "set": "Black & White",
+  "missing": [
+    {
+      "file": "data/Black & White/BW Black Star Promos.ts",
+      "id": "BW Black Star Promos",
+      "name": "BW Black Star Promos"
+    },
+    {
+      "file": "data/Black & White/Radiant Collection.ts",
+      "id": "Radiant Collection",
+      "name": "Radiant Collection"
+    }
+  ]
+}

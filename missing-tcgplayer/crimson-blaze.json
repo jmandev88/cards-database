@@ -1,0 +1,520 @@
+{
+  "set": "Crimson Blaze",
+  "missing": [
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/001.ts",
+      "id": "001",
+      "name": "Bulbasaur"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/002.ts",
+      "id": "002",
+      "name": "Ivysaur"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/003.ts",
+      "id": "003",
+      "name": "Venusaur"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/004.ts",
+      "id": "004",
+      "name": "Mega Venusaur ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/005.ts",
+      "id": "005",
+      "name": "Spinarak"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/006.ts",
+      "id": "006",
+      "name": "Ariados"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/007.ts",
+      "id": "007",
+      "name": "Sunkern"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/008.ts",
+      "id": "008",
+      "name": "Sunflora"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/009.ts",
+      "id": "009",
+      "name": "Burmy"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/010.ts",
+      "id": "010",
+      "name": "Mothim"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/011.ts",
+      "id": "011",
+      "name": "Charmander"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/012.ts",
+      "id": "012",
+      "name": "Charmeleon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/013.ts",
+      "id": "013",
+      "name": "Charizard"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/014.ts",
+      "id": "014",
+      "name": "Mega Charizard Y ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/015.ts",
+      "id": "015",
+      "name": "Houndour"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/016.ts",
+      "id": "016",
+      "name": "Houndoom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/017.ts",
+      "id": "017",
+      "name": "Squirtle"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/018.ts",
+      "id": "018",
+      "name": "Wartortle"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/019.ts",
+      "id": "019",
+      "name": "Blastoise"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/020.ts",
+      "id": "020",
+      "name": "Mega Blastoise ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/021.ts",
+      "id": "021",
+      "name": "Basculin"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/022.ts",
+      "id": "022",
+      "name": "Clauncher"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/023.ts",
+      "id": "023",
+      "name": "Clawitzer"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/024.ts",
+      "id": "024",
+      "name": "Magnemite"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/025.ts",
+      "id": "025",
+      "name": "Magneton"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/026.ts",
+      "id": "026",
+      "name": "Magnezone"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/027.ts",
+      "id": "027",
+      "name": "Emolga"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/028.ts",
+      "id": "028",
+      "name": "Helioptile"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/029.ts",
+      "id": "029",
+      "name": "Heliolisk"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/030.ts",
+      "id": "030",
+      "name": "Misdreavus"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/031.ts",
+      "id": "031",
+      "name": "Mismagius"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/032.ts",
+      "id": "032",
+      "name": "Solosis"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/033.ts",
+      "id": "033",
+      "name": "Duosion"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/034.ts",
+      "id": "034",
+      "name": "Reuniclus"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/035.ts",
+      "id": "035",
+      "name": "Spritzee"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/036.ts",
+      "id": "036",
+      "name": "Aromatisse"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/037.ts",
+      "id": "037",
+      "name": "Xerneas"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/038.ts",
+      "id": "038",
+      "name": "Onix"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/039.ts",
+      "id": "039",
+      "name": "Makuhita"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/040.ts",
+      "id": "040",
+      "name": "Hariyama"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/041.ts",
+      "id": "041",
+      "name": "Nosepass"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/042.ts",
+      "id": "042",
+      "name": "Mega Lopunny ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/043.ts",
+      "id": "043",
+      "name": "Mienfoo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/044.ts",
+      "id": "044",
+      "name": "Mienshao"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/045.ts",
+      "id": "045",
+      "name": "Grimer"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/046.ts",
+      "id": "046",
+      "name": "Muk"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/047.ts",
+      "id": "047",
+      "name": "Purrloin"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/048.ts",
+      "id": "048",
+      "name": "Liepard"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/049.ts",
+      "id": "049",
+      "name": "Trubbish"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/050.ts",
+      "id": "050",
+      "name": "Garbodor"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/051.ts",
+      "id": "051",
+      "name": "Steelix"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/052.ts",
+      "id": "052",
+      "name": "Mega Steelix ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/053.ts",
+      "id": "053",
+      "name": "Probopass"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/054.ts",
+      "id": "054",
+      "name": "Genesect"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/055.ts",
+      "id": "055",
+      "name": "Ditto"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/056.ts",
+      "id": "056",
+      "name": "Porygon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/057.ts",
+      "id": "057",
+      "name": "Porygon2"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/058.ts",
+      "id": "058",
+      "name": "Porygon-Z"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/059.ts",
+      "id": "059",
+      "name": "Starly"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/060.ts",
+      "id": "060",
+      "name": "Staravia"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/061.ts",
+      "id": "061",
+      "name": "Staraptor"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/062.ts",
+      "id": "062",
+      "name": "Buneary"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/063.ts",
+      "id": "063",
+      "name": "Lopunny"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/064.ts",
+      "id": "064",
+      "name": "Bouffalant"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/065.ts",
+      "id": "065",
+      "name": "Furfrou"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/066.ts",
+      "id": "066",
+      "name": "Clemont"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/067.ts",
+      "id": "067",
+      "name": "Quick-Grow Extract"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/068.ts",
+      "id": "068",
+      "name": "Clemont"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/069.ts",
+      "id": "069",
+      "name": "Serena"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/070.ts",
+      "id": "070",
+      "name": "Ariados"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/071.ts",
+      "id": "071",
+      "name": "Sunflora"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/072.ts",
+      "id": "072",
+      "name": "Reuniclus"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/073.ts",
+      "id": "073",
+      "name": "Xerneas"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/074.ts",
+      "id": "074",
+      "name": "Trubbish"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/075.ts",
+      "id": "075",
+      "name": "Buneary"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/076.ts",
+      "id": "076",
+      "name": "Mega Venusaur ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/077.ts",
+      "id": "077",
+      "name": "Mega Charizard Y ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/078.ts",
+      "id": "078",
+      "name": "Mega Blastoise ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/079.ts",
+      "id": "079",
+      "name": "Mega Lopunny ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/080.ts",
+      "id": "080",
+      "name": "Mega Steelix ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/081.ts",
+      "id": "081",
+      "name": "Clemont"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/082.ts",
+      "id": "082",
+      "name": "Serena"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/083.ts",
+      "id": "083",
+      "name": "Mega Venusaur ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/084.ts",
+      "id": "084",
+      "name": "Mega Blastoise ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/085.ts",
+      "id": "085",
+      "name": "Mega Lopunny ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/086.ts",
+      "id": "086",
+      "name": "Mega Steelix ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/087.ts",
+      "id": "087",
+      "name": "Mega Charizard Y ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/088.ts",
+      "id": "088",
+      "name": "Oddish"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/089.ts",
+      "id": "089",
+      "name": "Gloom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/090.ts",
+      "id": "090",
+      "name": "Vileplume"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/091.ts",
+      "id": "091",
+      "name": "Charizard"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/092.ts",
+      "id": "092",
+      "name": "Shellder"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/093.ts",
+      "id": "093",
+      "name": "Cloyster"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/094.ts",
+      "id": "094",
+      "name": "Sandshrew"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/095.ts",
+      "id": "095",
+      "name": "Sandslash"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/096.ts",
+      "id": "096",
+      "name": "Type: Null"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/097.ts",
+      "id": "097",
+      "name": "Silvally"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/098.ts",
+      "id": "098",
+      "name": "Buzzwole ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/099.ts",
+      "id": "099",
+      "name": "Lunala ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/100.ts",
+      "id": "100",
+      "name": "Guzzlord ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/101.ts",
+      "id": "101",
+      "name": "Solgaleo ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/102.ts",
+      "id": "102",
+      "name": "Aegislash"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Crimson Blaze/103.ts",
+      "id": "103",
+      "name": "Quick-Grow Extract"
+    }
+  ]
+}

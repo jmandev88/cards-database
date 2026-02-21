@@ -1,0 +1,65 @@
+{
+  "set": "Macdonald's Collection 2015",
+  "missing": [
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2015/1.ts",
+      "id": "1",
+      "name": "Treecko"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2015/10.ts",
+      "id": "10",
+      "name": "Marill"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2015/11.ts",
+      "id": "11",
+      "name": "Zigzagoon"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2015/12.ts",
+      "id": "12",
+      "name": "Skitty"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2015/2.ts",
+      "id": "2",
+      "name": "Lotad"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2015/3.ts",
+      "id": "3",
+      "name": "Torchic"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2015/4.ts",
+      "id": "4",
+      "name": "Staryu"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2015/5.ts",
+      "id": "5",
+      "name": "Mudkip"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2015/6.ts",
+      "id": "6",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2015/7.ts",
+      "id": "7",
+      "name": "Electrike"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2015/8.ts",
+      "id": "8",
+      "name": "Rhyhorn"
+    },
+    {
+      "file": "data/McDonald's Collection/Macdonald's Collection 2015/9.ts",
+      "id": "9",
+      "name": "Meditite"
+    }
+  ]
+}

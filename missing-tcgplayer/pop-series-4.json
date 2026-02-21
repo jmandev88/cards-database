@@ -1,0 +1,25 @@
+{
+  "set": "POP Series 4",
+  "missing": [
+    {
+      "file": "data/POP/POP Series 4/1.ts",
+      "id": "1",
+      "name": "Chimecho δ"
+    },
+    {
+      "file": "data/POP/POP Series 4/15.ts",
+      "id": "15",
+      "name": "Treecko δ"
+    },
+    {
+      "file": "data/POP/POP Series 4/2.ts",
+      "id": "2",
+      "name": "Deoxys δ"
+    },
+    {
+      "file": "data/POP/POP Series 4/9.ts",
+      "id": "9",
+      "name": "Pokémon Fan Club"
+    }
+  ]
+}

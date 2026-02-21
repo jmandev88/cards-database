@@ -1,0 +1,35 @@
+{
+  "set": "Celebrations",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Celebrations/109A.ts",
+      "id": "109A",
+      "name": "Luxray GL LV.X"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/145A.ts",
+      "id": "145A",
+      "name": "Garchomp C LV.X"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/17A.ts",
+      "id": "17A",
+      "name": "Umbreon Star"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/23.ts",
+      "id": "23",
+      "name": "Professor"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/24.ts",
+      "id": "24",
+      "name": "Professor"
+    },
+    {
+      "file": "data/Sword & Shield/Celebrations/76A.ts",
+      "id": "76A",
+      "name": "M Rayquaza EX"
+    }
+  ]
+}

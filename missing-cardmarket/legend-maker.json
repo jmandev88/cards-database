@@ -1,0 +1,20 @@
+{
+  "set": "Legend Maker",
+  "missing": [
+    {
+      "file": "data/EX/Legend Maker/90.ts",
+      "id": "90",
+      "name": "Regice Star"
+    },
+    {
+      "file": "data/EX/Legend Maker/91.ts",
+      "id": "91",
+      "name": "Regirock Star"
+    },
+    {
+      "file": "data/EX/Legend Maker/92.ts",
+      "id": "92",
+      "name": "Registeel Star"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "set": "Champion's Path",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Champion's Path/62.ts",
+      "id": "62",
+      "name": "Professor"
+    }
+  ]
+}

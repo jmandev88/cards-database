@@ -1,0 +1,500 @@
+{
+  "set": "Shrouded Fable",
+  "missing": [
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/001.ts",
+      "id": "001",
+      "name": "Joltik"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/002.ts",
+      "id": "002",
+      "name": "Galvantula"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/003.ts",
+      "id": "003",
+      "name": "Rowlet"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/004.ts",
+      "id": "004",
+      "name": "Dartrix"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/005.ts",
+      "id": "005",
+      "name": "Decidueye"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/006.ts",
+      "id": "006",
+      "name": "Tapu Bulu"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/007.ts",
+      "id": "007",
+      "name": "Houndour"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/008.ts",
+      "id": "008",
+      "name": "Houndoom"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/009.ts",
+      "id": "009",
+      "name": "Iron Moth"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/010.ts",
+      "id": "010",
+      "name": "Horsea"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/011.ts",
+      "id": "011",
+      "name": "Seadra"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/012.ts",
+      "id": "012",
+      "name": "Kingdra ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/013.ts",
+      "id": "013",
+      "name": "Sneasel"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/014.ts",
+      "id": "014",
+      "name": "Weavile"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/015.ts",
+      "id": "015",
+      "name": "Revavroom ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/016.ts",
+      "id": "016",
+      "name": "Drowzee"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/017.ts",
+      "id": "017",
+      "name": "Hypno"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/018.ts",
+      "id": "018",
+      "name": "Duskull"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/019.ts",
+      "id": "019",
+      "name": "Dusclops"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/020.ts",
+      "id": "020",
+      "name": "Dusknoir"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/021.ts",
+      "id": "021",
+      "name": "Cresselia"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/022.ts",
+      "id": "022",
+      "name": "Sylveon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/023.ts",
+      "id": "023",
+      "name": "Croagunk"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/024.ts",
+      "id": "024",
+      "name": "Toxicroak"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/025.ts",
+      "id": "025",
+      "name": "Bloodmoon Ursaluna"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/026.ts",
+      "id": "026",
+      "name": "Slither Wing"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/027.ts",
+      "id": "027",
+      "name": "Zubat"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/028.ts",
+      "id": "028",
+      "name": "Golbat"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/029.ts",
+      "id": "029",
+      "name": "Crobat"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/030.ts",
+      "id": "030",
+      "name": "Absol"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/031.ts",
+      "id": "031",
+      "name": "Zorua"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/032.ts",
+      "id": "032",
+      "name": "Zoroark"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/033.ts",
+      "id": "033",
+      "name": "Inkay"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/034.ts",
+      "id": "034",
+      "name": "Malamar"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/035.ts",
+      "id": "035",
+      "name": "Yveltal"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/036.ts",
+      "id": "036",
+      "name": "Okidogi ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/037.ts",
+      "id": "037",
+      "name": "Munkidori ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/038.ts",
+      "id": "038",
+      "name": "Fezandipiti ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/039.ts",
+      "id": "039",
+      "name": "Pecharunt ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/040.ts",
+      "id": "040",
+      "name": "Genesect"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/041.ts",
+      "id": "041",
+      "name": "Cufant"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/042.ts",
+      "id": "042",
+      "name": "Copperajah"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/043.ts",
+      "id": "043",
+      "name": "Varoom"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/044.ts",
+      "id": "044",
+      "name": "Axew"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/045.ts",
+      "id": "045",
+      "name": "Fraxure"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/046.ts",
+      "id": "046",
+      "name": "Haxorus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/047.ts",
+      "id": "047",
+      "name": "Kyurem"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/048.ts",
+      "id": "048",
+      "name": "Meowth"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/049.ts",
+      "id": "049",
+      "name": "Persian"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/050.ts",
+      "id": "050",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/051.ts",
+      "id": "051",
+      "name": "Furfrou"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/052.ts",
+      "id": "052",
+      "name": "Stufful"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/053.ts",
+      "id": "053",
+      "name": "Bewear"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/054.ts",
+      "id": "054",
+      "name": "Academy at Night"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/055.ts",
+      "id": "055",
+      "name": "Binding Mochi"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/056.ts",
+      "id": "056",
+      "name": "Cassiopeia"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/057.ts",
+      "id": "057",
+      "name": "Colress"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/058.ts",
+      "id": "058",
+      "name": "Dangerous Laser"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/059.ts",
+      "id": "059",
+      "name": "Janine"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/060.ts",
+      "id": "060",
+      "name": "Neutralization Zone"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/061.ts",
+      "id": "061",
+      "name": "Night Stretcher"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/062.ts",
+      "id": "062",
+      "name": "Poké Vital A"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/063.ts",
+      "id": "063",
+      "name": "Powerglass"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/064.ts",
+      "id": "064",
+      "name": "Xerosic"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/065.ts",
+      "id": "065",
+      "name": "Tapu Bulu"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/066.ts",
+      "id": "066",
+      "name": "Houndoom"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/067.ts",
+      "id": "067",
+      "name": "Horsea"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/068.ts",
+      "id": "068",
+      "name": "Duskull"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/069.ts",
+      "id": "069",
+      "name": "Dusclops"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/070.ts",
+      "id": "070",
+      "name": "Dusknoir"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/071.ts",
+      "id": "071",
+      "name": "Cresselia"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/072.ts",
+      "id": "072",
+      "name": "Munkidori"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/073.ts",
+      "id": "073",
+      "name": "Fezandipiti"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/074.ts",
+      "id": "074",
+      "name": "Okidogi"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/075.ts",
+      "id": "075",
+      "name": "Zorua"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/076.ts",
+      "id": "076",
+      "name": "Cufant"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/077.ts",
+      "id": "077",
+      "name": "Fraxure"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/078.ts",
+      "id": "078",
+      "name": "Persian"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/079.ts",
+      "id": "079",
+      "name": "Bewear"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/080.ts",
+      "id": "080",
+      "name": "Kingdra ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/081.ts",
+      "id": "081",
+      "name": "Revavroom ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/082.ts",
+      "id": "082",
+      "name": "Okidogi ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/083.ts",
+      "id": "083",
+      "name": "Munkidori ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/084.ts",
+      "id": "084",
+      "name": "Fezandipiti ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/085.ts",
+      "id": "085",
+      "name": "Pecharunt ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/086.ts",
+      "id": "086",
+      "name": "Cassiopeia"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/087.ts",
+      "id": "087",
+      "name": "Colress"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/088.ts",
+      "id": "088",
+      "name": "Janine"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/089.ts",
+      "id": "089",
+      "name": "Xerosic"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/090.ts",
+      "id": "090",
+      "name": "Okidogi ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/091.ts",
+      "id": "091",
+      "name": "Munkidori ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/092.ts",
+      "id": "092",
+      "name": "Fezandipiti ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/093.ts",
+      "id": "093",
+      "name": "Pecharunt ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/094.ts",
+      "id": "094",
+      "name": "Cassiopeia"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/095.ts",
+      "id": "095",
+      "name": "Pecharunt ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/096.ts",
+      "id": "096",
+      "name": "Earthen Vessel"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/097.ts",
+      "id": "097",
+      "name": "Powerglass"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/098.ts",
+      "id": "098",
+      "name": "Basic Darkness Energy"
+    },
+    {
+      "file": "data/Scarlet & Violet/Shrouded Fable/099.ts",
+      "id": "099",
+      "name": "Basic Metal Energy"
+    }
+  ]
+}

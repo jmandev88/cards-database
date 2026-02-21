@@ -1,0 +1,60 @@
+{
+  "set": "DP trainer Kit (Lucario)",
+  "missing": [
+    {
+      "file": "data/Trainer kits/DP trainer Kit (Lucario)/1.ts",
+      "id": "1",
+      "name": "Geodude"
+    },
+    {
+      "file": "data/Trainer kits/DP trainer Kit (Lucario)/10.ts",
+      "id": "10",
+      "name": "Quick Ball"
+    },
+    {
+      "file": "data/Trainer kits/DP trainer Kit (Lucario)/11.ts",
+      "id": "11",
+      "name": "Fighting Energy"
+    },
+    {
+      "file": "data/Trainer kits/DP trainer Kit (Lucario)/2.ts",
+      "id": "2",
+      "name": "Graveler"
+    },
+    {
+      "file": "data/Trainer kits/DP trainer Kit (Lucario)/3.ts",
+      "id": "3",
+      "name": "Lucario"
+    },
+    {
+      "file": "data/Trainer kits/DP trainer Kit (Lucario)/4.ts",
+      "id": "4",
+      "name": "Machoke"
+    },
+    {
+      "file": "data/Trainer kits/DP trainer Kit (Lucario)/5.ts",
+      "id": "5",
+      "name": "Machop"
+    },
+    {
+      "file": "data/Trainer kits/DP trainer Kit (Lucario)/6.ts",
+      "id": "6",
+      "name": "Riolu"
+    },
+    {
+      "file": "data/Trainer kits/DP trainer Kit (Lucario)/7.ts",
+      "id": "7",
+      "name": "Starly"
+    },
+    {
+      "file": "data/Trainer kits/DP trainer Kit (Lucario)/8.ts",
+      "id": "8",
+      "name": "Energy Search"
+    },
+    {
+      "file": "data/Trainer kits/DP trainer Kit (Lucario)/9.ts",
+      "id": "9",
+      "name": "Potion"
+    }
+  ]
+}

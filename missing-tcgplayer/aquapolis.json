@@ -1,0 +1,20 @@
+{
+  "set": "Aquapolis",
+  "missing": [
+    {
+      "file": "data/E-Card/Aquapolis/130.ts",
+      "id": "130",
+      "name": "Pokémon Fan Club"
+    },
+    {
+      "file": "data/E-Card/Aquapolis/131.ts",
+      "id": "131",
+      "name": "Pokémon Park"
+    },
+    {
+      "file": "data/E-Card/Aquapolis/96.ts",
+      "id": "96",
+      "name": "Nidoran♂"
+    }
+  ]
+}

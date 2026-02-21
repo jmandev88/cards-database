@@ -1,0 +1,95 @@
+{
+  "set": "Arceus",
+  "missing": [
+    {
+      "file": "data/Platinum/Arceus/94.ts",
+      "id": "94",
+      "name": "Arceus LV. X"
+    },
+    {
+      "file": "data/Platinum/Arceus/95.ts",
+      "id": "95",
+      "name": "Arceus LV. X"
+    },
+    {
+      "file": "data/Platinum/Arceus/96.ts",
+      "id": "96",
+      "name": "Arceus LV. X"
+    },
+    {
+      "file": "data/Platinum/Arceus/97.ts",
+      "id": "97",
+      "name": "Gengar LV. X"
+    },
+    {
+      "file": "data/Platinum/Arceus/98.ts",
+      "id": "98",
+      "name": "Salamence LV. X"
+    },
+    {
+      "file": "data/Platinum/Arceus/99.ts",
+      "id": "99",
+      "name": "Tangrowth LV. X"
+    },
+    {
+      "file": "data/Platinum/Arceus/AR1.ts",
+      "id": "AR1",
+      "name": "Arceus"
+    },
+    {
+      "file": "data/Platinum/Arceus/AR2.ts",
+      "id": "AR2",
+      "name": "Arceus"
+    },
+    {
+      "file": "data/Platinum/Arceus/AR3.ts",
+      "id": "AR3",
+      "name": "Arceus"
+    },
+    {
+      "file": "data/Platinum/Arceus/AR4.ts",
+      "id": "AR4",
+      "name": "Arceus"
+    },
+    {
+      "file": "data/Platinum/Arceus/AR5.ts",
+      "id": "AR5",
+      "name": "Arceus"
+    },
+    {
+      "file": "data/Platinum/Arceus/AR6.ts",
+      "id": "AR6",
+      "name": "Arceus"
+    },
+    {
+      "file": "data/Platinum/Arceus/AR7.ts",
+      "id": "AR7",
+      "name": "Arceus"
+    },
+    {
+      "file": "data/Platinum/Arceus/AR8.ts",
+      "id": "AR8",
+      "name": "Arceus"
+    },
+    {
+      "file": "data/Platinum/Arceus/AR9.ts",
+      "id": "AR9",
+      "name": "Arceus"
+    },
+    {
+      "file": "data/Platinum/Arceus/SH10.ts",
+      "id": "SH10",
+      "name": "Bagon"
+    },
+    {
+      "file": "data/Platinum/Arceus/SH11.ts",
+      "id": "SH11",
+      "name": "Ponyta"
+    },
+    {
+      "file": "data/Platinum/Arceus/SH12.ts",
+      "id": "SH12",
+      "name": "Shinx"
+    }
+  ]
+}

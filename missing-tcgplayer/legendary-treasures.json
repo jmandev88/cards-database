@@ -1,0 +1,190 @@
+{
+  "set": "Legendary Treasures",
+  "missing": [
+    {
+      "file": "data/Black & White/Legendary Treasures/100.ts",
+      "id": "100",
+      "name": "Black Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/101.ts",
+      "id": "101",
+      "name": "White Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/102.ts",
+      "id": "102",
+      "name": "Lugia-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/24.ts",
+      "id": "24",
+      "name": "Victini-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/29.ts",
+      "id": "29",
+      "name": "Reshiram-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/44.ts",
+      "id": "44",
+      "name": "Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/45.ts",
+      "id": "45",
+      "name": "Keldeo-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/52.ts",
+      "id": "52",
+      "name": "Zekrom-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/54.ts",
+      "id": "54",
+      "name": "Mewtwo-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/77.ts",
+      "id": "77",
+      "name": "Chandelure-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/82.ts",
+      "id": "82",
+      "name": "Excadrill-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/88.ts",
+      "id": "88",
+      "name": "Darkrai-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC1.ts",
+      "id": "RC1",
+      "name": "Snivy"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC10.ts",
+      "id": "RC10",
+      "name": "Gardevoir"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC11.ts",
+      "id": "RC11",
+      "name": "Meloetta-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC12.ts",
+      "id": "RC12",
+      "name": "Stunfisk"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC13.ts",
+      "id": "RC13",
+      "name": "Purrloin"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC14.ts",
+      "id": "RC14",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC15.ts",
+      "id": "RC15",
+      "name": "Teddiursa"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC16.ts",
+      "id": "RC16",
+      "name": "Ursaring"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC17.ts",
+      "id": "RC17",
+      "name": "Audino"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC18.ts",
+      "id": "RC18",
+      "name": "Minccino"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC19.ts",
+      "id": "RC19",
+      "name": "Cinccino"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC2.ts",
+      "id": "RC2",
+      "name": "Servine"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC20.ts",
+      "id": "RC20",
+      "name": "Elesa"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC21.ts",
+      "id": "RC21",
+      "name": "Shaymin-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC22.ts",
+      "id": "RC22",
+      "name": "Reshiram"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC23.ts",
+      "id": "RC23",
+      "name": "Emolga"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC24.ts",
+      "id": "RC24",
+      "name": "Mew-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC25.ts",
+      "id": "RC25",
+      "name": "Meloetta-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC3.ts",
+      "id": "RC3",
+      "name": "Serperior"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC4.ts",
+      "id": "RC4",
+      "name": "Growlithe"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC5.ts",
+      "id": "RC5",
+      "name": "Torchic"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC6.ts",
+      "id": "RC6",
+      "name": "Piplup"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC7.ts",
+      "id": "RC7",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC8.ts",
+      "id": "RC8",
+      "name": "Ralts"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC9.ts",
+      "id": "RC9",
+      "name": "Kirlia"
+    }
+  ]
+}

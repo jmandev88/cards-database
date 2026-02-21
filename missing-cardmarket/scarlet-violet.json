@@ -1,0 +1,15 @@
+{
+  "set": "Scarlet & Violet",
+  "missing": [
+    {
+      "file": "data/Scarlet & Violet/Destined Rivals.ts",
+      "id": "Destined Rivals",
+      "name": "Destined Rivals"
+    },
+    {
+      "file": "data/Scarlet & Violet/SVP Black Star Promos.ts",
+      "id": "SVP Black Star Promos",
+      "name": "SVP Black Star Promos"
+    }
+  ]
+}

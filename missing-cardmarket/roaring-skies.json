@@ -1,0 +1,40 @@
+{
+  "set": "Roaring Skies",
+  "missing": [
+    {
+      "file": "data/XY/Roaring Skies/100.ts",
+      "id": "100",
+      "name": "M Gallade EX"
+    },
+    {
+      "file": "data/XY/Roaring Skies/102.ts",
+      "id": "102",
+      "name": "M Latios EX"
+    },
+    {
+      "file": "data/XY/Roaring Skies/105.ts",
+      "id": "105",
+      "name": "M Rayquaza EX"
+    },
+    {
+      "file": "data/XY/Roaring Skies/35.ts",
+      "id": "35",
+      "name": "M Gallade EX"
+    },
+    {
+      "file": "data/XY/Roaring Skies/59.ts",
+      "id": "59",
+      "name": "M Latios EX"
+    },
+    {
+      "file": "data/XY/Roaring Skies/61.ts",
+      "id": "61",
+      "name": "M Rayquaza EX"
+    },
+    {
+      "file": "data/XY/Roaring Skies/76.ts",
+      "id": "76",
+      "name": "M Rayquaza EX"
+    }
+  ]
+}

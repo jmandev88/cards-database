@@ -1,0 +1,35 @@
+{
+  "set": "Stormfront",
+  "missing": [
+    {
+      "file": "data/Diamond & Pearl/Stormfront/88.ts",
+      "id": "88",
+      "name": "Poké Blower +"
+    },
+    {
+      "file": "data/Diamond & Pearl/Stormfront/89.ts",
+      "id": "89",
+      "name": "Poké Drawer +"
+    },
+    {
+      "file": "data/Diamond & Pearl/Stormfront/90.ts",
+      "id": "90",
+      "name": "Poké Healer +"
+    },
+    {
+      "file": "data/Diamond & Pearl/Stormfront/SH1.ts",
+      "id": "SH1",
+      "name": "Drifloon"
+    },
+    {
+      "file": "data/Diamond & Pearl/Stormfront/SH2.ts",
+      "id": "SH2",
+      "name": "Duskull"
+    },
+    {
+      "file": "data/Diamond & Pearl/Stormfront/SH3.ts",
+      "id": "SH3",
+      "name": "Voltorb"
+    }
+  ]
+}

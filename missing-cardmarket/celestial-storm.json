@@ -1,0 +1,25 @@
+{
+  "set": "Celestial Storm",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/Celestial Storm/126.ts",
+      "id": "126",
+      "name": "Bill’s Maintenance"
+    },
+    {
+      "file": "data/Sun & Moon/Celestial Storm/145.ts",
+      "id": "145",
+      "name": "Steven’s Resolve"
+    },
+    {
+      "file": "data/Sun & Moon/Celestial Storm/162.ts",
+      "id": "162",
+      "name": "Bill’s Maintenance"
+    },
+    {
+      "file": "data/Sun & Moon/Celestial Storm/165.ts",
+      "id": "165",
+      "name": "Steven’s Resolve"
+    }
+  ]
+}

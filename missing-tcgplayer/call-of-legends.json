@@ -1,0 +1,60 @@
+{
+  "set": "Call of Legends",
+  "missing": [
+    {
+      "file": "data/Call of Legends/Call of Legends/SL1.ts",
+      "id": "SL1",
+      "name": "Deoxys"
+    },
+    {
+      "file": "data/Call of Legends/Call of Legends/SL10.ts",
+      "id": "SL10",
+      "name": "Rayquaza"
+    },
+    {
+      "file": "data/Call of Legends/Call of Legends/SL11.ts",
+      "id": "SL11",
+      "name": "Suicune"
+    },
+    {
+      "file": "data/Call of Legends/Call of Legends/SL2.ts",
+      "id": "SL2",
+      "name": "Dialga"
+    },
+    {
+      "file": "data/Call of Legends/Call of Legends/SL3.ts",
+      "id": "SL3",
+      "name": "Entei"
+    },
+    {
+      "file": "data/Call of Legends/Call of Legends/SL4.ts",
+      "id": "SL4",
+      "name": "Groudon"
+    },
+    {
+      "file": "data/Call of Legends/Call of Legends/SL5.ts",
+      "id": "SL5",
+      "name": "Ho-Oh"
+    },
+    {
+      "file": "data/Call of Legends/Call of Legends/SL6.ts",
+      "id": "SL6",
+      "name": "Kyogre"
+    },
+    {
+      "file": "data/Call of Legends/Call of Legends/SL7.ts",
+      "id": "SL7",
+      "name": "Lugia"
+    },
+    {
+      "file": "data/Call of Legends/Call of Legends/SL8.ts",
+      "id": "SL8",
+      "name": "Palkia"
+    },
+    {
+      "file": "data/Call of Legends/Call of Legends/SL9.ts",
+      "id": "SL9",
+      "name": "Raikou"
+    }
+  ]
+}

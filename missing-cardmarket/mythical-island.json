@@ -1,0 +1,435 @@
+{
+  "set": "Mythical Island",
+  "missing": [
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/001.ts",
+      "id": "001",
+      "name": "Exeggcute"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/002.ts",
+      "id": "002",
+      "name": "Exeggutor"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/003.ts",
+      "id": "003",
+      "name": "Celebi ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/004.ts",
+      "id": "004",
+      "name": "Snivy"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/005.ts",
+      "id": "005",
+      "name": "Servine"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/006.ts",
+      "id": "006",
+      "name": "Serperior"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/007.ts",
+      "id": "007",
+      "name": "Morelull"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/008.ts",
+      "id": "008",
+      "name": "Shiinotic"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/009.ts",
+      "id": "009",
+      "name": "Dhelmise"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/010.ts",
+      "id": "010",
+      "name": "Ponyta"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/011.ts",
+      "id": "011",
+      "name": "Rapidash"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/012.ts",
+      "id": "012",
+      "name": "Magmar"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/013.ts",
+      "id": "013",
+      "name": "Larvesta"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/014.ts",
+      "id": "014",
+      "name": "Volcarona"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/015.ts",
+      "id": "015",
+      "name": "Salandit"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/016.ts",
+      "id": "016",
+      "name": "Salazzle"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/017.ts",
+      "id": "017",
+      "name": "Magikarp"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/018.ts",
+      "id": "018",
+      "name": "Gyarados ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/019.ts",
+      "id": "019",
+      "name": "Vaporeon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/020.ts",
+      "id": "020",
+      "name": "Finneon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/021.ts",
+      "id": "021",
+      "name": "Lumineon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/022.ts",
+      "id": "022",
+      "name": "Chewtle"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/023.ts",
+      "id": "023",
+      "name": "Drednaw"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/024.ts",
+      "id": "024",
+      "name": "Cramorant"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/025.ts",
+      "id": "025",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/026.ts",
+      "id": "026",
+      "name": "Raichu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/027.ts",
+      "id": "027",
+      "name": "Electabuzz"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/028.ts",
+      "id": "028",
+      "name": "Joltik"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/029.ts",
+      "id": "029",
+      "name": "Galvantula"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/030.ts",
+      "id": "030",
+      "name": "Dedenne"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/031.ts",
+      "id": "031",
+      "name": "Mew"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/032.ts",
+      "id": "032",
+      "name": "Mew ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/033.ts",
+      "id": "033",
+      "name": "Sigilyph"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/034.ts",
+      "id": "034",
+      "name": "Elgyem"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/035.ts",
+      "id": "035",
+      "name": "Beheeyem"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/036.ts",
+      "id": "036",
+      "name": "Flabébé"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/037.ts",
+      "id": "037",
+      "name": "Floette"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/038.ts",
+      "id": "038",
+      "name": "Florges"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/039.ts",
+      "id": "039",
+      "name": "Swirlix"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/040.ts",
+      "id": "040",
+      "name": "Slurpuff"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/041.ts",
+      "id": "041",
+      "name": "Mankey"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/042.ts",
+      "id": "042",
+      "name": "Primeape"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/043.ts",
+      "id": "043",
+      "name": "Geodude"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/044.ts",
+      "id": "044",
+      "name": "Graveler"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/045.ts",
+      "id": "045",
+      "name": "Golem"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/046.ts",
+      "id": "046",
+      "name": "Aerodactyl ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/047.ts",
+      "id": "047",
+      "name": "Marshadow"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/048.ts",
+      "id": "048",
+      "name": "Stonjourner"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/049.ts",
+      "id": "049",
+      "name": "Koffing"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/050.ts",
+      "id": "050",
+      "name": "Weezing"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/051.ts",
+      "id": "051",
+      "name": "Purrloin"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/052.ts",
+      "id": "052",
+      "name": "Liepard"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/053.ts",
+      "id": "053",
+      "name": "Venipede"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/054.ts",
+      "id": "054",
+      "name": "Whirlipede"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/055.ts",
+      "id": "055",
+      "name": "Scolipede"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/056.ts",
+      "id": "056",
+      "name": "Druddigon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/057.ts",
+      "id": "057",
+      "name": "Pidgey"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/058.ts",
+      "id": "058",
+      "name": "Pidgeotto"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/059.ts",
+      "id": "059",
+      "name": "Pidgeot ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/060.ts",
+      "id": "060",
+      "name": "Tauros"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/061.ts",
+      "id": "061",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/062.ts",
+      "id": "062",
+      "name": "Chatot"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/063.ts",
+      "id": "063",
+      "name": "Old Amber"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/064.ts",
+      "id": "064",
+      "name": "Pokémon Flute"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/065.ts",
+      "id": "065",
+      "name": "Mythical Slab"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/066.ts",
+      "id": "066",
+      "name": "Budding Expeditioner"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/067.ts",
+      "id": "067",
+      "name": "Blue"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/068.ts",
+      "id": "068",
+      "name": "Leaf"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/069.ts",
+      "id": "069",
+      "name": "Exeggutor"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/070.ts",
+      "id": "070",
+      "name": "Serperior"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/071.ts",
+      "id": "071",
+      "name": "Salandit"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/072.ts",
+      "id": "072",
+      "name": "Vaporeon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/073.ts",
+      "id": "073",
+      "name": "Dedenne"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/074.ts",
+      "id": "074",
+      "name": "Marshadow"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/075.ts",
+      "id": "075",
+      "name": "Celebi ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/076.ts",
+      "id": "076",
+      "name": "Gyarados ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/077.ts",
+      "id": "077",
+      "name": "Mew ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/078.ts",
+      "id": "078",
+      "name": "Aerodactyl ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/079.ts",
+      "id": "079",
+      "name": "Pidgeot ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/080.ts",
+      "id": "080",
+      "name": "Budding Expeditioner"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/081.ts",
+      "id": "081",
+      "name": "Blue"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/082.ts",
+      "id": "082",
+      "name": "Leaf"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/083.ts",
+      "id": "083",
+      "name": "Mew ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/084.ts",
+      "id": "084",
+      "name": "Aerodactyl ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/085.ts",
+      "id": "085",
+      "name": "Celebi ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Mythical Island/086.ts",
+      "id": "086",
+      "name": "Mew ex"
+    }
+  ]
+}

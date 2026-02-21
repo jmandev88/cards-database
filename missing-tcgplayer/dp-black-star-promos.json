@@ -1,0 +1,285 @@
+{
+  "set": "DP Black Star Promos",
+  "missing": [
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP01.ts",
+      "id": "DP01",
+      "name": "Turtwig"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP02.ts",
+      "id": "DP02",
+      "name": "Chimchar"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP03.ts",
+      "id": "DP03",
+      "name": "Piplup"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP04.ts",
+      "id": "DP04",
+      "name": "Pachirisu"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP05.ts",
+      "id": "DP05",
+      "name": "Tropical Wind"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP06.ts",
+      "id": "DP06",
+      "name": "Buneary"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP07.ts",
+      "id": "DP07",
+      "name": "Cranidos"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP08.ts",
+      "id": "DP08",
+      "name": "Shieldon"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP09.ts",
+      "id": "DP09",
+      "name": "Torterra"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP10.ts",
+      "id": "DP10",
+      "name": "Infernape"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP11.ts",
+      "id": "DP11",
+      "name": "Empoleon"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP12.ts",
+      "id": "DP12",
+      "name": "Lucario"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP13.ts",
+      "id": "DP13",
+      "name": "Buizel"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP14.ts",
+      "id": "DP14",
+      "name": "Chatot"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP15.ts",
+      "id": "DP15",
+      "name": "Shinx"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP16.ts",
+      "id": "DP16",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP17.ts",
+      "id": "DP17",
+      "name": "Dialga"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP18.ts",
+      "id": "DP18",
+      "name": "Palkia"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP19.ts",
+      "id": "DP19",
+      "name": "Darkrai"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP20.ts",
+      "id": "DP20",
+      "name": "Magmortar"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP21.ts",
+      "id": "DP21",
+      "name": "Raichu"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP22.ts",
+      "id": "DP22",
+      "name": "Mime Jr."
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP23.ts",
+      "id": "DP23",
+      "name": "Glameow"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP24.ts",
+      "id": "DP24",
+      "name": "Darkrai"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP25.ts",
+      "id": "DP25",
+      "name": "Tropical Wind"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP26.ts",
+      "id": "DP26",
+      "name": "Dialga"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP27.ts",
+      "id": "DP27",
+      "name": "Palkia"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP28.ts",
+      "id": "DP28",
+      "name": "Mewtwo"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP29.ts",
+      "id": "DP29",
+      "name": "Rhyperior"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP30.ts",
+      "id": "DP30",
+      "name": "Regigigas"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP31.ts",
+      "id": "DP31",
+      "name": "Heatran"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP32.ts",
+      "id": "DP32",
+      "name": "Magnezone"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP33.ts",
+      "id": "DP33",
+      "name": "Dusknoir"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP34.ts",
+      "id": "DP34",
+      "name": "Drifblim"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP35.ts",
+      "id": "DP35",
+      "name": "Porygon-Z"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP36.ts",
+      "id": "DP36",
+      "name": "Gliscor"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP37.ts",
+      "id": "DP37",
+      "name": "Dialga"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP38.ts",
+      "id": "DP38",
+      "name": "Giratina"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP39.ts",
+      "id": "DP39",
+      "name": "Shaymin"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP40.ts",
+      "id": "DP40",
+      "name": "Regigigas"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP41.ts",
+      "id": "DP41",
+      "name": "Toxicroak G"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP42.ts",
+      "id": "DP42",
+      "name": "Carnivine G"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP43.ts",
+      "id": "DP43",
+      "name": "Probopass G"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP44.ts",
+      "id": "DP44",
+      "name": "Magnezone"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP45.ts",
+      "id": "DP45",
+      "name": "Charizard G"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP46.ts",
+      "id": "DP46",
+      "name": "Garchomp C"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP47.ts",
+      "id": "DP47",
+      "name": "Rayquaza C"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP48.ts",
+      "id": "DP48",
+      "name": "Tropical Wind"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP49.ts",
+      "id": "DP49",
+      "name": "Dialga"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP50.ts",
+      "id": "DP50",
+      "name": "Arceus"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP51.ts",
+      "id": "DP51",
+      "name": "Cresselia"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP52.ts",
+      "id": "DP52",
+      "name": "Darkrai"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP53.ts",
+      "id": "DP53",
+      "name": "Arceus"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP54.ts",
+      "id": "DP54",
+      "name": "Beginning Door"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP55.ts",
+      "id": "DP55",
+      "name": "Ultimate Zone"
+    },
+    {
+      "file": "data/Diamond & Pearl/DP Black Star Promos/DP56.ts",
+      "id": "DP56",
+      "name": "Arceus"
+    }
+  ]
+}

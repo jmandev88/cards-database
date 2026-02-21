@@ -1,0 +1,10 @@
+{
+  "set": "Ancient Origins",
+  "missing": [
+    {
+      "file": "data/XY/Ancient Origins/75a.ts",
+      "id": "75a",
+      "name": "Hex Maniac"
+    }
+  ]
+}

@@ -1,0 +1,955 @@
+{
+  "set": "Journey Together",
+  "missing": [
+    {
+      "file": "data/Scarlet & Violet/Journey Together/001.ts",
+      "id": "001",
+      "name": "Caterpie"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/002.ts",
+      "id": "002",
+      "name": "Metapod"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/003.ts",
+      "id": "003",
+      "name": "Butterfree"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/004.ts",
+      "id": "004",
+      "name": "Paras"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/005.ts",
+      "id": "005",
+      "name": "Parasect"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/006.ts",
+      "id": "006",
+      "name": "Petilil"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/007.ts",
+      "id": "007",
+      "name": "Lilligant"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/008.ts",
+      "id": "008",
+      "name": "Maractus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/009.ts",
+      "id": "009",
+      "name": "Karrablast"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/010.ts",
+      "id": "010",
+      "name": "Foongus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/011.ts",
+      "id": "011",
+      "name": "Amoonguss ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/012.ts",
+      "id": "012",
+      "name": "Shelmet"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/013.ts",
+      "id": "013",
+      "name": "Accelgor"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/014.ts",
+      "id": "014",
+      "name": "Durant"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/015.ts",
+      "id": "015",
+      "name": "Virizion"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/016.ts",
+      "id": "016",
+      "name": "Sprigatito"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/017.ts",
+      "id": "017",
+      "name": "Floragato"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/018.ts",
+      "id": "018",
+      "name": "Meowscarada"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/019.ts",
+      "id": "019",
+      "name": "Nymble"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/020.ts",
+      "id": "020",
+      "name": "Magmar"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/021.ts",
+      "id": "021",
+      "name": "Magmortar"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/022.ts",
+      "id": "022",
+      "name": "Torchic"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/023.ts",
+      "id": "023",
+      "name": "Combusken"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/024.ts",
+      "id": "024",
+      "name": "Blaziken ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/025.ts",
+      "id": "025",
+      "name": "Torkoal"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/026.ts",
+      "id": "026",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/027.ts",
+      "id": "027",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/028.ts",
+      "id": "028",
+      "name": "Larvesta"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/029.ts",
+      "id": "029",
+      "name": "Volcarona"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/030.ts",
+      "id": "030",
+      "name": "Reshiram ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/031.ts",
+      "id": "031",
+      "name": "Volcanion ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/032.ts",
+      "id": "032",
+      "name": "Articuno"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/033.ts",
+      "id": "033",
+      "name": "Remoraid"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/034.ts",
+      "id": "034",
+      "name": "Octillery"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/035.ts",
+      "id": "035",
+      "name": "Lotad"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/036.ts",
+      "id": "036",
+      "name": "Lombre"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/037.ts",
+      "id": "037",
+      "name": "Ludicolo"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/038.ts",
+      "id": "038",
+      "name": "Wingull"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/039.ts",
+      "id": "039",
+      "name": "Pelipper"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/040.ts",
+      "id": "040",
+      "name": "Wailmer"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/041.ts",
+      "id": "041",
+      "name": "Wailord"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/042.ts",
+      "id": "042",
+      "name": "Regice"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/043.ts",
+      "id": "043",
+      "name": "Veluza ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/044.ts",
+      "id": "044",
+      "name": "Alolan Geodude"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/045.ts",
+      "id": "045",
+      "name": "Alolan Graveler"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/046.ts",
+      "id": "046",
+      "name": "Alolan Golem"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/047.ts",
+      "id": "047",
+      "name": "Iono"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/048.ts",
+      "id": "048",
+      "name": "Iono"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/049.ts",
+      "id": "049",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/050.ts",
+      "id": "050",
+      "name": "Togedemaru"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/051.ts",
+      "id": "051",
+      "name": "Tapu Koko ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/052.ts",
+      "id": "052",
+      "name": "Iono"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/053.ts",
+      "id": "053",
+      "name": "Iono"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/054.ts",
+      "id": "054",
+      "name": "Iono"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/055.ts",
+      "id": "055",
+      "name": "Iono"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/056.ts",
+      "id": "056",
+      "name": "Lillie"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/057.ts",
+      "id": "057",
+      "name": "Alolan Marowak"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/058.ts",
+      "id": "058",
+      "name": "Mr. Mime"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/059.ts",
+      "id": "059",
+      "name": "Shuppet"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/060.ts",
+      "id": "060",
+      "name": "Banette"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/061.ts",
+      "id": "061",
+      "name": "Beldum"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/062.ts",
+      "id": "062",
+      "name": "Metang"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/063.ts",
+      "id": "063",
+      "name": "Metagross"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/064.ts",
+      "id": "064",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/065.ts",
+      "id": "065",
+      "name": "Oricorio"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/066.ts",
+      "id": "066",
+      "name": "Lillie"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/067.ts",
+      "id": "067",
+      "name": "Lillie"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/068.ts",
+      "id": "068",
+      "name": "Lillie"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/069.ts",
+      "id": "069",
+      "name": "Mimikyu ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/070.ts",
+      "id": "070",
+      "name": "Dhelmise"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/071.ts",
+      "id": "071",
+      "name": "Impidimp"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/072.ts",
+      "id": "072",
+      "name": "Morgrem"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/073.ts",
+      "id": "073",
+      "name": "Grimmsnarl"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/074.ts",
+      "id": "074",
+      "name": "Milcery"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/075.ts",
+      "id": "075",
+      "name": "Alcremie ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/076.ts",
+      "id": "076",
+      "name": "Cubone"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/077.ts",
+      "id": "077",
+      "name": "Swinub"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/078.ts",
+      "id": "078",
+      "name": "Piloswine"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/079.ts",
+      "id": "079",
+      "name": "Mamoswine ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/080.ts",
+      "id": "080",
+      "name": "Larvitar"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/081.ts",
+      "id": "081",
+      "name": "Pupitar"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/082.ts",
+      "id": "082",
+      "name": "Regirock"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/083.ts",
+      "id": "083",
+      "name": "Pancham"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/084.ts",
+      "id": "084",
+      "name": "Rockruff"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/085.ts",
+      "id": "085",
+      "name": "Lycanroc"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/086.ts",
+      "id": "086",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/087.ts",
+      "id": "087",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/088.ts",
+      "id": "088",
+      "name": "Toedscool"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/089.ts",
+      "id": "089",
+      "name": "Toedscruel"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/090.ts",
+      "id": "090",
+      "name": "Klawf"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/091.ts",
+      "id": "091",
+      "name": "Koffing"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/092.ts",
+      "id": "092",
+      "name": "Weezing"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/093.ts",
+      "id": "093",
+      "name": "Paldean Wooper"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/094.ts",
+      "id": "094",
+      "name": "Paldean Clodsire ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/095.ts",
+      "id": "095",
+      "name": "Tyranitar"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/096.ts",
+      "id": "096",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/097.ts",
+      "id": "097",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/098.ts",
+      "id": "098",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/099.ts",
+      "id": "099",
+      "name": "Pangoro"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/100.ts",
+      "id": "100",
+      "name": "Lokix"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/101.ts",
+      "id": "101",
+      "name": "Bombirdier"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/102.ts",
+      "id": "102",
+      "name": "Escavalier"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/103.ts",
+      "id": "103",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/104.ts",
+      "id": "104",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/105.ts",
+      "id": "105",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/106.ts",
+      "id": "106",
+      "name": "Galarian Stunfisk"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/107.ts",
+      "id": "107",
+      "name": "Magearna"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/108.ts",
+      "id": "108",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/109.ts",
+      "id": "109",
+      "name": "Cufant"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/110.ts",
+      "id": "110",
+      "name": "Copperajah"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/111.ts",
+      "id": "111",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/112.ts",
+      "id": "112",
+      "name": "Bagon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/113.ts",
+      "id": "113",
+      "name": "Shelgon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/114.ts",
+      "id": "114",
+      "name": "Salamence ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/115.ts",
+      "id": "115",
+      "name": "Druddigon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/116.ts",
+      "id": "116",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/117.ts",
+      "id": "117",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/118.ts",
+      "id": "118",
+      "name": "Sentret"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/119.ts",
+      "id": "119",
+      "name": "Furret"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/120.ts",
+      "id": "120",
+      "name": "Dunsparce"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/121.ts",
+      "id": "121",
+      "name": "Dudunsparce ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/122.ts",
+      "id": "122",
+      "name": "Kecleon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/123.ts",
+      "id": "123",
+      "name": "Tropius"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/124.ts",
+      "id": "124",
+      "name": "Audino"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/125.ts",
+      "id": "125",
+      "name": "Minccino"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/126.ts",
+      "id": "126",
+      "name": "Cinccino"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/127.ts",
+      "id": "127",
+      "name": "Noibat"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/128.ts",
+      "id": "128",
+      "name": "Noivern"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/129.ts",
+      "id": "129",
+      "name": "Komala"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/130.ts",
+      "id": "130",
+      "name": "Drampa"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/131.ts",
+      "id": "131",
+      "name": "Skwovet"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/132.ts",
+      "id": "132",
+      "name": "Greedent"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/133.ts",
+      "id": "133",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/134.ts",
+      "id": "134",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/135.ts",
+      "id": "135",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/136.ts",
+      "id": "136",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/137.ts",
+      "id": "137",
+      "name": "Cramorant"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/138.ts",
+      "id": "138",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/139.ts",
+      "id": "139",
+      "name": "Lechonk"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/140.ts",
+      "id": "140",
+      "name": "Oinkologne"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/141.ts",
+      "id": "141",
+      "name": "Squawkabilly"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/142.ts",
+      "id": "142",
+      "name": "Billy & O"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/143.ts",
+      "id": "143",
+      "name": "Black Belt"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/144.ts",
+      "id": "144",
+      "name": "Black Belt"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/145.ts",
+      "id": "145",
+      "name": "Black Belt"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/146.ts",
+      "id": "146",
+      "name": "Brock"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/147.ts",
+      "id": "147",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/148.ts",
+      "id": "148",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/149.ts",
+      "id": "149",
+      "name": "Iris"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/150.ts",
+      "id": "150",
+      "name": "Levincia"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/151.ts",
+      "id": "151",
+      "name": "Lillie"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/152.ts",
+      "id": "152",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/153.ts",
+      "id": "153",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/154.ts",
+      "id": "154",
+      "name": "Postwick"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/155.ts",
+      "id": "155",
+      "name": "Professor"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/156.ts",
+      "id": "156",
+      "name": "Redeemable Ticket"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/157.ts",
+      "id": "157",
+      "name": "Ruffian"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/158.ts",
+      "id": "158",
+      "name": "Super Potion"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/159.ts",
+      "id": "159",
+      "name": "Spiky Energy"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/160.ts",
+      "id": "160",
+      "name": "Maractus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/161.ts",
+      "id": "161",
+      "name": "Articuno"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/162.ts",
+      "id": "162",
+      "name": "Wailord"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/163.ts",
+      "id": "163",
+      "name": "Iono"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/164.ts",
+      "id": "164",
+      "name": "Lillie"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/165.ts",
+      "id": "165",
+      "name": "Swinub"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/166.ts",
+      "id": "166",
+      "name": "Lycanroc"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/167.ts",
+      "id": "167",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/168.ts",
+      "id": "168",
+      "name": "Furret"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/169.ts",
+      "id": "169",
+      "name": "Noibat"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/170.ts",
+      "id": "170",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/171.ts",
+      "id": "171",
+      "name": "Volcanion ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/172.ts",
+      "id": "172",
+      "name": "Iono"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/173.ts",
+      "id": "173",
+      "name": "Lillie"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/174.ts",
+      "id": "174",
+      "name": "Mamoswine ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/175.ts",
+      "id": "175",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/176.ts",
+      "id": "176",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/177.ts",
+      "id": "177",
+      "name": "Salamence ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/178.ts",
+      "id": "178",
+      "name": "Dudunsparce ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/179.ts",
+      "id": "179",
+      "name": "Brock"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/180.ts",
+      "id": "180",
+      "name": "Iris"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/181.ts",
+      "id": "181",
+      "name": "Ruffian"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/182.ts",
+      "id": "182",
+      "name": "Volcanion ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/183.ts",
+      "id": "183",
+      "name": "Iono"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/184.ts",
+      "id": "184",
+      "name": "Lillie"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/185.ts",
+      "id": "185",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/186.ts",
+      "id": "186",
+      "name": "Hop"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/187.ts",
+      "id": "187",
+      "name": "Salamence ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/188.ts",
+      "id": "188",
+      "name": "Iono"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/189.ts",
+      "id": "189",
+      "name": "N"
+    },
+    {
+      "file": "data/Scarlet & Violet/Journey Together/190.ts",
+      "id": "190",
+      "name": "Spiky Energy"
+    }
+  ]
+}

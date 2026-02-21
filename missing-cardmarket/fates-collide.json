@@ -1,0 +1,30 @@
+{
+  "set": "Fates Collide",
+  "missing": [
+    {
+      "file": "data/XY/Fates Collide/118.ts",
+      "id": "118",
+      "name": "M Alakazam EX"
+    },
+    {
+      "file": "data/XY/Fates Collide/121.ts",
+      "id": "121",
+      "name": "M Altaria EX"
+    },
+    {
+      "file": "data/XY/Fates Collide/26.ts",
+      "id": "26",
+      "name": "M Alakazam EX"
+    },
+    {
+      "file": "data/XY/Fates Collide/69.ts",
+      "id": "69",
+      "name": "M Altaria EX"
+    },
+    {
+      "file": "data/XY/Fates Collide/85.ts",
+      "id": "85",
+      "name": "M Audino EX"
+    }
+  ]
+}

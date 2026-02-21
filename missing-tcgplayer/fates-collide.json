@@ -1,0 +1,30 @@
+{
+  "set": "Fates Collide",
+  "missing": [
+    {
+      "file": "data/XY/Fates Collide/105a.ts",
+      "id": "105a",
+      "name": "N"
+    },
+    {
+      "file": "data/XY/Fates Collide/107.ts",
+      "id": "107",
+      "name": "Pokémon Fan Club"
+    },
+    {
+      "file": "data/XY/Fates Collide/111a.ts",
+      "id": "111a",
+      "name": "Shauna"
+    },
+    {
+      "file": "data/XY/Fates Collide/43a.ts",
+      "id": "43a",
+      "name": "Regirock EX"
+    },
+    {
+      "file": "data/XY/Fates Collide/54a.ts",
+      "id": "54a",
+      "name": "Zygarde EX"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "set": "Champion's Path",
+  "missing": [
+    {
+      "file": "data/Sword & Shield/Champion's Path/59.ts",
+      "id": "59",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/Sword & Shield/Champion's Path/60.ts",
+      "id": "60",
+      "name": "Pokémon Center Lady"
+    },
+    {
+      "file": "data/Sword & Shield/Champion's Path/62.ts",
+      "id": "62",
+      "name": "Professor"
+    }
+  ]
+}

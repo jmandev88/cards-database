@@ -1,0 +1,1265 @@
+{
+  "set": "Surging Sparks",
+  "missing": [
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/001.ts",
+      "id": "001",
+      "name": "Exeggcute"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/002.ts",
+      "id": "002",
+      "name": "Exeggcute"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/003.ts",
+      "id": "003",
+      "name": "Exeggutor"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/004.ts",
+      "id": "004",
+      "name": "Durant ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/005.ts",
+      "id": "005",
+      "name": "Scatterbug"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/006.ts",
+      "id": "006",
+      "name": "Spewpa"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/007.ts",
+      "id": "007",
+      "name": "Vivillon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/008.ts",
+      "id": "008",
+      "name": "Morelull"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/009.ts",
+      "id": "009",
+      "name": "Shiinotic"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/010.ts",
+      "id": "010",
+      "name": "Dhelmise"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/011.ts",
+      "id": "011",
+      "name": "Zarude"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/012.ts",
+      "id": "012",
+      "name": "Capsakid"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/013.ts",
+      "id": "013",
+      "name": "Rellor"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/014.ts",
+      "id": "014",
+      "name": "Rabsca"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/015.ts",
+      "id": "015",
+      "name": "Wo-Chien"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/016.ts",
+      "id": "016",
+      "name": "Vulpix"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/017.ts",
+      "id": "017",
+      "name": "Ninetales"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/018.ts",
+      "id": "018",
+      "name": "Paldean Tauros"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/019.ts",
+      "id": "019",
+      "name": "Ho-Oh"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/020.ts",
+      "id": "020",
+      "name": "Castform Sunny Form"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/021.ts",
+      "id": "021",
+      "name": "Victini"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/022.ts",
+      "id": "022",
+      "name": "Pansear"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/023.ts",
+      "id": "023",
+      "name": "Simisear"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/024.ts",
+      "id": "024",
+      "name": "Larvesta"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/025.ts",
+      "id": "025",
+      "name": "Volcarona"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/026.ts",
+      "id": "026",
+      "name": "Oricorio"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/027.ts",
+      "id": "027",
+      "name": "Sizzlipede"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/028.ts",
+      "id": "028",
+      "name": "Centiskorch"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/029.ts",
+      "id": "029",
+      "name": "Fuecoco"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/030.ts",
+      "id": "030",
+      "name": "Crocalor"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/031.ts",
+      "id": "031",
+      "name": "Skeledirge"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/032.ts",
+      "id": "032",
+      "name": "Charcadet"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/033.ts",
+      "id": "033",
+      "name": "Charcadet"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/034.ts",
+      "id": "034",
+      "name": "Armarouge"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/035.ts",
+      "id": "035",
+      "name": "Ceruledge"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/036.ts",
+      "id": "036",
+      "name": "Ceruledge ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/037.ts",
+      "id": "037",
+      "name": "Scovillain ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/038.ts",
+      "id": "038",
+      "name": "Gouging Fire"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/039.ts",
+      "id": "039",
+      "name": "Paldean Tauros"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/040.ts",
+      "id": "040",
+      "name": "Mantine"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/041.ts",
+      "id": "041",
+      "name": "Feebas"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/042.ts",
+      "id": "042",
+      "name": "Milotic ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/043.ts",
+      "id": "043",
+      "name": "Spheal"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/044.ts",
+      "id": "044",
+      "name": "Sealeo"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/045.ts",
+      "id": "045",
+      "name": "Walrein"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/046.ts",
+      "id": "046",
+      "name": "Shellos"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/047.ts",
+      "id": "047",
+      "name": "Cryogonal"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/048.ts",
+      "id": "048",
+      "name": "Black Kyurem ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/049.ts",
+      "id": "049",
+      "name": "Bruxish"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/050.ts",
+      "id": "050",
+      "name": "Quaxly"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/051.ts",
+      "id": "051",
+      "name": "Quaxwell"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/052.ts",
+      "id": "052",
+      "name": "Quaquaval"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/053.ts",
+      "id": "053",
+      "name": "Cetoddle"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/054.ts",
+      "id": "054",
+      "name": "Cetitan"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/055.ts",
+      "id": "055",
+      "name": "Iron Bundle"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/056.ts",
+      "id": "056",
+      "name": "Chien-Pao"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/057.ts",
+      "id": "057",
+      "name": "Pikachu ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/058.ts",
+      "id": "058",
+      "name": "Magnemite"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/059.ts",
+      "id": "059",
+      "name": "Magneton"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/060.ts",
+      "id": "060",
+      "name": "Magnezone"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/061.ts",
+      "id": "061",
+      "name": "Rotom"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/062.ts",
+      "id": "062",
+      "name": "Blitzle"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/063.ts",
+      "id": "063",
+      "name": "Zebstrika"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/064.ts",
+      "id": "064",
+      "name": "Stunfisk"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/065.ts",
+      "id": "065",
+      "name": "Tapu Koko"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/066.ts",
+      "id": "066",
+      "name": "Wattrel"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/067.ts",
+      "id": "067",
+      "name": "Kilowattrel"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/068.ts",
+      "id": "068",
+      "name": "Kilowattrel ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/069.ts",
+      "id": "069",
+      "name": "Miraidon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/070.ts",
+      "id": "070",
+      "name": "Togepi"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/071.ts",
+      "id": "071",
+      "name": "Togetic"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/072.ts",
+      "id": "072",
+      "name": "Togekiss"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/073.ts",
+      "id": "073",
+      "name": "Marill"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/074.ts",
+      "id": "074",
+      "name": "Azumarill"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/075.ts",
+      "id": "075",
+      "name": "Smoochum"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/076.ts",
+      "id": "076",
+      "name": "Latias ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/077.ts",
+      "id": "077",
+      "name": "Latios"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/078.ts",
+      "id": "078",
+      "name": "Uxie"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/079.ts",
+      "id": "079",
+      "name": "Mesprit"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/080.ts",
+      "id": "080",
+      "name": "Azelf"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/081.ts",
+      "id": "081",
+      "name": "Sigilyph"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/082.ts",
+      "id": "082",
+      "name": "Yamask"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/083.ts",
+      "id": "083",
+      "name": "Cofagrigus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/084.ts",
+      "id": "084",
+      "name": "Espurr"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/085.ts",
+      "id": "085",
+      "name": "Meowstic"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/086.ts",
+      "id": "086",
+      "name": "Sylveon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/087.ts",
+      "id": "087",
+      "name": "Dedenne"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/088.ts",
+      "id": "088",
+      "name": "Xerneas"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/089.ts",
+      "id": "089",
+      "name": "Oricorio"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/090.ts",
+      "id": "090",
+      "name": "Sandygast"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/091.ts",
+      "id": "091",
+      "name": "Palossand ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/092.ts",
+      "id": "092",
+      "name": "Tapu Lele"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/093.ts",
+      "id": "093",
+      "name": "Indeedee"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/094.ts",
+      "id": "094",
+      "name": "Flittle"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/095.ts",
+      "id": "095",
+      "name": "Espathra"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/096.ts",
+      "id": "096",
+      "name": "Flutter Mane"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/097.ts",
+      "id": "097",
+      "name": "Gimmighoul"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/098.ts",
+      "id": "098",
+      "name": "Mankey"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/099.ts",
+      "id": "099",
+      "name": "Primeape"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/100.ts",
+      "id": "100",
+      "name": "Annihilape"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/101.ts",
+      "id": "101",
+      "name": "Paldean Tauros"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/102.ts",
+      "id": "102",
+      "name": "Phanpy"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/103.ts",
+      "id": "103",
+      "name": "Donphan"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/104.ts",
+      "id": "104",
+      "name": "Trapinch"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/105.ts",
+      "id": "105",
+      "name": "Vibrava"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/106.ts",
+      "id": "106",
+      "name": "Flygon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/107.ts",
+      "id": "107",
+      "name": "Gastrodon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/108.ts",
+      "id": "108",
+      "name": "Drilbur"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/109.ts",
+      "id": "109",
+      "name": "Excadrill"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/110.ts",
+      "id": "110",
+      "name": "Landorus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/111.ts",
+      "id": "111",
+      "name": "Passimian"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/112.ts",
+      "id": "112",
+      "name": "Clobbopus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/113.ts",
+      "id": "113",
+      "name": "Grapploct"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/114.ts",
+      "id": "114",
+      "name": "Glimmet"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/115.ts",
+      "id": "115",
+      "name": "Glimmora"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/116.ts",
+      "id": "116",
+      "name": "Koraidon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/117.ts",
+      "id": "117",
+      "name": "Deino"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/118.ts",
+      "id": "118",
+      "name": "Zweilous"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/119.ts",
+      "id": "119",
+      "name": "Hydreigon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/120.ts",
+      "id": "120",
+      "name": "Shroodle"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/121.ts",
+      "id": "121",
+      "name": "Grafaiai"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/122.ts",
+      "id": "122",
+      "name": "Alolan Diglett"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/123.ts",
+      "id": "123",
+      "name": "Alolan Dugtrio"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/124.ts",
+      "id": "124",
+      "name": "Skarmory"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/125.ts",
+      "id": "125",
+      "name": "Registeel"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/126.ts",
+      "id": "126",
+      "name": "Bronzor"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/127.ts",
+      "id": "127",
+      "name": "Bronzong"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/128.ts",
+      "id": "128",
+      "name": "Klefki"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/129.ts",
+      "id": "129",
+      "name": "Duraludon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/130.ts",
+      "id": "130",
+      "name": "Archaludon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/131.ts",
+      "id": "131",
+      "name": "Gholdengo"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/132.ts",
+      "id": "132",
+      "name": "Iron Crown"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/133.ts",
+      "id": "133",
+      "name": "Alolan Exeggutor ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/134.ts",
+      "id": "134",
+      "name": "Altaria"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/135.ts",
+      "id": "135",
+      "name": "Dialga"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/136.ts",
+      "id": "136",
+      "name": "Palkia"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/137.ts",
+      "id": "137",
+      "name": "Turtonator"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/138.ts",
+      "id": "138",
+      "name": "Applin"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/139.ts",
+      "id": "139",
+      "name": "Flapple"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/140.ts",
+      "id": "140",
+      "name": "Appletun"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/141.ts",
+      "id": "141",
+      "name": "Eternatus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/142.ts",
+      "id": "142",
+      "name": "Tatsugiri ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/143.ts",
+      "id": "143",
+      "name": "Eevee"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/144.ts",
+      "id": "144",
+      "name": "Snorlax"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/145.ts",
+      "id": "145",
+      "name": "Slakoth"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/146.ts",
+      "id": "146",
+      "name": "Vigoroth"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/147.ts",
+      "id": "147",
+      "name": "Slaking ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/148.ts",
+      "id": "148",
+      "name": "Swablu"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/149.ts",
+      "id": "149",
+      "name": "Zangoose"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/150.ts",
+      "id": "150",
+      "name": "Kecleon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/151.ts",
+      "id": "151",
+      "name": "Bouffalant"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/152.ts",
+      "id": "152",
+      "name": "Rufflet"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/153.ts",
+      "id": "153",
+      "name": "Braviary"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/154.ts",
+      "id": "154",
+      "name": "Helioptile"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/155.ts",
+      "id": "155",
+      "name": "Heliolisk"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/156.ts",
+      "id": "156",
+      "name": "Oranguru"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/157.ts",
+      "id": "157",
+      "name": "Tandemaus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/158.ts",
+      "id": "158",
+      "name": "Maushold"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/159.ts",
+      "id": "159",
+      "name": "Cyclizar ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/160.ts",
+      "id": "160",
+      "name": "Flamigo ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/161.ts",
+      "id": "161",
+      "name": "Terapagos"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/162.ts",
+      "id": "162",
+      "name": "Amulet of Hope"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/163.ts",
+      "id": "163",
+      "name": "Babiri Berry"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/164.ts",
+      "id": "164",
+      "name": "Brilliant Blender"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/165.ts",
+      "id": "165",
+      "name": "Call Bell"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/166.ts",
+      "id": "166",
+      "name": "Chill Teaser Toy"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/167.ts",
+      "id": "167",
+      "name": "Clemont"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/168.ts",
+      "id": "168",
+      "name": "Colbur Berry"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/169.ts",
+      "id": "169",
+      "name": "Counter Gain"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/170.ts",
+      "id": "170",
+      "name": "Cyrano"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/171.ts",
+      "id": "171",
+      "name": "Deduction Kit"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/172.ts",
+      "id": "172",
+      "name": "Dragon Elixir"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/173.ts",
+      "id": "173",
+      "name": "Drasna"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/174.ts",
+      "id": "174",
+      "name": "Drayton"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/175.ts",
+      "id": "175",
+      "name": "Dusk Ball"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/176.ts",
+      "id": "176",
+      "name": "Energy Search Pro"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/177.ts",
+      "id": "177",
+      "name": "Gravity Mountain"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/178.ts",
+      "id": "178",
+      "name": "Jasmine"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/179.ts",
+      "id": "179",
+      "name": "Lisia"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/180.ts",
+      "id": "180",
+      "name": "Lively Stadium"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/181.ts",
+      "id": "181",
+      "name": "Meddling Memo"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/182.ts",
+      "id": "182",
+      "name": "Megaton Blower"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/183.ts",
+      "id": "183",
+      "name": "Miracle Headset"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/184.ts",
+      "id": "184",
+      "name": "Passho Berry"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/185.ts",
+      "id": "185",
+      "name": "Precious Trolley"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/186.ts",
+      "id": "186",
+      "name": "Scramble Switch"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/187.ts",
+      "id": "187",
+      "name": "Surfer"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/188.ts",
+      "id": "188",
+      "name": "Technical Machine: Fluorite"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/189.ts",
+      "id": "189",
+      "name": "Tera Orb"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/190.ts",
+      "id": "190",
+      "name": "Tyme"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/191.ts",
+      "id": "191",
+      "name": "Enriching Energy"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/192.ts",
+      "id": "192",
+      "name": "Exeggcute"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/193.ts",
+      "id": "193",
+      "name": "Vivillon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/194.ts",
+      "id": "194",
+      "name": "Shiinotic"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/195.ts",
+      "id": "195",
+      "name": "Castform Sunny Form"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/196.ts",
+      "id": "196",
+      "name": "Larvesta"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/197.ts",
+      "id": "197",
+      "name": "Ceruledge"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/198.ts",
+      "id": "198",
+      "name": "Feebas"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/199.ts",
+      "id": "199",
+      "name": "Spheal"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/200.ts",
+      "id": "200",
+      "name": "Bruxish"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/201.ts",
+      "id": "201",
+      "name": "Cetitan"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/202.ts",
+      "id": "202",
+      "name": "Stunfisk"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/203.ts",
+      "id": "203",
+      "name": "Latios"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/204.ts",
+      "id": "204",
+      "name": "Mesprit"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/205.ts",
+      "id": "205",
+      "name": "Phanpy"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/206.ts",
+      "id": "206",
+      "name": "Vibrava"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/207.ts",
+      "id": "207",
+      "name": "Clobbopus"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/208.ts",
+      "id": "208",
+      "name": "Alolan Dugtrio"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/209.ts",
+      "id": "209",
+      "name": "Skarmory"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/210.ts",
+      "id": "210",
+      "name": "Flapple"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/211.ts",
+      "id": "211",
+      "name": "Appletun"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/212.ts",
+      "id": "212",
+      "name": "Slakoth"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/213.ts",
+      "id": "213",
+      "name": "Kecleon"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/214.ts",
+      "id": "214",
+      "name": "Braviary"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/215.ts",
+      "id": "215",
+      "name": "Durant ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/216.ts",
+      "id": "216",
+      "name": "Scovillain ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/217.ts",
+      "id": "217",
+      "name": "Milotic ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/218.ts",
+      "id": "218",
+      "name": "Black Kyurem ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/219.ts",
+      "id": "219",
+      "name": "Pikachu ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/220.ts",
+      "id": "220",
+      "name": "Latias ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/221.ts",
+      "id": "221",
+      "name": "Palossand ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/222.ts",
+      "id": "222",
+      "name": "Flygon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/223.ts",
+      "id": "223",
+      "name": "Hydreigon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/224.ts",
+      "id": "224",
+      "name": "Archaludon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/225.ts",
+      "id": "225",
+      "name": "Alolan Exeggutor ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/226.ts",
+      "id": "226",
+      "name": "Tatsugiri ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/227.ts",
+      "id": "227",
+      "name": "Slaking ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/228.ts",
+      "id": "228",
+      "name": "Cyclizar ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/229.ts",
+      "id": "229",
+      "name": "Clemont"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/230.ts",
+      "id": "230",
+      "name": "Cyrano"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/231.ts",
+      "id": "231",
+      "name": "Drasna"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/232.ts",
+      "id": "232",
+      "name": "Drayton"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/233.ts",
+      "id": "233",
+      "name": "Jasmine"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/234.ts",
+      "id": "234",
+      "name": "Lisia"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/235.ts",
+      "id": "235",
+      "name": "Surfer"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/236.ts",
+      "id": "236",
+      "name": "Durant ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/237.ts",
+      "id": "237",
+      "name": "Milotic ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/238.ts",
+      "id": "238",
+      "name": "Pikachu ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/239.ts",
+      "id": "239",
+      "name": "Latias ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/240.ts",
+      "id": "240",
+      "name": "Hydreigon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/241.ts",
+      "id": "241",
+      "name": "Archaludon ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/242.ts",
+      "id": "242",
+      "name": "Alolan Exeggutor ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/243.ts",
+      "id": "243",
+      "name": "Clemont"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/244.ts",
+      "id": "244",
+      "name": "Drayton"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/245.ts",
+      "id": "245",
+      "name": "Jasmine"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/246.ts",
+      "id": "246",
+      "name": "Lisia"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/247.ts",
+      "id": "247",
+      "name": "Pikachu ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/248.ts",
+      "id": "248",
+      "name": "Alolan Exeggutor ex"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/249.ts",
+      "id": "249",
+      "name": "Counter Gain"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/250.ts",
+      "id": "250",
+      "name": "Gravity Mountain"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/251.ts",
+      "id": "251",
+      "name": "Night Stretcher"
+    },
+    {
+      "file": "data/Scarlet & Violet/Surging Sparks/252.ts",
+      "id": "252",
+      "name": "Jet Energy"
+    }
+  ]
+}

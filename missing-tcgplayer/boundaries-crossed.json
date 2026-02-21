@@ -1,0 +1,75 @@
+{
+  "set": "Boundaries Crossed",
+  "missing": [
+    {
+      "file": "data/Black & White/Boundaries Crossed/101.ts",
+      "id": "101",
+      "name": "Black Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/Boundaries Crossed/103.ts",
+      "id": "103",
+      "name": "White Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/Boundaries Crossed/107.ts",
+      "id": "107",
+      "name": "Farfetch’d"
+    },
+    {
+      "file": "data/Black & White/Boundaries Crossed/131.ts",
+      "id": "131",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/Black & White/Boundaries Crossed/141.ts",
+      "id": "141",
+      "name": "Celebi-EX"
+    },
+    {
+      "file": "data/Black & White/Boundaries Crossed/142.ts",
+      "id": "142",
+      "name": "Keldeo-EX"
+    },
+    {
+      "file": "data/Black & White/Boundaries Crossed/143.ts",
+      "id": "143",
+      "name": "Cresselia-EX"
+    },
+    {
+      "file": "data/Black & White/Boundaries Crossed/144.ts",
+      "id": "144",
+      "name": "Landorus-EX"
+    },
+    {
+      "file": "data/Black & White/Boundaries Crossed/145.ts",
+      "id": "145",
+      "name": "Black Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/Boundaries Crossed/146.ts",
+      "id": "146",
+      "name": "White Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/Boundaries Crossed/49.ts",
+      "id": "49",
+      "name": "Keldeo-EX"
+    },
+    {
+      "file": "data/Black & White/Boundaries Crossed/67.ts",
+      "id": "67",
+      "name": "Cresselia-EX"
+    },
+    {
+      "file": "data/Black & White/Boundaries Crossed/89.ts",
+      "id": "89",
+      "name": "Landorus-EX"
+    },
+    {
+      "file": "data/Black & White/Boundaries Crossed/9.ts",
+      "id": "9",
+      "name": "Celebi-EX"
+    }
+  ]
+}

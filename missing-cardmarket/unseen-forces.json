@@ -1,0 +1,25 @@
+{
+  "set": "Unseen Forces",
+  "missing": [
+    {
+      "file": "data/EX/Unseen Forces/104.ts",
+      "id": "104",
+      "name": "Ho-Oh ex"
+    },
+    {
+      "file": "data/EX/Unseen Forces/113.ts",
+      "id": "113",
+      "name": "Entei Star"
+    },
+    {
+      "file": "data/EX/Unseen Forces/114.ts",
+      "id": "114",
+      "name": "Raikou Star"
+    },
+    {
+      "file": "data/EX/Unseen Forces/115.ts",
+      "id": "115",
+      "name": "Suicune Star"
+    }
+  ]
+}

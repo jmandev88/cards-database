@@ -1,0 +1,50 @@
+{
+  "set": "Forbidden Light",
+  "missing": [
+    {
+      "file": "data/Sun & Moon/Forbidden Light/110.ts",
+      "id": "110",
+      "name": "Lysandre ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Forbidden Light/117.ts",
+      "id": "117",
+      "name": "Beast Energy ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Forbidden Light/118.ts",
+      "id": "118",
+      "name": "Unit Energy FightingDarknessFairy"
+    },
+    {
+      "file": "data/Sun & Moon/Forbidden Light/146.ts",
+      "id": "146",
+      "name": "Unit Energy FightingDarknessFairy"
+    },
+    {
+      "file": "data/Sun & Moon/Forbidden Light/31.ts",
+      "id": "31",
+      "name": "Volcanion ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Forbidden Light/74.ts",
+      "id": "74",
+      "name": "Diancie ◇"
+    },
+    {
+      "file": "data/Sun & Moon/Forbidden Light/83.ts",
+      "id": "83",
+      "name": "Flabébé"
+    },
+    {
+      "file": "data/Sun & Moon/Forbidden Light/84.ts",
+      "id": "84",
+      "name": "Flabébé"
+    },
+    {
+      "file": "data/Sun & Moon/Forbidden Light/96.ts",
+      "id": "96",
+      "name": "Arceus ◇"
+    }
+  ]
+}

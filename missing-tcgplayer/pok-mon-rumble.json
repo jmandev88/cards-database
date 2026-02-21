@@ -1,0 +1,85 @@
+{
+  "set": "Pokémon Rumble",
+  "missing": [
+    {
+      "file": "data/Platinum/Pokémon Rumble/1.ts",
+      "id": "1",
+      "name": "Venusaur"
+    },
+    {
+      "file": "data/Platinum/Pokémon Rumble/10.ts",
+      "id": "10",
+      "name": "Mew"
+    },
+    {
+      "file": "data/Platinum/Pokémon Rumble/11.ts",
+      "id": "11",
+      "name": "Diglett"
+    },
+    {
+      "file": "data/Platinum/Pokémon Rumble/12.ts",
+      "id": "12",
+      "name": "Lucario"
+    },
+    {
+      "file": "data/Platinum/Pokémon Rumble/13.ts",
+      "id": "13",
+      "name": "Skuntank"
+    },
+    {
+      "file": "data/Platinum/Pokémon Rumble/14.ts",
+      "id": "14",
+      "name": "Bastiodon"
+    },
+    {
+      "file": "data/Platinum/Pokémon Rumble/15.ts",
+      "id": "15",
+      "name": "Rattata"
+    },
+    {
+      "file": "data/Platinum/Pokémon Rumble/16.ts",
+      "id": "16",
+      "name": "Bibarel"
+    },
+    {
+      "file": "data/Platinum/Pokémon Rumble/2.ts",
+      "id": "2",
+      "name": "Cherrim"
+    },
+    {
+      "file": "data/Platinum/Pokémon Rumble/3.ts",
+      "id": "3",
+      "name": "Ninetales"
+    },
+    {
+      "file": "data/Platinum/Pokémon Rumble/4.ts",
+      "id": "4",
+      "name": "Heatran"
+    },
+    {
+      "file": "data/Platinum/Pokémon Rumble/5.ts",
+      "id": "5",
+      "name": "Starmie"
+    },
+    {
+      "file": "data/Platinum/Pokémon Rumble/6.ts",
+      "id": "6",
+      "name": "Gyarados"
+    },
+    {
+      "file": "data/Platinum/Pokémon Rumble/7.ts",
+      "id": "7",
+      "name": "Pikachu"
+    },
+    {
+      "file": "data/Platinum/Pokémon Rumble/8.ts",
+      "id": "8",
+      "name": "Zapdos"
+    },
+    {
+      "file": "data/Platinum/Pokémon Rumble/9.ts",
+      "id": "9",
+      "name": "Mewtwo"
+    }
+  ]
+}

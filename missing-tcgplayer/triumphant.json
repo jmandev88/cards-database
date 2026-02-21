@@ -1,0 +1,40 @@
+{
+  "set": "Triumphant",
+  "missing": [
+    {
+      "file": "data/HeartGold & SoulSilver/Triumphant/100.ts",
+      "id": "100",
+      "name": "Darkrai & Cresselia LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Triumphant/101.ts",
+      "id": "101",
+      "name": "Palkia & Dialga LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Triumphant/102.ts",
+      "id": "102",
+      "name": "Palkia & Dialga LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Triumphant/69.ts",
+      "id": "69",
+      "name": "Nidoran♀"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Triumphant/70.ts",
+      "id": "70",
+      "name": "Nidoran♂"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Triumphant/99.ts",
+      "id": "99",
+      "name": "Darkrai & Cresselia LEGEND"
+    },
+    {
+      "file": "data/HeartGold & SoulSilver/Triumphant/FOUR.ts",
+      "id": "FOUR",
+      "name": "Alph Lithograph"
+    }
+  ]
+}

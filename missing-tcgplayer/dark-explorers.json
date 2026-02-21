@@ -1,0 +1,70 @@
+{
+  "set": "Dark Explorers",
+  "missing": [
+    {
+      "file": "data/Black & White/Dark Explorers/103.ts",
+      "id": "103",
+      "name": "Entei-EX"
+    },
+    {
+      "file": "data/Black & White/Dark Explorers/104.ts",
+      "id": "104",
+      "name": "Kyogre-EX"
+    },
+    {
+      "file": "data/Black & White/Dark Explorers/105.ts",
+      "id": "105",
+      "name": "Raikou-EX"
+    },
+    {
+      "file": "data/Black & White/Dark Explorers/106.ts",
+      "id": "106",
+      "name": "Groudon-EX"
+    },
+    {
+      "file": "data/Black & White/Dark Explorers/107.ts",
+      "id": "107",
+      "name": "Darkrai-EX"
+    },
+    {
+      "file": "data/Black & White/Dark Explorers/108.ts",
+      "id": "108",
+      "name": "Tornadus-EX"
+    },
+    {
+      "file": "data/Black & White/Dark Explorers/111.ts",
+      "id": "111",
+      "name": "Pokémon Catcher"
+    },
+    {
+      "file": "data/Black & White/Dark Explorers/13.ts",
+      "id": "13",
+      "name": "Entei-EX"
+    },
+    {
+      "file": "data/Black & White/Dark Explorers/26.ts",
+      "id": "26",
+      "name": "Kyogre-EX"
+    },
+    {
+      "file": "data/Black & White/Dark Explorers/38.ts",
+      "id": "38",
+      "name": "Raikou-EX"
+    },
+    {
+      "file": "data/Black & White/Dark Explorers/54.ts",
+      "id": "54",
+      "name": "Groudon-EX"
+    },
+    {
+      "file": "data/Black & White/Dark Explorers/63.ts",
+      "id": "63",
+      "name": "Darkrai-EX"
+    },
+    {
+      "file": "data/Black & White/Dark Explorers/90.ts",
+      "id": "90",
+      "name": "Tornadus-EX"
+    }
+  ]
+}

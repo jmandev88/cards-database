@@ -1,0 +1,560 @@
+{
+  "set": "Shining Revelry",
+  "missing": [
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/001.ts",
+      "id": "001",
+      "name": "Weedle"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/002.ts",
+      "id": "002",
+      "name": "Kakuna"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/003.ts",
+      "id": "003",
+      "name": "Beedrill ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/004.ts",
+      "id": "004",
+      "name": "Pinsir"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/005.ts",
+      "id": "005",
+      "name": "Sprigatito"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/006.ts",
+      "id": "006",
+      "name": "Floragato"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/007.ts",
+      "id": "007",
+      "name": "Meowscarada"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/008.ts",
+      "id": "008",
+      "name": "Charmander"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/009.ts",
+      "id": "009",
+      "name": "Charmeleon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/010.ts",
+      "id": "010",
+      "name": "Charizard ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/011.ts",
+      "id": "011",
+      "name": "Magmar"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/012.ts",
+      "id": "012",
+      "name": "Magmortar"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/013.ts",
+      "id": "013",
+      "name": "Paldean Tauros"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/014.ts",
+      "id": "014",
+      "name": "Tentacool"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/015.ts",
+      "id": "015",
+      "name": "Tentacruel"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/016.ts",
+      "id": "016",
+      "name": "Buizel"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/017.ts",
+      "id": "017",
+      "name": "Floatzel"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/018.ts",
+      "id": "018",
+      "name": "Wiglett"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/019.ts",
+      "id": "019",
+      "name": "Wugtrio ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/020.ts",
+      "id": "020",
+      "name": "Dondozo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/021.ts",
+      "id": "021",
+      "name": "Tatsugiri"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/022.ts",
+      "id": "022",
+      "name": "Pikachu ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/023.ts",
+      "id": "023",
+      "name": "Voltorb"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/024.ts",
+      "id": "024",
+      "name": "Electrode"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/025.ts",
+      "id": "025",
+      "name": "Pachirisu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/026.ts",
+      "id": "026",
+      "name": "Pawmi"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/027.ts",
+      "id": "027",
+      "name": "Pawmo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/028.ts",
+      "id": "028",
+      "name": "Pawmot"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/029.ts",
+      "id": "029",
+      "name": "Abra"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/030.ts",
+      "id": "030",
+      "name": "Kadabra"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/031.ts",
+      "id": "031",
+      "name": "Alakazam"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/032.ts",
+      "id": "032",
+      "name": "Mr. Mime"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/033.ts",
+      "id": "033",
+      "name": "Drifloon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/034.ts",
+      "id": "034",
+      "name": "Drifblim"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/035.ts",
+      "id": "035",
+      "name": "Giratina ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/036.ts",
+      "id": "036",
+      "name": "Gimmighoul"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/037.ts",
+      "id": "037",
+      "name": "Machop"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/038.ts",
+      "id": "038",
+      "name": "Machoke"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/039.ts",
+      "id": "039",
+      "name": "Machamp"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/040.ts",
+      "id": "040",
+      "name": "Hitmonlee"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/041.ts",
+      "id": "041",
+      "name": "Hitmonchan"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/042.ts",
+      "id": "042",
+      "name": "Riolu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/043.ts",
+      "id": "043",
+      "name": "Lucario ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/044.ts",
+      "id": "044",
+      "name": "Flamigo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/045.ts",
+      "id": "045",
+      "name": "Ekans"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/046.ts",
+      "id": "046",
+      "name": "Arbok"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/047.ts",
+      "id": "047",
+      "name": "Paldean Wooper"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/048.ts",
+      "id": "048",
+      "name": "Paldean Clodsire ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/049.ts",
+      "id": "049",
+      "name": "Spiritomb"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/050.ts",
+      "id": "050",
+      "name": "Shroodle"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/051.ts",
+      "id": "051",
+      "name": "Grafaiai"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/052.ts",
+      "id": "052",
+      "name": "Tinkatink"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/053.ts",
+      "id": "053",
+      "name": "Tinkatuff"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/054.ts",
+      "id": "054",
+      "name": "Tinkaton ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/055.ts",
+      "id": "055",
+      "name": "Varoom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/056.ts",
+      "id": "056",
+      "name": "Revavroom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/057.ts",
+      "id": "057",
+      "name": "Gholdengo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/058.ts",
+      "id": "058",
+      "name": "Rattata"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/059.ts",
+      "id": "059",
+      "name": "Raticate"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/060.ts",
+      "id": "060",
+      "name": "Jigglypuff"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/061.ts",
+      "id": "061",
+      "name": "Wigglytuff"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/062.ts",
+      "id": "062",
+      "name": "Lickitung"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/063.ts",
+      "id": "063",
+      "name": "Lickilicky"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/064.ts",
+      "id": "064",
+      "name": "Bidoof"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/065.ts",
+      "id": "065",
+      "name": "Bibarel ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/066.ts",
+      "id": "066",
+      "name": "Buneary"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/067.ts",
+      "id": "067",
+      "name": "Lopunny"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/068.ts",
+      "id": "068",
+      "name": "Cyclizar"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/069.ts",
+      "id": "069",
+      "name": "Iono"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/070.ts",
+      "id": "070",
+      "name": "Pokémon Center Lady"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/071.ts",
+      "id": "071",
+      "name": "Red"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/072.ts",
+      "id": "072",
+      "name": "Team Rocket Grunt"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/073.ts",
+      "id": "073",
+      "name": "Meowscarada"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/074.ts",
+      "id": "074",
+      "name": "Buizel"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/075.ts",
+      "id": "075",
+      "name": "Tatsugiri"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/076.ts",
+      "id": "076",
+      "name": "Grafaiai"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/077.ts",
+      "id": "077",
+      "name": "Gholdengo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/078.ts",
+      "id": "078",
+      "name": "Wigglytuff"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/079.ts",
+      "id": "079",
+      "name": "Beedrill ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/080.ts",
+      "id": "080",
+      "name": "Charizard ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/081.ts",
+      "id": "081",
+      "name": "Wugtrio ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/082.ts",
+      "id": "082",
+      "name": "Pikachu ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/083.ts",
+      "id": "083",
+      "name": "Giratina ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/084.ts",
+      "id": "084",
+      "name": "Lucario ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/085.ts",
+      "id": "085",
+      "name": "Paldean Clodsire ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/086.ts",
+      "id": "086",
+      "name": "Tinkaton ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/087.ts",
+      "id": "087",
+      "name": "Bibarel ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/088.ts",
+      "id": "088",
+      "name": "Iono"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/089.ts",
+      "id": "089",
+      "name": "Pokémon Center Lady"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/090.ts",
+      "id": "090",
+      "name": "Red"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/091.ts",
+      "id": "091",
+      "name": "Team Rocket Grunt"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/092.ts",
+      "id": "092",
+      "name": "Pikachu ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/093.ts",
+      "id": "093",
+      "name": "Paldean Clodsire ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/094.ts",
+      "id": "094",
+      "name": "Tinkaton ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/095.ts",
+      "id": "095",
+      "name": "Bibarel ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/096.ts",
+      "id": "096",
+      "name": "Giratina ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/097.ts",
+      "id": "097",
+      "name": "Weedle"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/098.ts",
+      "id": "098",
+      "name": "Kakuna"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/099.ts",
+      "id": "099",
+      "name": "Charmander"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/100.ts",
+      "id": "100",
+      "name": "Charmeleon"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/101.ts",
+      "id": "101",
+      "name": "Wiglett"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/102.ts",
+      "id": "102",
+      "name": "Dondozo"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/103.ts",
+      "id": "103",
+      "name": "Pachirisu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/104.ts",
+      "id": "104",
+      "name": "Riolu"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/105.ts",
+      "id": "105",
+      "name": "Varoom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/106.ts",
+      "id": "106",
+      "name": "Revavroom"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/107.ts",
+      "id": "107",
+      "name": "Beedrill ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/108.ts",
+      "id": "108",
+      "name": "Charizard ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/109.ts",
+      "id": "109",
+      "name": "Wugtrio ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/110.ts",
+      "id": "110",
+      "name": "Lucario ex"
+    },
+    {
+      "file": "data/Pokémon TCG Pocket/Shining Revelry/111.ts",
+      "id": "111",
+      "name": "Poké Ball"
+    }
+  ]
+}

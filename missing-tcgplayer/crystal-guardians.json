@@ -1,0 +1,75 @@
+{
+  "set": "Crystal Guardians",
+  "missing": [
+    {
+      "file": "data/EX/Crystal Guardians/15.ts",
+      "id": "15",
+      "name": "Cacturne δ"
+    },
+    {
+      "file": "data/EX/Crystal Guardians/18.ts",
+      "id": "18",
+      "name": "Fearow δ"
+    },
+    {
+      "file": "data/EX/Crystal Guardians/19.ts",
+      "id": "19",
+      "name": "Grovyle δ"
+    },
+    {
+      "file": "data/EX/Crystal Guardians/2.ts",
+      "id": "2",
+      "name": "Blastoise δ"
+    },
+    {
+      "file": "data/EX/Crystal Guardians/22.ts",
+      "id": "22",
+      "name": "Kingler δ"
+    },
+    {
+      "file": "data/EX/Crystal Guardians/26.ts",
+      "id": "26",
+      "name": "Pelipper δ"
+    },
+    {
+      "file": "data/EX/Crystal Guardians/30.ts",
+      "id": "30",
+      "name": "Charmeleon δ"
+    },
+    {
+      "file": "data/EX/Crystal Guardians/4.ts",
+      "id": "4",
+      "name": "Charizard δ"
+    },
+    {
+      "file": "data/EX/Crystal Guardians/49.ts",
+      "id": "49",
+      "name": "Charmander δ"
+    },
+    {
+      "file": "data/EX/Crystal Guardians/6.ts",
+      "id": "6",
+      "name": "Ludicolo δ"
+    },
+    {
+      "file": "data/EX/Crystal Guardians/68.ts",
+      "id": "68",
+      "name": "Treecko δ"
+    },
+    {
+      "file": "data/EX/Crystal Guardians/82.ts",
+      "id": "82",
+      "name": "Poké Ball"
+    },
+    {
+      "file": "data/EX/Crystal Guardians/83.ts",
+      "id": "83",
+      "name": "PokéNav"
+    },
+    {
+      "file": "data/EX/Crystal Guardians/96.ts",
+      "id": "96",
+      "name": "Sceptile ex δ"
+    }
+  ]
+}

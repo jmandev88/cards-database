@@ -1,0 +1,70 @@
+{
+  "set": "Platinum",
+  "missing": [
+    {
+      "file": "data/Platinum/Platinum/12.ts",
+      "id": "12",
+      "name": "Palkia G"
+    },
+    {
+      "file": "data/Platinum/Platinum/122.ts",
+      "id": "122",
+      "name": "Dialga G"
+    },
+    {
+      "file": "data/Platinum/Platinum/125.ts",
+      "id": "125",
+      "name": "Palkia G"
+    },
+    {
+      "file": "data/Platinum/Platinum/17.ts",
+      "id": "17",
+      "name": "Weavile G"
+    },
+    {
+      "file": "data/Platinum/Platinum/30.ts",
+      "id": "30",
+      "name": "Gyarados G"
+    },
+    {
+      "file": "data/Platinum/Platinum/40.ts",
+      "id": "40",
+      "name": "Toxicroak G"
+    },
+    {
+      "file": "data/Platinum/Platinum/41.ts",
+      "id": "41",
+      "name": "Bronzong G"
+    },
+    {
+      "file": "data/Platinum/Platinum/47.ts",
+      "id": "47",
+      "name": "Crobat G"
+    },
+    {
+      "file": "data/Platinum/Platinum/50.ts",
+      "id": "50",
+      "name": "Houndoom G"
+    },
+    {
+      "file": "data/Platinum/Platinum/7.ts",
+      "id": "7",
+      "name": "Dialga G"
+    },
+    {
+      "file": "data/Platinum/Platinum/77.ts",
+      "id": "77",
+      "name": "Honchkrow G"
+    },
+    {
+      "file": "data/Platinum/Platinum/88.ts",
+      "id": "88",
+      "name": "Purugly G"
+    },
+    {
+      "file": "data/Platinum/Platinum/94.ts",
+      "id": "94",
+      "name": "Skuntank G"
+    }
+  ]
+}

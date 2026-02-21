@@ -1,0 +1,85 @@
+{
+  "set": "Legendary Treasures",
+  "missing": [
+    {
+      "file": "data/Black & White/Legendary Treasures/100.ts",
+      "id": "100",
+      "name": "Black Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/101.ts",
+      "id": "101",
+      "name": "White Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/102.ts",
+      "id": "102",
+      "name": "Lugia-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/24.ts",
+      "id": "24",
+      "name": "Victini-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/29.ts",
+      "id": "29",
+      "name": "Reshiram-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/44.ts",
+      "id": "44",
+      "name": "Kyurem-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/45.ts",
+      "id": "45",
+      "name": "Keldeo-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/52.ts",
+      "id": "52",
+      "name": "Zekrom-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/54.ts",
+      "id": "54",
+      "name": "Mewtwo-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/77.ts",
+      "id": "77",
+      "name": "Chandelure-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/82.ts",
+      "id": "82",
+      "name": "Excadrill-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/88.ts",
+      "id": "88",
+      "name": "Darkrai-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC11.ts",
+      "id": "RC11",
+      "name": "Meloetta-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC21.ts",
+      "id": "RC21",
+      "name": "Shaymin-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC24.ts",
+      "id": "RC24",
+      "name": "Mew-EX"
+    },
+    {
+      "file": "data/Black & White/Legendary Treasures/RC25.ts",
+      "id": "RC25",
+      "name": "Meloetta-EX"
+    }
+  ]
+}

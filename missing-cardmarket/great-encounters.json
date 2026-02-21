@@ -1,0 +1,25 @@
+{
+  "set": "Great Encounters",
+  "missing": [
+    {
+      "file": "data/Diamond & Pearl/Great Encounters/29.ts",
+      "id": "29",
+      "name": "Unown H"
+    },
+    {
+      "file": "data/Diamond & Pearl/Great Encounters/56.ts",
+      "id": "56",
+      "name": "Unown F"
+    },
+    {
+      "file": "data/Diamond & Pearl/Great Encounters/57.ts",
+      "id": "57",
+      "name": "Unown G"
+    },
+    {
+      "file": "data/Diamond & Pearl/Great Encounters/91.ts",
+      "id": "91",
+      "name": "Unown L"
+    }
+  ]
+}
