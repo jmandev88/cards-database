@@ -1,0 +1,2918 @@
+{
+  "meta": {
+    "tool": "sbf-cm-set-merge-exporter",
+    "exportedAt": "2026-02-21T20:13:44.349Z",
+    "groupKey": "LTR",
+    "note": "Keyed by canonical SETCODE-NNN. Cross-slug merge enabled by storing per derived groupKey (canonical set code). Export uses stored setSlug→groupKey index to avoid empty exports."
+  },
+  "pages": [
+    {
+      "pageId": "base::/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&perSite=30",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&perSite=30",
+      "kind": "set",
+      "bucket": "base",
+      "setSlug": "Legendary-Treasures",
+      "groupKey": "LTR",
+      "setName": "Legendary Treasures Singles",
+      "collectedAt": "2026-02-21T20:13:24.101Z",
+      "stats": {
+        "rowsSeen": 30,
+        "rowsWithProductId": 30,
+        "rowsWithRawCardId": 11,
+        "rowsWithCanonicalCardId": 11,
+        "rowsPaired": 11
+      }
+    },
+    {
+      "pageId": "base::/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2",
+      "kind": "set",
+      "bucket": "base",
+      "setSlug": "Legendary-Treasures",
+      "groupKey": "LTR",
+      "setName": "Legendary Treasures Singles",
+      "collectedAt": "2026-02-21T20:13:29.749Z",
+      "stats": {
+        "rowsSeen": 30,
+        "rowsWithProductId": 30,
+        "rowsWithRawCardId": 24,
+        "rowsWithCanonicalCardId": 24,
+        "rowsPaired": 24
+      }
+    },
+    {
+      "pageId": "base::/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3",
+      "kind": "set",
+      "bucket": "base",
+      "setSlug": "Legendary-Treasures",
+      "groupKey": "LTR",
+      "setName": "Legendary Treasures Singles",
+      "collectedAt": "2026-02-21T20:13:33.118Z",
+      "stats": {
+        "rowsSeen": 30,
+        "rowsWithProductId": 30,
+        "rowsWithRawCardId": 30,
+        "rowsWithCanonicalCardId": 30,
+        "rowsPaired": 30
+      }
+    },
+    {
+      "pageId": "base::/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4",
+      "kind": "set",
+      "bucket": "base",
+      "setSlug": "Legendary-Treasures",
+      "groupKey": "LTR",
+      "setName": "Legendary Treasures Singles",
+      "collectedAt": "2026-02-21T20:13:36.730Z",
+      "stats": {
+        "rowsSeen": 30,
+        "rowsWithProductId": 30,
+        "rowsWithRawCardId": 29,
+        "rowsWithCanonicalCardId": 29,
+        "rowsPaired": 29
+      }
+    },
+    {
+      "pageId": "base::/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5",
+      "kind": "set",
+      "bucket": "base",
+      "setSlug": "Legendary-Treasures",
+      "groupKey": "LTR",
+      "setName": "Legendary Treasures Singles",
+      "collectedAt": "2026-02-21T20:13:40.454Z",
+      "stats": {
+        "rowsSeen": 26,
+        "rowsWithProductId": 26,
+        "rowsWithRawCardId": 26,
+        "rowsWithCanonicalCardId": 26,
+        "rowsPaired": 26
+      }
+    }
+  ],
+  "stats": {
+    "mergedKeys": 115,
+    "baseOnly": 115,
+    "addOnly": 0,
+    "both": 0
+  },
+  "byCardId": {
+    "LTR-001": {
+      "cardId": "LTR-001",
+      "ids": {
+        "base": [
+          281152
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-001"
+      ],
+      "sources": [
+        {
+          "productId": 281152,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-001",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-002": {
+      "cardId": "LTR-002",
+      "ids": {
+        "base": [
+          281153
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-002"
+      ],
+      "sources": [
+        {
+          "productId": 281153,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-002",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-003": {
+      "cardId": "LTR-003",
+      "ids": {
+        "base": [
+          281154
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-003"
+      ],
+      "sources": [
+        {
+          "productId": 281154,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-003",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-004": {
+      "cardId": "LTR-004",
+      "ids": {
+        "base": [
+          281155
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-004"
+      ],
+      "sources": [
+        {
+          "productId": 281155,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-004",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-005": {
+      "cardId": "LTR-005",
+      "ids": {
+        "base": [
+          281156
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-005"
+      ],
+      "sources": [
+        {
+          "productId": 281156,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-005",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-006": {
+      "cardId": "LTR-006",
+      "ids": {
+        "base": [
+          281157
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-006"
+      ],
+      "sources": [
+        {
+          "productId": 281157,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-006",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-007": {
+      "cardId": "LTR-007",
+      "ids": {
+        "base": [
+          281158
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-007"
+      ],
+      "sources": [
+        {
+          "productId": 281158,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-007",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-008": {
+      "cardId": "LTR-008",
+      "ids": {
+        "base": [
+          281159
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-008"
+      ],
+      "sources": [
+        {
+          "productId": 281159,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-008",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-009": {
+      "cardId": "LTR-009",
+      "ids": {
+        "base": [
+          281160
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-009"
+      ],
+      "sources": [
+        {
+          "productId": 281160,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-009",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "LTR-010": {
+      "cardId": "LTR-010",
+      "ids": {
+        "base": [
+          281161
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-010"
+      ],
+      "sources": [
+        {
+          "productId": 281161,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-010",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-011": {
+      "cardId": "LTR-011",
+      "ids": {
+        "base": [
+          281162
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-011"
+      ],
+      "sources": [
+        {
+          "productId": 281162,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-011",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-012": {
+      "cardId": "LTR-012",
+      "ids": {
+        "base": [
+          281163
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-012"
+      ],
+      "sources": [
+        {
+          "productId": 281163,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-012",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-013": {
+      "cardId": "LTR-013",
+      "ids": {
+        "base": [
+          281164
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-013"
+      ],
+      "sources": [
+        {
+          "productId": 281164,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-013",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-014": {
+      "cardId": "LTR-014",
+      "ids": {
+        "base": [
+          281165
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-014"
+      ],
+      "sources": [
+        {
+          "productId": 281165,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-014",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-015": {
+      "cardId": "LTR-015",
+      "ids": {
+        "base": [
+          281166
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-015"
+      ],
+      "sources": [
+        {
+          "productId": 281166,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-015",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-016": {
+      "cardId": "LTR-016",
+      "ids": {
+        "base": [
+          281167
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-016"
+      ],
+      "sources": [
+        {
+          "productId": 281167,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-016",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-017": {
+      "cardId": "LTR-017",
+      "ids": {
+        "base": [
+          281168
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-017"
+      ],
+      "sources": [
+        {
+          "productId": 281168,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-017",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "LTR-018": {
+      "cardId": "LTR-018",
+      "ids": {
+        "base": [
+          281169
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-018"
+      ],
+      "sources": [
+        {
+          "productId": 281169,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-018",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-019": {
+      "cardId": "LTR-019",
+      "ids": {
+        "base": [
+          281170
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-019"
+      ],
+      "sources": [
+        {
+          "productId": 281170,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-019",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-020": {
+      "cardId": "LTR-020",
+      "ids": {
+        "base": [
+          281171
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-020"
+      ],
+      "sources": [
+        {
+          "productId": 281171,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-020",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "LTR-021": {
+      "cardId": "LTR-021",
+      "ids": {
+        "base": [
+          281172
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-021"
+      ],
+      "sources": [
+        {
+          "productId": 281172,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-021",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-022": {
+      "cardId": "LTR-022",
+      "ids": {
+        "base": [
+          281173
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-022"
+      ],
+      "sources": [
+        {
+          "productId": 281173,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-022",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-023": {
+      "cardId": "LTR-023",
+      "ids": {
+        "base": [
+          281174
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-023"
+      ],
+      "sources": [
+        {
+          "productId": 281174,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-023",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-024": {
+      "cardId": "LTR-024",
+      "ids": {
+        "base": [
+          281175
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-024"
+      ],
+      "sources": [
+        {
+          "productId": 281175,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-024",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-025": {
+      "cardId": "LTR-025",
+      "ids": {
+        "base": [
+          281176
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-025"
+      ],
+      "sources": [
+        {
+          "productId": 281176,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-025",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-026": {
+      "cardId": "LTR-026",
+      "ids": {
+        "base": [
+          281177
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-026"
+      ],
+      "sources": [
+        {
+          "productId": 281177,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-026",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-027": {
+      "cardId": "LTR-027",
+      "ids": {
+        "base": [
+          281178
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-027"
+      ],
+      "sources": [
+        {
+          "productId": 281178,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-027",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-028": {
+      "cardId": "LTR-028",
+      "ids": {
+        "base": [
+          281179
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-028"
+      ],
+      "sources": [
+        {
+          "productId": 281179,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-028",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "LTR-029": {
+      "cardId": "LTR-029",
+      "ids": {
+        "base": [
+          281180
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-029"
+      ],
+      "sources": [
+        {
+          "productId": 281180,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-029",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-030": {
+      "cardId": "LTR-030",
+      "ids": {
+        "base": [
+          281181
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-030"
+      ],
+      "sources": [
+        {
+          "productId": 281181,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-030",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "LTR-031": {
+      "cardId": "LTR-031",
+      "ids": {
+        "base": [
+          281182
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-031"
+      ],
+      "sources": [
+        {
+          "productId": 281182,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-031",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-032": {
+      "cardId": "LTR-032",
+      "ids": {
+        "base": [
+          281183
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-032"
+      ],
+      "sources": [
+        {
+          "productId": 281183,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-032",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-033": {
+      "cardId": "LTR-033",
+      "ids": {
+        "base": [
+          281184
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-033"
+      ],
+      "sources": [
+        {
+          "productId": 281184,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-033",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "LTR-034": {
+      "cardId": "LTR-034",
+      "ids": {
+        "base": [
+          281185
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-034"
+      ],
+      "sources": [
+        {
+          "productId": 281185,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-034",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-035": {
+      "cardId": "LTR-035",
+      "ids": {
+        "base": [
+          281186
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-035"
+      ],
+      "sources": [
+        {
+          "productId": 281186,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-035",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-036": {
+      "cardId": "LTR-036",
+      "ids": {
+        "base": [
+          281187
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-036"
+      ],
+      "sources": [
+        {
+          "productId": 281187,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-036",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-037": {
+      "cardId": "LTR-037",
+      "ids": {
+        "base": [
+          281188
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-037"
+      ],
+      "sources": [
+        {
+          "productId": 281188,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-037",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-038": {
+      "cardId": "LTR-038",
+      "ids": {
+        "base": [
+          281189
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-038"
+      ],
+      "sources": [
+        {
+          "productId": 281189,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-038",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-039": {
+      "cardId": "LTR-039",
+      "ids": {
+        "base": [
+          281190
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-039"
+      ],
+      "sources": [
+        {
+          "productId": 281190,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-039",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-040": {
+      "cardId": "LTR-040",
+      "ids": {
+        "base": [
+          281191
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-040"
+      ],
+      "sources": [
+        {
+          "productId": 281191,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-040",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-041": {
+      "cardId": "LTR-041",
+      "ids": {
+        "base": [
+          281192
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-041"
+      ],
+      "sources": [
+        {
+          "productId": 281192,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-041",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-042": {
+      "cardId": "LTR-042",
+      "ids": {
+        "base": [
+          281193
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-042"
+      ],
+      "sources": [
+        {
+          "productId": 281193,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-042",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-043": {
+      "cardId": "LTR-043",
+      "ids": {
+        "base": [
+          281194
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-043"
+      ],
+      "sources": [
+        {
+          "productId": 281194,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-043",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-044": {
+      "cardId": "LTR-044",
+      "ids": {
+        "base": [
+          281195
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-044"
+      ],
+      "sources": [
+        {
+          "productId": 281195,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-044",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-045": {
+      "cardId": "LTR-045",
+      "ids": {
+        "base": [
+          281196
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-045"
+      ],
+      "sources": [
+        {
+          "productId": 281196,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-045",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-046": {
+      "cardId": "LTR-046",
+      "ids": {
+        "base": [
+          281197
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-046"
+      ],
+      "sources": [
+        {
+          "productId": 281197,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-046",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-047": {
+      "cardId": "LTR-047",
+      "ids": {
+        "base": [
+          281198
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-047"
+      ],
+      "sources": [
+        {
+          "productId": 281198,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-047",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "LTR-048": {
+      "cardId": "LTR-048",
+      "ids": {
+        "base": [
+          281199
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-048"
+      ],
+      "sources": [
+        {
+          "productId": 281199,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-048",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-049": {
+      "cardId": "LTR-049",
+      "ids": {
+        "base": [
+          281200
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-049"
+      ],
+      "sources": [
+        {
+          "productId": 281200,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-049",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "LTR-050": {
+      "cardId": "LTR-050",
+      "ids": {
+        "base": [
+          281201
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-050"
+      ],
+      "sources": [
+        {
+          "productId": 281201,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-050",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-051": {
+      "cardId": "LTR-051",
+      "ids": {
+        "base": [
+          281202
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-051"
+      ],
+      "sources": [
+        {
+          "productId": 281202,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-051",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-052": {
+      "cardId": "LTR-052",
+      "ids": {
+        "base": [
+          281203
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-052"
+      ],
+      "sources": [
+        {
+          "productId": 281203,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-052",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-053": {
+      "cardId": "LTR-053",
+      "ids": {
+        "base": [
+          281204
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-053"
+      ],
+      "sources": [
+        {
+          "productId": 281204,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-053",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-054": {
+      "cardId": "LTR-054",
+      "ids": {
+        "base": [
+          281205
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-054"
+      ],
+      "sources": [
+        {
+          "productId": 281205,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-054",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-055": {
+      "cardId": "LTR-055",
+      "ids": {
+        "base": [
+          281206
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-055"
+      ],
+      "sources": [
+        {
+          "productId": 281206,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-055",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-056": {
+      "cardId": "LTR-056",
+      "ids": {
+        "base": [
+          281207
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-056"
+      ],
+      "sources": [
+        {
+          "productId": 281207,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-056",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-057": {
+      "cardId": "LTR-057",
+      "ids": {
+        "base": [
+          281208
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-057"
+      ],
+      "sources": [
+        {
+          "productId": 281208,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-057",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-058": {
+      "cardId": "LTR-058",
+      "ids": {
+        "base": [
+          281209
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-058"
+      ],
+      "sources": [
+        {
+          "productId": 281209,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-058",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-059": {
+      "cardId": "LTR-059",
+      "ids": {
+        "base": [
+          281210
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-059"
+      ],
+      "sources": [
+        {
+          "productId": 281210,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-059",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-060": {
+      "cardId": "LTR-060",
+      "ids": {
+        "base": [
+          281211
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-060"
+      ],
+      "sources": [
+        {
+          "productId": 281211,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-060",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-061": {
+      "cardId": "LTR-061",
+      "ids": {
+        "base": [
+          281212
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-061"
+      ],
+      "sources": [
+        {
+          "productId": 281212,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-061",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-062": {
+      "cardId": "LTR-062",
+      "ids": {
+        "base": [
+          281213
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-062"
+      ],
+      "sources": [
+        {
+          "productId": 281213,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-062",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-063": {
+      "cardId": "LTR-063",
+      "ids": {
+        "base": [
+          281214
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-063"
+      ],
+      "sources": [
+        {
+          "productId": 281214,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-063",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-064": {
+      "cardId": "LTR-064",
+      "ids": {
+        "base": [
+          281215
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-064"
+      ],
+      "sources": [
+        {
+          "productId": 281215,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-064",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-065": {
+      "cardId": "LTR-065",
+      "ids": {
+        "base": [
+          281216
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-065"
+      ],
+      "sources": [
+        {
+          "productId": 281216,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-065",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-066": {
+      "cardId": "LTR-066",
+      "ids": {
+        "base": [
+          281217
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-066"
+      ],
+      "sources": [
+        {
+          "productId": 281217,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-066",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-067": {
+      "cardId": "LTR-067",
+      "ids": {
+        "base": [
+          281218
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-067"
+      ],
+      "sources": [
+        {
+          "productId": 281218,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-067",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-068": {
+      "cardId": "LTR-068",
+      "ids": {
+        "base": [
+          281219
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-068"
+      ],
+      "sources": [
+        {
+          "productId": 281219,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-068",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-069": {
+      "cardId": "LTR-069",
+      "ids": {
+        "base": [
+          281220
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-069"
+      ],
+      "sources": [
+        {
+          "productId": 281220,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-069",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-070": {
+      "cardId": "LTR-070",
+      "ids": {
+        "base": [
+          281221
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-070"
+      ],
+      "sources": [
+        {
+          "productId": 281221,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-070",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-071": {
+      "cardId": "LTR-071",
+      "ids": {
+        "base": [
+          281222
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-071"
+      ],
+      "sources": [
+        {
+          "productId": 281222,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-071",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-072": {
+      "cardId": "LTR-072",
+      "ids": {
+        "base": [
+          281223
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-072"
+      ],
+      "sources": [
+        {
+          "productId": 281223,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-072",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-073": {
+      "cardId": "LTR-073",
+      "ids": {
+        "base": [
+          281224
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-073"
+      ],
+      "sources": [
+        {
+          "productId": 281224,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-073",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-074": {
+      "cardId": "LTR-074",
+      "ids": {
+        "base": [
+          281225
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-074"
+      ],
+      "sources": [
+        {
+          "productId": 281225,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-074",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-075": {
+      "cardId": "LTR-075",
+      "ids": {
+        "base": [
+          281226
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-075"
+      ],
+      "sources": [
+        {
+          "productId": 281226,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-075",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-076": {
+      "cardId": "LTR-076",
+      "ids": {
+        "base": [
+          281227
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-076"
+      ],
+      "sources": [
+        {
+          "productId": 281227,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-076",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-077": {
+      "cardId": "LTR-077",
+      "ids": {
+        "base": [
+          281228
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-077"
+      ],
+      "sources": [
+        {
+          "productId": 281228,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-077",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-078": {
+      "cardId": "LTR-078",
+      "ids": {
+        "base": [
+          281229
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-078"
+      ],
+      "sources": [
+        {
+          "productId": 281229,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-078",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-079": {
+      "cardId": "LTR-079",
+      "ids": {
+        "base": [
+          281230
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-079"
+      ],
+      "sources": [
+        {
+          "productId": 281230,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-079",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "LTR-080": {
+      "cardId": "LTR-080",
+      "ids": {
+        "base": [
+          281231
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-080"
+      ],
+      "sources": [
+        {
+          "productId": 281231,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-080",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-081": {
+      "cardId": "LTR-081",
+      "ids": {
+        "base": [
+          281232
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-081"
+      ],
+      "sources": [
+        {
+          "productId": 281232,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-081",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-082": {
+      "cardId": "LTR-082",
+      "ids": {
+        "base": [
+          281233
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-082"
+      ],
+      "sources": [
+        {
+          "productId": 281233,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-082",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-083": {
+      "cardId": "LTR-083",
+      "ids": {
+        "base": [
+          281234
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-083"
+      ],
+      "sources": [
+        {
+          "productId": 281234,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-083",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-084": {
+      "cardId": "LTR-084",
+      "ids": {
+        "base": [
+          281235
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-084"
+      ],
+      "sources": [
+        {
+          "productId": 281235,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-084",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-085": {
+      "cardId": "LTR-085",
+      "ids": {
+        "base": [
+          281236
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-085"
+      ],
+      "sources": [
+        {
+          "productId": 281236,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-085",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-086": {
+      "cardId": "LTR-086",
+      "ids": {
+        "base": [
+          281237
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-086"
+      ],
+      "sources": [
+        {
+          "productId": 281237,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-086",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-087": {
+      "cardId": "LTR-087",
+      "ids": {
+        "base": [
+          281238
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-087"
+      ],
+      "sources": [
+        {
+          "productId": 281238,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-087",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-088": {
+      "cardId": "LTR-088",
+      "ids": {
+        "base": [
+          281239
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-088"
+      ],
+      "sources": [
+        {
+          "productId": 281239,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-088",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-089": {
+      "cardId": "LTR-089",
+      "ids": {
+        "base": [
+          281240
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-089"
+      ],
+      "sources": [
+        {
+          "productId": 281240,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-089",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-090": {
+      "cardId": "LTR-090",
+      "ids": {
+        "base": [
+          281241
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-090"
+      ],
+      "sources": [
+        {
+          "productId": 281241,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-090",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-091": {
+      "cardId": "LTR-091",
+      "ids": {
+        "base": [
+          281242
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-091"
+      ],
+      "sources": [
+        {
+          "productId": 281242,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-091",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-092": {
+      "cardId": "LTR-092",
+      "ids": {
+        "base": [
+          281243
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-092"
+      ],
+      "sources": [
+        {
+          "productId": 281243,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-092",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "LTR-093": {
+      "cardId": "LTR-093",
+      "ids": {
+        "base": [
+          281244
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-093"
+      ],
+      "sources": [
+        {
+          "productId": 281244,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-093",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-094": {
+      "cardId": "LTR-094",
+      "ids": {
+        "base": [
+          281245
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-094"
+      ],
+      "sources": [
+        {
+          "productId": 281245,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-094",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-095": {
+      "cardId": "LTR-095",
+      "ids": {
+        "base": [
+          281246
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-095"
+      ],
+      "sources": [
+        {
+          "productId": 281246,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-095",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-096": {
+      "cardId": "LTR-096",
+      "ids": {
+        "base": [
+          281247
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-096"
+      ],
+      "sources": [
+        {
+          "productId": 281247,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-096",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-097": {
+      "cardId": "LTR-097",
+      "ids": {
+        "base": [
+          281248,
+          449393,
+          449398,
+          449403,
+          449408
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-097"
+      ],
+      "sources": [
+        {
+          "productId": 281248,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-097",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        },
+        {
+          "productId": 449393,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-097",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        },
+        {
+          "productId": 449398,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-097",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        },
+        {
+          "productId": 449403,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-097",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        },
+        {
+          "productId": 449408,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-097",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-098": {
+      "cardId": "LTR-098",
+      "ids": {
+        "base": [
+          281249
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-098"
+      ],
+      "sources": [
+        {
+          "productId": 281249,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-098",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-099": {
+      "cardId": "LTR-099",
+      "ids": {
+        "base": [
+          281250
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-099"
+      ],
+      "sources": [
+        {
+          "productId": 281250,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-099",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-100": {
+      "cardId": "LTR-100",
+      "ids": {
+        "base": [
+          281251
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-100"
+      ],
+      "sources": [
+        {
+          "productId": 281251,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-100",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-101": {
+      "cardId": "LTR-101",
+      "ids": {
+        "base": [
+          281252
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-101"
+      ],
+      "sources": [
+        {
+          "productId": 281252,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-101",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-102": {
+      "cardId": "LTR-102",
+      "ids": {
+        "base": [
+          281253
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-102"
+      ],
+      "sources": [
+        {
+          "productId": 281253,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-102",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        }
+      ]
+    },
+    "LTR-103": {
+      "cardId": "LTR-103",
+      "ids": {
+        "base": [
+          281254
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-103"
+      ],
+      "sources": [
+        {
+          "productId": 281254,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-103",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&perSite=30"
+        }
+      ]
+    },
+    "LTR-104": {
+      "cardId": "LTR-104",
+      "ids": {
+        "base": [
+          281255
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-104"
+      ],
+      "sources": [
+        {
+          "productId": 281255,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-104",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=2"
+        }
+      ]
+    },
+    "LTR-105": {
+      "cardId": "LTR-105",
+      "ids": {
+        "base": [
+          281256
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-105"
+      ],
+      "sources": [
+        {
+          "productId": 281256,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-105",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-106": {
+      "cardId": "LTR-106",
+      "ids": {
+        "base": [
+          281257
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-106"
+      ],
+      "sources": [
+        {
+          "productId": 281257,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-106",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-107": {
+      "cardId": "LTR-107",
+      "ids": {
+        "base": [
+          281258
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-107"
+      ],
+      "sources": [
+        {
+          "productId": 281258,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-107",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-108": {
+      "cardId": "LTR-108",
+      "ids": {
+        "base": [
+          281259
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-108"
+      ],
+      "sources": [
+        {
+          "productId": 281259,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-108",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-109": {
+      "cardId": "LTR-109",
+      "ids": {
+        "base": [
+          281260,
+          371593
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-109"
+      ],
+      "sources": [
+        {
+          "productId": 281260,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-109",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=3"
+        },
+        {
+          "productId": 371593,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-109",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-110": {
+      "cardId": "LTR-110",
+      "ids": {
+        "base": [
+          281261
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-110"
+      ],
+      "sources": [
+        {
+          "productId": 281261,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-110",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-111": {
+      "cardId": "LTR-111",
+      "ids": {
+        "base": [
+          281262
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-111"
+      ],
+      "sources": [
+        {
+          "productId": 281262,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-111",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=4"
+        }
+      ]
+    },
+    "LTR-112": {
+      "cardId": "LTR-112",
+      "ids": {
+        "base": [
+          281263
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-112"
+      ],
+      "sources": [
+        {
+          "productId": 281263,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-112",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-113": {
+      "cardId": "LTR-113",
+      "ids": {
+        "base": [
+          281264
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-113"
+      ],
+      "sources": [
+        {
+          "productId": 281264,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-113",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-114": {
+      "cardId": "LTR-114",
+      "ids": {
+        "base": [
+          281265
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-114"
+      ],
+      "sources": [
+        {
+          "productId": 281265,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-114",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    },
+    "LTR-115": {
+      "cardId": "LTR-115",
+      "ids": {
+        "base": [
+          281266
+        ],
+        "additional": []
+      },
+      "rawCardIds": [
+        "LTR-115"
+      ],
+      "sources": [
+        {
+          "productId": 281266,
+          "kind": "set",
+          "bucket": "base",
+          "rawCardId": "LTR-115",
+          "setSlug": "Legendary-Treasures",
+          "groupKey": "LTR",
+          "setName": "Legendary Treasures Singles",
+          "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures?mode=list&idRarity=0&site=5"
+        }
+      ]
+    }
+  }
+}
